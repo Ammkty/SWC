@@ -1,0 +1,362 @@
+PT J
+AU FORTIN, MC
+   HAMILL, AS
+AF FORTIN, MC
+   HAMILL, AS
+TI RYE RESIDUE GEOMETRY FOR FASTER CORN DEVELOPMENT
+SO AGRONOMY JOURNAL
+LA English
+DT Article
+ID conservation tillage; leaf-appearance; crop residues; soil; temperature; growth; mulch; protection; management
+AB Winter cereals used as cover crops in corn (Zea mays L.) production physically modify the soil-plant environment. Springtime killing of the cover crops with herbicides leaves surface residues either standing, flat, or a combination of the two at corn planting. This study was conducted to verify how standing rye (Secale cereale L.) residue affected soil temperature, soil water, and corn development compared with flat rye residue in a sandy loam in Harrow, ON, in 1990, 1991, and 1992. In the 3 yr, volumetric soil water content was similar in both treatments, but seed zone daily maximum temperatures were higher under standing than under flat residue. Corn development in standing residue was faster (2 to 3 d) compared with flat residue, except if seed zone maximum temperatures were regularly in the 28 to 32-degrees-C range for both treatments, such as in 1991. During vegetative stages in 1990 and 1992, plants in the standing residue were taller than plants in the flat residue. Most of these height differences were related to differences in development that were related to soil temperature. In 1991, however, which was a hot and dry year, phyllochron values indicate that developmental rates under both treatments were affected by a factor other than temperature, most likely by a lack of soil water. In 2 of 3 yr, when seed zone temperatures were often below the optimal range for corn development, standing rye residue resulted in faster plant development than flat rye residue due to a warmer seed zone. Residue treatments did Dot affect yield.
+C1 AGR CANADA,RES BRANCH,HARROW N0R 1G0,ONTARIO,CANADA.
+C3 Agriculture & Agri Food Canada
+RP FORTIN, MC (通讯作者)，AGR CANADA,RES BRANCH,CTR BIOL & LAND RESOURCE RES,6660 NW MARINE DR,VANCOUVER V6T 1X2,BC,CANADA.
+CR AASE JK, 1987, SOIL SCI SOC AM J, V51, P436, DOI 10.2136/sssaj1987.03615995005100020033x
+   Barnes JP, 1986, THE SCIENCE OF ALLELOPATHY, V0, P271
+   COELHO DT, 1980, AGRON J, V72, P503, DOI 10.2134/agronj1980.00021962007200030023x
+   Doren DMVan Jr, 1978, ASA AMERICAN SOCIETY OF AGRONOMY SPECIAL PUBLICATION, V0, P49
+   Felton WL, 1987, TILLAGE: NEW DIRECTIONS IN AUSTRALIAN AGRICULTURE, V0, P171
+   FORTIN MC, 1991, AGRON J, V83, P258, DOI 10.2134/agronj1991.00021962008300010058x
+   FORTIN MC, 1990, AGRON J, V82, P710, DOI 10.2134/agronj1990.00021962008200040013x
+   GRIFFITH DR, 1977, J SOIL WATER CONSERV, V32, P20
+   HAMILL AS, 1988, EXPERT COMMITTEE WEE, V2, P580
+   Kempthorne O, 1952, DESIGN ANAL EXPT, V0, P0
+   Kiniry JR, 1991, MODELING PLANT AND SOIL SYSTEMS., V0, P55
+   KLADIVKO EJ, 1986, SOIL TILL RES, V8, P277, DOI 10.1016/0167-1987(86)90340-5
+   LYLES L, 1981, T ASAE, V24, P405, DOI 10.13031/2013.34265
+   MOODY JE, 1963, SOIL SCI SOC AMER PROC, V27, P700
+   MORRISON JE, 1985, T ASAE, V28, P484
+   PIKUL JL, 1986, J SOIL WATER CONSERV, V41, P196
+   Ritchie JT, 1991, MODELING PLANT AND SOIL SYSTEMS., V0, P5
+   Skidmore EL, 1978, ASA AMERICAN SOCIETY OF AGRONOMY SPECIAL PUBLICATION, V0, P17
+   SMIKA DE, 1983, SOIL SCI SOC AM J, V47, P988, DOI 10.2136/sssaj1983.03615995004700050029x
+   TANAKA DL, 1986, SOIL SCI SOC AM J, V50, P434, DOI 10.2136/sssaj1986.03615995005000020036x
+   TOLLENAAR M, 1979, CROP SCI, V19, P363, DOI 10.2135/cropsci1979.0011183X001900030022x
+   UNGER PW, 1988, SOIL SCI SOC AM J, V52, P1777, DOI 10.2136/sssaj1988.03615995005200060047x
+   VAN WIJK WR, 1959, SOIL SCI SOC AMER PROC, V23, P428
+   WAGGER MG, 1988, ASA SPEC PUBL, V51, P0
+   WARRINGTON IJ, 1983, AGRON J, V75, P755, DOI 10.2134/agronj1983.00021962007500050009x
+NR 25
+TC 7
+Z9 9
+U1 0
+U2 4
+PU AMER SOC AGRONOMY
+PI MADISON
+PA 677 S SEGOE RD, MADISON, WI 53711
+SN 0002-1962
+EI 
+J9 AGRON J
+JI Agron. J.
+PD MAR-APR 15
+PY 1994
+VL 86
+IS 2
+BP 238
+EP 243
+DI 10.2134/agronj1994.00021962008600020005x
+PG 6
+WC Agronomy
+SC Agriculture
+GA NP047
+UT WOS:A1994NP04700005
+DA 2024-08-17
+ER
+
+PT J
+AU SHINNERS, KJ
+   NELSON, WS
+   WANG, R
+AF SHINNERS, KJ
+   NELSON, WS
+   WANG, R
+TI EFFECTS OF RESIDUE-FREE BAND-WIDTH ON SOIL-TEMPERATURE AND WATER-CONTENT
+SO TRANSACTIONS OF THE ASAE
+LA English
+DT Article
+DE RESIDUE-FREE BANDS; SOIL TEMPERATURE; SOIL WATER
+ID conservation tillage; corn emergence; growth; systems; yield
+AB In the Northern Corn Belt, corn crop emergence can be delayed due to slow soil warming and drying when residue is present above the seed furrow. This study was conducted to determine the effects of residue-free band width on soil temperature and water content. Residue-free bands of 0, 80, and 320 mm, as well as a 360-mm-wide residue-free furrow, were created in a field plot study. Also, residue-free bands of 0, 80, 160, and 320 mm were created in a controlled environment study. A thermocouple matrix was placed in the soil around the seed zone. Soil temperature was recorded on a hourly basis during the normal crop planting and emergence period. Soil water samples were also periodically taken during the time soil temperature was determined. In the field study, the width of the residue-free band had a significant effect on temperature in the seed zone and less effect on soil water content. Based on accumulated growing degree days, the theoretical time to corn emergence was modeled as a logarithmic function of band width. Initially, the gradient of this relationship was large, which indicated the accumulated growing degree days increased rapidly with increasing band width. But with band widths greater than 300 mm, the curve's slope became relatively flat. In the controlled environment study, soil temperature below residue was substantially less than that below bare soil. A 320-mm band width accumulated sufficient growing degree days for corn to emerge on the same day as a treatment with no residue cover. Residue condition (shredded and nonshredded) and residue density (6000, 8000, and 10 000 kg/ha) had no significant effect on soil temperature. Soil under residue, even at the bare soil/residue interface, was generally higher in soil water than that below the clear soil surface. A residue-free band width in the 200- to 300-mm range would produce sufficient accumulated growing degree days to result in corn crop emergence on the same day as a treatment with no residue cover.
+RP SHINNERS, KJ (通讯作者)，UNIV WISCONSIN,DEPT AGR ENGN,MADISON,WI 53706, USA.
+CR ALDARBY AM, 1987, SOIL SCI SOC AM J, V51, P768, DOI 10.2136/sssaj1987.03615995005100030035x
+   BARLOW EWR, 1977, AGRON J, V69, P95, DOI 10.2134/agronj1977.00021962006900010025x
+   DICKEY EC, 1984, T ASAE, V27, P1093
+   DIXON MA, 1986, ASAE861518 PAP, V0, P0
+   ERBACH DC, 1986, T ASAE, V29, P690
+   GILMORE EC, 1958, AGRON JOUR, V50, P611
+   GRIFFITH DR, 1973, AGRON J, V65, P321, DOI 10.2134/agronj1973.00021962006500020040x
+   GUPTA SC, 1988, SOIL SCI SOC AM J, V52, P1122, DOI 10.2136/sssaj1988.03615995005200040043x
+   JANKE J, 1985, ASAE851013 PAP, V0, P0
+   JOHNSON MD, 1985, SOIL SCI SOC AM J, V49, P1547, DOI 10.2136/sssaj1985.03615995004900060043x
+   KASPAR TC, 1989, CORN RESPONSE SEED R, V0, P0
+   LINDWALL CW, 1983, ASAE831024 PAP, V0, P0
+   MORRISON JE, 1983, J SOIL WATER CONSERV, V38, P231
+   RADKE JK, 1982, SOIL SCI SOC AM J, V46, P1067, DOI 10.2136/sssaj1982.03615995004600050036x
+   SCHNEIDER EC, 1985, SOIL SCI SOC AM J, V49, P415, DOI 10.2136/sssaj1985.03615995004900020029x
+   SWAN JB, 1987, AGRON J, V79, P53, DOI 10.2134/agronj1987.00021962007900010012x
+   WALKER JM, 1969, SOIL SCI SOC AM PRO, V33, P729, DOI 10.2136/sssaj1969.03615995003300050031x
+   WIERENGA PJ, 1982, ASA SPEC PUBL, V44, P69
+NR 19
+TC 31
+Z9 39
+U1 0
+U2 3
+PU AMER SOC AGRICULTURAL ENGINEERS
+PI ST JOSEPH
+PA 2950 NILES RD, ST JOSEPH, MI 49085-9659
+SN 0001-2351
+EI 
+J9 T ASAE
+JI Trans. ASAE
+PD JAN-FEB 15
+PY 1994
+VL 37
+IS 1
+BP 39
+EP 49
+DI 
+PG 11
+WC Agricultural Engineering
+SC Agriculture
+GA NE958
+UT WOS:A1994NE95800006
+DA 2024-08-17
+ER
+
+PT J
+AU WAGNERRIDDLE, C
+   GILLESPIE, TJ
+   SWANTON, CJ
+AF WAGNERRIDDLE, C
+   GILLESPIE, TJ
+   SWANTON, CJ
+TI RYE COVER CROP MANAGEMENT IMPACT ON SOIL-WATER CONTENT, SOIL-TEMPERATURE AND SOYBEAN GROWTH
+SO CANADIAN JOURNAL OF PLANT SCIENCE
+LA English
+DT Article
+DE RYE (SECALE CEREALE); COVER CROP; MULCH; SOYBEAN (GLYCINE MAX)
+ID no-tillage; conservation tillage; glycine-max; corn; moisture; fixation; systems; mulch
+AB The optimum killing time of a rye (Secale cereale) cover crop is an important management decision and can determine the yield of the subsequent soybean (Glycine max) crop. The objective of this research was to study a rye cover/soybean system. Soybeans were grown on sandy (Delhi) and loam (Woodstock) soils (1989/1990) with mulch on the soil surface obtained by killing rye approximately 1 and 2 wk before soybean planting. A conventional tillage treatment was used as a control. Soil water content, soil temperature, rye mulch amount and soybean growth were monitored over the season. Rye mulch amount for the late killing (LK) date was always larger than for the early killing (EK) date. LK decreased soil water content at soybean planting time at Delhi in 1989. The rye mulch produced with the LK increased soil water content early in the soybean growing season in 1990. A substantial decrease in the amount of mulch was observed during the growing season and resulted in little difference between mulch and no mulch soil water and temperature conditions later in the season. Extreme temperatures were more frequent under the bare soil, but these were limited to a small percentage of hours, and did not translate into differences in soybean development rates. Reduced soybean growth observed early in the season in one out of four location-years vanished as the season progressed. Number of seeds per pod and nodule number were increased due to rye mulch, but no difference in soybean yields were observed among treatments.
+C1 UNIV GUELPH, DEPT CROP SCI, GUELPH N1G 2W1, ON, CANADA.
+C3 University of Guelph
+RP UNIV GUELPH, DEPT LAND RESOURCE SCI, GUELPH N1G 2W1, ON, CANADA.
+CR AASE JK, 1987, SOIL SCI SOC AM J, V51, P436, DOI 10.2136/sssaj1987.03615995005100020033x
+   [Anonymous], 1985, SAS USERS GUIDE: STATISTICS, V0, P0
+   Berard RG, 1990, REMOTE SENSING REVIEWS, V5, P293
+   BLEVINS RL, 1971, AGRON J, V63, P593, DOI 10.2134/agronj1971.00021962006300040024x
+   BLEVINS RL, 1983, J SOIL WATER CONSERV, V38, P301
+   CAMPBELL RB, 1984, SOIL TILL RES, V4, P531, DOI 10.1016/0167-1987(84)90003-5
+   ECKERT D J, 1988, JOURNAL OF PRODUCTION AGRICULTURE, V1, P207
+   EDWARDS JH, 1988, AGRON J, V80, P76, DOI 10.2134/agronj1988.00021962008000010018x
+   ELMORE RW, 1987, AGRON J, V79, P114, DOI 10.2134/agronj1987.00021962007900010024x
+   Fehr WR, 1971, CROP SCIENCE, V11, P929, DOI 10.2135/cropsci1971.0011183X001100060051x
+   Griffith DR, 1986, NO TILLAGE AND SURFACE-TILLAGE AGRICULTURE. THE TILLAGE REVOLUTION, V0, P19
+   GUPTA SC, 1983, SOIL SCI SOC AM J, V47, P1212, DOI 10.2136/sssaj1983.03615995004700060030x
+   HOVERMALE CH, 1979, AGRON J, V71, P644, DOI 10.2134/agronj1979.00021962007100040030x
+   JONES JW, 1991, AGRON MONOGR, V31, P71
+   KADHEM FA, 1985, AGRON J, V77, P299, DOI 10.2134/agronj1985.00021962007700020027x
+   LAFLEN JM, 1981, J SOIL WATER CONSERV, V36, P341
+   LIEBL R, 1992, WEED TECHNOL, V6, P838, DOI 10.1017/S0890037X00036356
+   LINDEMANN WC, 1979, SOIL SCI SOC AM J, V43, P1134, DOI 10.2136/sssaj1979.03615995004300060014x
+   LINDEMANN WC, 1982, AGRON J, V74, P1067, DOI 10.2134/agronj1982.00021962007400060032x
+   MOORE MJ, 1994, IN PRESS WEED TECHNO, V0, P0
+   MOSCHLER WW, 1967, AGRON J, V59, P547, DOI 10.2134/agronj1967.00021962005900060018x
+   MUNAWAR A, 1990, AGRON J, V82, P773, DOI 10.2134/agronj1990.00021962008200040024x
+   NESMITH DS, 1987, AGRON J, V79, P570, DOI 10.2134/agronj1987.00021962007900030034x
+   PHILLIPS RE, 1980, SCIENCE, V208, P1108, DOI 10.1126/science.208.4448.1108
+   RAIMBAULT BA, 1990, AGRON J, V82, P1088, DOI 10.2134/agronj1990.00021962008200060012x
+   SINCLAIR TR, 1985, AGRON J, V77, P685, DOI 10.2134/agronj1985.00021962007700050006x
+   TOLLNER EW, 1984, J SOIL WATER CONSERV, V39, P73
+   TOPP GC, 1985, SOIL SCI SOC AM J, V49, P19, DOI 10.2136/sssaj1985.03615995004900010003x
+   VANWESENBEECK IJ, 1988, SOIL SCI SOC AM J, V52, P363, DOI 10.2136/sssaj1988.03615995005200020011x
+   WAGNERRIDDLE C, 1992, THESIS U GUELPH GUEL, V0, P0
+   WALL GJ, 1991, CAN J SOIL SCI, V71, P137, DOI 10.4141/cjss91-013
+   WEBBER CL, 1987, AGRON J, V79, P952, DOI 10.2134/agronj1987.00021962007900060002x
+   WESTON LA, 1990, WEED SCI, V38, P166, DOI 10.1017/S0043174500056320
+   ZADOKS JC, 1974, WEED RES, V14, P415, DOI 10.1111/j.1365-3180.1974.tb01084.x
+   ZHAI R, 1990, SOIL SCI SOC AM J, V54, P186, DOI 10.2136/sssaj1990.03615995005400010029x
+NR 35
+TC 31
+Z9 44
+U1 0
+U2 25
+PU CANADIAN SCIENCE PUBLISHING
+PI OTTAWA
+PA 65 AURIGA DR, SUITE 203, OTTAWA, ON K2E 7W6, CANADA
+SN 0008-4220
+EI 1918-1833
+J9 CAN J PLANT SCI
+JI Can. J. Plant Sci.
+PD JUL 15
+PY 1994
+VL 74
+IS 3
+BP 485
+EP 495
+DI 10.4141/cjps94-089
+PG 11
+WC Agronomy; Plant Sciences
+SC Agriculture; Plant Sciences
+GA PD746
+UT WOS:A1994PD74600012
+DA 2024-08-17
+ER
+
+PT J
+AU LAWRENCE, PA
+   RADFORD, BJ
+   THOMAS, GA
+   SINCLAIR, DP
+   KEY, AJ
+AF LAWRENCE, PA
+   RADFORD, BJ
+   THOMAS, GA
+   SINCLAIR, DP
+   KEY, AJ
+TI EFFECT OF TILLAGE PRACTICES ON WHEAT PERFORMANCE IN A SEMIARID ENVIRONMENT
+SO SOIL & TILLAGE RESEARCH
+LA English
+DT Article
+ID crop residue management; conservation tillage; fallowing practices; darling-downs; soil; water; queensland; sorghum; movement; balance
+AB Sodosol soils are at risk of degradation under existing fallow management practices involving tillage. Topsoil erosion exposes horizons with reduced infiltration and low concentrations of plant nutrients. Conservation management systems are needed on these soils to avoid a reversion to low intensity grazing. This paper reports on a 4 year study (1986-1989) of the effects of tillage practices on profile soil water and crop yield in a Sodosol (Typic Natrustalf ) in central Queensland, Australia. The tillage treatments were: zero till fallow (weed control by herbicides), reduced till fallow (chisel plough/scarifier or herbicides) and conventional till fallow (chisel plough/scarifier) in two linked experiments. In the first experiment, wheat was grown in three contour bays (approximately 1 ha), and in the second, wheat was grown in replicated plots (30 m x 6 m) to allow statistical comparisons. Zero till provided consistent advantages in grain yield in all 4 years compared with conventional till. Zero till also outyielded reduced till as well as conventional till in the plot experiment. The average yield increase of 0.5 t ha-1 in zero till compared with conventional till was associated with greater water use and increased water use efficiency. Tillage practice caused only marginal differences in the available water content in the root zone (0-100 cm) at sowing; zero and reduced till contained, on average, an additional 4 and 8 mm, respectively, compared with conventional till. The tillage treatments had no effect on plant available water capacity. Some of the soil water that accumulated during the fallow drained beyond the root zone in all treatments and was not available to the following wheat crop. At the conclusion of the experiment, soil water accumulation in the 100-180 cm soil layer was 86 mm in zero till, 39 mm in reduced till and 40 mm in conventional till. Results indicate that zero till can be a more productive wheat farming practice than conventional mechanical tillage. The increase in water storage below the root zone of the wheat crop shows that there may be benefit in using a deeper-rooting crop or pasture species in rotation with wheat, particularly after zero till fallows.
+C1 QUEENSLAND WHEAT RES INST, TOOWOOMBA, QLD 4350, AUSTRALIA.
+RP QUEENSLAND DEPT PRIMARY IND, POB 201, BILOELA, QLD 4715, AUSTRALIA.
+CR [Anonymous], 1987, TILLAGE NEW DIRECTIO, V0, P0
+   BROUWER J, 1988, AGR WATER MANAGE, V14, P287, DOI 10.1016/0378-3774(88)90082-0
+   CHAN KY, 1989, SOIL TILL RES, V14, P301, DOI 10.1016/0167-1987(89)90051-2
+   EHLERS W, 1975, SOIL SCI, V119, P242, DOI 10.1097/00010694-197503000-00010
+   FENSTER CR, 1979, NEBR AGR EXP STN RES, V289, P0
+   FREEBAIRN DM, 1986, AUST J SOIL RES, V24, P135, DOI 10.1071/SR9860135
+   FREEBAIRN DM, 1990, 1990 P INT S CLIM RI, V0, P0
+   GARDNER EA, 1984, PROPERTIES UTILISATI, V0, P0
+   HAINES PJ, 1990, AUST J EXP AGR, V30, P365, DOI 10.1071/EA9900365
+   HOLLAND JF, 1989, AUST J EXP AGR, V29, P843, DOI 10.1071/EA9890843
+   HOLT JA, 1993, AUST J SOIL RES, V31, P311, DOI 10.1071/SR9930311
+   ISBELL RF, 1992, CSIRO11992 TECHN REP, V0, P0
+   Lal Rattan, 1989, ADV AGRON, V42, P0
+   LOCH RJ, 1984, AUST J SOIL RES, V22, P91, DOI 10.1071/SR9840091
+   MARLEY JM, 1989, AUST J EXP AGR, V29, P807, DOI 10.1071/EA9890807
+   NORTHCOTE KH, 1977, RELLIM TECHNICAL PUB, V0, P0
+   Packer IJ, 1984, JOURNAL OF SOIL CONSERVATION, V0, P0
+   Phillips SH, 1973, NO TILLAGE FARMING, V0, P0
+   RADFORD BJ, 1992, SOIL TILL RES, V22, P73, DOI 10.1016/0167-1987(92)90023-5
+   RAWSON J E, 1981, QUEENSLAND JOURNAL OF AGRICULTURAL AND ANIMAL SCIENCES, V38, P195
+   ROBERTSON LN, 1990, AUSTR I AGR SCI OCCA, V51, P56
+   ROVIRA AD, 1987, AUST J AGR RES, V38, P829, DOI 10.1071/AR9870829
+   SALLAWAY MM, 1988, SOIL TILL RES, V12, P347, DOI 10.1016/0167-1987(88)90045-1
+   Stevens JGJ, 1965, QUEENSLAND AGRICULTURAL JOURNAL, V91, P40
+   THOMAS GA, 1990, SOIL TILL RES, V18, P389, DOI 10.1016/0167-1987(90)90122-T
+   THORBURN PJ, 1991, J HYDROL, V124, P43, DOI 10.1016/0022-1694(91)90005-3
+   UNGER PW, 1991, SOIL TILL RES, V19, P363, DOI 10.1016/0167-1987(91)90113-C
+   UNGER PW, 1991, SOIL TILL RES, V20, P219, DOI 10.1016/0167-1987(91)90041-U
+   WEBB AA, 1982, J AGR ANIM SCI, V39, P109
+   1975, 1900, V436, V0, P0
+NR 30
+TC 44
+Z9 46
+U1 0
+U2 15
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-1987
+EI 1879-3444
+J9 SOIL TILL RES
+JI Soil Tillage Res.
+PD JAN 15
+PY 1994
+VL 28
+IS 3-4
+BP 347
+EP 364
+DI 10.1016/0167-1987(94)90140-6
+PG 18
+WC Soil Science
+SC Agriculture
+GA MU420
+UT WOS:A1994MU42000011
+DA 2024-08-17
+ER
+
+PT J
+AU WICKS, GA
+   CRUTCHFIELD, DA
+   BURNSIDE, OC
+AF WICKS, GA
+   CRUTCHFIELD, DA
+   BURNSIDE, OC
+TI INFLUENCE OF WHEAT (TRITICUM-AESTIVUM) STRAW MULCH AND METOLACHLOR ON CORN (ZEA-MAYS) GROWTH AND YIELD
+SO WEED SCIENCE
+LA English
+DT Article
+DE CONSERVATION TILLAGE; ECOFALLOW; ECOFARMING; HERBICIDE INJURY; NO-TILLAGE; PHYTOTOXICITY
+ID root development; maize; injury; cga-154281; system; soil
+AB The presence of wheat straw mulch in no-tillage systems can increase corn yields in the central Great Plains, but information is needed on the optimal mulch level and the toxicity of metolachlor on corn growth. Research was conducted to determine the effect or winter wheat straw mulch levels of 0, 1.7, 3.4, 5.1, and 6.8 t ha-1 and metolachlor rates of 0, 0.5, 1.0, and 1.5X-rates on corn growth and yield in a winter wheat-ecofallow-corn-fallow rotation at three locations across Nebraska. Response of corn to different mulch levels and metolachlor rates varied with climate and location. In general, early corn growth was retarded by increasing amounts of mulch due to reduced soil temperatures, but after tasseling corn grew taller under increasing mulch levels because of increased soil moisture. Soil water content, kernel moisture at harvest, stover dry matter, total dry matter, ears per plant, and kernel weight increased with increasing mulch level. Corn grain yield reached a maximum at a mulch level of 5.1 t ha-1. Kernel weight, kernel number, and grain yield increased with higher mulch levels and 0.5 and 1.0X metolachlor rates as weed competition was reduced, but decreased at the 1.5X-rate of metolachlor due to corn injury. Lack of sufficient growing degree-days to compensate for lower soil temperatures or corn injury reduced corn yields at the higher mulch levels and 1.5X-rate of metolachlor in west-central and western Nebraska. From a practical standpoint, a mulch level of 3.4 to 5.1 t ha-1 and a metolachlor rate near the X-rate should increase corn yield (14 to 15%) over unmulched corn in the central Great Plains.
+C1 UNIV MINNESOTA, ST PAUL, MN 55108 USA.
+C3 University of Minnesota System; University of Minnesota Twin Cities
+RP UNIV NEBRASKA, WEST CENT RES & EXT CTR, N PLATTE, NE 69101 USA.
+CR ALDARBY AM, 1986, AGRON J, V78, P901, DOI 10.2134/agronj1986.00021962007800050031x
+   BANKS PA, 1983, P SO WEED SCI SOC, V36, P394
+   BATCHELDER AR, 1972, AGRON J, V64, P648, DOI 10.2134/agronj1972.00021962006400050030x
+   BRAKKE JP, 1983, CROP SCI, V23, P868, DOI 10.2135/cropsci1983.0011183X002300050012x
+   BURNSIDE OC, 1980, WEED SCI, V28, P46, DOI 10.1017/S0043174500027752
+   CHAUDHARY MR, 1974, AGRON J, V66, P350, DOI 10.2134/agronj1974.00021962006600030004x
+   CLAASSEN MM, 1970, AGRON J, V62, P649, DOI 10.2134/agronj1970.00021962006200050031x
+   COTTINGHAM CK, 1992, WEED SCI, V40, P359, DOI 10.1017/S0043174500051742
+   COTTINGHAM CK, 1991, WSSA ABSTR, V31, P58
+   CRUTCHFIELD DA, 1986, WEED SCI, V34, P110, DOI 10.1017/S0043174500026564
+   DENMEAD OT, 1960, AGRON J, V52, P272, DOI 10.2134/agronj1960.00021962005200050010x
+   DOUPNIK B, 1980, PLANT DIS, V64, P31, DOI 10.1094/PD-64-31
+   FORTIN MC, 1990, AGRON J, V82, P710, DOI 10.2134/agronj1990.00021962008200040013x
+   FOY CL, 1991, WEED TECHNOL, V5, P325, DOI 10.1017/S0890037X00028189
+   FREY NM, 1981, CROP SCI, V21, P118, DOI 10.2135/cropsci1981.0011183X002100010032x
+   FURRER JO, 1981, 1981 GUIDE HERBICIDE, V0, P81
+   GREB BW, 1970, J SOIL WATER CONSERV, V25, P58
+   GREB BW, 1967, SOIL SCI SOC AM PRO, V31, P556, DOI 10.2136/sssaj1967.03615995003100040034x
+   Griffith DR, 1992, CONSERVATIN TILLAGE SYSTEMS AND MANAGEMENT: CROP RESIDUE MANAGEMENT WITH NO-TILL, V0, P0
+   HOEFER RH, 1981, AGRON J, V73, P1066, DOI 10.2134/agronj1981.00021962007300060038x
+   JOHNSON RR, 1981, AGRON J, V73, P859, DOI 10.2134/agronj1981.00021962007300050026x
+   LAL R, 1978, FIELD CROP RES, V1, P127, DOI 10.1016/0378-4290(78)90016-3
+   MILLER MF, 1925, MISSOURI AGR EXP STA, V76, P0
+   ONDERDONK JJ, 1973, SOIL SCI SOC AM J, V37, P904, DOI 10.2136/sssaj1973.03615995003700060031x
+   PHILLIPS RE, 1980, SCIENCE, V208, P1108, DOI 10.1126/science.208.4448.1108
+   PRINE GM, 1971, CROP SCI, V11, P782, DOI 10.2135/cropsci1971.0011183X001100060003x
+   ROWE L, 1991, WEED SCI, V39, P78, DOI 10.1017/S004317450005791X
+   ROWE L, 1990, WEED TECHNOL, V4, P904, DOI 10.1017/S0890037X00026634
+   THOMPSON LM, 1966, ADV CORN PRODUCTION, V0, P143
+   TOLLENAAR M, 1978, AGRON J, V70, P219, DOI 10.2134/agronj1978.00021962007000020003x
+   TRIPLETT GB, 1968, AGRON J, V60, P236, DOI 10.2134/agronj1968.00021962006000020028x
+   UNGER PW, 1978, SOIL SCI SOC AM J, V42, P486, DOI 10.2136/sssaj1978.03615995004200030023x
+   UNGER PW, 1981, SOIL SCI SOC AM J, V45, P129, DOI 10.2136/sssaj1981.03615995004500010028x
+   VIGER PR, 1986, P N CENT WEED CONTR, V41, P7
+   WHITFIELD CJ, 1962, ARS4168 USDA, V0, P0
+   Wicks GA, 1976, WEEDS TODAY, V7, P20
+   WILLIS WO, 1957, AGRON JOUR, V49, P323
+NR 37
+TC 74
+Z9 99
+U1 0
+U2 13
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0043-1745
+EI 1550-2759
+J9 WEED SCI
+JI Weed Sci.
+PD JAN-MAR 15
+PY 1994
+VL 42
+IS 1
+BP 141
+EP 147
+DI 10.1017/S0043174500084307
+PG 7
+WC Agronomy; Plant Sciences
+SC Agriculture; Plant Sciences
+GA NJ442
+UT WOS:A1994NJ44200024
+DA 2024-08-17
+ER
+

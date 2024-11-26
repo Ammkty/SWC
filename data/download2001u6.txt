@@ -1,0 +1,495 @@
+PT J
+AU Lampurlanés, J
+   Angás, P
+   Cantero-Martínez, C
+AF Lampurlanés, J
+   Angás, P
+   Cantero-Martínez, C
+TI Root growth, soil water content and yield of barley under different tillage systems on two soils in semiarid conditions
+SO FIELD CROPS RESEARCH
+LA English
+DT Article
+DE root length density; soil water; conservation tillage; barley; semiarid
+ID conservation tillage; spring wheat; spain
+AB An experiment was conducted on two soils in a semiarid area in the Spain's Ebro valley. Soil A was a Fluventic Xerochrept of 120 cm depth and Soil was a Lithic Xeric Torriorthent of 30 cm depth. Three tillage systems were compared in Soil A: subsoiler tillage, minimum tillage and no-tillage, and two (minimum tillage and no-tillage) in Soil B. The experiment was repeated for 5 years on Soil A and 3 years on Soil B. Root length density, volumetric water content and dry matter were measured at important developmental stages. Yield was determined at harvest. In Soil A, root length density and volumetric water content were significantly greater for no-tillage than for subsoiler or minimum tillage (up to 1.4 cm cm(-3) and 5%, respectively), mainly in the upper part of the soil profile. At lower depths, differences as great as 0.8 cm cm(-3) and 6% were also found. Mean yield (4 years) was similar between no-tillage (3608 kg ha(-1)) and minimum tillage (3508 kg ha(-1)), and significantly smaller for subsoiler tillage (3371 kg ha(-1)). In Soil B, no differences were observed between tillage systems for volumetric water content. Significant interactions between tillage and year were found for root length density, dry matter and yield. Mean yield (3 years) was not significantly different for minimum tillage (1806 kg ha(-1)) and no-tillage (1867 kg ha(-1)). The results in Soil A showed that surface conditions are of major importance in the water content of the soil and determined the differences among tillage systems. No-tillage favoured greater and deeper water accumulation in the soil profile and greater root growth. This makes this system potentially better for years of low rainfall. In Soil B no tillage system proved to be better because of the low water-holding capacity of this soil (56 mm). (C) 2001 Elsevier Science B.V. All rights reserved.
+C1 Univ Lleida, IRTA, Dept Prod Vegetal & Ciencia Forestal, Lleida, Spain.
+C3 Universitat de Lleida; IRTA
+EM carlos.cantero@pvcf.udl.es
+CR AGENBAG GA, 1991, SOIL TILL RES, V21, P97, DOI 10.1016/0167-1987(91)90008-L
+   [Anonymous], 1984, STAT PROCEDURES AGR, V0, P0
+   BLEVINS RL, 1993, ADV AGRON, V51, P33, DOI 10.1016/S0065-2113(08)60590-8
+   CANNELL RQ, 1994, SOIL TILL RES, V30, P245, DOI 10.1016/0167-1987(94)90007-8
+   Godwin RJ, 1990, AGR ENG DEV TILLAGE, V0, P0
+   Hernanz JL, 1988, P 11 INT C INT SOIL, V2, P691
+   Klepper B, 1990, AGRONOMY, V0, P281
+   Lal Rattan, 1989, ADV AGRON, V42, P0
+   LAMPURLANES J, 1994, INFLUENCIA SISTEMA L, V0, P0
+   LAMPURLANES J, 1996, AGR CONSERVACION REN, V0, P167
+   LANCASHIRE PD, 1991, ANN APPL BIOL, V119, P561, DOI 10.1111/j.1744-7348.1991.tb04895.x
+   Littell RC, 1991, SAS SYSTEM FOR LINEAR MODELS, VThird, P0
+   Lopez MV, 1997, SOIL TILL RES, V44, P35, DOI 10.1016/S0167-1987(97)00030-5
+   McCALLA TM, 1961, ADVANCES IN AGRON, V13, P125, DOI 10.1016/S0065-2113(08)60958-X
+   MCDONALD GK, 1987, IMPROVEMENT MANAGEME, V0, P421
+   Merrill SD, 1996, SOIL SCI SOC AM J, V60, P575, DOI 10.2136/sssaj1996.03615995006000020034x
+   Montgomery DC, 2005, DESIGN AND ANALYSIS OF EXPERIMENTS, V6th, P0
+   NEWMAN EI, 1966, J APPL ECOL, V3, P139, DOI 10.2307/2401670
+   Papadakis J, 1966, CLIMATES WORLD THEIR, V0, P0
+   Pearcy RW, 1989, PLANT PHYSL ECOLOGY, V0, P0
+   PELEGRIN F, 1990, SOIL TILL RES, V16, P345, DOI 10.1016/0167-1987(90)90070-T
+   Reicosky DC, 1983, LIMITATIONS TO EFFICIENT WATER USE IN CROP PRODUCTION, V0, P471
+   STEEL RGD, 1980, PRINCIPLES PROCEDURE, V0, P0
+   Taylor HM, 1983, LIMITATIONS TO EFFICIENT WATER USE IN CROP PRODUCTION, V0, P87
+   Unger PW, 1980, ADVANCES IN AGRONOMY, V33, P1, DOI 10.1016/S0065-2113(08)60163-7
+   Unger PW, 1983, LIMITATIONS TO EFFICIENT WATER USE IN CROP PRODUCTION, V0, P419
+   VILLAR JM, 1989, EVAPOTRANSPIRACION P, V0, P0
+   WARD KJ, 1978, AGRON J, V70, P675, DOI 10.2134/agronj1978.00021962007000040035x
+NR 29
+TC 146
+Z9 186
+U1 0
+U2 63
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-4290
+EI 1872-6852
+J9 FIELD CROP RES
+JI Field Crop. Res.
+PD JAN 15
+PY 2001
+VL 69
+IS 1
+BP 27
+EP 40
+DI 10.1016/S0378-4290(00)00130-1
+PG 14
+WC Agronomy
+SC Agriculture
+GA 385VF
+UT WOS:000166024900003
+DA 2024-08-17
+ER
+
+PT J
+AU Payne, WA
+   Rasmussen, PE
+   Chen, CC
+   Ramig, RE
+AF Payne, WA
+   Rasmussen, PE
+   Chen, CC
+   Ramig, RE
+TI Assessing simple wheat and pea models using data from a long-term tillage experiment
+SO AGRONOMY JOURNAL
+LA English
+DT Article
+ID yield; growth
+AB Fresh green pea (Pisum sativum L.) and winter wheat (Triticum aestivum L.) are grown in rotation with intensive tillage in northeast Oregon. We evaluated simple yield models for both crops using data from a long-term experiment that included four tillage treatments and soil water content measurements. Yields were affected by tillage for some of the 21 yr of study, but there was no consistent ranking among tillage treatments from year to year and no effect when data were pooled. Standardizing pea yields to a tenderometer reading of 100 failed to improve detection of treatment effect. Tillage affected wheat water use (ET) for three of the study years and water use efficiency (WUEET) for one. Conservation tillage reduced pea ET for seven of the study years. For combined years, however, there was no tillage effect on yield, ET, or WUEET of either crop. Wheat yield was better predicted from ET (R-2 = 0.41) than by the Leggett model, which uses March soil water storage and spring rain (R-2 = 0.12). Yield prediction was improved when ET was divided by seasonal mean daily water vapor pressure deficit ((VPD) over bar) (R-2 = 0.53). Multiple-regression equations using monthly rain predicted wheat yield well (R-2 = 0.62), but coefficients differed among data sets. A model using monthly rain and heat degree day sum (HDDS) predicted pea yield much better (R-2 = 0.65) than ET-based equations (R-2 = 0.30), suggesting that pea yield is limited by factors other than water. For wheat, ET/ (VPD) over bar -based models should replace the Leggett model. However, for pea, multiple regression models predict yield better than ET-based models.
+C1 Texas A&M Univ Syst, Texas Agr Expt Stn, Bushland, TX 79012 USA.
+   ARS, USDA, Columbia Plateau Conserv Res Cent, Pendleton, OR 97801 USA.
+   Oregon State Univ, Columbia Basin Agr Res Cent, Pendleton, OR 97801 USA.
+C3 Texas A&M University System; Texas A&M University College Station; Texas A&M AgriLife Research; United States Department of Agriculture (USDA); Oregon State University
+RP Texas A&M Univ Syst, Texas Agr Expt Stn, 2301 Exp Stn Rd, Bushland, TX 79012 USA.
+EM w-payne@tamu.edu
+CR ALLMARAS RR, 1987, AGRON J, V79, P439, DOI 10.2134/agronj1987.00021962007900030007x
+   Campbell GS, 1977, INTRO ENV BIOPHYSICS, V0, P0
+   de Wit CT, 1958, VERSL. LANDBOUWK. ONDERZ, V64, P0
+   FARAH SM, 1988, WORLD CROPS COOL SEA, V0, P271
+   GREGORY PJ, 1984, OUTLOOK AGR, V13, P208, DOI 10.1177/003072708401300407
+   HAMMEL JE, 1995, AGRON J, V87, P16, DOI 10.2134/agronj1995.00021962008700010004x
+   Hanks RJ, 1983, LIMITATIONS TO EFFICIENT WATER USE IN CROP PRODUCTION, V0, P393
+   HOAG D, 1984, WASHINGTON STATE U C, V0, P0
+   JENSEN ME, 1965, 4 USDA TEX AGR EXP S, V0, P0
+   KRAFT JM, 1991, WASHINGTON STATE U C, V0, P0
+   LEGGETT GE, 1959, WASHINGTON AGR EXP S, V609, P0
+   Olivier FC, 1998, FIELD CROP RES, V56, P301, DOI 10.1016/S0378-4290(97)00097-X
+   Payne WA, 2000, AGRON J, V92, P933, DOI 10.2134/agronj2000.925933x
+   Payne WA, 1997, AGRON J, V89, P481, DOI 10.2134/agronj1997.00021962008900030019x
+   PAYNE WA, 1998, 977 OR STAT U AGR EX, V0, P31
+   PIKUL JL, 1993, SOIL TILL RES, V26, P151, DOI 10.1016/0167-1987(93)90041-M
+   PIKUL JL, 1988, THESIS OREGON STATE, V0, P0
+   PUMPHREY FV, 1979, J AM SOC HORTIC SCI, V104, P548
+   PUMPHREY FV, 1975, J AM SOC HORTIC SCI, V100, P507
+   RAMIG RE, 1977, 485 OR STAT U AGR EX, V0, P6
+   Rickman RW, 1996, AGRON J, V88, P176, DOI 10.2134/agronj1996.00021962008800020010x
+   Ritchie JT, 1983, LIMITATIONS TO EFFICIENT WATER USE IN CROP PRODUCTION, V0, P29
+   Stewart BA, 1989, SOIL, V0, P0
+   Tanner CB, 1983, LIMITATIONS TO EFFICIENT WATER USE IN CROP PRODUCTION, V0, P1
+   VIETS FRANK G, 1962, ADVANCES AGRON, V14, P223, DOI 10.1016/S0065-2113(08)60439-3
+   YOUNG FL, 1994, AGRON J, V86, P147, DOI 10.2134/agronj1994.00021962008600010027x
+   Zuzel JF, 1994, TRENDS HYDROL, V1, P209
+NR 27
+TC 21
+Z9 24
+U1 0
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0002-1962
+EI 1435-0645
+J9 AGRON J
+JI Agron. J.
+PD JAN-FEB 15
+PY 2001
+VL 93
+IS 1
+BP 250
+EP 260
+DI 10.2134/agronj2001.931250x
+PG 11
+WC Agronomy
+SC Agriculture
+GA 409JG
+UT WOS:000167380100038
+DA 2024-08-17
+ER
+
+PT J
+AU Kosutic, S
+   Husnjak, S
+   Filipovic, D
+   Bogunovic, M
+AF Kosutic, S
+   Husnjak, S
+   Filipovic, D
+   Bogunovic, M
+TI Influence of different tillage systems on soil water availability in the Ap-horizon of an Albic Luvisol and yield in north-west Slavonia, Croatia
+SO BODENKULTUR
+LA English
+DT Article
+DE soil water; conventional tillage; unconventional tillage systems; winter wheat; soybean
+ID winter-wheat; conventional tillage; conservation tillage; zero tillage; no-tillage; barley; maize; corn
+AB An experiment with five different tillage systems and their influence on soil water availability in the Ap-horizon (silty loam-Albic Luvisol) was carried out in the period of 1997-2000 in north-west Slavonia. The compared tillage systems were: 1. conventional tillage (CT), 2. reduced tillage (RT), 3. conservation tillage I (CP), 4. conservation tillage II (CM), 5. no-tillage system (NT). The crop rotation was winter wheat (Triticum aestivum L.)-soybean (Glycine max L.)-winter wheat. The gravimetric soil water content was measured at 0-5 cm, 15-20 cm and 30-35 cm layers and the percentage of available water capacity was calculated. The gravimetric soil water content at all three monitored layers so as the available soil water during all experimental seasons were the greatest under the NT system and the lowest under the CT system. The most frequent trend of the gravimetric soil water content and the available soil water was NT > CM > CP > RT > CT The highest yield in all the experimental years was achieved under the CM tillage system, while the lowest yield was achieved under the RT system.
+C1 Fac Agron, Dept Agr Engn, Zagreb 10000, Croatia.
+   Fac Agron, Dept Soil Sci, Zagreb 10000, Croatia.
+C3 University of Zagreb; University of Zagreb
+RP Kosutic, S (通讯作者)，Fac Agron, Dept Agr Engn, Svetosimunska 25, Zagreb 10000, Croatia.
+CR Arshad MA, 1997, SOIL TILL RES, V43, P263, DOI 10.1016/S0167-1987(97)00017-2
+   Ball-Coelho BR, 1998, SOIL TILL RES, V45, P237, DOI 10.1016/S0167-1987(97)00086-X
+   BLEVINS RL, 1971, AGRON J, V63, P593, DOI 10.2134/agronj1971.00021962006300040024x
+   Borin M, 1995, J AGR ENG RES, V62, P229, DOI 10.1006/jaer.1995.1081
+   GAUER E, 1982, CAN J SOIL SCI, V62, P311, DOI 10.4141/cjss82-035
+   GREVERS MC, 1986, SOIL TILL RES, V8, P265, DOI 10.1016/0167-1987(86)90339-9
+   HEER WF, 1989, SOIL TILL RES, V14, P185, DOI 10.1016/0167-1987(89)90031-7
+   Hussain I, 1999, SOIL TILL RES, V52, P37, DOI 10.1016/S0167-1987(99)00054-9
+   KLADIVKO EJ, 1986, SOIL TILL RES, V8, P277, DOI 10.1016/0167-1987(86)90340-5
+   Larney FJ, 1995, SOIL TILL RES, V36, P111, DOI 10.1016/0167-1987(95)00505-6
+   Lyon DJ, 1998, SOIL TILL RES, V49, P19, DOI 10.1016/S0167-1987(98)00151-2
+   Moreno F, 1997, SOIL TILL RES, V41, P25, DOI 10.1016/S0167-1987(96)01083-5
+   Rasmussen KJ, 1999, SOIL TILL RES, V53, P3, DOI 10.1016/S0167-1987(99)00072-0
+   RYDBERG T, 1990, SOIL TILL RES, V17, P303, DOI 10.1016/0167-1987(90)90043-D
+   SARTORI L, 1994, P 1 EC WORKSH EXP AP, V0, P119
+   Singh B, 1998, SOIL TILL RES, V45, P59, DOI 10.1016/S0167-1987(97)00067-6
+NR 17
+TC 2
+Z9 3
+U1 0
+U2 8
+PU W U V-UNIVERSITATSVERLAG- VIENNA UNIV PRESS
+PI VIENNA
+PA BERGGASSE 5, A-1090 VIENNA, AUSTRIA
+SN 0006-5471
+EI 
+J9 BODENKULTUR
+JI Bodenkultur
+PD NOV 15
+PY 2001
+VL 52
+IS 3
+BP 215
+EP 223
+DI 
+PG 9
+WC Agriculture, Multidisciplinary
+SC Agriculture
+GA 508EY
+UT WOS:000173076800003
+DA 2024-08-17
+ER
+
+PT J
+AU Kladivko, EJ
+AF Kladivko, EJ
+TI Tillage systems and soil ecology
+SO SOIL & TILLAGE RESEARCH
+LA English
+DT Article; Proceedings Paper
+DE no-till; tillage; soil fauna; microflora; biodiversity
+ID organic-matter; earthworm populations; conservation-tillage; cultivation; biodiversity; agriculture; arthropods; residues; impacts; carbon
+AB Tillage systems affect the soil physical and chemical environment An which soil organisms live, thereby affecting soil organisms. Tillage practices change soil water content, temperature, aeration, and the degree of mixing of crop residues within the soil matrix. these changes in the physical environment and the food supply of the organisms affect different groups of organisms in different ways. One of the challenges of research in soil ecology is to understand the impacts of management on the complex interactions of all organisms at the soil community level. In addition to the response of organisms tc, soil manipulations, agriculturalists are interested in the actions of soil organisms on the physical and chemical environment in the soil. Soil organisms perform important functions in soil, including structure improvement, nutrient cycling, and organic matter decomposition. This paper discusses the effects of tillage practices on soil organism populations, functions, and interactions. Although there is a wide range of responses among different species, most organism groups have greater abundance or biomass in no-till than in conventional tillage systems. Larger organisms in general appear to be more sensitive to tillage operations than smaller organisms, due to the physical disruption of the soil, burial of crop residue, and the change in soil water and temperature resulting from residue incorporation. Variations in responses found in different studies reflect different magnitudes of tillage disruption and residue burial, timing of the tillage operations, timing of the measurements, and different soil, crop, and climate combinations. The paper concludes with a discussion of challenges for tillage researchers. (C) 2001 Elsevier Science B.V. All rights reserved.
+C1 Purdue Univ, Dept Agron, W Lafayette, IN 47907 USA.
+C3 Purdue University System; Purdue University
+RP Purdue Univ, Dept Agron, 1150 LILY, W Lafayette, IN 47907 USA.
+EM kladivko@purdue.edu
+CR Akhouri NM, 1997, SOIL BIOL BIOCHEM, V29, P663, DOI 10.1016/S0038-0717(96)00192-7
+   Angers DA, 1997, SOIL TILL RES, V41, P191, DOI 10.1016/S0167-1987(96)01100-2
+   [Anonymous], 1998, EARTHWORM ECOLOGY, V0, P0
+   [Anonymous], 1985, EARTHWORMS THEIR ECO, V0, P0
+   Baker GH, 1998, APPL SOIL ECOL, V9, P303, DOI 10.1016/S0929-1393(98)00081-X
+   Barker KR, 1998, ANNU REV PHYTOPATHOL, V36, P165, DOI 10.1146/annurev.phyto.36.1.165
+   BARNES BT, 1979, J SOIL SCI, V30, P669, DOI 10.1111/j.1365-2389.1979.tb01016.x
+   BEARE MH, 1995, PLANT SOIL, V170, P5, DOI 10.1007/BF02183051
+   Behan-Pelletier VM, 1999, AGR ECOSYST ENVIRON, V74, P411, DOI 10.1016/S0167-8809(99)00046-8
+   Blair John M, 1995, P127, V0, P0
+   Blanchart E, 1999, EARTHWORM MANAGEMENT IN TROPICAL AGROECOSYSTEMS, V0, P149
+   Bockus WW, 1998, ANNU REV PHYTOPATHOL, V36, P485, DOI 10.1146/annurev.phyto.36.1.485
+   Bouche MB, 1977, ECOLOGICAL BULLETINS (STOCKHOLM), V0, P122
+   Brown GG, 1999, EARTHWORM MANAGEMENT IN TROPICAL AGROECOSYSTEMS, V0, P87
+   CAMBARDELLA CA, 1992, SOIL SCI SOC AM J, V56, P777, DOI 10.2136/sssaj1992.03615995005600030017x
+   Cochran VL, 1994, MANAGING AGRICULTURAL RESIDUES., V0, P163
+   EDWARDS CA, 1982, SOIL BIOL BIOCHEM, V14, P515, DOI 10.1016/0038-0717(82)90112-2
+   Edwards CA, 1977, BIOL EARTHWORMS, V0, P0
+   Edwards Clive A, 1995, P185, V0, P0
+   Edwards WM, 1998, P147, V0, P0
+   Follett RF, 2001, SOIL TILL RES, V61, P77, DOI 10.1016/S0167-1987(01)00180-5
+   Fragoso C, 1999, EARTHWORM MANAGEMENT IN TROPICAL AGROECOSYSTEMS, V0, P1
+   Franzluebbers AJ, 1996, SOIL SCI SOC AM J, V60, P1422, DOI 10.2136/sssaj1996.03615995006000050019x
+   Haynes RJ, 1999, BIOL FERT SOILS, V30, P210, DOI 10.1007/s003740050610
+   HENDRIX PF, 1986, BIOSCIENCE, V36, P374, DOI 10.2307/1310259
+   HENDRIX RF, 1995, EARTHWORM ECOLOGY BI, V0, P0
+   HOUSE GJ, 1985, SOIL TILL RES, V5, P351, DOI 10.1016/S0167-1987(85)80003-9
+   KARLEN DL, 1994, SOIL TILL RES, V32, P313, DOI 10.1016/0167-1987(94)00427-G
+   Kladivko EJ, 1997, SOIL BIOL BIOCHEM, V29, P613, DOI 10.1016/S0038-0717(96)00187-3
+   KLADIVKO EJ, 1993, EARTHWORM CROP MANAG, V0, P1
+   Kromp B, 1999, AGR ECOSYST ENVIRON, V74, P187, DOI 10.1016/S0167-8809(99)00037-7
+   Lavelle P, 1997, ADV ECOL RES, V27, P93, DOI 10.1016/S0065-2504(08)60007-0
+   Lavelle P, 2000, SOIL SCI, V165, P73, DOI 10.1097/00010694-200001000-00009
+   Lavelle P, 1999, EARTHWORM MANAGEMENT IN TROPICAL AGROECOSYSTEMS, V0, P0
+   Lee KE, 1995, P215, V0, P0
+   LOGAN TJ, 1991, SOIL TILL RES, V20, P241, DOI 10.1016/0167-1987(91)90042-V
+   MACKAY AD, 1985, SOIL BIOL BIOCHEM, V17, P851, DOI 10.1016/0038-0717(85)90146-4
+   Reeves DW, 1997, SOIL TILL RES, V43, P131, DOI 10.1016/S0167-1987(97)00038-X
+   REYNOLDS JW, 1977, EARTHWORMS ONTARIO, V0, P0
+   Samu F, 1999, J ARACHNOL, V27, P325
+   SCHMIDT BA, 1997, THESIS PURDUE U, V0, P0
+   STINNER BR, 1990, ANNU REV ENTOMOL, V35, P299, DOI 10.1146/annurev.en.35.010190.001503
+   STOCKDILL SMJ, 1966, PROC N Z ECOL SOC, V13, P68
+   STOCKDILL SMJ, 1982, PEDOBIOLOGIA, V24, P29
+   Swift MJ, 1979, DECOMPOSITION IN TERRESTRIAL ECOSYSTEMS, V5, P0
+   Tomlin AD, 1995, P159, V0, P0
+   Wander MM, 1998, SOIL SCI SOC AM J, V62, P1704, DOI 10.2136/sssaj1998.03615995006200060031x
+   Wardle DA, 1995, ADVANCES IN ECOLOGICAL RESEARCH, V26, P105, DOI 10.1016/S0065-2504(08)60065-3
+NR 48
+TC 487
+Z9 597
+U1 16
+U2 296
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-1987
+EI 1879-3444
+J9 SOIL TILL RES
+JI Soil Tillage Res.
+PD AUG 15
+PY 2001
+VL 61
+IS 1-2
+BP 61
+EP 76
+DI 10.1016/S0167-1987(01)00179-9
+PG 16
+WC Soil Science
+SC Agriculture
+GA 449BD
+UT WOS:000169663700007
+DA 2024-08-17
+ER
+
+PT J
+AU Bronson, KF
+   Onken, AB
+   Keeling, JW
+   Booker, JD
+   Torbert, HA
+AF Bronson, KF
+   Onken, AB
+   Keeling, JW
+   Booker, JD
+   Torbert, HA
+TI Nitrogen response in cotton as affected by tillage system and irrigation level
+SO SOIL SCIENCE SOCIETY OF AMERICA JOURNAL
+LA English
+DT Article
+ID chlorophyll meter; gossypium-hirsutum; high-plains; management; fertilization; soil
+AB More than 0.5 million ha of irrigated cotton (Gossypium hirsutum L.) are grown in the Southern High Plains of Texas. Conservation tillage cotton in terminated wheat (Triticum aestivum L.) has been shown to improve water use efficiency and reduce wind erosion. However, limited N fertilizer response research has been done in this system. The objective of this 3-yr field study at Lubbock, TX was to characterize the response to N fertilizer (0, 28, 56, 84, or 112 kg N ha(-1)) at varying irrigation levels [0, 25, 50, or 75 % Evapotranspiration (ET) replacement] for conventional and conservation tillage cotton in an Acuff loam (fine loamy, mixed, superactive, thermic, Aridic Paleustoll). Additionally, we tested the chlorophyll meter as an indicator of in-season N status of cotton and compared it to petiole NO3-N analysis. Cotton lint yields showed a quadratic response to irrigation level in 1996 and 1997, and a linear response in the drought year of 1998. Maximum lint yield varied from 71 to 97% ET replacement. In 1997 and 1998, cotton lint yields responded to N at the 50 and 75% estimated ET replacement irrigation levels, but not at the 0 or 25% ET levels. Quadratic-plateau models indicated that 19 to 38 kg N additional fertilizer ha(-1) was needed to produce economically optimum lint yields near 1100 kg N ha(-1) with conservation tillage than with conventional tillage. Chlorophyll meter and petiole NO3-N readings were positively related to N rate but were not affected by tillage system.
+C1 Texas A&M Univ, Texas Agr Expt Stn, Lubbock, TX 79401 USA.
+   USDA ARS, Grassland Soil & Water Res Lab, Temple, TX 76502 USA.
+C3 Texas A&M University System; Texas A&M University College Station; Texas A&M AgriLife Research; United States Department of Agriculture (USDA)
+RP Bronson, KF (通讯作者)，Texas A&M Univ, Texas Agr Expt Stn, RR3,Box 219, Lubbock, TX 79401 USA.
+CR *AGR COMP ADV RES, 1997, DAWS COUNT 1997 ANN, V0, P0
+   BASSETT DM, 1970, AGRON J, V62, P299, DOI 10.2134/agronj1970.00021962006200020037x
+   BORDOVSKY JP, 1992, T ASAE, V35, P879, DOI 10.13031/2013.28673
+   BOYD V, 1996, JULY 1996 COTTON FAR, V0, P6
+   CERRATO ME, 1990, AGRON J, V82, P138, DOI 10.2134/agronj1990.00021962008200010030x
+   Clark LE, 1996, J PROD AGRIC, V9, P55, DOI 10.2134/jpa1996.0055
+   DORAN JW, 1987, SSSA SPEC PUBL, V19, P53
+   HARMAN WL, 1989, AGRON J, V81, P615, DOI 10.2134/agronj1989.00021962008100040013x
+   Hussain F, 2000, AGRON J, V92, P875
+   KEELING W, 1989, J PROD AGRIC, V2, P269, DOI 10.2134/jpa1989.0269
+   LASCANO RJ, 1994, AGRON J, V86, P987, DOI 10.2134/agronj1994.00021962008600060011x
+   LASCANO RJ, 1993, MACPET SOFTWARE CALC, V0, P0
+   LIU X, 1996, 1996 P BELTW COTT PR, V2, P1379
+   LYLE WM, 1983, T ASAE, V26, P776
+   MCCONNELL JS, 1993, AGRON J, V85, P1151, DOI 10.2134/agronj1993.00021962008500060011x
+   MORROW MR, 1990, AGRON J, V82, P52, DOI 10.2134/agronj1990.00021962008200010011x
+   SABBE WE, 1990, SSSA BOOK SERIES, V3, P469
+   SalinasGarcia JR, 1997, SOIL SCI SOC AM J, V61, P152, DOI 10.2136/sssaj1997.03615995006100010023x
+   SAS Institute, 1996, SAS SYST WIND REL 6, V0, P0
+   *TEX AGR EXP STAT, 1987, PLANT SOIL WAT TEST, V0, P0
+   *TEX AGR STAT SERV, 1998, TEX AGR STAT SERV B, V0, P0
+   Varco JJ, 1999, J PROD AGRIC, V12, P91, DOI 10.2134/jpa1999.0091
+   Varvel GE, 1997, SOIL SCI SOC AM J, V61, P1233, DOI 10.2136/sssaj1997.03615995006100040032x
+   WESTERMAN RL, 1989, P WEST COTT PROD C A, V0, P66
+   WOOD CW, 1992, J PLANT NUTR, V15, P1435, DOI 10.1080/01904169209364409
+   Wu FB, 1998, FIELD CROP RES, V56, P309, DOI 10.1016/S0378-4290(97)00108-1
+   ZADOKS JC, 1974, WEED RES, V14, P415, DOI 10.1111/j.1365-3180.1974.tb01084.x
+   Zelinski LJ, 1985, 1985 PROCEEDINGS OF THE BELTWIDE COTTON PRODUCTION RESEARCH CONFERENCES NELSON T.C. EDITOR., V0, P304
+NR 28
+TC 77
+Z9 91
+U1 3
+U2 21
+PU SOIL SCI SOC AMER
+PI MADISON
+PA 677 SOUTH SEGOE ROAD, MADISON, WI 53711 USA
+SN 0361-5995
+EI 
+J9 SOIL SCI SOC AM J
+JI Soil Sci. Soc. Am. J.
+PD JUL-AUG 15
+PY 2001
+VL 65
+IS 4
+BP 1153
+EP 1163
+DI 10.2136/sssaj2001.6541153x
+PG 11
+WC Soil Science
+SC Agriculture
+GA 505NG
+UT WOS:000172918400017
+DA 2024-08-17
+ER
+
+PT J
+AU Hatfield, JL
+   Sauer, TJ
+   Prueger, JH
+AF Hatfield, JL
+   Sauer, TJ
+   Prueger, JH
+TI Managing soils to achieve greater water use efficiency: A review
+SO AGRONOMY JOURNAL
+LA English
+DT Article; Proceedings Paper
+ID precipitation use efficiency; grain-sorghum production; dryland cropping system; long-term tillage; no-till; residue management; conservation-tillage; pearl-millet; winter-wheat; high-plains
+AB Water use efficiency (WUE) represents a given level of biomass or grain yield per unit of water used by the crop. With increasing concern about the availability of water resources in both irrigated and rainfed agriculture, there is renewed interest in trying to develop an understanding of how WUE can be improved and how farming systems can be modified to be more efficient in water use. This review and synthesis of the literature is directed toward understanding the role of soil management practices for WUE. Soil management practices affect the processes of evapotranspiration by modifying the available energy, the available water in the soil profile, or the exchange rate between the soil and the atmosphere. Plant management practices, e.g., the addition of N and P, have an indirect effect on water use through the physiological efficiency of the plant. A survey of the literature reveals a large variation in measured WUE across a range of climates, crops, and soil management practices. It is possible to increase WUE by 25 to 40% through soil management practices that involve tillage. Overall, precipitation use efficiency can be enhanced through adoption of more intensive cropping systems in semiarid environments and increased plant populations in more temperate and humid environments. Modifying nutrient management practices can increase WUE by 15 to 25%. Water use efficiency can be increased through proper management, and field-scale experiences show that these changes positively affect crop yield.
+C1 USDA ARS, Natl Soil Tilth Lab, Ames, IA 50011 USA.
+C3 United States Department of Agriculture (USDA)
+RP Hatfield, JL (通讯作者)，USDA ARS, Natl Soil Tilth Lab, 2150 Pammel Dr, Ames, IA 50011 USA.
+CR AASE JK, 1995, AGRON J, V87, P652, DOI 10.2134/agronj1995.00021962008700040008x
+   AASE JK, 1990, AGR METEOROL, V21, P1
+   ABBATE PE, 1995, J AGR SCI, V124, P351, DOI 10.1017/S0021859600073317
+   ALLMARAS RR, 1964, SOIL SCI SOC AMER PROC, V28, P271
+   ANDERSON DT, 1964, CANADIAN JOUR SOIL SCI, V44, P109
+   Azooz RH, 1998, CAN J SOIL SCI, V78, P649, DOI 10.4141/S97-098
+   AZOOZ RH, 1995, SOIL SCI SOC AM J, V59, P1413, DOI 10.2136/sssaj1995.03615995005900050030x
+   BURNS RL, 1971, AGRON J, V73, P593
+   CAMPBELL CA, 1992, CAN J SOIL SCI, V72, P271, DOI 10.4141/cjss92-026
+   Chan KY, 1996, AUST J AGR RES, V47, P479, DOI 10.1071/AR9960479
+   CHRISTENSEN NB, 1994, SOIL SCI SOC AM J, V58, P1495, DOI 10.2136/sssaj1994.03615995005800050032x
+   CORAK SJ, 1991, SOIL SCI SOC AM J, V55, P1395, DOI 10.2136/sssaj1991.03615995005500050032x
+   CRESSWELL HP, 1993, SOIL SCI SOC AM J, V57, P816, DOI 10.2136/sssaj1993.03615995005700030031x
+   DAO TH, 1989, AGRON J, V81, P923, DOI 10.2134/agronj1989.00021962008100060015x
+   Davis JG, 1998, JOURNAL OF CROP PRODUCTION, V1, P221, DOI 10.1300/J144v01n02_10
+   DEIBERT EJ, 1986, J SOIL WATER CONSERV, V41, P53
+   DEWIT CT, 1958, TRANSPIRATION CROP Y, V0, P0
+   ECK HV, 1992, SOIL SCI SOC AM J, V56, P1298, DOI 10.2136/sssaj1992.03615995005600040048x
+   Farahani HJ, 1998, SOIL SCI SOC AM J, V62, P984, DOI 10.2136/sssaj1998.03615995006200040020x
+   FOWLER DB, 1990, AGRON J, V82, P655, DOI 10.2134/agronj1990.00021962008200040002x
+   GIBSON G, 1992, AUST J EXP AGR, V32, P473, DOI 10.1071/EA9920473
+   GOOD LG, 1978, J SOIL WATER CONSERV, V33, P89
+   GREB BW, 1966, SOIL SCI SOC AM PRO, V30, P786, DOI 10.2136/sssaj1966.03615995003000060035x
+   HALVORSON AD, 1994, AGRON J, V86, P315, DOI 10.2134/agronj1994.00021962008600020020x
+   Halvorson AD, 1999, SOIL SCI SOC AM J, V63, P912, DOI 10.2136/sssaj1999.634912x
+   HAMMEL JE, 1989, SOIL SCI SOC AM J, V53, P1515, DOI 10.2136/sssaj1989.03615995005300050036x
+   Hatfield JL, 1990, CHALLENGES DRYLAND A, V0, P315
+   Hatfield KL, 1996, THEOR APPL CLIMATOL, V54, P47
+   Howell TA, 1998, AGRON J, V90, P3, DOI 10.2134/agronj1998.00021962009000010002x
+   HUDSON BD, 1994, J SOIL WATER CONSERV, V49, P189
+   Jeuffroy MH, 1999, CROP SCI, V39, P1385, DOI 10.2135/cropsci1999.3951385x
+   JOHNSON MD, 1984, T ASAE, V27, P1385
+   Johnson WC, 1971, 16 USDA, V0, P0
+   JOKELA WE, 1989, AGRON J, V81, P720, DOI 10.2134/agronj1989.00021962008100050004x
+   Jones OR, 1997, AGRON J, V89, P222, DOI 10.2134/agronj1997.00021962008900020012x
+   JONES OR, 1991, J PROD AGRIC, V4, P613, DOI 10.2134/jpa1991.0613
+   KASPAR TC, 1990, SOIL SCI SOC AM J, V54, P1112, DOI 10.2136/sssaj1990.03615995005400040032x
+   LASCANO RJ, 1994, AGRON J, V86, P987, DOI 10.2134/agronj1994.00021962008600060011x
+   LIANG BC, 1991, AGRON J, V83, P794, DOI 10.2134/agronj1991.00021962008300050004x
+   MASKINA MS, 1993, SOIL SCI SOC AM J, V57, P1555, DOI 10.2136/sssaj1993.03615995005700060027x
+   MUSICK JT, 1994, AGRON J, V86, P980, DOI 10.2134/agronj1994.00021962008600060010x
+   Norwood CA, 1999, AGRON J, V91, P108, DOI 10.2134/agronj1999.00021962009100010017x
+   OBERLE SL, 1990, J PROD AGRIC, V3, P522, DOI 10.2134/jpa1990.0522
+   PAPENDICK RI, 1973, SOIL SCI SOC AM J, V37, P307, DOI 10.2136/sssaj1973.03615995003700020039x
+   PAYNE WA, 1995, AGRON J, V87, P425, DOI 10.2134/agronj1995.00021962008700030007x
+   PAYNE WA, 1992, CROP SCI, V32, P1010, DOI 10.2135/cropsci1992.0011183X003200040035x
+   Payne WA, 1997, AGRON J, V89, P481, DOI 10.2134/agronj1997.00021962008900030019x
+   PIKUL JL, 1995, AGRON J, V87, P656, DOI 10.2134/agronj1995.00021962008700040009x
+   Power JF, 1983, LIMITATIONS TO EFFICIENT WATER USE IN CROP PRODUCTION, V0, P461
+   REEVES DW, 1993, AGRON J, V85, P98, DOI 10.2134/agronj1993.00021962008500010020x
+   Ritchie JT, 1971, AGRON J, V70, P723
+   Sauer TJ, 1997, AGR FOREST METEOROL, V85, P279, DOI 10.1016/S0168-1923(96)02386-6
+   Sauer TJ, 1998, AGR FOREST METEOROL, V89, P155, DOI 10.1016/S0168-1923(97)00090-7
+   Sauer TJ, 1996, SOIL SCI SOC AM J, V60, P1558, DOI 10.2136/sssaj1996.03615995006000050039x
+   Sauer TJ, 1996, AGRON J, V88, P733, DOI 10.2134/agronj1996.00021962008800050009x
+   SINGH G, 1980, AGR WATER MANAGE, V2, P299, DOI 10.1016/0378-3774(80)90030-X
+   SMIKA DE, 1965, AGRON J, V57, P483
+   Srivastava VC, 1978, J SOIL WATER CONSERV, V28, P42
+   Stout WL, 1997, J SOIL WATER CONSERV, V52, P207
+   STOUT WL, 1992, SOIL SCI SOC AM J, V56, P897, DOI 10.2136/sssaj1992.03615995005600030036x
+   TANAKA DL, 1990, T ASAE, V33, P1518, DOI 10.13031/2013.31503
+   Tanner CB, 1983, LIMITATIONS TO EFFICIENT WATER USE IN CROP PRODUCTION, V0, P1
+   Tolk JA, 1998, AGRON J, V90, P447, DOI 10.2134/agronj1998.00021962009000040001x
+   TOMPKINS DK, 1991, AGRON J, V83, P766, DOI 10.2134/agronj1991.00021962008300040022x
+   TOW PG, 1993, AUST J EXP AGR, V33, P245, DOI 10.1071/EA9930245
+   Unger PW, 1983, LIMITATIONS TO EFFICIENT WATER USE IN CROP PRODUCTION, V0, P419
+   UNGER PW, 1991, AGRON J, V83, P961, DOI 10.2134/agronj1991.00021962008300060008x
+   UNGER PW, 1994, SOIL SCI SOC AM J, V58, P537, DOI 10.2136/sssaj1994.03615995005800020041x
+   UNGER PW, 1988, SOIL SCI SOC AM J, V52, P1777, DOI 10.2136/sssaj1988.03615995005200060047x
+   VARVEL GE, 1994, AGRON J, V86, P204, DOI 10.2134/agronj1994.00021962008600010036x
+   VARVEL GE, 1995, SOIL SCI SOC AM J, V59, P527, DOI 10.2136/sssaj1995.03615995005900020036x
+   VIETS FRANK G, 1962, ADVANCES AGRON, V14, P223, DOI 10.1016/S0065-2113(08)60439-3
+   WILHELM WW, 1989, AGRON J, V81, P581, DOI 10.2134/agronj1989.00021962008100040007x
+   WOOD CW, 1991, AGRON J, V83, P519, DOI 10.2134/agronj1991.00021962008300030001x
+   WUEST SB, 1992, AGRON J, V84, P682, DOI 10.2134/agronj1992.00021962008400040028x
+   ZHAI R, 1990, SOIL SCI SOC AM J, V54, P186, DOI 10.2136/sssaj1990.03615995005400010029x
+   Zhang HP, 1999, AGR WATER MANAGE, V38, P195, DOI 10.1016/S0378-3774(98)00069-9
+NR 77
+TC 398
+Z9 463
+U1 6
+U2 200
+PU AMER SOC AGRONOMY
+PI MADISON
+PA 677 S SEGOE RD, MADISON, WI 53711 USA
+SN 0002-1962
+EI 
+J9 AGRON J
+JI Agron. J.
+PD MAR-APR 15
+PY 2001
+VL 93
+IS 2
+BP 271
+EP 280
+DI 10.2134/agronj2001.932271x
+PG 10
+WC Agronomy
+SC Agriculture
+GA 419VL
+UT WOS:000167969400002
+DA 2024-08-17
+ER
+

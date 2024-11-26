@@ -1,0 +1,145 @@
+PT J
+AU Lopez, MV
+   Arrue, JL
+   SanchezGiron, V
+AF Lopez, MV
+   Arrue, JL
+   SanchezGiron, V
+TI A comparison between seasonal changes in soil water storage and penetration resistance under conventional and conservation tillage systems in Aragon
+SO SOIL & TILLAGE RESEARCH
+LA English
+DT Article
+DE reduced tillage; no-tillage; dryland cropping; soil water content; soil strength
+ID yield; wheat; drought
+AB Low and extremely variable precipitations limit dryland crop production in the semi-arid areas of Aragon (NE Spain). These areas are also affected by high annual rates of topsoil losses by both wind and water erosion. A long-term experiment to determine the feasibility of conservation tillage in the main winter barley production areas of Aragon was initiated in 1989 at four locations, three on loam to silt loam soils (Xerollic Calciorthid) and one on a silty clay loam (Fluventic Ustochrept), receiving between 300 and 600 mm of average annual rainfall. In this study, we compared, under both continuous cropping and cereal-fallow rotation, the effects of conventional tillage (mouldboard plough) and two conservation tillage systems, reduced tillage (chisel plough) and no-tillage, on soil water content and penetration resistance during the first two growing seasons. Whereas reduced and conventionally tilled treatments generally had similar soil water content during the experimental period, the effects of no-tillage were inconsistent. No-tilled plots had from 26% less to 17% more stored soil water (0-80 cm) than conventional tilled plots at the beginning of the growing season. In contrast to the conventional and reduced tillage treatments, penetration resistances were between 2 and 4 MPa after sowing in most of the plough layer (0-40 cm) under no-tillage at all sites. Fallow efficiencies in moisture storage in the cereal-fallow rotation, when compared with the continuous cropping system, ranged from -8.7 to 12%. The highest efficiencies were recorded when the rainfall in the months close to primary tillage exceeded 100 mm. Since this event is very unlikely, long fallowing (9-10 months) appears to be an inefficient practice for water conservation under both conventional and conservation management. Our results suggest that, up to now, only reduced tillage could replace conventional tillage without adverse effects on soil water content and penetration resistance in the dryland cereal-growing areas of Aragon.
+C1 CSIC, ESTAC EXPT AULA DEI, DEPT EDAFOL, E-50080 ZARAGOZA, SPAIN.
+   UNIV POLITECN MADRID, ETSIA, DEPT INGN RURAL, E-28040 MADRID, SPAIN.
+C3 Consejo Superior de Investigaciones Cientificas (CSIC); CSIC - Estacion Experimental de Aula Dei (EEAD); Universidad Politecnica de Madrid
+CR ALLMARAS RR, 1977, SOIL SCI SOC AM J, V41, P796, DOI 10.2136/sssaj1977.03615995004100040039x
+   [Anonymous], 1954, USDA AGR HDB, V0, P0
+   ARRUE J L, 1991, SUELO Y PLANTA, V1, P555
+   CANNELL RQ, 1985, SOIL TILL RES, V5, P129, DOI 10.1016/0167-1987(85)90028-5
+   CARTER MR, 1988, CAN J SOIL SCI, V68, P657, DOI 10.4141/cjss88-063
+   CASSEL DK, 1978, SOIL SCI SOC AM J, V42, P116, DOI 10.2136/sssaj1978.03615995004200010025x
+   DICKEY EE, 1989, J SOIL WATER CONSERV, V44, P117
+   FRENCH RJ, 1978, AUST J AGR RES, V29, P653, DOI 10.1071/AR9780653
+   Gee GW, 1986, METHODS SOIL ANAL 1, V0, PP383, DOI 10.2136/sssabookser5.1.2-d.frontmatter
+   Griffith DR, 1986, NO TILLAGE AND SURFACE-TILLAGE AGRICULTURE. THE TILLAGE REVOLUTION, V0, P19
+   HILL RL, 1990, SOIL SCI SOC AM J, V54, P161, DOI 10.2136/sssaj1990.03615995005400010025x
+   INCERTI M, 1993, AUST J EXP AGR, V33, P885, DOI 10.1071/EA9930885
+   KARLEN DL, 1991, T ASAE, V34, P1967, DOI 10.13031/2013.31824
+   Lal Rattan, 1989, ADV AGRON, V42, P0
+   LINDSTROM MJ, 1974, AGRON J, V66, P312, DOI 10.2134/agronj1974.00021962006600020036x
+   Lopez JJ, 1992, INVESTIGACION AGRARIA PRODUCCION Y PROTECCION VEGETALES, V7, P327
+   LOPEZ MV, 1995, SOIL SCI SOC AM J, V59, P1104, DOI 10.2136/sssaj1995.03615995005900040023x
+   MAPA Ministerio de Agricultura Pesca y Alimentacion, 1986, MET OF AN, VIII, P0
+   MCANENEY KJ, 1993, AGRONOMIE, V13, P481, DOI 10.1051/agro:19930604
+   NYBORG M, 1989, SOIL TILL RES, V15, P1, DOI 10.1016/0167-1987(89)90059-7
+   RADFORD BJ, 1992, SOIL TILL RES, V22, P73, DOI 10.1016/0167-1987(92)90023-5
+   SOMMER C, 1992, SOIL TILL RES, V24, P319, DOI 10.1016/0167-1987(92)90117-T
+   SOWERS GF, 1965, METHODS SOIL ANAL, V0, PP391, DOI 10.2134/AGR0NM0N0GR9.1.C31
+   TANAKA DL, 1985, SOIL SCI SOC AM J, V49, P728, DOI 10.2136/sssaj1985.03615995004900030039x
+   THORBURN PJ, 1992, SOIL TILL RES, V23, P341, DOI 10.1016/0167-1987(92)90080-U
+   VANES HM, 1989, SOIL SCI SOC AM J, V53, P1178, DOI 10.2136/sssaj1989.03615995005300040031x
+   VYN TJ, 1993, AGRON J, V85, P1074, DOI 10.2134/agronj1993.00021962008500050022x
+   ZADOKS JC, 1974, WEED RES, V14, P415, DOI 10.1111/j.1365-3180.1974.tb01084.x
+NR 28
+TC 55
+Z9 74
+U1 1
+U2 27
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-1987
+EI 1879-3444
+J9 SOIL TILL RES
+JI Soil Tillage Res.
+PD JUL 15
+PY 1996
+VL 37
+IS 4
+BP 251
+EP 271
+DI 10.1016/0167-1987(96)01011-2
+PG 21
+WC Soil Science
+SC Agriculture
+GA VE746
+UT WOS:A1996VE74600004
+DA 2024-08-17
+ER
+
+PT J
+AU Hubbard, VC
+   Jordan, D
+AF Hubbard, VC
+   Jordan, D
+TI Nitrogen recovery by corn from nitrogen-15 labeled wheat residues and intact roots and soil
+SO SOIL SCIENCE SOCIETY OF AMERICA JOURNAL
+LA English
+DT Article
+ID automated n-15 analysis; field conditions; crop residues; no-till; mineralization; decomposition; environment; diffusion; dynamics; losses
+AB Conservation tillage systems, which maintain crop residues on the soil surface, are becoming more widely used. Crop residues serve as ground cover to reduce soil erosion and act as a sink-source for plant nutrients. A better understanding of the processes involved in crop residue decomposition and N release in these systems is needed to develop more efficient residue and Fertility management practices. A greenhouse study was conducted to determine N availability to corn (Zea mays L.) from wheat (Triticum aestivum L.) residues and intact roots and soil as affected by residue placement. Tracer N-15 was used to quantify the N recovered by corn from wheat residues and intact roots and soil. Wheat residues were either surface-placed or incorporated in a Mexico silt loam (fine, montmorillonitic, mesic Udollic Ochraqualf) in pots with intact wheat roots. Residue placement significantly influenced the amount of N-15 recovered by corn from wheat residues but not from intact roots and soil. Corn N-15 recovery was significantly higher from incorporated residues than from surface residues; however, this was not reflected in the dry weight. Corn dry weight was 12% greater from surface residues than from incorporated residues. Higher yield from surface residues was attributed to a more constant optimum soil water content.
+RP Hubbard, VC (通讯作者)，UNIV MISSOURI, SCH NAT RESOURCES, DEPT SOIL & ATMOSPHER SCI, COLUMBIA, MO 65211 USA.
+CR BROOKES PC, 1985, SOIL BIOL BIOCHEM, V17, P837, DOI 10.1016/0038-0717(85)90144-0
+   BROOKS PD, 1989, SOIL SCI SOC AM J, V53, P1707, DOI 10.2136/sssaj1989.03615995005300060016x
+   BROWN PL, 1970, SOIL SCI SOC AM PRO, V34, P118, DOI 10.2136/sssaj1970.03615995003400010032x
+   *CONS TECHN INF CT, 1994, NAT CROP RES MAN SUR, V0, P0
+   DORAN JW, 1980, SOIL SCI SOC AM J, V44, P765, DOI 10.2136/sssaj1980.03615995004400040022x
+   DORAN JW, 1987, TEXAS AGR EXP STN MI, V0, P0
+   Doren DMVan Jr, 1978, ASA AMERICAN SOCIETY OF AGRONOMY SPECIAL PUBLICATION, V0, P49
+   DOUGLAS CL, 1980, SOIL SCI SOC AM J, V44, P833, DOI 10.2136/sssaj1980.03615995004400040035x
+   Ellwood DC, 1980, CONTEMPORARY MICROBIAL ECOLOGY, V0, P215
+   FARQUHAR GD, 1980, PLANT PHYSIOL, V66, P710, DOI 10.1104/pp.66.4.710
+   FOLLETT RF, 1989, SOIL SCI SOC AM J, V53, P1091, DOI 10.2136/sssaj1989.03615995005300040018x
+   GANTZER CJ, 1990, J SOIL WATER CONSERV, V45, P641
+   GRIFFITH DR, 1994, CROP RESIDUE MANAGEM, V0, P15
+   HOLLAND EA, 1987, ECOLOGY, V68, P425, DOI 10.2307/1939274
+   Horwath WR, 1994, METHODS SOIL ANAL, V0, P763
+   JORDAN D, 1993, BIOL FERT SOILS, V16, P221, DOI 10.1007/BF00361412
+   LINN DM, 1984, SOIL SCI SOC AM J, V48, P794, DOI 10.2136/sssaj1984.03615995004800040019x
+   LIU YP, 1992, SOIL SCI SOC AM J, V56, P1151, DOI 10.2136/sssaj1992.03615995005600040024x
+   Mulvaney RL, 1993, NITROGEN ISOTOPE TECHNIQUES, V0, PP11, DOI 10.1016/B978-0-08-092407-6.50007-9
+   Neter J, 1989, APPL LINEAR STAT MOD, V3rd, P0
+   NORMAN RJ, 1990, SOIL SCI SOC AM J, V54, P1351, DOI 10.2136/sssaj1990.03615995005400050025x
+   PARR JF, 1978, AM SOC AGRONOMY SPEC, V31, P101
+   POWER JF, 1986, SOIL TILL RES, V8, P101, DOI 10.1016/0167-1987(86)90326-0
+   RICE CW, 1986, SOIL SCI SOC AM J, V50, P1206, DOI 10.2136/sssaj1986.03615995005000050023x
+   SAFFIGNA PG, 1987, ADV NITROGEN CYCLING, V0, P0
+   *SAS I, 1989, SAS STAT US GUID VER, V0, P0
+   SCHERTZ DL, 1988, J SOIL WATER CONSERV, V43, P256
+   SMITH JL, 1994, ADV SOIL S, V0, P91
+   STEIN OR, 1986, SOIL SCI SOC AM J, V50, P1527, DOI 10.2136/sssaj1986.03615995005000060029x
+   TERMAN GL, 1974, SOIL SCI SOC AM J, V38, P322, DOI 10.2136/sssaj1974.03615995003800020031x
+   TESTER CF, 1988, SOIL BIOL BIOCHEM, V20, P915, DOI 10.1016/0038-0717(88)90103-4
+   Triplett GB, 1986, NO TILLAGE AND SURFACE-TILLAGE AGRICULTURE. THE TILLAGE REVOLUTION, V0, P149
+   WAGGER MG, 1985, SOIL SCI SOC AM J, V49, P1220, DOI 10.2136/sssaj1985.03615995004900050030x
+   ZHU JC, 1989, SOIL SCI SOC AM J, V53, P1210, DOI 10.2136/sssaj1989.03615995005300040037x
+NR 34
+TC 14
+Z9 19
+U1 2
+U2 13
+PU SOIL SCI SOC AMER
+PI MADISON
+PA 677 SOUTH SEGOE ROAD, MADISON, WI 53711 USA
+SN 0361-5995
+EI 
+J9 SOIL SCI SOC AM J
+JI Soil Sci. Soc. Am. J.
+PD SEP-OCT 15
+PY 1996
+VL 60
+IS 5
+BP 1405
+EP 1410
+DI 10.2136/sssaj1996.03615995006000050016x
+PG 6
+WC Soil Science
+SC Agriculture
+GA VH791
+UT WOS:A1996VH79100017
+DA 2024-08-17
+ER
+

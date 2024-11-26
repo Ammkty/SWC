@@ -1,0 +1,140 @@
+PT J
+AU REEVES, DW
+   ROGERS, HH
+   DROPPERS, JA
+   PRIOR, SA
+   POWELL, JB
+AF REEVES, DW
+   ROGERS, HH
+   DROPPERS, JA
+   PRIOR, SA
+   POWELL, JB
+TI WHEEL-TRAFFIC EFFECTS ON CORN AS INFLUENCED BY TILLAGE SYSTEM
+SO SOIL & TILLAGE RESEARCH
+LA English
+DT Article
+ID southeastern coastal-plain; soil-water content; conservation tillage; united-states; compaction; growth
+AB Surface and subsoil compaction limit crop productivity on many soils of the southeastern Coastal Plain of the United States. Deep tillage, and to a lesser extent, controlled traffic have been utilized to manage soil compaction on these soils, but there is a need to develop tillage systems that integrate conservation tillage practices with deep tillage and controlled traffic. In 1988, a study was initiated with a wide-frame (6.3 m) vehicle to determine the interactive effects of traffic, deep tillage, and surface residues on com (Zea mays L.) grown on a Norfolk loamy sand (fine-loamy, siliceous, thermic, Typic Kandiudults). Com was planted into a winter cover crop of 'Cahaba White' vetch ( Vicia sativa L.) Treatments included: traffic (conventional equipment or no traffic); deep tillage (no deep tillage, in-row subsoiling, or complete disruption); surface tillage (no surface tillage or disk and field cultivate). Complete disruption was accomplished by subsoiling at a depth of 43 cm on 25-cm centers. Although tillage x traffic interactions significantly affected soil strength and soil water, the only grain yield response both years was due to a surface tillage x deep tillage interaction, In a drought year (1988), with surface tillage,yields averaged 3.54,2.75,and 1.41 t ha-1 with complete disruption, in-row subsoiling, and no deep tillage, respectively. Without surface tillage, respective yields averaged 3.77, 3.14, and 1. 12 t ha-1. In 1989 when rainfall amount and distribution were excellent, yields with complete disruption, in-row subsoiling, and no deep tillage averaged 7.79 t ha- 1, 7.08 t ha-1, and 6.44 t ha-1, respectively, with surface tillage; and 7.40 t ha-1, 6.91 t ha-1, and 4.70 t ha-1 respectively, without surface tillage. Soil strength and soil water measurements confirmed the detrimental effect of traffic after disking and field cultivation; however, soil water measurements and the lack of any yield response to applied traffic suggest that corn compensated for reduced rooting capacity in wheeled interrows by increased rooting in non-wheeled interrows.
+C1 USDA ARS, ALABAMA AGR EXPT STN, AUBURN, AL 36849 USA.
+C3 United States Department of Agriculture (USDA)
+RP USDA ARS, NATL SOIL DYNAM LAB, AUBURN, AL 36849 USA.
+CR BOX JE, 1984, SOIL TILL RES, V4, P67, DOI 10.1016/0167-1987(84)90017-5
+   CAMPBELL RB, 1974, J SOIL WATER CONSERV, V29, P220
+   CAMPBELL RB, 1984, SOIL TILL RES, V4, P511, DOI 10.1016/0167-1987(84)90002-3
+   CASSEL DK, 1985, AGRON J, V77, P851, DOI 10.2134/agronj1985.00021962007700060006x
+   CHANCY HF, 1982, AGRON J, V74, P657, DOI 10.2134/agronj1982.00021962007400040016x
+   CHAUDHARY MR, 1974, AGRON J, V66, P350, DOI 10.2134/agronj1974.00021962006600030004x
+   DUMAS WT, 1973, T ASAE, V16, P872, DOI 10.13031/2013.37648
+   ECKERT D J, 1988, JOURNAL OF PRODUCTION AGRICULTURE, V1, P207
+   ECKERT DJ, 1984, AGRON J, V76, P580, DOI 10.2134/agronj1984.00021962007600040017x
+   FOX RH, 1987, COMMUN SOIL SCI PLAN, V18, P495, DOI 10.1080/00103628709367837
+   GARCIA F, 1988, SOIL SCI SOC AM J, V52, P792, DOI 10.2136/sssaj1988.03615995005200030035x
+   Gomez KA, 1984, STAT PROCEDURE AGR R, V2nd, P0
+   HILFIKER RE, 1988, SOIL TILL RES, V12, P269, DOI 10.1016/0167-1987(88)90016-5
+   KAMPRATH EJ, 1979, AGRON J, V71, P1001, DOI 10.2134/agronj1979.00021962007100060026x
+   KASHIRAD A, 1967, SOIL SCI SOC AM PRO, V31, P534, DOI 10.2136/sssaj1967.03615995003100040030x
+   Monroe GE, 1989, APPLIED ENG AGR, V5, P40, DOI 10.13031/2013.26474
+   NELSON WE, 1975, AGRON J, V67, P769, DOI 10.2134/agronj1975.00021962006700060011x
+   REEVES DW, 1986, AGRON J, V78, P921, DOI 10.2134/agronj1986.00021962007800050035x
+   SMUCKER AJM, 1982, AGRON J, V74, P500, DOI 10.2134/agronj1982.00021962007400030023x
+   TARDIEU F, 1988, PLANT SOIL, V109, P257, DOI 10.1007/BF02202092
+   TOPP GC, 1985, SOIL SCI SOC AM J, V49, P19, DOI 10.2136/sssaj1985.03615995004900010003x
+   TOPP GC, 1980, WATER RESOUR RES, V16, P574, DOI 10.1029/WR016i003p00574
+   TOUCHTON J T, 1989, APPLIED AGRICULTURAL RESEARCH, V4, P264
+   VOORHEES WB, 1989, NATO ADV SCI I E-APP, V172, P173
+   WILLIFORD JR, 1982, ASAE821044 PAP, V0, P0
+NR 25
+TC 32
+Z9 34
+U1 0
+U2 8
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-1987
+EI 1879-3444
+J9 SOIL TILL RES
+JI Soil Tillage Res.
+PD FEB 15
+PY 1992
+VL 23
+IS 1-2
+BP 177
+EP 192
+DI 10.1016/0167-1987(92)90013-2
+PG 16
+WC Soil Science
+SC Agriculture
+GA HH420
+UT WOS:A1992HH42000012
+DA 2024-08-17
+ER
+
+PT J
+AU KOVAR, JL
+   BARBER, SA
+   KLADIVKO, EJ
+   GRIFFITH, DR
+AF KOVAR, JL
+   BARBER, SA
+   KLADIVKO, EJ
+   GRIFFITH, DR
+TI CHARACTERIZATION OF SOIL-TEMPERATURE, WATER-CONTENT, AND MAIZE ROOT DISTRIBUTION IN 2 TILLAGE SYSTEMS
+SO SOIL & TILLAGE RESEARCH
+LA English
+DT Article
+ID conservation tillage; phosphorus uptake; corn; growth; potassium; indiana; yield; field
+AB Previous research has shown that soil temperature and soil water regimes are influenced by tillage practices. Root growth is affected by both soil temperature and water content; therefore, root distribution can be significantly different among various tillage systems. The objectives of this field study were to characterize the distribution of maize (Zea mays L.) roots in the top 30 cm of the profile of a Chalmers silty clay loam soil (Typic Haplaquoll) under a ridge till-plant system and a conventional tillage system and to determine if any significant differences exist among soil temperature and water regimes in these two tillage systems and if these differences were related to maize root distribution. Measurements were taken over a 3 year period on three replicates of a long-term tillage experiment. Soil cores (2.1 cm diameter) were taken after approximately 5, 7, and 10 weeks of growth to determine root length density with depth and distance from the row. Soil temperature was measured with thermocouples at depths of 2.5, 10, and 30 cm in the row and midrow. Soil water content was determined gravimetrically on samples taken two to three times per week from the row and midrow. Root length density (RLD) was higher in the row and midrow in the ridge till treatments; whereas in the conventional treatments, RLD was highest in the row and decreased with distance from the row. Mean 24 h temperatures in the row of ridge till treatments paralleled those in the row of conventional treatments. Midrow temperatures tended to be lower in ridge till than in conventional treatments, especially during the 3 week period after planting. Water content in the row of both tillage treatments was similar from planting to midsilk in both years. Water content in the midrow of ridge till was greater than that of conventional treatments throughout the sampling period. No significant correlations between RLD and soil temperature or water content were found; however, significant differences in soil temperature, water content, and RLD between the two tillage treatments suggest that some relationship does exist.
+C1 PURDUE UNIV,DEPT AGRON,W LAFAYETTE,IN 47907.
+C3 Purdue University System; Purdue University
+CR ANGHINONI I, 1980, SOIL SCI SOC AM J, V44, P1016, DOI 10.2136/sssaj1980.03615995004400050029x
+   [Anonymous], 1978, AGR EXPT DESIGN ANAL, V0, P0
+   Barber SA, 1984, SOIL NUTRIENT BIOAVA, V0, P0
+   BARBER SA, 1988, PLANT SOIL, V111, P267, DOI 10.1007/BF02139951
+   BARBER SA, 1974, FERT SOLUTIONS, V18, P24
+   BURROWS WC, 1962, AGRON J, V64, P19
+   CRUZ JC, 1982, THESIS PURDUE U W LA, V0, P0
+   Griffith DR, 1986, NO TILLAGE AND SURFACE-TILLAGE AGRICULTURE. THE TILLAGE REVOLUTION, V0, P19
+   GRIFFITH DR, 1977, J SOIL WATER CONSERV, V32, P20
+   GRIFFITH DR, 1973, AGRON J, V65, P321, DOI 10.2134/agronj1973.00021962006500020040x
+   KLADIVKO EJ, 1986, SOIL TILL RES, V8, P277, DOI 10.1016/0167-1987(86)90340-5
+   KOVAR JL, 1987, J FERT ISSUES, V4, P1
+   KUCHENBUCH RO, 1988, PLANT SOIL, V106, P9, DOI 10.1007/BF02371189
+   LOGSDON SD, 1987, AGRON J, V79, P221, DOI 10.2134/agronj1987.00021962007900020010x
+   MACKAY AD, 1987, SOIL SCI SOC AM J, V51, P970, DOI 10.2136/sssaj1987.03615995005100040027x
+   MACKAY AD, 1984, SOIL SCI SOC AM J, V48, P818, DOI 10.2136/sssaj1984.03615995004800040024x
+   MACKAY AD, 1985, AGRON J, V77, P519
+   MANNERING JV, 1975, ASAE752523 PAP, V0, P0
+   MENGEL DB, 1974, AGRON J, V66, P341, DOI 10.2134/agronj1974.00021962006600030002x
+   MIRREH HF, 1973, CAN J SOIL SCI, V53, P383, DOI 10.4141/cjss73-055
+   TARDIEU F, 1988, PLANT SOIL, V107, P259, DOI 10.1007/BF02370555
+   TENNANT D, 1975, J ECOL, V63, P995, DOI 10.2307/2258617
+   Van Doren Jr DM, 1978, SPEC PUB AM SOC AGRO, V31, P49
+   WALKER JM, 1969, SOIL SCI SOC AM PRO, V33, P729, DOI 10.2136/sssaj1969.03615995003300050031x
+NR 24
+TC 36
+Z9 40
+U1 0
+U2 24
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-1987
+EI 
+J9 SOIL TILL RES
+JI Soil Tillage Res.
+PD JUN 15
+PY 1992
+VL 24
+IS 1
+BP 11
+EP 27
+DI 10.1016/0167-1987(92)90069-N
+PG 17
+WC Soil Science
+SC Agriculture
+GA JB590
+UT WOS:A1992JB59000002
+DA 2024-08-17
+ER
+

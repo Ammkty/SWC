@@ -1,0 +1,161 @@
+PT J
+AU Manning, P
+   Putwain, PD
+   Webb, NR
+AF Manning, P
+   Putwain, PD
+   Webb, NR
+TI Formulating a general statistical model for <i>Betula</i> spp. invasion of lowland heath ecosystems
+SO JOURNAL OF APPLIED ECOLOGY
+LA English
+DT Article
+DE conservation management; disturbance; heathland; safe-site limitation; seed limitation; state transition; tree seedling recruitment
+ID vegetation dynamics; southern england; birch woodland; phosphorus; succession; restoration; moorland; calluna
+AB 1. Numerous studies describe thresholds at which transitions between alternate ecosystem states occur but few quantitatively delimit these conditions and present them in simple frameworks that are of use in ecosystem management. Previous research on heathland ecosystems has provided a site-specific statistical model that describes the determinants of the threshold point in heath-scrub vegetation transition, but the wider applicability, and thus utility, of this model was unknown. 2. Multi-site experimental manipulations were conducted to assess whether a consistent set of factors limited the recruitment of Betula species into heathland vegetation. Data were pooled and used to fit a single general statistical model. The applicability of this model to a wider range of environments was tested using two independent data sets. 3. The identity of the factors controlling Betula colonization, which include Betula seed bank density, phosphorus (P) availability and disturbance effects, were broadly similar between sites, but the strength of their effect varied widely. 4. The general model (explained deviance 59.8%) described Betula seedling densities as a function of biomass and necromass density, vegetation height, Betula seed bank density, P availability and soil water content. These relationships were complex, with numerous interaction and polynomial terms. 5. Although the model was derived from data from a single community type it was reasonably accurate in the prediction of seedling densities over a wider range of heath conditions. However, data capable of validating predictions of high seedling densities were not available. 6. Synthesis and applications. The apparent success of the general statistical model suggests that an approach incorporating multi-site experiments and statistical modelling can facilitate our understanding of ecosystem state transitions and inform the management of invasive species. By describing Betula invasion as a function of variables that are simple, general descriptions of the environment, the model can potentially inform management in a wide range of conditions. The results suggest that heaths close to seed sources and in the degenerate state of the dwarf shrub cycle are the most vulnerable to invasion, and management should target such sites as a priority. At regional scales, these conditions are probably most common in high soil phosphorus sorption capacity areas, where management should be prioritized.
+C1 Winfrith Technol Ctr, Ctr Ecol & Hydrol, Dorchester DT2 8ZD, Dorset, England.
+   Univ Liverpool, Sch Biol Sci, Liverpool L69 3BX, Merseyside, England.
+C3 UK Centre for Ecology & Hydrology (UKCEH); University of Liverpool
+RP Univ London Imperial Coll Sci Technol & Med, NERC, Ctr Populat Biol, Silwood Pk Campus, Ascot SL5 0NE, Berks, England.
+EM p.manning@imperial.ac.uk
+CR ATKINSON MD, 1992, J ECOL, V80, P837, DOI 10.2307/2260870
+   Bokdam J, 2000, J APPL ECOL, V37, P415, DOI 10.1046/j.1365-2664.2000.00507.x
+   Briske DD, 2003, J APPL ECOL, V40, P601, DOI 10.1046/j.1365-2664.2003.00837.x
+   BULLOCK JM, 1995, BIOL CONSERV, V73, P207, DOI 10.1016/0006-3207(94)00110-C
+   CHAPMAN SB, 1989, J ECOL, V77, P35, DOI 10.2307/2260914
+   CHAPMAN SB, 1989, J APPL ECOL, V26, P673, DOI 10.2307/2404091
+   CHAPMAN SB, 1967, J ECOL, V55, P677, DOI 10.2307/2258418
+   Crawley MJ, 2002, STAT COMPUTING INTRO, V0, P0
+   HARRISON CM, 1976, BIOL CONSERV, V10, P21
+   HESTER AJ, 1991, J ECOL, V79, P317, DOI 10.2307/2260715
+   HESTER AJ, 1991, J ECOL, V79, P303, DOI 10.2307/2260714
+   Jones CG, 1997, ECOLOGY, V78, P1946, DOI 10.1890/0012-9658(1997)078[1946:PANEOO]2.0.CO;2
+   KHOON GW, 1984, P ROY SOC EDINB B, V85, P73, DOI 10.1017/S0269727000003900
+   Manning P, 2004, J ECOL, V92, P868, DOI 10.1111/j.0022-0477.2004.00922.x
+   MANNING P, 2002, THESIS U LIVERPOOL L, V0, P0
+   MARRS RH, 1986, VEGETATIO, V66, P109
+   MILES J, 1974, J ECOL, V62, P675, DOI 10.2307/2258948
+   Mitchell RJ, 1997, J APPL ECOL, V34, P1426, DOI 10.2307/2405259
+   Mitchell RJ, 1999, J APPL ECOL, V36, P770, DOI 10.1046/j.1365-2664.1999.00443.x
+   Petraitis PS, 1999, ECOLOGY, V80, P429, DOI 10.1890/0012-9658(1999)080[0429:TIOSIT]2.0.CO;2
+   PICKESS BP, 1992, P DORSET NATURAL HIS, V114, P227
+   Pote DH, 1996, SOIL SCI SOC AM J, V60, P855, DOI 10.2136/sssaj1996.03615995006000030025x
+   Rodwell JS, 1992, BRIT PLANT COMMUNITI, V2, P0
+   Rose RJ, 2000, BIOL CONSERV, V93, P117, DOI 10.1016/S0006-3207(99)00047-6
+   ROSSI RE, 1992, ECOL MONOGR, V62, P277, DOI 10.2307/2937096
+   Scheffer M, 2001, NATURE, V413, P591, DOI 10.1038/35098000
+   Suding KN, 2004, TRENDS ECOL EVOL, V19, P46, DOI 10.1016/j.tree.2003.10.005
+   Thompson K, 1997, SOIL SEEDBANKS N W E, V0, P0
+   WATT AS, 1947, J ECOL, V35, P1, DOI 10.2307/2256497
+   WILSON JB, 1992, ADV ECOL RES, V23, P263, DOI 10.1016/S0065-2504(08)60149-X
+NR 31
+TC 13
+Z9 13
+U1 1
+U2 21
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-8901
+EI 1365-2664
+J9 J APPL ECOL
+JI J. Appl. Ecol.
+PD DEC 15
+PY 2005
+VL 42
+IS 6
+BP 1031
+EP 1041
+DI 10.1111/j.1365-2664.2005.01088.x
+PG 11
+WC Biodiversity Conservation; Ecology
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+GA 987JW
+UT WOS:000233515200004
+DA 2024-08-17
+ER
+
+PT J
+AU Carter, MR
+   Holmstrom, D
+   Sanderson, JB
+   Ivany, J
+   DeHaan, R
+AF Carter, MR
+   Holmstrom, D
+   Sanderson, JB
+   Ivany, J
+   DeHaan, R
+TI Comparison of conservation with conventional tillage for potato production in Atlantic Canada: crop productivity, soil physical properties and weed control
+SO CANADIAN JOURNAL OF SOIL SCIENCE
+LA English
+DT Article
+DE conservation tillage; residue management; potato; soil temperature; soil moisture; tillage methods
+ID prince-edward-island; fine sandy loam; solanum-tuberosum; yield; quality; irrigation; rotation; growth; temperature; density
+AB Conservation tillage (CT) for potato crop land has been increasing in Atlantic Canada, but producers are concerned that fields managed in this way may be wet, slow to warm in spring, have increased debris at harvest, exhibit higher soil compaction and result in reduced yield. The objective of this study was to compare the effects of four tillage practices on potato yield, soil properties and weed growth over a 3-yr period. The four tillage practices were: (1) conventional autumn mouldboard plowing followed by spring secondary tillage; (2) spring mouldboard plowing followed by secondary tillage; (3) autumn chisel plowing followed by spring secondary tillage; and (4) spring CT. Tillage practices significantly affected soil water content (at both the 0- to 15-cm and 15- to 30-cm soil depths) with CT generally showing a greater soil water content prior to spring tillage in comparison to the other treatments. Soil temperature (at the 2- to 5-cm soil depth) prior to spring tillage was not influenced by tillage differences. Conservation tillage increased soil compaction at the 10- to 30-cm soil depth, but not to a level considered detrimental to root growth. Tillage treatments had no effect on amount of soil clods and plant debris passing over the harvester. Potato yield (range of 43 to 51 Mg ha(-1)) and quality were not adversely influenced by tillage practices. There were few treatment effects on individual weed species or groupings of annual, perennial and total weeds. Overall, CT can be a viable management alternative to conventional tillage because this practice does not negatively affect field management, potato yield, or soil quality.
+C1 Agr & Agri Food Canada, Crops & Livestock Res Ctr, Charlottetown, PE C1A 4N6, Canada.
+   Agr & Agri Food Canada, Price Edward Isl Dept Agr & Forestry, Charlottetown, PE C1A 4N6, Canada.
+C3 Agriculture & Agri Food Canada; Agriculture & Agri Food Canada
+RP Carter, MR (通讯作者)，Agr & Agri Food Canada, Crops & Livestock Res Ctr, 440 Univ Ave, Charlottetown, PE C1A 4N6, Canada.
+EM carterm@agr.gc.ca
+CR BAIER W, 1978, SPRING FIELD WORKDAY, V0, P0
+   BOONE FR, 1984, SOIL STRUCTURE, V2, P24
+   Bouma J, 1988, EFFECTS CROP ROTATIO, V0, P77
+   CAO YZ, 1994, SOIL TILL RES, V29, P23, DOI 10.1016/0167-1987(94)90099-X
+   CARTER MR, 1990, SOIL TILL RES, V15, P257, DOI 10.1016/0167-1987(90)90082-O
+   Carter MR, 1998, SOIL TILL RES, V49, P127, DOI 10.1016/S0167-1987(98)00167-6
+   CARTER MR, 1994, SOIL TILL RES, V31, P289, DOI 10.1016/0167-1987(94)90037-X
+   Carter MR, 2000, CAN J SOIL SCI, V80, P607, DOI 10.4141/S00-005
+   Carter MR, 2001, SOIL TILL RES, V63, P1, DOI 10.1016/S0167-1987(01)00224-0
+   de Smet, 1984, EXPERIENCES 3 TILLAG, V0, P72
+   Dickson JW, 1996, SOIL TILL RES, V38, P89, DOI 10.1016/0167-1987(96)01027-6
+   Dixon WJ, 1986, METHODS OF SOIL ANALYSIS. PART 1. PHYSICAL AND MINERALOGICAL METHODS, V0, P83
+   Ekeberg E, 1996, SOIL TILL RES, V39, P131, DOI 10.1016/S0167-1987(96)01065-3
+   *GENST 5 COMM, 1997, GENST 5 REF MAN OXF, V0, P0
+   GRIFFITH DR, 1973, AGRON J, V65, P321, DOI 10.2134/agronj1973.00021962006500020040x
+   Hill PR, 1996, CONSERVATION TILLAGE, V0, P0
+   Holmstrom D, 1999, J SOIL WATER CONSERV, V54, P445
+   Holmstrom DA, 2000, CAN J PLANT SCI, V80, P161, DOI 10.4141/P99-001
+   KOUWENHOVEN JK, 1978, NETH J AGR SCI, V26, P288
+   MACDOUGALL JI, 1988, LRRC CONTRIB, V84, P0
+   MANNERING JV, 1983, J SOIL WATER CONSERV, V38, P140
+   *MARK IND SERV BRA, 1999, 1998 1999 CAN POT CR, V0, P0
+   MORGAN RPC, 1992, SOIL USE MANAGE, V8, P176, DOI 10.1111/j.1475-2743.1992.tb00917.x
+   Mundy C, 1999, HORTTECHNOLOGY, V9, P240
+   PARKER CJ, 1989, SOIL TILL RES, V13, P267, DOI 10.1016/0167-1987(89)90003-2
+   Pierce FJ, 1995, SOIL TILL RES, V35, P135, DOI 10.1016/0167-1987(95)00485-8
+   *POT CROP, 1998, AGD 257 PUBL 1300A A, V0, P0
+   Rasmussen KJ, 1999, SOIL TILL RES, V53, P3, DOI 10.1016/S0167-1987(99)00072-0
+   ROSS CW, 1986, SOIL TILL RES, V7, P315, DOI 10.1016/0167-1987(86)90019-X
+   Seyfried MS, 2001, SOIL SCI SOC AM J, V65, P28, DOI 10.2136/sssaj2001.65128x
+   Stalham MA, 2001, J AGR SCI-CAMBRIDGE, V137, P251, DOI 10.1017/S0021859601001332
+   TAYLOR HM, 1971, COMPACTION AGR SOILS, V0, P292
+   *USDA, 1992, SCSCRM02, V0, P0
+   Wall GJ, 1995, THE HEALTH OF OUR SOILS: TOWARD SUSTAINABLE AGRICULTURE IN CANADA., V0, P61
+   YOUNG IM, 1993, SOIL TILL RES, V26, P341, DOI 10.1016/0167-1987(93)90005-A
+NR 35
+TC 18
+Z9 19
+U1 2
+U2 16
+PU AGRICULTURAL INST CANADA
+PI OTTAWA
+PA 280 ALBERT ST, SUITE 900, OTTAWA, ONTARIO K1P 5G8, CANADA
+SN 0008-4271
+EI 1918-1841
+J9 CAN J SOIL SCI
+JI Can. J. Soil Sci.
+PD AUG 15
+PY 2005
+VL 85
+IS 3
+BP 453
+EP 461
+DI 10.4141/S02-069
+PG 9
+WC Soil Science
+SC Agriculture
+GA 972WY
+UT WOS:000232485200010
+DA 2024-08-17
+ER
+

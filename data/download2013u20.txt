@@ -1,0 +1,1988 @@
+PT J
+AU Canali, S
+   Campanelli, G
+   Ciaccia, C
+   Leteo, F
+   Testani, E
+   Montemurro, F
+AF Canali, Stefano
+   Campanelli, Gabriele
+   Ciaccia, Corrado
+   Leteo, Fabrizio
+   Testani, Elena
+   Montemurro, Francesco
+TI Conservation tillage strategy based on the roller crimper technology for weed control in Mediterranean vegetable organic cropping systems
+SO EUROPEAN JOURNAL OF AGRONOMY
+LA English
+DT Article
+DE Organic farming; Cover crop; Green manure; Zucchini; N use efficiency; Energy saving; Soil water content; Soil temperature
+ID hairy vetch; productivity; suppression; residue; nitrate; region; crops; rye
+AB A two-year field experiment was carried out at the MOVE (MOnsampolo VEgetables) organic long-term experiment, Monsampolo del Tronto - Central Italy - growing transplanted zucchini (Cucurbita pepo L.) to compare the effect of different tillage strategies and cover crop management (no cover crop; green manured barley; in-line till/roller crimped barley) on zucchini yield, zucchini yield quality, weed control and N dynamic in the soil-plant system. Energy consumption for mechanical operations, soil temperature and water content was also evaluated. Zucchini cultivated by the in line tillage/roller crimper technique yielded 69% more than the zucchini preceded by the green manure and similarly to the control. Moreover, zucchini yield quality did not differ among the treatments. Weed above ground biomass was 22 and 91% lower than the control in the green manure and in the roller crimper treatments, respectively. The in line-tillage/roller crimper (ILRC) also increased the N system use efficiency (yield N ratio) of twofold respect to the control and of 29% respect to the green manure treatment. Despite the additional tillage needed to sow and manage the cover crop, the ILRC treatment allowed 10% of work hours and 24% of energy saving respect to the control (no cover crop). Moreover, the in-line tillage/roller crimper technology used 46% of work hours and 56% of energy less than the green manure treatment, which is - so far - the most widely used system by organic farmers to manage cover crops. Our results demonstrated that the adoption of the novel ILRC technology would considerably contribute to enhance the sustainability of the organically managed vegetable cropping systems. (c) 2013 Elsevier B.V. All rights reserved.
+C1 [Canali, Stefano; Ciaccia, Corrado; Testani, Elena] Ctr Studio Relaz Tra Pianta & Suolo CRA RPS, Consiglio Ric & Sperimentaz Agr, I-00184 Rome, Italy.
+   [Campanelli, Gabriele; Leteo, Fabrizio] Unita Ric Orticoltura CRA ORA, Consiglio Ric & Sperimentaz Agr, I-63030 Monsampolo Del Tronto, AP, Italy.
+   [Montemurro, Francesco] Unita Ric Studio Sistemi Colturali CRA SSC, Consiglio Ric & Sperimentaz Agr, I-75010 Metaponto, MT, Italy.
+C3 Consiglio per la Ricerca in Agricoltura e L'analisi Dell'economia Agraria (CREA); Consiglio per la Ricerca in Agricoltura e L'analisi Dell'economia Agraria (CREA); Consiglio per la Ricerca in Agricoltura e L'analisi Dell'economia Agraria (CREA)
+RP Canali, S (通讯作者)，Ctr Studio Relaz Tra Pianta & Suolo CRA RPS, Consiglio Ric & Sperimentaz Agr, Via Navicella 2, I-00184 Rome, Italy.
+EM stefano.canali@entecra.it
+FU Organic Farming Office of the Italian Ministry of Agriculture in the frame of the National Action Plan for Organic food and farming
+CR Altieri MA, 2011, J SUSTAIN AGR, V35, P855, DOI 10.1080/10440046.2011.588998
+   Campanelli G, 2012, J SUSTAIN AGR, V36, P599, DOI 10.1080/10440046.2011.646351
+   Canavate JO, 1999, CIGR HDB AGR ENG, VV, P13
+   Carr PM, 2012, RENEW AGR FOOD SYST, V27, P12, DOI 10.1017/S174217051100041X
+   Carr PM, 2012, RENEW AGR FOOD SYST, V27, P2, DOI 10.1017/S1742170511000536
+   Choi HS, 2011, SCI HORTIC-AMSTERDAM, V129, P674, DOI 10.1016/j.scienta.2010.11.019
+   Dahlin AS, 2012, ACTA AGR SCAND B-S P, V62, P659, DOI 10.1080/09064710.2012.680487
+   de Albuquerque MB, 2011, AGRON SUSTAIN DEV, V31, P379, DOI 10.1051/agro/2010031
+   Delate K, 2012, RENEW AGR FOOD SYST, V27, P49, DOI 10.1017/S1742170511000524
+   Halde C, 2011, ORGANIC IS LIFE - KNOWLEDGE FOR TOMORROW. VOLUME 1 - ORGANIC CROP PRODUCTION. PROCEEDINGS OF THE THIRD SCIENTIFIC CONFERENCE OF THE INTERNATIONAL SOCIETY OF ORGANIC AGRICULTURE RESEARCH (ISOFAR), V0, P0
+   HENRIKSEN A, 1970, ANALYST, V95, P514, DOI 10.1039/an9709500514
+   Korsaeth A, 2002, SOIL BIOL BIOCHEM, V34, P789, DOI 10.1016/S0038-0717(02)00008-1
+   Kremer RJ, 2009, ALLELOPATHY J, V24, P225
+   KROM MD, 1980, ANALYST, V105, P305, DOI 10.1039/an9800500305
+   Lana MA, 2007, THESIS U FEDERAL SAN, V0, P0
+   Leavitt MJ, 2011, HORTSCIENCE, V46, P387, DOI 10.21273/HORTSCI.46.3.387
+   LOY SJW, 1987, HORTSCIENCE, V22, P415
+   Luna JM, 2012, RENEW AGR FOOD SYST, V27, P21, DOI 10.1017/S1742170511000494
+   McLenaghen RD, 1996, NEW ZEAL J AGR RES, V39, P413, DOI 10.1080/00288233.1996.9513202
+   Mirsky SB, 2012, RENEW AGR FOOD SYST, V27, P31, DOI 10.1017/S1742170511000457
+   MOHLER CL, 1993, WEED RES, V33, P487, DOI 10.1111/j.1365-3180.1993.tb01965.x
+   Montemurro F, 2007, J PLANT NUTR, V30, P1681, DOI 10.1080/01904160701615541
+   Mortensen DA, 2000, WEED RES, V40, P49, DOI 10.1046/j.1365-3180.2000.00174.x
+   OLNESS A, 1992, J AGRON CROP SCI, V169, P310, DOI 10.1111/j.1439-037X.1992.tb01042.x
+   Oveisi M, 2008, WEED BIOL MANAG, V8, P225, DOI 10.1111/j.1445-6664.2008.00301.x
+   Peigné J, 2007, SOIL USE MANAGE, V23, P129, DOI 10.1111/j.1475-2743.2006.00082.x
+   Raviv M, 2010, HORTICULTURAL REVIEWS, V36, P289
+   Reberg-Horton SC, 2012, RENEW AGR FOOD SYST, V27, P41, DOI 10.1017/S1742170511000469
+   Smith AN, 2011, WEED SCI, V59, P224, DOI 10.1614/WS-D-10-00112.1
+   TEASDALE JR, 1993, AGRON J, V85, P673, DOI 10.2134/agronj1993.00021962008500030029x
+   USDA(United States Department of Agriculture), 1996, 42 USDA, V0, P0
+   UNESCO-FAO, 1963, ET EC ZON MED CART B, V0, P60
+   Wells MS, 2010, P INT ANN CONS TILL, V0, P0
+NR 33
+TC 61
+Z9 70
+U1 1
+U2 114
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1161-0301
+EI 1873-7331
+J9 EUR J AGRON
+JI Eur. J. Agron.
+PD OCT 15
+PY 2013
+VL 50
+IS 
+BP 11
+EP 18
+DI 10.1016/j.eja.2013.05.001
+PG 8
+WC Agronomy
+SC Agriculture
+GA 204IZ
+UT WOS:000323360300002
+DA 2024-08-17
+ER
+
+PT J
+AU Cociu, AI
+   Cizmas, GD
+AF Cociu, Alexandru I.
+   Cizmas, George Daniel
+TI EFFECTS OF STABILIZATION PERIOD OF CONSERVATION AGRICULTURE PRACTICES ON WINTER WHEAT, MAIZE AND SOYBEAN CROPS, IN ROTATION
+SO ROMANIAN AGRICULTURAL RESEARCH
+LA English
+DT Article
+DE conservation agriculture (CA); winter wheat - maize - soybean rotation; water use efficiency (WUE); grain yield; economic benefits
+ID clay loam; tillage
+AB The main field crops, such as cereals and forages, are mostly produced on rainfed conditions all over the world. In this case, about the most important aspect is the efficiency of utilization of water from precipitation. Cropping systems based on conservation agriculture are closely linked to the management of this water source. They involve significant reduction of tillage, surface retention of adequate crop residues, and diversified, economically viable crop rotations. A long term field experiment (from 2007 to 2012), with winter wheat (Triticum aestivum L.), maize (Zea mays L.) and soybean [Glycine max. (L) Merr.], all in rotation, was conducted at the National Agricultural Research and Development Institute of Fundulea, which is located on a typical soil of the South - Eastern part of Romania. The main objective of this experiment was to evaluate the advantages of conservation agriculture (CA), in comparison to traditional agriculture (TA), in the period of stabilization of the effects of "direct seeding". The factors under study were: water use efficiency (WUE), grain yield, and the economic benefit of these three crops. The WUE of winter wheat was not significantly influenced by the agriculture system, but varied due to precipitations received in vegetation period and accumulated in fall. The WUE of maize was significantly influenced by the agriculture system, and for soybean this influence was not significant, but both varied in dependence to the precipitation during vegetation period and the water reserve at seeding time. The yields of winter wheat and maize were significantly higher when conservation agriculture was practiced than in the case of traditional agriculture. In this study, soybean yields were not significantly affected by the agriculture system. Economic benefits of conservation agriculture in comparison with traditional agriculture were with 1011 lei ha(-1), 1153 lei ha(-1), and 457 lei ha(-1) higher then within traditional agriculture, for winter wheat, maize, and soybean, respectively. The output / input ratio evaluated for all three crops were superior when conservation agriculture was applied. Considering all results of this research, we can state that conservation agriculture is an optimum cropping system for increasing grain yields, enhancing water use efficiency and saving energy.
+C1 [Cociu, Alexandru I.; Cizmas, George Daniel] Agr Res & Dev Inst Fundulea, Fundulea 915200, Calarasi County, Romania.
+RP Cociu, AI (通讯作者)，Agr Res & Dev Inst Fundulea, Fundulea 915200, Calarasi County, Romania.
+EM acociu2000@yahoo.com
+CR Baumhardt RL, 2002, SOIL TILL RES, V68, P71, DOI 10.1016/S0167-1987(02)00097-1
+   BOONE FR, 1988, SOIL TILL RES, V11, P283, DOI 10.1016/0167-1987(88)90004-9
+   Cociu AI, 2010, ROM AGRIC RES, V27, P81
+   Govaerts B, 2005, FIELD CROP RES, V94, P33, DOI 10.1016/j.fcr.2004.11.003
+   Lampurlanés J, 2002, SOIL TILL RES, V65, P207, DOI 10.1016/S0167-1987(01)00285-9
+   Montgomery DR, 2007, P NATL ACAD SCI USA, V104, P13268, DOI 10.1073/pnas.0611508104
+   OLeary GJ, 1997, FIELD CROP RES, V52, P209, DOI 10.1016/S0378-4290(97)00034-8
+   Reicosky DC, 2001, SUSTAINABLE GLOBAL F, V0, P481
+   STEEL RGD, 1980, PRINCIPLES PROCEDURE, V0, P0
+   Tan CS, 2002, AGR WATER MANAGE, V54, P173, DOI 10.1016/S0378-3774(01)00178-0
+NR 10
+TC 8
+Z9 9
+U1 1
+U2 16
+PU NATL AGRICULTURAL RESEARCH & DEVELOPMENT INST
+PI FUNDULEA
+PA CALARASI COUNTY, FUNDULEA, 915200, ROMANIA
+SN 1222-4227
+EI 
+J9 ROM AGRIC RES
+JI Rom. Agric. Res.
+PD JUN 15
+PY 2013
+VL 30
+IS 
+BP 171
+EP 181
+DI 
+PG 11
+WC Agronomy
+SC Agriculture
+GA AC5XC
+UT WOS:000332593300022
+DA 2024-08-17
+ER
+
+PT J
+AU Hou, XQ
+   Li, R
+   Jia, ZK
+   Han, QF
+AF Hou, Xianqing
+   Li, Rong
+   Jia, Zhikuan
+   Han, Qingfang
+TI Rotational Tillage Improves Photosynthesis of Winter Wheat during Reproductive Growth Stages in a Semiarid Region
+SO AGRONOMY JOURNAL
+LA English
+DT Article
+ID water-use efficiency; leaf gas-exchange; chlorophyll fluorescence; conservation tillage; subsequent tillage; great-plains; grain-yield; soil; stress; temperature
+AB Tillage is important for soil water conservation and it affects crop growth, photosynthesis, and yield by adjusting soil water status in semiarid areas. A field study was conducted between 2007 and 2010 in the semiarid area of southern Ningxia, China, to determine the effects of rotational tillage practices on soil water status, flag leaves photosynthetic characteristics of late growth stage winter wheat (Triticum aestivum L.), and grain yield. Three tillage treatments were tested: no-tillage in Year 1, subsoiling in Year 2, and no-tillage in Year 3 (NT/ST/NT, respectively); subsoiling in Year 1, no-tillage in Year 2, and subsoiling in Year 3 (ST/NT/ST, respectively); and conventional tillage over Years 1 to 3 (CT). Compared with CT, the mean soil water storage during the wheat growing season was significantly (p = 0.0305) higher at 0- to 2.0-m depth with NT/ST/NT (+9.1%) and ST/NT/ST (+9.8%). The rotational tillage treatments significantly increased the net photosynthetic rate (P-N), and transpiration rate (E) during the late growth stage. Greater intrinsic water use efficiency (WUEi) was achieved with NT/ST/NT (+13.4%) and ST/NT/ST (+19.2%) at the filling stage when compared with CT. Meanwhile, rotational tillage treatments produced higher levels of maximal photochemical efficiency of photosystem II (PSII) (F-v/F-m) in darkness, actual photochemical efficiency of photosystem II (phi PSII) in light, and photosynthetic electron transport rate (ETR). Compared with CT, rotational tillage significantly increased wheat yields by 9.6% (NT/ST/NT) and 10.7% (ST/NT/ST). Overall, the results indicated that rotational tillage enhanced water conservation capacity, significantly improved crop photosynthetic characteristics and yield.
+C1 [Jia, Zhikuan] NW A&F Univ, Chinese Inst Water Saving Agr, Yangling 712100, Peoples R China.
+   Minist Agr, Key Lab Crop Physi Ecol & Tillage Sci NW Loess Pl, Yangling 712100, Peoples R China.
+C3 Northwest A&F University - China; Ministry of Agriculture & Rural Affairs
+RP Jia, ZK (通讯作者)，NW A&F Univ, Chinese Inst Water Saving Agr, Yangling 712100, Peoples R China.
+EM zhikuan@tom.com
+FU China Support Program for Dryland Farming in the 11th 5-yr and 12th 5-yr plan period [2006BAD29B03, 2011BAD29B09]
+CR BIDINGER F, 1977, NATURE, V270, P431, DOI 10.1038/270431a0
+   BIERHUIZEN JF, 1965, AGR METEOROL, V2, P259, DOI 10.1016/0002-1571(65)90012-9
+   Blum A, 1996, PLANT GROWTH REGUL, V20, P135, DOI 10.1007/BF00024010
+   Bonfil DJ, 1999, AGRON J, V91, P368, DOI 10.2134/agronj1999.00021962009100030003x
+   BOYER JS, 1982, SCIENCE, V218, P443, DOI 10.1126/science.218.4571.443
+   Casa R, 2008, J AGRON CROP SCI, V194, P310, DOI 10.1111/j.1439-037X.2008.00316.x
+   CASSEL DK, 1995, SOIL SCI SOC AM J, V59, P1436, DOI 10.2136/sssaj1995.03615995005900050033x
+   Cayon MG, 1997, PHOTOSYNTHETICA, V34, P409, DOI 10.1023/A:1006868219162
+   CHARTZOULAKIS K, 1993, IRRIGATION SCI, V14, P1, DOI 10.1007/BF00194999
+   Debaeke P, 2004, EUR J AGRON, V21, P433, DOI 10.1016/j.eja.2004.07.006
+   Evans LT, 1980, CROP PHYSL SOME CASE, V0, P101
+   Evans SD, 1996, SOIL TILL RES, V38, P35, DOI 10.1016/0167-1987(96)01020-3
+   FISCHER RA, 1985, J AGR SCI-CAMBRIDGE, V105, P447, DOI 10.1017/S0021859600056495
+   [付国占 Fu Guozhan], 2005, 干旱地区农业研究 AGRICULTURAL RESEARCH IN THE ARID AREAS, V23, P12
+   Gallé A, 2010, METHODOLOGIES AND RESULTS IN GRAPEVINE RESEARCH, V0, PP107, DOI 10.1007/978-90-481-9283-0_8
+   [高飞 Gao Fei], 2011, 生态学报 ACTA ECOLOGICA SINICA, V31, P777
+   GENTY B, 1989, BIOCHIM BIOPHYS ACTA, V990, P87, DOI 10.1016/S0304-4165(89)80016-9
+   GOLLAN T, 1992, PLANT CELL ENVIRON, V15, P551, DOI 10.1111/j.1365-3040.1992.tb01488.x
+   GOOD LG, 1978, J SOIL WATER CONSERV, V33, P89
+   Gupta NK, 2001, J AGRON CROP SCI, V186, P55, DOI 10.1046/j.1439-037x.2001.00457.x
+   Han Bin Han Bin, 2007, TRANSACTIONS OF THE CHINESE SOCIETY OF AGRICULTURAL ENGINEERING, V23, P48
+   Hassan IA, 2006, PHOTOSYNTHETICA, V44, P312, DOI 10.1007/s11099-006-0024-7
+   He J, 2010, AUST J SOIL RES, V48, P737, DOI 10.1071/SR09155
+   Hirasawa T, 1999, FIELD CROP RES, V62, P53, DOI 10.1016/S0378-4290(99)00005-2
+   Huang Ming Huang Ming, 2009, TRANSACTIONS OF THE CHINESE SOCIETY OF AGRICULTURAL ENGINEERING, V25, P50
+   HUGGINS DR, 1991, SOIL SCI SOC AM J, V55, P823, DOI 10.2136/sssaj1991.03615995005500030032x
+   Jiang Dong Jiang Dong, 2004, ACTA AGRONOMICA SINICA, V30, P175
+   Jiang XiaoDong Jiang XiaoDong, 2006, TRANSACTIONS OF THE CHINESE SOCIETY OF AGRICULTURAL ENGINEERING, V22, P66
+   Jones OR, 1997, AGRON J, V89, P222, DOI 10.2134/agronj1997.00021962008900020012x
+   JOSEPH KDSM, 1985, AGRON J, V77, P211, DOI 10.2134/agronj1985.00021962007700020009x
+   Kang SZ, 2001, HYDROL PROCESS, V15, P977, DOI 10.1002/hyp.191
+   Li HW, 2007, AUST J SOIL RES, V45, P344, DOI 10.1071/SR07003
+   Li XY, 2001, AGR WATER MANAGE, V50, P173, DOI 10.1016/S0378-3774(01)00105-6
+   Li YouJun Li YouJun, 2006, JOURNAL OF SOIL AND WATER CONSERVATION (CHINA), V20, P42
+   Li YouJun Li YouJun, 2006, TRANSACTIONS OF THE CHINESE SOCIETY OF AGRICULTURAL ENGINEERING, V22, P44
+   Lin SQ, 1992, CHINESE B BOT, V9, P1, DOI 10.1515/znb-1972-1141
+   Pikul JL, 2003, SOIL SCI SOC AM J, V67, P859, DOI 10.2136/sssaj2003.0859
+   Ralph PJ, 2005, J PHYCOL, V41, P335, DOI 10.1111/j.1529-8817.2005.04034.x
+   Shangguan ZP, 2000, ENVIRON EXP BOT, V44, P141, DOI 10.1016/S0098-8472(00)00064-2
+   Siddique MRB, 1999, BOT BULL ACAD SINICA, V40, P141
+   SMIKA DE, 1990, AGRON J, V82, P319, DOI 10.2134/agronj1990.00021962008200020029x
+   Sui N, 2010, AGR SCI CHINA, V9, P346, DOI 10.1016/S1671-2927(09)60103-6
+   Trethowan RM, 2005, ANN APPL BIOL, V146, P405, DOI 10.1111/j.1744-7348.2005.040137.x
+   Wang XiaoBin Wang XiaoBin, 2003, SCIENTIA AGRICULTURA SINICA, V36, P1044
+   [吴金芝 WU Jinzhi], 2008, 干旱地区农业研究 AGRICULTURAL RESEARCH IN THE ARID AREAS, V26, P17
+NR 45
+TC 10
+Z9 10
+U1 3
+U2 69
+PU AMER SOC AGRONOMY
+PI MADISON
+PA 677 S SEGOE RD, MADISON, WI 53711 USA
+SN 0002-1962
+EI 
+J9 AGRON J
+JI Agron. J.
+PD JAN-FEB 15
+PY 2013
+VL 105
+IS 1
+BP 215
+EP 221
+DI 10.2134/agronj2012.0201
+PG 7
+WC Agronomy
+SC Agriculture
+GA 087FT
+UT WOS:000314747400024
+DA 2024-08-17
+ER
+
+PT J
+AU Ward, PR
+   Roper, MM
+   Jongepier, R
+   Fernandez, MMA
+AF Ward, Philip R.
+   Roper, Margaret M.
+   Jongepier, Ramona
+   Fernandez, Maria M. Alonso
+TI Consistent plant residue removal causes decrease in minimum soil water content in a Mediterranean environment
+SO BIOLOGIA
+LA English
+DT Article
+DE conservation farming; stubble; soil water holding capacity
+ID stubble retention; microbial function; cropping systems; organic-matter; no-tillage; evaporation; carbon; accumulation; management; dynamics
+AB Residue retention and no-till farming have been widely adopted to reduce erosion risk, but residue retention in particular is becoming less common due to issues with weed control, and competing markets for residue such as bioenergy production. For this reason, the impact of residue removal on soil water contents in a sandy soil in a Mediterranean-type environment was evaluated. Crop residues were removed by burning or conventional tillage annually in autumn (April or May) from 2008 until 2011. Surface residue cover and soil water contents were measured in summer (February-March) every year from 2008 until 2012, at the time of minimum soil water content (approaching air-dry). After three years of residue removal, average ground cover in the subsequent summers (2011 and 2012) decreased from 78% to 51%, and surface soil water contents decreased from 5.1% to 3.1%. Tillage also significantly decreased ground cover (from 72% to 58%) and soil water (from 4.2% to 3.9%) during the same time period. Changes in surface cover and soil water content indicate that residue removal will have implications for soil health and sustainable crop production.
+C1 [Ward, Philip R.; Roper, Margaret M.; Jongepier, Ramona; Fernandez, Maria M. Alonso] CSIRO Plant Ind, Wembley, WA 6913, Australia.
+   [Ward, Philip R.; Roper, Margaret M.; Jongepier, Ramona; Fernandez, Maria M. Alonso] CSIRO Sustainable Agr Flagship, Wembley, WA 6913, Australia.
+   [Ward, Philip R.; Roper, Margaret M.] Univ Western Australia, Sch Plant Biol, Nedlands, WA 6009, Australia.
+C3 Commonwealth Scientific & Industrial Research Organisation (CSIRO); Commonwealth Scientific & Industrial Research Organisation (CSIRO); University of Western Australia
+RP Ward, PR (通讯作者)，CSIRO Plant Ind, Private Bag 5, Wembley, WA 6913, Australia.
+EM Phil.Ward@csiro.au
+FU Grains Research and Development Corporation; CSIRO
+CR [Anonymous], 1971, SOIL WATER PHYS PRIN, V0, P0
+   Bescansa P, 2006, SOIL TILL RES, V87, P19, DOI 10.1016/j.still.2005.02.028
+   Cantero-Martinez C, 2006, J SOIL WATER CONSERV, V61, P84
+   Chan KY, 2011, SOIL RES, V49, P320, DOI 10.1071/SR10185
+   DEmden FH, 2006, AUST J EXP AGR, V46, P563, DOI 10.1071/EA05025
+   Dalal RC, 2001, AUST J SOIL RES, V39, P435, DOI 10.1071/SR99042
+   Flerchinger GN, 2003, GEODERMA, V116, P217, DOI 10.1016/S0016-7061(03)00102-2
+   Flower K, 2007, WORLD ASS SOIL WATER, V3, P0
+   FRANCO CMM, 1995, AUST J SOIL RES, V33, P253, DOI 10.1071/SR9950253
+   Hoyle FC, 2006, AUST J SOIL RES, V44, P407, DOI 10.1071/SR05183
+   Ji SN, 2001, SOIL SCI SOC AM J, V65, P442, DOI 10.2136/sssaj2001.652442x
+   Lal R, 1997, NUTR CYCL AGROECOSYS, V49, P243, DOI 10.1023/A:1009794514742
+   Lal R, 2005, ENVIRON INT, V31, P575, DOI 10.1016/j.envint.2004.09.005
+   Lang RD, 1979, JOURNAL OF THE SOIL CONSERVATION SERVICE OF NEW SOUTH WALES, V35, P108
+   Lichner L, 2012, J HYDROL HYDROMECH, V60, P309, DOI 10.2478/v10098-012-0027-y
+   MALHI SS, 1990, SOIL TILL RES, V17, P167, DOI 10.1016/0167-1987(90)90014-5
+   Malinda DK, 1995, AUST J EXP AGR, V35, P969, DOI 10.1071/EA9950969
+   Monzon JP, 2006, FIELD CROP RES, V98, P83, DOI 10.1016/j.fcr.2005.12.010
+   Novák V, 2009, BIOLOGIA, V64, P483, DOI 10.2478/s11756-009-0099-2
+   OLeary GJ, 1997, FIELD CROP RES, V52, P209, DOI 10.1016/S0378-4290(97)00034-8
+   Powles SB, 2010, ANNU REV PLANT BIOL, V61, P317, DOI 10.1146/annurev-arplant-042809-112119
+   RASMUSSEN PE, 1991, ADV AGRON, V45, P93
+   Roper MM, 2013, SOIL TILL RES, V126, P143, DOI 10.1016/j.still.2012.09.006
+   Roper MM, 2010, AUST J SOIL RES, V48, P274, DOI 10.1071/SR09143
+   Roper MM, 2005, AUST J SOIL RES, V43, P803, DOI 10.1071/SR05061
+   Ward PR, 2012, FIELD CROP RES, V132, P33, DOI 10.1016/j.fcr.2011.10.017
+   Ward PR, 2009, CROP PASTURE SCI, V60, P730, DOI 10.1071/CP08448
+NR 28
+TC 10
+Z9 10
+U1 1
+U2 43
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 0006-3088
+EI 1336-9563
+J9 BIOLOGIA
+JI Biologia
+PD DEC 15
+PY 2013
+VL 68
+IS 6
+BP 1128
+EP 1131
+DI 10.2478/s11756-013-0253-8
+PG 4
+WC Biology
+SC Life Sciences & Biomedicine - Other Topics
+GA 236PP
+UT WOS:000325811700021
+DA 2024-08-17
+ER
+
+PT J
+AU Liu, S
+   Zhang, XY
+   Yang, JY
+   Drury, CF
+AF Liu, Shuang
+   Zhang, Xing-Yi
+   Yang, Jingyi
+   Drury, Craig F.
+TI Effect of conservation and conventional tillage on soil water storage, water use efficiency and productivity of corn and soybean in Northeast China
+SO ACTA AGRICULTURAE SCANDINAVICA SECTION B-SOIL AND PLANT SCIENCE
+LA English
+DT Article
+DE conservational tillage; evapotranspiration; soil physical properties; soil water; water use efficiency; yield
+ID long-term tillage; zea-mays l.; no-tillage; physical-property; crop yield; management-practices; loess plateau; residue management; tropical alfisol; southern pampas
+AB The dominant factors affecting crop production in Northeast China are the low amount of rainfall in spring and high loss of soil water through evaporation during summer, both of which contribute to the lower soil water use efficiency (WUE). The objective of this study was to evaluate the long-term effects of no-till (NT), reduced tillage (RT) and conventional tillage (CT) on soil water storage (SWS), WUE, and soybean and corn yields in Northeast China from 2009 to 2011. The soil water contents under NT were higher than CT, especially in the 0-30 cm soil. SWS was lower in spring and autumn but higher in summer and it was influenced by both rainfall and tillage practices. NT had the greatest SWS and CT the least, with RT having intermediate values in the 30-cm surface. Leaf area index was higher for CT compared with the RT and NT in corn, but it was higher for RT than CT and NT in soybean. The evapotranspiration in the crop growing seasons was higher for NT and RT than for CT in the two corn years (2009, 2011), but no differences were found in the soybean year (2010). The WUE was greatly affected by weather conditions, (i.e., 64% lower in the wet year), and also affected by tillage; that is, CT and RT were 36 and 15% higher than NT in 2009, but no differences in other years. We conclude that RT was a good compromise for both soybean and corn crops, as it was associated with higher economic returns for farmers. Further research is required to compare the effect of the conservation tillage on the WUE and economic returns for other locations in Northeast China.
+C1 [Liu, Shuang; Zhang, Xing-Yi] Chinese Acad Sci, Northeast Inst Geog & Agroecol, Key Lab Mollisols Agroecol, Harbin, Peoples R China.
+   [Liu, Shuang; Yang, Jingyi; Drury, Craig F.] Agr & Agri Food Canada, Greenhouse & Proc Crops Res Ctr, Toronto, ON, Canada.
+   [Liu, Shuang] Univ Chinese Acad Sci, Beijing, Peoples R China.
+C3 Chinese Academy of Sciences; Northeast Institute of Geography & Agroecology, CAS; Agriculture & Agri Food Canada; Chinese Academy of Sciences; University of Chinese Academy of Sciences, CAS
+RP Zhang, XY (通讯作者)，Chinese Acad Sci, Northeast Inst Geog & Agroecol, Key Lab Mollisols Agroecol, Harbin, Peoples R China.
+EM xyzhang1966@yahoo.com.cn
+FU National Key Technology RD Program [2012BAD14B06]; National Natural Science Foundation of China [41171230]; Ministry of Education, China; AAFC-Harrow Research Centre
+CR Alvarez R, 2009, SOIL TILL RES, V104, P1, DOI 10.1016/j.still.2009.02.005
+   Aparicio V, 2007, SOIL TILL RES, V96, P155, DOI 10.1016/j.still.2007.05.006
+   BENITES JR, 1993, SOIL TILL RES, V27, P9, DOI 10.1016/0167-1987(93)90060-3
+   Boomsma CR, 2010, SOIL TILL RES, V106, P227, DOI 10.1016/j.still.2009.12.006
+   Bouwer H, 1986, METHODS OF SOIL ANALYSIS. PART 1. PHYSICAL AND MINERALOGICAL METHODS, V0, P825
+   CAMPBELL RB, 1984, SOIL TILL RES, V4, P511, DOI 10.1016/0167-1987(84)90002-3
+   Chen Y, 2011, SOIL TILL RES, V115, P56, DOI 10.1016/j.still.2011.06.007
+   Chen Z, 2010, SOIL TILL RES, V110, P230, DOI 10.1016/j.still.2010.07.014
+   Cullum RF, 2012, SOIL TILL RES, V119, P1, DOI 10.1016/j.still.2011.11.011
+   Dahiya R, 2007, SOIL TILL RES, V96, P52, DOI 10.1016/j.still.2007.02.004
+   Drury CF, 2012, SOIL SCI SOC AM J, V76, P1268, DOI 10.2136/sssaj2011.0249
+   Drury CF, 1999, AGRON J, V91, P101, DOI 10.2134/agronj1999.00021962009100010016x
+   Drury CF, 2003, SOIL SCI SOC AM J, V67, P867, DOI 10.2136/sssaj2003.0867
+   Fabrizzi KP, 2005, SOIL TILL RES, V81, P57, DOI 10.1016/j.still.2004.05.001
+   Fan RQ, 2012, CAN J SOIL SCI, V92, P463, DOI 10.4141/CJSS2010-020
+   Franzluebbers AJ, 2007, SOIL TILL RES, V96, P303, DOI 10.1016/j.still.2007.07.001
+   Glab T, 2008, SOIL TILL RES, V99, P169, DOI 10.1016/j.still.2008.02.004
+   Gruber S, 2012, SOIL TILL RES, V121, P49, DOI 10.1016/j.still.2012.01.015
+   He J, 2011, SOIL TILL RES, V113, P48, DOI 10.1016/j.still.2011.01.005
+   He J, 2009, SOIL TILL RES, V104, P198, DOI 10.1016/j.still.2008.08.015
+   Hou XQ, 2012, FIELD CROP RES, V129, P7, DOI 10.1016/j.fcr.2011.12.021
+   Hussain I, 1999, SOIL TILL RES, V52, P37, DOI 10.1016/S0167-1987(99)00054-9
+   IRAGAVARAPU TK, 1995, SOIL TILL RES, V34, P145, DOI 10.1016/0167-1987(95)00470-D
+   Karunatilake U, 2000, SOIL TILL RES, V55, P31, DOI 10.1016/S0167-1987(00)00096-9
+   Kassam A, 2012, FIELD CROP RES, V132, P7, DOI 10.1016/j.fcr.2012.02.023
+   Kienzler KM, 2012, FIELD CROP RES, V132, P95, DOI 10.1016/j.fcr.2011.12.008
+   Lal R, 1997, SOIL TILL RES, V42, P145, DOI 10.1016/S0167-1987(97)00006-8
+   Li CF, 2012, SOIL TILL RES, V119, P31, DOI 10.1016/j.still.2011.12.005
+   Lipiec J, 2006, SOIL TILL RES, V89, P210, DOI 10.1016/j.still.2005.07.012
+   Liu Y, 2010, AGR WATER MANAGE, V97, P769, DOI 10.1016/j.agwat.2010.01.010
+   López MV, 2005, EUR J AGRON, V23, P26, DOI 10.1016/j.eja.2004.09.003
+   López-Fando C, 2011, SOIL TILL RES, V111, P224, DOI 10.1016/j.still.2010.10.011
+   MAURYA PR, 1986, SOIL TILL RES, V8, P161, DOI 10.1016/0167-1987(86)90331-4
+   Meng K, 2003, CHINESE J SOIL SCI, V34, P11
+   Mukherjee A, 2010, AGR WATER MANAGE, V98, P182, DOI 10.1016/j.agwat.2010.08.018
+   Mupangwa W, 2012, FIELD CROP RES, V132, P139, DOI 10.1016/j.fcr.2012.02.020
+   Naudin K, 2010, SOIL TILL RES, V108, P68, DOI 10.1016/j.still.2010.03.002
+   OJENIYI SO, 1986, SOIL TILL RES, V7, P173, DOI 10.1016/0167-1987(86)90016-4
+   OSUJI GE, 1984, SOIL TILL RES, V4, P339, DOI 10.1016/0167-1987(84)90033-3
+   Ozpinar S, 2006, SOIL TILL RES, V87, P1, DOI 10.1016/j.still.2005.02.024
+   POTTER KN, 1993, T ASAE, V36, P95
+   Pretty J, 2008, PHILOS T R SOC B, V363, P447, DOI 10.1098/rstb.2007.2163
+   Roldán A, 2007, SOIL TILL RES, V93, P273, DOI 10.1016/j.still.2006.05.001
+   Sarkar S, 2007, SOIL TILL RES, V92, P79, DOI 10.1016/j.still.2006.01.014
+   Sasal MC, 2006, SOIL TILL RES, V87, P9, DOI 10.1016/j.still.2005.02.025
+   Serraj R, 2012, FIELD CROP RES, V132, P1, DOI 10.1016/j.fcr.2012.03.002
+   Sharma P, 2011, EUR J AGRON, V34, P46, DOI 10.1016/j.eja.2010.10.003
+   Shi XH, 2012, SOIL TILL RES, V120, P1, DOI 10.1016/j.sti1l.2012.01.003
+   Soane BD, 2012, SOIL TILL RES, V118, P66, DOI 10.1016/j.still.2011.10.015
+   Sommer R, 2007, SOIL TILL RES, V94, P83, DOI 10.1016/j.still.2006.07.007
+   Su ZY, 2007, AGR WATER MANAGE, V87, P307, DOI 10.1016/j.agwat.2006.08.005
+   THIAGALINGAM K, 1991, SOIL TILL RES, V19, P47, DOI 10.1016/0167-1987(91)90108-A
+   Valbuena D, 2012, FIELD CROP RES, V132, P175, DOI 10.1016/j.fcr.2012.02.022
+   Verhulst N, 2011, FIELD CROP RES, V120, P58, DOI 10.1016/j.fcr.2010.08.012
+   Wang QJ, 2009, SOIL TILL RES, V104, P192, DOI 10.1016/j.still.2008.10.012
+   Wang XB, 2011, FIELD CROP RES, V120, P47, DOI 10.1016/j.fcr.2010.08.010
+   WILHELM WW, 1987, SOIL TILL RES, V10, P167, DOI 10.1016/0167-1987(87)90041-9
+   Wyngaard N, 2012, SOIL TILL RES, V119, P22, DOI 10.1016/j.still.2011.12.002
+   Yang XM, 2008, SOIL TILL RES, V100, P120, DOI 10.1016/j.still.2008.05.003
+   Zhang SL, 2011, J SUSTAIN AGR, V35, P293, DOI 10.1080/10440046.2011.554307
+   Zhang ShaoLiang Zhang ShaoLiang, 2009, RESEARCH OF AGRICULTURAL MODERNIZATION, V30, P113
+   Zhang SL, 2011, SOIL TILL RES, V112, P92, DOI 10.1016/j.still.2010.11.006
+   Zhang SL, 2009, SOIL TILL RES, V102, P78, DOI 10.1016/j.still.2008.07.019
+   Zotarelli L, 2012, FIELD CROP RES, V132, P185, DOI 10.1016/j.fcr.2011.12.013
+NR 64
+TC 28
+Z9 34
+U1 16
+U2 120
+PU TAYLOR & FRANCIS AS
+PI OSLO
+PA KARL JOHANS GATE 5, NO-0154 OSLO, NORWAY
+SN 0906-4710
+EI 1651-1913
+J9 ACTA AGR SCAND B-S P
+JI Acta Agric. Scand. Sect. B-Soil Plant Sci.
+PD JUL 1
+PY 2013
+VL 63
+IS 5
+BP 383
+EP 394
+DI 10.1080/09064710.2012.762803
+PG 12
+WC Agronomy; Soil Science
+SC Agriculture
+GA 169BL
+UT WOS:000320751800001
+DA 2024-08-17
+ER
+
+PT J
+AU Han, H
+   Ning, T
+   Li, Z
+AF Han, H.
+   Ning, T.
+   Li, Z.
+TI Effects of tillage and weed management on the vertical distribution of microclimate and grain yield in a winter wheat field
+SO PLANT SOIL AND ENVIRONMENT
+LA English
+DT Article
+DE conservation tillage; herbicide; illumination; air temperature; relative humidity
+ID water-use efficiency; irrigation
+AB This paper presents results of a field study of the influence of tillage and weed on the vertical distribution of microclimate in the upper, middle, and deeper layers of a winter wheat population and grain yield during the 2008-2009 and 2009-2010 winter wheat growing seasons. The results showed that the microclimate of the winter wheat canopy was different among the upper, middle, and deeper layers. Illumination was higher in the upper layer of the canopy than in the middle and deeper layers; under no-tillage + weed-reserving, a greater difference was found among the 3 layers. In the upper layer, illumination was the highest and lowest under no-tillage + weed-control and conventional tillage + weed-control, respectively. In the upper layer, air temperature was higher under no-tillage + weed-control than under conventional tillage + weed-control. The effects of air temperature in the middle and deeper layers were relatively low with tillage and considerably higher with weeds. Relative humidity was the highest and lowest under no-tillage + weed-reserving and conventional tillage + weed-control, respectively. During the winter wheat growing seasons, illumination and air temperature were lower at the heading stage and increased to a maximum at the filling stage, whereas the trend for relative humidity was the opposite. With weed-control, grain yield was significantly (LSD, P < 0.05) higher under conventional tillage than under no-tillage; with weed-reserving, no significant (LSD, P < 0.05) differences in grain yield were found between conventional tillage and no-tillage. The results showed that tillage and weed influenced microclimate vertical distribution in the winter wheat canopy and grain yield of winter wheat.
+C1 [Han, H.; Ning, T.; Li, Z.] Shandong Agr Univ, Shandong Key Lab Crop Biol, State Key Lab Crop Biol, Tai An 271018, Shandong, Peoples R China.
+C3 Shandong Agricultural University
+RP Ning, T (通讯作者)，Shandong Agr Univ, Shandong Key Lab Crop Biol, State Key Lab Crop Biol, Tai An 271018, Shandong, Peoples R China.
+EM ningty@sdau.edu.cn
+FU National Natural Science Foundation of China [31101127]; Natural Science Foundation of Shandong Province of China [ZR2010CQ009]; National Science and Technology Research Projects of China [2012BAD14B17]; Special Research Funding for Public Benefit Industries (Agriculture) of China [201103001]
+CR De Vita P, 2007, SOIL TILL RES, V92, P69, DOI 10.1016/j.still.2006.01.012
+   Ibell PT, 2010, J SOIL SEDIMENT, V10, P1027, DOI 10.1007/s11368-010-0222-6
+   Khalid Usman Khalid Usman, 2010, SARHAD JOURNAL OF AGRICULTURE, V26, P475
+   Li QQ, 2008, PLANT PROD SCI, V11, P161, DOI 10.1626/pps.11.161
+   Li QQ, 2010, AGR WATER MANAGE, V97, P1676, DOI 10.1016/j.agwat.2010.05.025
+   Monteiro JEBA, 2006, AGRISCIENTIA, V23, P45
+   Olsen J, 2006, WEED BIOL MANAG, V6, P165, DOI 10.1111/j.1445-6664.2006.00210.x
+   Reynolds MP, 2006, J AGR SCI-CAMBRIDGE, V144, P95, DOI 10.1017/S0021859606005879
+   Rosskopf EN, 1999, HANDBOOK OF BIOLOGICAL CONTROL, V0, P891
+   Shapiro DI, 1999, J NEMATOL, V31, P517
+   Song DongMing Song DongMing, 2009, ACTA AGRONOMICA SINICA, V35, P914, DOI 10.3724/SP.J.1006.2009.00914
+   Su ZY, 2007, AGR WATER MANAGE, V87, P307, DOI 10.1016/j.agwat.2006.08.005
+   Zhang XY, 2003, IRRIGATION SCI, V21, P159, DOI 10.1007/s00271-002-0059-x
+   Zhu WenDa Zhu WenDa, 2008, ACTA PHYTOPHYLACICA SINICA, V35, P557
+NR 14
+TC 7
+Z9 8
+U1 1
+U2 27
+PU CZECH ACADEMY AGRICULTURAL SCIENCES
+PI PRAGUE
+PA TESNOV 17, PRAGUE, 117 05, CZECH REPUBLIC
+SN 1214-1178
+EI 1805-9368
+J9 PLANT SOIL ENVIRON
+JI Plant Soil Environ.
+PD JUN 15
+PY 2013
+VL 59
+IS 5
+BP 201
+EP 207
+DI 10.17221/766/2012-PSE
+PG 7
+WC Agronomy
+SC Agriculture
+GA 131BZ
+UT WOS:000317967600003
+DA 2024-08-17
+ER
+
+PT J
+AU Jemai, I
+   Ben Aissa, N
+   Ben Guirat, S
+   Ben-Hammouda, M
+   Gallali, T
+AF Jemai, Imene
+   Ben Aissa, Nadhira
+   Ben Guirat, Saida
+   Ben-Hammouda, Moncef
+   Gallali, Tahar
+TI Impact of three and seven years of no-tillage on the soil water storage, in the plant root zone, under a dry subhumid Tunisian climate
+SO SOIL & TILLAGE RESEARCH
+LA English
+DT Article
+DE No-tillage; Conventional tillage; Organic matter; Soil porosity; Soil moisture; Available water content; Tunisia
+ID long-term tillage; clay loam soil; physical-property; organic-matter; conservation tillage; zero-tillage; bulk-density; residue management; crop production; use efficiency
+AB Conservation agriculture based on no-tillage (CA/NT) becomes a current tendency to enhance crop productivity by improving: (i) soil quality, (ii) water management and (iii) organic supply. In Tunisia, the applicability of CA was poorly documented. This study was carried out to evaluate changes in soil organic matter (SUM) and water properties generated by seven (NT7) and three (NT3) years of applying NT as compared to conventional tillage (CT). On three adjacent large plots, a field experiment was established since the growing season 2000/01 under rain-fed conditions on a clay loam soil in a dry subhumid zone of North Tunisia. In NT3 plot, a cultivation of wheat/fava bean sequence was investigated and residues biomass of 500 kg ha(-1) and 450 kg ha(-1) were left on the soil surface for wheat and fava bean, respectively. In NT7 plot, a cultivation of wheat/sulla sequence was investigated and residues biomass of 500 kg ha(-1) and 700 kg ha(-1) were left on the soil surface for wheat and sulla, respectively. However for the CT plot, a moldboard plowing at approximately 20 cm depth was managed for continuous wheat production. The selected key parameters evaluated for a 0-30 cm soil profile were SOM, bulk density (BD), total porosity (TP), macro-porosity (MP), micro-porosity (mP), soil water retention at field capacity (FC) and at permanent wilting point (PWP), available water content (AWC) and soil moisture content (SMC). NT7 have increased significantly (p < 0.05) levels of SOM at the top 30 cm soil layer, which in turn enhanced BD and TP of soil as compared to CT. However, improvement of these parameters was restricted to 0-10 cm layer with NT3. Both NT3 and NT7 have increased considerably (p < 0.05) mP at 030 cm thereby increasing soil water content at FC and PWP, whereas MP was remarkably reduced by NT treatments as compared to CT but reduction was less important in NT7 plot. AWC was significantly (p < 0.05) higher in NT7 across the 30 cm profile while NT3 and CT have similar effect to each other. SMC was improved at different soil depths by NT system during the whole agricultural season and the highest content was found with NT3. Soil moisture values increased with increasing soil depth in both NT3 and NT7 indicating a good water infiltration induced by these treatments. Hence, water storage properties in rooting zone could be enhanced by NT7 and NT3 but water availability for plants was more important with NT7. (C) 2012 Elsevier B.V. All rights reserved.
+C1 [Jemai, Imene; Ben Guirat, Saida; Gallali, Tahar] Fac Sci Tunis, Tunis 1060, Tunisia.
+   [Ben Aissa, Nadhira] Inst Natl Agron Tunisie, Tunis Mahrajene, Tunisia.
+   [Ben-Hammouda, Moncef] Ecole Super Agr Kef, Boulifa 7100, Kef, Tunisia.
+C3 Universite de Tunis-El-Manar; Faculte des Sciences de Tunis (FST); Universite de Carthage; Universite de Jendouba
+RP Jemai, I (通讯作者)，N1,Rue 18 Janvier Mateur 7030, Mateur, Tunisia.
+EM j_amona20@yahoo.fr
+CR Alvarez R, 1998, GEODERMA, V83, P127, DOI 10.1016/S0016-7061(97)00141-9
+   Alvarez R, 2009, SOIL TILL RES, V104, P1, DOI 10.1016/j.still.2009.02.005
+   [Anonymous], 2006, WORLD REFERENCE BASE FOR SOIL RESOURCES, V2nd, P0
+   Arvidsson J, 1998, SOIL TILL RES, V49, P159, DOI 10.1016/S0167-1987(98)00164-0
+   Ben Hammouda M, 2004, DEUXIEMES RENCONTRES, V0, P104
+   Ben-Hammouda M, 2006, OPTIONS MEDITERRAN A, V69, P69
+   Bescansa P, 2006, SOIL TILL RES, V87, P19, DOI 10.1016/j.still.2005.02.028
+   Bhattacharyya R, 2006, SOIL TILL RES, V86, P129, DOI 10.1016/j.still.2005.02.018
+   Blanco-Canqui H, 2007, SOIL TILL RES, V95, P240, DOI 10.1016/j.still.2007.01.004
+   Bonfil DJ, 1999, AGRON J, V91, P368, DOI 10.2134/agronj1999.00021962009100030003x
+   Bonneau M, 1979, PEDOLOGIE, V0, P0
+   BRUCE RR, 1990, SOIL SCI SOC AM J, V54, P1744, DOI 10.2136/sssaj1990.03615995005400060039x
+   Burayu W, 2006, ACAD J, V4, P48
+   Buschiazzo DE, 1998, SOIL TILL RES, V49, P105, DOI 10.1016/S0167-1987(98)00160-3
+   Carter Martin R, 1994, P3, V0, P0
+   Chen HQ, 2009, SOIL TILL RES, V106, P85, DOI 10.1016/j.still.2009.09.009
+   Cook RJ, 1991, WHEAT HLTH MANAGEMEN, V0, P21
+   Dam RF, 2005, SOIL TILL RES, V84, P41, DOI 10.1016/j.still.2004.08.006
+   De la Horra AM, 2003, SOIL TILL RES, V104, P292
+   De Vita P, 2007, SOIL TILL RES, V92, P69, DOI 10.1016/j.still.2006.01.012
+   DEVLEESCHAUWER RLD, 1980, SOIL SCI SOC AM J, V44, P827, DOI 10.2136/sssaj1980.03615995004400040034x
+   Díaz-Zorita M, 2002, SOIL TILL RES, V65, P1, DOI 10.1016/S0167-1987(01)00274-4
+   DOUGLAS JT, 1980, SOIL TILL RES, V1, P11, DOI 10.1016/0167-1987(80)90004-5
+   EDWARDS JH, 1992, SOIL SCI SOC AM J, V56, P1577, DOI 10.2136/sssaj1992.03615995005600050040x
+   Errouissi F, 2011, SOIL TILL RES, V112, P122, DOI 10.1016/j.still.2010.12.004
+   Fabrizzi KP, 2005, SOIL TILL RES, V81, P57, DOI 10.1016/j.still.2004.05.001
+   Fernández-Ugalde O, 2009, SOIL TILL RES, V106, P29, DOI 10.1016/j.still.2009.09.012
+   FRANZLUEBBERS AJ, 1995, SOIL TILL RES, V34, P41, DOI 10.1016/0167-1987(94)00450-S
+   Franzluebbers AJ, 2000, SOIL BIOL BIOCHEM, V32, P469, DOI 10.1016/S0038-0717(99)00176-5
+   GANTZER CJ, 1978, AGRON J, V70, P853, DOI 10.2134/agronj1978.00021962007000050035x
+   GAUER E, 1982, CAN J SOIL SCI, V62, P311, DOI 10.4141/cjss82-035
+   Ghimire R, 2011, PADDY WATER ENVIRON, V0, P0
+   Ghuman BS, 2001, SOIL TILL RES, V58, P1, DOI 10.1016/S0167-1987(00)00147-1
+   Gómez JA, 1999, SOIL TILL RES, V52, P167, DOI 10.1016/S0167-1987(99)00078-1
+   Govaerts B, 2007, SOIL TILL RES, V94, P209, DOI 10.1016/j.still.2006.07.013
+   GRANT CA, 1993, CAN J SOIL SCI, V73, P223, DOI 10.4141/cjss93-024
+   Gregory PJ, 2000, AGRON J, V92, P814, DOI 10.2134/agronj2000.925814x
+   GREVERS MC, 1986, SOIL TILL RES, V8, P265, DOI 10.1016/0167-1987(86)90339-9
+   Gruber S, 2011, SOIL TILL RES, V115, P80, DOI 10.1016/j.still.2011.07.001
+   Hamza MA, 2005, SOIL TILL RES, V82, P121, DOI 10.1016/j.still.2004.08.009
+   HEER WF, 1989, SOIL TILL RES, V14, P185, DOI 10.1016/0167-1987(89)90031-7
+   Hernanz JL, 2009, AGR ECOSYST ENVIRON, V133, P114, DOI 10.1016/j.agee.2009.05.009
+   Hernanz JL, 2002, SOIL TILL RES, V66, P129, DOI 10.1016/S0167-1987(02)00021-1
+   Horne DJ, 1992, SOIL TILLAGE RES, V22, P0
+   JONES JN, 1968, AGRON J, V60, P17, DOI 10.2134/agronj1968.00021962006000010006x
+   Jordán A, 2010, CATENA, V81, P77, DOI 10.1016/j.catena.2010.01.007
+   Kashif Khurshid Kashif Khurshid, 2006, INTERNATIONAL JOURNAL OF AGRICULTURE AND BIOLOGY, V8, P593
+   Keller T, 2007, SOIL TILL RES, V92, P45, DOI 10.1016/j.still.2006.01.001
+   LAL R, 1991, SOIL TILL RES, V20, P133, DOI 10.1016/0167-1987(91)90036-W
+   Latiri-Souki K, 1994, THESIS U READING UK, V0, P0
+   Lipiec J, 2006, SOIL TILL RES, V89, P210, DOI 10.1016/j.still.2005.07.012
+   López-Fando C, 2011, SOIL TILL RES, V111, P224, DOI 10.1016/j.still.2010.10.011
+   Madejón E, 2007, SOIL TILL RES, V94, P346, DOI 10.1016/j.still.2006.08.010
+   McVay KA, 2006, SOIL SCI SOC AM J, V70, P434, DOI 10.2136/sssaj2005.0249
+   Melero S, 2008, EUR J SOIL BIOL, V44, P437, DOI 10.1016/j.ejsobi.2008.06.003
+   Melero S, 2009, SOIL TILL RES, V104, P292, DOI 10.1016/j.still.2009.04.001
+   Mellouli HJ, 2000, AGR WATER MANAGE, V42, P355, DOI 10.1016/S0378-3774(99)00040-2
+   Moussa-Machraoui SB, 2010, SOIL TILL RES, V106, P247, DOI 10.1016/j.still.2009.10.009
+   Mulumba LN, 2008, SOIL TILL RES, V98, P106, DOI 10.1016/j.still.2007.10.011
+   OSULLIVAN MF, 1992, SOIL TILL RES, V24, P257, DOI 10.1016/0167-1987(92)90091-O
+   Oweis T, 2000, AGRON J, V92, P231, DOI 10.1007/s100870050027
+   PAGLIAI M, 1993, BIORESOURCE TECHNOL, V43, P205, DOI 10.1016/0960-8524(93)90032-7
+   Pervaiz MA, 2009, INT J AGRIC BIOL, V11, P119
+   Pikul JL, 1994, SOIL TILL. RES, V66, P95
+   RADFORD BJ, 1992, SOIL TILL RES, V22, P73, DOI 10.1016/0167-1987(92)90023-5
+   REICOSKY DC, 1995, J SOIL WATER CONSERV, V50, P253
+   Richard JF, 2007, SEMINAIRE NATL LANCE, V0, P16
+   Sasal MC, 2006, SOIL TILL RES, V87, P9, DOI 10.1016/j.still.2005.02.025
+   Sharma P, 2011, EUR J AGRON, V34, P46, DOI 10.1016/j.eja.2010.10.003
+   Singh B, 1998, SOIL TILL RES, V45, P59, DOI 10.1016/S0167-1987(97)00067-6
+   Tebrugge F, 2001, CONSERVATION AGRICULTURE, V0, P303
+   Thomas GA, 2007, SOIL TILL RES, V94, P295, DOI 10.1016/j.still.2006.08.005
+   Tolon-Becerra A, 2011, SOIL TILL RES, V117, P184, DOI 10.1016/j.still.2011.10.003
+   TRIPLETT GB, 1968, AGRON J, V60, P236, DOI 10.2134/agronj1968.00021962006000020028x
+   UNGER PW, 1991, AGRON J, V83, P186, DOI 10.2134/agronj1991.00021962008300010044x
+   Yang XM, 2008, SOIL TILL RES, V100, P120, DOI 10.1016/j.still.2008.05.003
+   Yankovitch L, 1956, ANN SERVICE BOT AGRO, V29, P1
+   Zhang HP, 1999, AGR WATER MANAGE, V38, P195, DOI 10.1016/S0378-3774(98)00069-9
+NR 78
+TC 82
+Z9 93
+U1 2
+U2 106
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-1987
+EI 1879-3444
+J9 SOIL TILL RES
+JI Soil Tillage Res.
+PD JAN 15
+PY 2013
+VL 126
+IS 
+BP 26
+EP 33
+DI 10.1016/j.still.2012.07.008
+PG 8
+WC Soil Science
+SC Agriculture
+GA 068SG
+UT WOS:000313385900004
+DA 2024-08-17
+ER
+
+PT J
+AU Page, K
+   Dang, Y
+   Dalal, R
+AF Page, Kathryn
+   Dang, Yash
+   Dalal, Ram
+TI Impacts of conservation tillage on soil quality, including soil-borne crop diseases, with a focus on semi-arid grain cropping systems
+SO AUSTRALASIAN PLANT PATHOLOGY
+LA English
+DT Article
+DE Conservation tillage; Soil quality; Semi-arid; Grain cropping; Crop diseases
+ID long-term tillage; sandy loam soil; nematodes pratylenchus-thornei; water-use efficiency; red-brown earth; no-tillage; stubble retention; organic-matter; physical-property; residue management
+AB Conservation tillage is a system of management that leaves at least 30 % of the soil surface covered by residue between crop harvests and planting, and may be combined with appropriate crop rotations to improve soil fertility and disease/weed management. This review examines the effect of conservation tillage on soil biological, chemical, and physical properties and how these interact to affect crop production. Improvements in physical attributes are widely observed under conservation tillage, and these improvements often lead to increased rates of water infiltration and storage. Increases in bulk density in the absence of cultivation, however, may lead to decreases in soil aeration. Conservation tillage may also lead to many soil chemical changes. Decreases in soil pH, changes to cation exchange capacity, and alterations to nutrient availability have all been observed. Changes to biological processes are generally characterised by increases in soil organic carbon (SOC) at or near the surface of the soil profile, along with subsequent increases in soil microbial biomass and diversity. However, the presence of plant diseases and weeds may also increase under conservation tillage management. In semi-arid environments, the increases in soil water storage afforded by conservation tillage often lead to increased yield, especially in dry years. However, where crop disease and weed growth, a lack of plant available nutrients, and/or adverse soil structure limit plant development, lower yields may also be observed. Holistic systems that incorporate appropriate crop rotations, fertiliser and weed management are required to help control the negative aspects of conservation tillage, and ensure that improvements in soil quality lead to increases in crop production.
+C1 [Page, Kathryn; Dalal, Ram] Dept Sci Informat Technol Innovat & Arts, Dutton Pk, Qld, Australia.
+   [Dang, Yash] Dept Sci Informat Technol Innovat & Arts, Toowoomba, Qld, Australia.
+RP Page, K (通讯作者)，Dept Sci Informat Technol Innovat & Arts, 41 Boggo Rd, Dutton Pk, Qld, Australia.
+EM kathryn.page@science.dsitia.qld.gov.au
+CR AASE JK, 1995, AGRON J, V87, P652, DOI 10.2134/agronj1995.00021962008700040008x
+   Anderson RL, 2007, AGRON SUSTAIN DEV, V27, P13, DOI 10.1051/agro:2006027
+   AULAKH MS, 1984, J ENVIRON QUAL, V13, P130, DOI 10.2134/jeq1984.00472425001300010024x
+   Baumhardt RL, 2012, SOIL SCI SOC AM J, V76, P1370, DOI 10.2136/sssaj2011.0331
+   BEARE MH, 1993, SOIL SCI SOC AM J, V57, P392, DOI 10.2136/sssaj1993.03615995005700020018x
+   BEARE MH, 1992, ECOL MONOGR, V62, P569, DOI 10.2307/2937317
+   Beare MH, 1997, APPL SOIL ECOL, V5, P211, DOI 10.1016/S0929-1393(96)00142-4
+   BEARE MH, 1994, SOIL SCI SOC AM J, V58, P787, DOI 10.2136/sssaj1994.03615995005800030021x
+   Bockus WW, 1998, ANNU REV PHYTOPATHOL, V36, P485, DOI 10.1146/annurev.phyto.36.1.485
+   BRAIM MA, 1992, SOIL TILL RES, V22, P173, DOI 10.1016/0167-1987(92)90030-F
+   Bravo CA, 2007, SOIL SCI, V172, P141, DOI 10.1097/ss.0b013e31802db198
+   BRODER MW, 1984, SOIL SCI SOC AM J, V48, P1060, DOI 10.2136/sssaj1984.03615995004800050022x
+   BUHLER DD, 1994, WEED SCI, V42, P205, DOI 10.1017/S0043174500080280
+   Bullied WJ, 2003, WEED SCI, V51, P886, DOI 10.1614/P2002-117
+   Cantero-Martinez C, 1995, SOIL AND TILLAGE RESEARCH, V34, P79, DOI 10.1016/0167-1987(95)00459-6
+   CARTER MR, 1992, AUST J SOIL RES, V30, P493, DOI 10.1071/SR9920493
+   Chan KY, 2011, SOIL RES, V49, P320, DOI 10.1071/SR10185
+   CHAN KY, 1988, AUST J SOIL RES, V26, P549, DOI 10.1071/SR9880549
+   Chan KY, 2003, AUST J EXP AGR, V43, P325, DOI 10.1071/EA02077
+   CHAN KY, 1992, AUST J SOIL RES, V30, P71, DOI 10.1071/SR9920071
+   Chan KY, 2002, SOIL TILL RES, V63, P133, DOI 10.1016/S0167-1987(01)00239-2
+   Chauhan BS, 2006, AUST J EXP AGR, V46, P1557, DOI 10.1071/EA05291
+   Chauhan BS, 2012, CROP PROT, V38, P57, DOI 10.1016/j.cropro.2012.03.010
+   Chenu C, 2000, SOIL SCI SOC AM J, V64, P1479, DOI 10.2136/sssaj2000.6441479x
+   COOK RJ, 1991, SOIL BIOL BIOCHEM, V23, P1125, DOI 10.1016/0038-0717(91)90024-E
+   Cunfer BM, 2006, PLANT DIS, V90, P1161, DOI 10.1094/PD-90-1161
+   Dalal RC, 2011, SOIL TILL RES, V112, P133, DOI 10.1016/j.still.2010.12.006
+   DALAL RC, 1991, SOIL BIOL BIOCHEM, V23, P435, DOI 10.1016/0038-0717(91)90006-6
+   DALAL RC, 1989, SOIL SCI SOC AM J, V53, P1511, DOI 10.2136/sssaj1989.03615995005300050035x
+   Sá JCD, 2009, SOIL TILL RES, V104, P56, DOI 10.1016/j.still.2008.11.007
+   Deng SP, 1997, BIOL FERT SOILS, V24, P141, DOI 10.1007/s003740050222
+   DICK WA, 1983, SOIL SCI SOC AM J, V47, P102, DOI 10.2136/sssaj1983.03615995004700010021x
+   DORAN JW, 1980, SOIL SCI SOC AM J, V44, P518, DOI 10.2136/sssaj1980.03615995004400030016x
+   Doran JW, 1998, SOIL TILL RES, V49, P3, DOI 10.1016/S0167-1987(98)00150-0
+   Dou F, 2008, SOIL SCI SOC AM J, V72, P1445, DOI 10.2136/sssaj2007.0230
+   Duiker SW, 2006, SOIL TILL RES, V88, P30, DOI 10.1016/j.still.2005.04.004
+   Evans ML, 2010, AUSTRALAS PLANT PATH, V39, P376, DOI 10.1071/AP09092
+   Farooq M, 2011, SOIL TILL RES, V117, P172, DOI 10.1016/j.still.2011.10.001
+   Felton WL, 1995, AUST J EXP AGR, V35, P915, DOI 10.1071/EA9950915
+   Fettell NA, 1995, AUST J EXP AGR, V35, P923, DOI 10.1071/EA9950923
+   FRANZLUEBBERS AJ, 1994, SOIL SCI SOC AM J, V58, P1639, DOI 10.2136/sssaj1994.03615995005800060009x
+   Franzluebbers AJ, 1997, SOIL SCI SOC AM J, V61, P1090, DOI 10.2136/sssaj1997.03615995006100040015x
+   Franzluebbers AJ, 1996, SOIL TILL RES, V39, P229, DOI 10.1016/S0167-1987(96)01056-2
+   Frey SD, 2000, SOIL BIOL BIOCHEM, V32, P689, DOI 10.1016/S0038-0717(99)00205-9
+   Frey SD, 1999, SOIL BIOL BIOCHEM, V31, P573, DOI 10.1016/S0038-0717(98)00161-8
+   Garg N, 2011, SUST AGR VOL 2, V2, P907, DOI 10.1007/978-94-007-0394-0_40
+   GIBSON G, 1992, AUST J EXP AGR, V32, P473, DOI 10.1071/EA9920473
+   Gonzalez-Chávez MDA, 2010, SOIL TILL RES, V106, P285, DOI 10.1016/j.still.2009.11.008
+   Govaerts B, 2008, APPL SOIL ECOL, V38, P197, DOI 10.1016/j.apsoil.2007.10.009
+   Govaerts B, 2007, APPL SOIL ECOL, V37, P18, DOI 10.1016/j.apsoil.2007.03.006
+   Govaerts B, 2007, SOIL TILL RES, V94, P209, DOI 10.1016/j.still.2006.07.013
+   GREGORICH EG, 1993, SOIL TILL RES, V26, P289, DOI 10.1016/0167-1987(93)90002-7
+   HAINES PJ, 1990, AUST J EXP AGR, V30, P365, DOI 10.1071/EA9900365
+   Hajabbasi MA, 2000, SOIL TILL RES, V56, P205, DOI 10.1016/S0167-1987(00)00140-9
+   Halvorson AD, 2000, AGRON J, V92, P136, DOI 10.1007/s100870050016
+   HAMBLIN AP, 1984, SOIL TILL RES, V4, P543, DOI 10.1016/0167-1987(84)90004-7
+   HAMMEL JE, 1995, AGRON J, V87, P16, DOI 10.2134/agronj1995.00021962008700010004x
+   Hatfield JL, 2001, AGRON J, V93, P271, DOI 10.2134/agronj2001.932271x
+   HEENAN DP, 1994, AUST J AGR RES, V45, P93, DOI 10.1071/AR9940093
+   HEENAN DP, 1990, AUST J EXP AGR, V30, P227, DOI 10.1071/EA9900227
+   HEENAN DP, 1995, SOIL USE MANAGE, V11, P4, DOI 10.1111/j.1475-2743.1995.tb00487.x
+   Helgason BL, 2009, SOIL SCI SOC AM J, V73, P120, DOI 10.2136/sssaj2007.0392
+   Hemmat A, 2006, SOIL TILL RES, V86, P99, DOI 10.1016/j.still.2005.02.003
+   Hemmat A, 2004, SOIL TILL RES, V78, P69, DOI 10.1016/j.still.2004.02.013
+   HENDRIX PF, 1986, BIOSCIENCE, V36, P374, DOI 10.2307/1310259
+   Höflich G, 1999, BIOL FERT SOILS, V29, P81, DOI 10.1007/s003740050528
+   HOLLAND EA, 1987, ECOLOGY, V68, P425, DOI 10.2307/1939274
+   Holland JM, 2004, AGR ECOSYST ENVIRON, V103, P1, DOI 10.1016/j.agee.2003.12.018
+   Hoyle FC, 2006, AUST J SOIL RES, V44, P407, DOI 10.1071/SR05183
+   ISMAIL I, 1994, SOIL SCI SOC AM J, V58, P193, DOI 10.2136/sssaj1994.03615995005800010028x
+   JOHNSON MD, 1989, WEED SCI, V37, P239, DOI 10.1017/S004317450007185X
+   JONES OR, 1994, T ASAE, V37, P473, DOI 10.13031/2013.28099
+   Kabir Z, 1997, PLANT SOIL, V192, P285, DOI 10.1023/A:1004205828485
+   Krupinsky JM, 2007, AGRON J, V99, P912, DOI 10.2134/agronj2006.0130
+   Lal R, 1999, J SUSTAIN AGR, V14, P67, DOI 10.1300/J064v14n04_07
+   LAMB JA, 1985, SOIL SCI SOC AM J, V49, P1441, DOI 10.2136/sssaj1985.03615995004900060022x
+   Lamprecht SC, 2006, AUSTRALAS PLANT PATH, V35, P419, DOI 10.1071/AP06040
+   Lampurlanés J, 2006, SOIL TILL RES, V85, P13, DOI 10.1016/j.still.2004.11.006
+   Lampurlanés J, 2002, SOIL TILL RES, V65, P207, DOI 10.1016/S0167-1987(01)00285-9
+   LARNEY FJ, 1989, SOIL SCI SOC AM J, V53, P1539, DOI 10.2136/sssaj1989.03615995005300050041x
+   LARYEA KB, 1991, SOIL TILL RES, V20, P201, DOI 10.1016/0167-1987(91)90040-5
+   LAWRENCE PA, 1994, SOIL TILL RES, V28, P347, DOI 10.1016/0167-1987(94)90140-6
+   Li HW, 2007, AUST J SOIL RES, V45, P344, DOI 10.1071/SR07003
+   LIEBMAN M, 1993, ECOL APPL, V3, P92, DOI 10.2307/1941795
+   Limousin G, 2007, SOIL TILL RES, V92, P167, DOI 10.1016/j.still.2006.02.003
+   LINN DM, 1984, SOIL SCI SOC AM J, V48, P1267, DOI 10.2136/sssaj1984.03615995004800060013x
+   LOCH RJ, 1984, AUST J SOIL RES, V22, P91, DOI 10.1071/SR9840091
+   LOGAN TJ, 1991, SOIL TILL RES, V20, P241, DOI 10.1016/0167-1987(91)90042-V
+   Lopez MV, 1997, SOIL TILL RES, V44, P35, DOI 10.1016/S0167-1987(97)00030-5
+   Lopez-Bellido L, 1996, AGRON J, V88, P783, DOI 10.2134/agronj1996.00021962008800050016x
+   Lupwayi NZ, 1998, SOIL BIOL BIOCHEM, V30, P1733, DOI 10.1016/S0038-0717(98)00025-X
+   Lupwayi NZ, 2001, APPL SOIL ECOL, V16, P251, DOI 10.1016/S0929-1393(00)00123-2
+   Lyon DJ, 1998, SOIL TILL RES, V49, P19, DOI 10.1016/S0167-1987(98)00151-2
+   Madejón E, 2007, SOIL TILL RES, V94, P346, DOI 10.1016/j.still.2006.08.010
+   Mannering JV, 1987, EFFECTS OF CONSERVATION TILLAGE ON GROUNDWATER QUALITY - NITRATES AND PESTICIDES, V0, P3
+   MARLEY JM, 1989, AUST J EXP AGR, V29, P807, DOI 10.1071/EA9890807
+   Matowo PR, 1999, SOIL TILL RES, V50, P11, DOI 10.1016/S0167-1987(98)00190-1
+   McBride BC, 1994, ENVIRONMENTAL CHEMISTRY OF SOILS, V0, P0
+   McGarry D, 2000, SOIL TILL RES, V53, P105, DOI 10.1016/S0167-1987(99)00091-4
+   McGonigle TP, 1996, SOIL SCI SOC AM J, V60, P1856, DOI 10.2136/sssaj1996.03615995006000060034x
+   MIELKE LN, 1986, SOIL TILL RES, V7, P355, DOI 10.1016/0167-1987(86)90022-X
+   Moreno F, 1997, SOIL TILL RES, V41, P25, DOI 10.1016/S0167-1987(96)01083-5
+   MURRAY GM, 1991, AUST J EXP AGR, V31, P645, DOI 10.1071/EA9910645
+   Neate SM, 1994, SOIL BIOTA MANAGEMEN, V0, P0
+   Nielsen DC, 2005, AGRON J, V97, P364, DOI 10.2134/agronj2005.0364
+   NORWOOD C, 1994, AGRON J, V86, P558, DOI 10.2134/agronj1994.00021962008600030019x
+   OLeary GJ, 1997, FIELD CROP RES, V52, P221, DOI 10.1016/S0378-4290(97)00035-X
+   OLeary GJ, 1997, FIELD CROP RES, V52, P209, DOI 10.1016/S0378-4290(97)00034-8
+   Olson KR, 2010, SOIL SCI, V175, P562, DOI 10.1097/SS.0b013e3181fa2837
+   Page KL, 2012, SOIL RES IN PRESS, V0, P0
+   PANKHURST CE, 1995, SOIL BIOL BIOCHEM, V27, P1065, DOI 10.1016/0038-0717(95)00009-4
+   Pankhurst CE, 1995, AUST J EXP AGR, V35, P1015, DOI 10.1071/EA9951015
+   Pankhurst CE, 2002, BIOL FERT SOILS, V35, P189, DOI 10.1007/s00374-002-0459-3
+   Perez C, 2008, PLANT SOIL, V302, P53, DOI 10.1007/s11104-007-9455-6
+   Peters RD, 2003, SOIL TILL RES, V72, P181, DOI 10.1016/S0167-1987(03)00087-4
+   Qin SP, 2010, EUR J SOIL BIOL, V46, P243, DOI 10.1016/j.ejsobi.2010.04.006
+   RADFORD BJ, 1995, AUST J EXP AGR, V35, P223, DOI 10.1071/EA9950223
+   Radford BJ, 2011, INT J ENERGY ENV EC, V19, P565
+   Rahman L, 2007, SOIL TILL RES, V95, P110, DOI 10.1016/j.still.2006.11.008
+   Redel YD, 2007, GEODERMA, V139, P388, DOI 10.1016/j.geoderma.2007.02.018
+   REEVES TG, 1984, AUST J EXP AGR, V24, P595, DOI 10.1071/EA9840595
+   Rheinheimer DD, 2003, COMMUN SOIL SCI PLAN, V34, P2339, DOI 10.1081/CSS-120024068
+   Rhoton FE, 2000, SOIL SCI SOC AM J, V64, P700, DOI 10.2136/sssaj2000.642700x
+   Roget DK, 1996, AUST J EXP AGR, V36, P683, DOI 10.1071/EA9960683
+   Roget DK, 1995, AUST J EXP AGR, V35, P1009, DOI 10.1071/EA9951009
+   ROPER MM, 1995, AUST J SOIL RES, V33, P321, DOI 10.1071/SR9950321
+   ROVIRA AD, 1990, SOIL USE MANAGE, V6, P195, DOI 10.1111/j.1475-2743.1990.tb00835.x
+   Schillinger WF, 2006, PLANT DIS, V90, P302, DOI 10.1094/PD-90-0302
+   Shaw RJ, 1997, SUSTAINABLE CROP PRODUCTION IN THE SUB-TROPICS: AN AUSTRALIAN PERSPECTIVE., V0, P79
+   Six J, 2006, SOIL SCI SOC AM J, V70, P555, DOI 10.2136/sssaj2004.0347
+   Smiley RW, 2004, J NEMATOL, V36, P54
+   STEIN JA, 1987, SOIL TILL RES, V10, P243, DOI 10.1016/0167-1987(87)90031-6
+   Tarkalson DD, 2006, AGRON J, V98, P26, DOI 10.2134/agronj2004.0240
+   Tate R, 2000, SOIL MICROBIOLOGY, V2nd, P0
+   TESSIER S, 1990, SOIL TILL RES, V18, P73, DOI 10.1016/0167-1987(90)90094-T
+   Thiagalingam K, 1996, AUST J EXP AGR, V36, P995, DOI 10.1071/EA9960995
+   Thiet RK, 2006, SOIL BIOL BIOCHEM, V38, P837, DOI 10.1016/j.soilbio.2005.07.010
+   Thomas GA, 2007, SOIL TILL RES, V94, P295, DOI 10.1016/j.still.2006.08.005
+   Thomas GA, 1995, AUST J EXP AGR, V35, P997, DOI 10.1071/EA9950997
+   Thompson JP, 2008, AUSTRALAS PLANT PATH, V37, P235, DOI 10.1071/AP08021
+   Thompson JP, 2010, AUSTRALAS PLANT PATH, V39, P254, DOI 10.1071/AP09094
+   THOMPSON JP, 1992, SOIL TILL RES, V22, P339, DOI 10.1016/0167-1987(92)90048-G
+   Thompson JP, 1995, AUST J EXP AGR, V35, P1049, DOI 10.1071/EA9951049
+   TISDALL JM, 1994, PLANT SOIL, V159, P115, DOI 10.1007/BF00000100
+   TISDALL JM, 1982, J SOIL SCI, V33, P141, DOI 10.1111/j.1365-2389.1982.tb01755.x
+   van Bruggen AHC, 2006, EUR J PLANT PATHOL, V115, P105, DOI 10.1007/s10658-005-1250-8
+   Verhulst N, 2010, ADV SOIL SCI-SER, V0, P137
+   Wang WJ, 2011, GLOBAL CHANGE BIOL, V17, P3089, DOI 10.1111/j.1365-2486.2011.02458.x
+   Wang XB, 2007, SOIL TILL RES, V93, P239, DOI 10.1016/j.still.2006.05.005
+   Wang Y, 2010, SOIL TILL RES, V107, P71, DOI 10.1016/j.still.2010.02.008
+   Wardle DA, 1995, ADVANCES IN ECOLOGICAL RESEARCH, V26, P105, DOI 10.1016/S0065-2504(08)60065-3
+   WHITE PF, 1990, AUST J SOIL RES, V28, P95, DOI 10.1071/SR9900095
+   Wildermuth GB, 1997, SOIL TILL RES, V44, P211, DOI 10.1016/S0167-1987(97)00054-8
+   Wildermuth GB, 1997, BIOL CHANGE DIS INSE, V0, P0
+   Yang AN, 2012, J SOIL SEDIMENT, V12, P835, DOI 10.1007/s11368-012-0518-9
+   Zarea MJ, 2010, SUSTAIN AGR REV, V5, P195, DOI 10.1007/978-90-481-9513-8_7
+NR 156
+TC 46
+Z9 51
+U1 4
+U2 108
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0815-3191
+EI 1448-6032
+J9 AUSTRALAS PLANT PATH
+JI Austral. Plant Pathol.
+PD JUN 15
+PY 2013
+VL 42
+IS 3
+BP 363
+EP 377
+DI 10.1007/s13313-013-0198-y
+PG 15
+WC Plant Sciences
+SC Plant Sciences
+GA 105OA
+UT WOS:000316080100012
+DA 2024-08-17
+ER
+
+PT J
+AU Dai, XQ
+   Li, YS
+   Ouyang, Z
+   Wang, HM
+   Wilson, GV
+AF Dai, Xiaoqin
+   Li, Yunsheng
+   Ouyang, Zhu
+   Wang, Huimin
+   Wilson, G. V.
+TI Organic manure as an alternative to crop residues for no-tillage wheat-maize systems in North China Plain
+SO FIELD CROPS RESEARCH
+LA English
+DT Article
+DE NT; Soil properties; Grain yield; Biomass; Weeds
+ID water-use efficiency; conservation tillage; long-term; total nitrogen; winter-wheat; soil carbon; yield; management; competition; fractions
+AB No-tillage (NT) can provide both environmental and economic benefits and has been recognized as a sustainable land use practice in many areas worldwide. NT has induced some concerns in the North China Plain (NCP), e.g. unstable crop yield and fodder shortage, with regards to the amount of crop residues retained on the soil surface. The objective of this study was to explore whether or not manure inputs are a viable alternative to crop residue in no-till wheat and maize rotation systems in NCP. Field experiments were initiated in October 2004 including three management operations: conventional tillage with residue removed (CTr), NT with crop residue left on soil surface (NTc), and NT with manure inputs (NTm); and two fertilizer application practices: splitting fertilizer inputs (SF) and concentrated fertilizer inputs (CF). These treatments were arranged in a randomized complete block design, with three replications, and continued over a 4-year period. Crop yield, soil properties and weed population were measured in a wheat-maize double crop system. Compared to CTr, NT had a trend of reducing wheat biomass and grain yield which reduced by 4% and 6%, respectively, for NTc, and 5% and 4%, respectively, for NTm. Tillage treatments, thus use of manure instead of residue, had no significant effects on maize biomass and yield. Fertilizer application practices had no significant effects on biomass and yield of both crops. Continuous NT for 4 years significantly increased the bulk density, soil water content, soil organic carbon (SOC) of the surface soil, but decreased the soil electrical conductivity (EC). The increase in SOC in NTm was higher than in NTc. Although soil EC decreased less in NTm than in NTc, the effects of soil EC could be neglected in the study. The NTc or NTm significantly inhibited the dominant weed in wheat field. The CF inhibited the flixweed (Descurainia sophia) growth compared to the SF. The manure inputs were found to be a viable alternative to crop residue in this NT wheat-maize system in the NCP. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Dai, Xiaoqin; Li, Yunsheng; Ouyang, Zhu; Wang, Huimin] Chinese Acad Sci, Key Lab Ecosyst Network Observat & Modeling, Inst Geog Sci & Nat Resources Res, Beijing 100101, Peoples R China.
+   [Wilson, G. V.] ARS, USDA, Natl Sedimentat Lab, Oxford, MS 38655 USA.
+C3 Chinese Academy of Sciences; Institute of Geographic Sciences & Natural Resources Research, CAS; United States Department of Agriculture (USDA)
+RP Li, YS (通讯作者)，Chinese Acad Sci, Key Lab Ecosyst Network Observat & Modeling, Inst Geog Sci & Nat Resources Res, Beijing 100101, Peoples R China.
+EM daixq@igsnrr.ac.cn; liys@igsnrr.ac.cn
+FU Institute of Geographical Sciences and Natural Resources Research [2012ZD004]; open foundation from Key International Collaboration Project of Ministry of Science and Technology of China [2004CB720501]
+CR Agbede TM, 2009, SOIL TILL RES, V104, P74, DOI 10.1016/j.still.2008.12.014
+   Blackshaw RE, 2005, CROP PROT, V24, P971, DOI 10.1016/j.cropro.2005.01.021
+   Bremer E, 1997, PLANT SOIL, V190, P119, DOI 10.1023/A:1004259004257
+   Brust GE, 1988, AMERICAN JOURNAL OF ALTERNATIVE AGRICULTURE, V3, P19, DOI 10.1017/S0889189300002083
+   Campbell CA, 1998, SOIL TILL RES, V46, P175, DOI 10.1016/S0167-1987(98)00031-2
+   Chan KY, 2002, SOIL TILL RES, V63, P133, DOI 10.1016/S0167-1987(01)00239-2
+   Chen H, 2008, AUST J SOIL RES, V46, P645, DOI 10.1071/SR07106
+   Chhokar RS, 2007, CROP PROT, V26, P1689, DOI 10.1016/j.cropro.2007.01.010
+   CRUTCHFIELD DA, 1986, WEED SCI, V34, P110, DOI 10.1017/S0043174500026564
+   Dao TH, 1996, AGRON J, V88, P141, DOI 10.2134/agronj1996.00021962008800020005x
+   Dick WA, 2004, MANAGING SOIL QUALITY: CHALLENGES IN MODERN AGRICULTURE, V0, PP103, DOI 10.1079/9780851996714.0103
+   Dormaar JF, 1996, CAN J PLANT SCI, V76, P627, DOI 10.4141/cjps96-112
+   Du ZL, 2010, SOIL SCI SOC AM J, V74, P196, DOI 10.2136/sssaj2009.0048
+   Gál A, 2007, SOIL TILL RES, V96, P42, DOI 10.1016/j.still.2007.02.007
+   Geng Wei Geng Wei, 2013, TRANSACTIONS OF THE CHINESE SOCIETY OF AGRICULTURAL ENGINEERING, V29, P171
+   GILL KS, 1990, SOIL TILL RES, V18, P37, DOI 10.1016/0167-1987(90)90091-Q
+   Gong W, 2009, GEODERMA, V149, P318, DOI 10.1016/j.geoderma.2008.12.010
+   [郭宪 GUO Xian], 2007, 安徽农业科学 JOURNAL OF ANHUI AGRICULTURAL SCIENCES, V35, P0
+   He J, 2009, SOIL TILL RES, V104, P198, DOI 10.1016/j.still.2008.08.015
+   Hou RX, 2012, SOIL SCI SOC AM J, V76, P230, DOI 10.2136/sssaj2011.0107
+   IAEA, 2008, GUID SUST MAN MAN AS, V0, P1582
+   Jia SL, 2004, J HEBEI AGR SCI, V12, P37, DOI 10.3969/j.issn.1088-1631.2004.04.009
+   Li ShaoKun Li ShaoKun, 2006, ACTA AGRONOMICA SINICA, V32, P463
+   Limousin G, 2007, SOIL TILL RES, V92, P167, DOI 10.1016/j.still.2006.02.003
+   López-Fando C, 2009, SOIL TILL RES, V104, P278, DOI 10.1016/j.still.2009.03.005
+   Mosaddeghi MR, 2009, SOIL TILL RES, V104, P173, DOI 10.1016/j.still.2008.10.011
+   Nayak AK, 2012, FIELD CROP RES, V127, P129, DOI 10.1016/j.fcr.2011.11.011
+   [彭文英 PENG Wenying], 2006, 干旱地区农业研究 AGRICULTURAL RESEARCH IN THE ARID AREAS, V24, P113
+   Powell JM, 2013, LIVEST SCI, V152, P261, DOI 10.1016/j.livsci.2013.01.001
+   Qin SP, 2010, EUR J SOIL BIOL, V46, P243, DOI 10.1016/j.ejsobi.2010.04.006
+   Rahman MH, 2008, SOIL TILL RES, V101, P10, DOI 10.1016/j.still.2008.05.006
+   RICHARDS LA, 1954, AGR HDB, V60, P154
+   Swanton CJ, 1999, WEED SCI, V47, P454, DOI 10.1017/S0043174500092079
+   Tuesca D, 2001, WEED RES, V41, P369, DOI 10.1046/j.1365-3180.2001.00245.x
+   Wang FH, 2010, J ENVIRON QUAL, V39, P1537, DOI 10.2134/jeq2010.0090
+   Wang XB, 2006, PEDOSPHERE, V16, P587, DOI 10.1016/S1002-0160(06)60092-1
+   Zhang QT, 2009, J FOOD AGRIC ENVIRON, V7, P650
+   Zibilske LM, 2002, SOIL TILL RES, V66, P153, DOI 10.1016/S0167-1987(02)00023-5
+NR 38
+TC 35
+Z9 39
+U1 10
+U2 133
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-4290
+EI 1872-6852
+J9 FIELD CROP RES
+JI Field Crop. Res.
+PD AUG 1
+PY 2013
+VL 149
+IS 
+BP 141
+EP 148
+DI 10.1016/j.fcr.2013.04.027
+PG 8
+WC Agronomy
+SC Agriculture
+GA 197KP
+UT WOS:000322850400016
+DA 2024-08-17
+ER
+
+PT J
+AU Brunel, N
+   Seguel, O
+   Acevedo, E
+AF Brunel, N.
+   Seguel, O.
+   Acevedo, E.
+TI Conservation tillage and water availability for wheat in the dryland of central chile
+SO JOURNAL OF SOIL SCIENCE AND PLANT NUTRITION
+LA English
+DT Article
+DE Mediterranean climate; water use efficiency; evapotranspiration; soil management
+ID soil physical-property; use efficiency; grain-yield; root-growth; mediterranean region; storage efficiency; spring wheat; no-tillage; systems; crop
+AB The dryland areas of Central Chile are associated to Mediterranean climate. Under these conditions, water availability during crop growth is a crucial factor for crop productivity. Conservation tillage systems play an important role in this area, increasing soil water availability; however, crop yield responses can be variable. Soil management should be aimed at reducing water loss and promoting water use by crops. The aim of this review is to analyze and discuss the factors affecting water availability in the Mediterranean drylands of Central Chile, as well as to study the effect of tillage systems on the water use efficiency of wheat.
+C1 [Brunel, N.] Univ Catolica Maule, Ctr Desarrollo & Secano Interior, Talca, Chile.
+   [Brunel, N.] Univ Chile, Programa Doctorado Ciencias Silvoagropecuarias &, Santiago, Chile.
+   [Seguel, O.] Univ Chile, Fac Ciencias Agron, Dept Ingn & Suelos, Santiago, Chile.
+   [Acevedo, E.] Univ Chile, Lab Suelo Agua Planta, Santiago, Chile.
+C3 Universidad Catolica del Maule; Universidad de Chile; Universidad de Chile; Universidad de Chile
+RP Brunel, N (通讯作者)，Univ Catolica Maule, Ctr Desarrollo & Secano Interior, Talca, Chile.
+EM nbrunel@ucm.cl
+CR AASE JK, 1995, AGRON J, V87, P652, DOI 10.2134/agronj1995.00021962008700040008x
+   Acevedo E, 1991, SOIL CROP MANAGEMENT, V0, P0
+   Acevedo E, 2003, SERIE CIENCIAS AGRON, V10, P118
+   Acevedo EP, 2002, BREAD WHEAT IMPROVEMENT AND PRODUCTION, V0, P39
+   ACHARYA CL, 1994, SOIL TILL RES, V32, P291, DOI 10.1016/0167-1987(94)00425-E
+   Aldea A, 2005, SIMIENTE, V75, P50
+   Alvarez R, 2009, SOIL TILL RES, V104, P1, DOI 10.1016/j.still.2009.02.005
+   Angus JF, 2001, AGRON J, V93, P290, DOI 10.2134/agronj2001.932290x
+   ARMY TJ, 1959, AGRON JOUR, V51, P721
+   Asseng S, 2001, PLANT SOIL, V233, P127, DOI 10.1023/A:1010381602223
+   Austin R, 1987, DROUGHT TOLERANCE WI, V0, P321
+   BIERHUIZEN JF, 1965, AGR METEOROL, V2, P259, DOI 10.1016/0002-1571(65)90012-9
+   Blanco-Canqui H, 2007, SOIL SCI SOC AM J, V71, P1166, DOI 10.2136/sssaj2006.0411
+   Blum A, 2009, FIELD CROP RES, V112, P119, DOI 10.1016/j.fcr.2009.03.009
+   Bonfil DJ, 1999, AGRON J, V91, P368, DOI 10.2134/agronj1999.00021962009100030003x
+   CANNELL RQ, 1994, SOIL TILL RES, V30, P245, DOI 10.1016/0167-1987(94)90007-8
+   Cantero-Martínez C, 2007, ANN APPL BIOL, V150, P293, DOI 10.1111/j.1744-7348.2007.00142.x
+   Cayci G, 2009, SOIL TILL RES, V103, P65, DOI 10.1016/j.still.2008.09.004
+   CHAN KY, 1992, AUST J AGR RES, V43, P19, DOI 10.1071/AR9920019
+   CIREN, 1997, PUBL CIREN, V117, P0
+   CORNISH EA, 1950, AUST J SCI RES SER B, V3, P178, DOI 10.1071/BI9500178
+   Cramb J, 2000, WHEAT BOOK PRINCIPLE, V4443, P3
+   De Wit CT, 1958, VERSL. LANDBOUWK. ONDERZ. NO. 64-6, V0, P0
+   Del Pozo A, 1994, AGR SECANO INTERIOR, V0, P0
+   Dexter AR, 2004, SOIL TILL RES, V79, P185, DOI 10.1016/j.still.2004.07.007
+   ELA SD, 1992, SOIL SCI SOC AM J, V56, P714, DOI 10.2136/sssaj1992.03615995005600030007x
+   Farahani HJ, 1998, SOIL SCI SOC AM J, V62, P984, DOI 10.2136/sssaj1998.03615995006200040020x
+   FRENCH RJ, 1984, AUST J AGR RES, V35, P743, DOI 10.1071/AR9840743
+   Fuentes M, 2009, EUR J AGRON, V30, P228, DOI 10.1016/j.eja.2008.10.005
+   Gregory P, 1991, CONCEPTS WATER USE E, V0, P0
+   GREGORY PJ, 1978, J AGR SCI-CAMBRIDGE, V91, P91, DOI 10.1017/S0021859600056653
+   Hatfield JL, 2001, AGRON J, V93, P271, DOI 10.2134/agronj2001.932271x
+   He J, 2007, SOIL TILL RES, V94, P493, DOI 10.1016/j.still.2006.10.005
+   HILL RL, 1985, SOIL SCI SOC AM J, V49, P1264, DOI 10.2136/sssaj1985.03615995004900050039x
+   HURD EA, 1964, CAN J PLANT SCI, V44, P240, DOI 10.4141/cjps64-046
+   INE, 2007, 7 CENS AGR FOR 7 SUP, V0, P0
+   Jones OR, 1997, AGRON J, V89, P222, DOI 10.2134/agronj1997.00021962008900020012x
+   Katerji N, 2008, EUR J AGRON, V28, P493, DOI 10.1016/j.eja.2007.12.003
+   Kirkegaard JA, 2007, AUST J EXP AGR, V47, P590, DOI 10.1071/EA06071
+   Kirkegaard JA, 2007, AUST J AGR RES, V58, P303, DOI 10.1071/AR06285
+   Klepper B, 1992, LIMITATIONS TO PLANT ROOT GROWTH, V0, P1
+   LAFOND GP, 1994, J SOIL WATER CONSERV, V49, P387
+   Lampurlanés J, 2003, AGRON J, V95, P526, DOI 10.2134/agronj2003.0526
+   Lawes RA, 2009, FIELD CROP RES, V113, P297, DOI 10.1016/j.fcr.2009.06.008
+   Martínez E, 2008, SOIL TILL RES, V99, P232, DOI 10.1016/j.still.2008.02.001
+   McGee EA, 1997, J SOIL WATER CONSERV, V52, P131
+   Merrill SD, 1996, SOIL SCI SOC AM J, V60, P575, DOI 10.2136/sssaj1996.03615995006000020034x
+   Mohanty M, 2007, SOIL TILL RES, V93, P420, DOI 10.1016/j.still.2006.06.002
+   MUSICK JT, 1994, AGRON J, V86, P980, DOI 10.2134/agronj1994.00021962008600060010x
+   NEGI SC, 1981, J TERRAMECHANICS, V18, P81, DOI 10.1016/0022-4898(81)90002-1
+   Olivieri V, 2008, EFECTO DISTANCIA HIL, V0, P0
+   Oweis T, 2000, AGRON J, V92, P231, DOI 10.1007/s100870050027
+   Pala M, 2007, AGR WATER MANAGE, V93, P136, DOI 10.1016/j.agwat.2007.07.001
+   Passioura J, 2006, AGR WATER MANAGE, V80, P176, DOI 10.1016/j.agwat.2005.07.012
+   PASSIOURA JB, 1983, AGR WATER MANAGE, V7, P265, DOI 10.1016/0378-3774(83)90089-6
+   PELEGRIN F, 1990, SOIL TILL RES, V16, P345, DOI 10.1016/0167-1987(90)90070-T
+   Peterson GA, 1996, J PROD AGRIC, V9, P180, DOI 10.2134/jpa1996.0180
+   Pikul JL, 1999, SOIL TILL RES, V51, P61, DOI 10.1016/S0167-1987(99)00031-8
+   Qin HongLing Qin HongLing, 2008, AGRICULTURAL SCIENCES IN CHINA, V7, P88, DOI 10.1016/S1671-2927(08)60026-7
+   Quezada LC, 1977, AGRICULTURA TECNICA, V37, P106
+   Raper RL, 1998, JOURNAL OF COTTON SCIENCE, V2, P130
+   Sadras VO, 2006, AUST J AGR RES, V57, P847, DOI 10.1071/AR05359
+   Schillinger WF, 2008, FIELD CROP RES, V109, P45, DOI 10.1016/j.fcr.2008.06.008
+   Schjonning P, 2006, ADV GEOECOL, V38, P38
+   SEIF E, 1978, AUST J AGR RES, V29, P1107, DOI 10.1071/AR9781107
+   Shaver TM, 2003, GEODERMA, V116, P149, DOI 10.1016/S0016-7061(03)00099-5
+   SINCLAIR TR, 1984, BIOSCIENCE, V34, P36, DOI 10.2307/1309424
+   Six J, 1999, SOIL SCI SOC AM J, V63, P1350, DOI 10.2136/sssaj1999.6351350x
+   Stewart BA, 1987, WATER AND WATER POLICY IN WORLD FOOD SUPPLIES, V0, P355
+   Stewart BA, 1997, ADV AGRON, V60, P191, DOI 10.1016/S0065-2113(08)60604-5
+   Stone LR, 2010, AGRON J, V102, P483, DOI 10.2134/agronj2009.0123
+   Tanaka DL, 1997, J SOIL WATER CONSERV, V52, P363
+   TOLLNER EW, 1984, J SOIL WATER CONSERV, V39, P73
+   Triplett JG, 2008, AGRON J, V100, P152
+   Turner NC, 2005, AUST J AGR RES, V56, P1123, DOI 10.1071/AR05076
+   UNGER PW, 1994, AGRON J, V86, P310, DOI 10.2134/agronj1994.00021962008600020019x
+   Uribe H, 2003, ING HIDRAUL MEX, V18, P17
+   Valle S, 2004, THESIS U CHILE SANTI, V0, P47
+   Wall P, 2006, SCI WEEK CIMMYT HEAD, V0, P61
+   Wang XB, 2007, SOIL TILL RES, V93, P239, DOI 10.1016/j.still.2006.05.005
+   WINTER SR, 1993, AGRON J, V85, P912, DOI 10.2134/agronj1993.00021962008500040024x
+   Zalidis G, 2002, AGR ECOSYST ENVIRON, V88, P137, DOI 10.1016/S0167-8809(01)00249-3
+   Zhang XY, 2008, IRRIGATION SCI, V27, P1, DOI 10.1007/s00271-008-0131-2
+   Zwart SJ, 2004, AGR WATER MANAGE, V69, P115, DOI 10.1016/j.agwat.2004.04.007
+NR 84
+TC 17
+Z9 21
+U1 0
+U2 21
+PU SPRINGER INT PUBL AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 0718-9508
+EI 0718-9516
+J9 J SOIL SCI PLANT NUT
+JI J. Soil Sci. Plant Nutr.
+PD JUN 15
+PY 2013
+VL 13
+IS 3
+BP 622
+EP 637
+DI 10.4067/S0718-95162013005000050
+PG 16
+WC Plant Sciences; Environmental Sciences; Soil Science
+SC Plant Sciences; Environmental Sciences & Ecology; Agriculture
+GA 241LX
+UT WOS:000326169600010
+DA 2024-08-17
+ER
+
+PT J
+AU Kalmár, T
+   Bottlik, L
+   Kisic, L
+   Gyuricza, C
+   Birkás, M
+AF Kalmar, T.
+   Bottlik, L.
+   Kisic, L.
+   Gyuricza, C.
+   Birkas, M.
+TI Soil protecting effect of the surface cover in extreme summer periods
+SO PLANT SOIL AND ENVIRONMENT
+LA English
+DT Article
+DE summer tillage; stubble residues; moisture conservation; climate
+ID conservation tillage; winter-wheat; water; europe; yields; mulch
+AB It was to investigate the effects of mulch cover and stubble tillage on soil water content and to assess grounds of recommendations in stubble management in an extreme dry period. Tests were carried out in undisturbed (U) soil, after shallow (S) and deep (D) tillage, soil with (UCO, SCO, DCO) and without surface cover (UCL, SCL, DCL) and after conventional stubble treatment (STR). Effective moisture conservation (8-11%) was observed in undisturbed soil under 55% and 65% cover ratios. The water content in the top 0.65 m soil layer increased significantly (LSD, P < 0.05) between the different stubble variants, the following order was established on day 85: DCL < STR < SCL < UCL < DCO < SCO < UCO. The conventional stubble management cannot be applied in soils after shallow (STR) or deep tillage (DCL) in a dry season, when the loss of water is even statistically proven. Leaving the soil without a cover (UCL) or having it with insufficient cover (< 15%) entails risks in soils. Increasing the soil cover ratio (from 5% to 75%) had a 1.3-2.3 times stronger impact on crumb forming than did the moisture recorded in the various seasons.
+C1 [Kalmar, T.; Bottlik, L.; Gyuricza, C.; Birkas, M.] Szent Istvan Univ Godollo, Fac Agr & Environm Sci, Godollo, Hungary.
+   [Kisic, L.] Univ Zagreb, Fac Agr, Zagreb 41000, Croatia.
+C3 Hungarian University of Agriculture & Life Sciences; University of Zagreb
+RP Birkás, M (通讯作者)，Szent Istvan Univ Godollo, Fac Agr & Environm Sci, Inst Crop Prod, Pater K U 1, H-2013 Godollo, Hungary.
+EM birkas.marta@mkk.szie.hu
+FU Ministry of Natural Resources of Hungary [TAMOP-4.2.A-11/1/KONV]
+CR ALLEN RR, 1986, J SOIL WATER CONSERV, V41, P11
+   Birkas M, 2012, SOIL SCH WHAT LEARN, V15, P432
+   Birkas M, 2011, ENCY AGROPHYSICS, V0, PP903, DOI 10.1007/978-90-481-3585-1_266
+   CANNELL RQ, 1985, SOIL TILL RES, V5, P129, DOI 10.1016/0167-1987(85)90028-5
+   Dexter AR, 2007, SOIL TILL RES, V93, P412, DOI 10.1016/j.still.2006.05.011
+   Gao W, 2012, SOIL TILL RES, V125, P14, DOI 10.1016/j.still.2012.07.006
+   Gruber S, 2012, SOIL TILL RES, V121, P49, DOI 10.1016/j.still.2012.01.015
+   HARTWIG RO, 1978, J SOIL WATER CONSERV, V33, P90
+   Huisz A, 2009, COMMUN SOIL SCI PLAN, V40, P800, DOI 10.1080/00103620802693391
+   Kalmar T, 2007, NOVENYTERMELES, V56, P263
+   Lal R, 2009, SOIL TILL RES, V102, P233, DOI 10.1016/j.still.2008.07.003
+   MAGLEBY R, 1985, J SOIL WATER CONSERV, V40, P274
+   Mikanová O, 2012, PLANT SOIL ENVIRON, V58, P540, DOI 10.17221/512/2012-PSE
+   Morris NL, 2010, SOIL TILL RES, V108, P1, DOI 10.1016/j.still.2010.03.004
+   Nemethy L, 2006, INT J HORTICULTURAL, V12, P25
+   Roper MM, 2013, SOIL TILL RES, V126, P143, DOI 10.1016/j.still.2012.09.006
+   SALLAWAY MM, 1990, SOIL TILL RES, V15, P227, DOI 10.1016/0167-1987(90)90080-W
+   Sarkar S, 2007, SOIL TILL RES, V92, P79, DOI 10.1016/j.still.2006.01.014
+   SCHERTZ DL, 1988, J SOIL WATER CONSERV, V43, P256
+   Shen JY, 2012, PLANT SOIL ENVIRON, V58, P161, DOI 10.17221/404/2011-PSE
+   Soane BD, 2012, SOIL TILL RES, V118, P66, DOI 10.1016/j.still.2011.10.015
+   Spoljar A, 2011, J ENVIRON PROT ECOL, V12, P54
+   SVAB J, 1981, BIOMETRICAL METHODS, V0, P0
+   Szasz G, 1997, METEOROLOGY, V0, P411
+   Vánová M, 2011, PLANT SOIL ENVIRON, V57, P245, DOI 10.17221/334/2010-PSE
+   Varallyay G, 2011, NOVENYTERMELES S, V60, P297
+NR 26
+TC 12
+Z9 13
+U1 1
+U2 11
+PU CZECH ACADEMY AGRICULTURAL SCIENCES
+PI PRAGUE
+PA TESNOV 17, PRAGUE, 117 05, CZECH REPUBLIC
+SN 1214-1178
+EI 1805-9368
+J9 PLANT SOIL ENVIRON
+JI Plant Soil Environ.
+PD SEP 15
+PY 2013
+VL 59
+IS 9
+BP 404
+EP 409
+DI 10.17221/176/2013-PSE
+PG 6
+WC Agronomy
+SC Agriculture
+GA 228NN
+UT WOS:000325193600004
+DA 2024-08-17
+ER
+
+PT J
+AU Salar, MR
+   Esehaghbeygi, A
+   Hemmat, A
+AF Salar, M. R.
+   Esehaghbeygi, A.
+   Hemmat, A.
+TI Soil loosening characteristics of a dual bent blade subsurface tillage implement
+SO SOIL & TILLAGE RESEARCH
+LA English
+DT Article
+DE Rake angle; Winged chisel; Mean weight diameter; Water content
+ID water-content; loam soil; infiltration; forces; size
+AB Irrigated and dryland crop production under conservation tillage systems have been increasing in Iran in recent years. However, due to unstable and hardsetting soil structure, choosing suitable implements for effective soil loosening is still under investigation. In this study, forward and backward double-bent blade subsurface tillage implements with two rake (7.5 degrees and 15 degrees) and bend angles (10 degrees and 20 degrees) were developed and their soil loosening performance under surface tillage (15 cm deep) was compared with a commercially-available winged chisel plow under two water contents (0.7 and 0.9 plastic limit) in a clay loam soil at the Research Field of Isfahan University of Technology (central Iran). The effect of double-bent blade implement angles on soil disturbance area, percent of residues remaining on soil surface, clod mean weight diameter (MWD), and soil bulk density was investigated using a split plot experiments in a randomized complete block design. In dual-bent blade implement, the soil main rupture planes were initiated from side edges of the blades and intercepted the soil surface laterally, and it acted as a wide tine; whereas for a winged chisel, the rupture planes initiated from the front edges, and it acted as a narrow tine. The dual bent blades had significantly higher soil disturbance area than the winged chisel. The largest disturbed area was obtained when the forward bent blade was used with a rake angle of 15 degrees and a bend angle of 10 degrees. The smallest MWD was obtained when the forward bent blade was used with a bend angle of 10 degrees and a rake angle of 7.5 degrees. The MWD of dual bent blades was significantly smaller than the winged chisel plow. Soil water content had a significant effect on both MWD and the residue remaining on the soil surface when the soil was chisel plowed; however no significant effect was observed when the soil was plowed with the dual-bent blade implements. The amount of residue remaining on the soil surface after plowing with the winged chisel was significantly less than the case when the dual bent blades were used. A forward dual-bent blade with a rake angle of 7.5 degrees and a bend angle of 10 degrees can be suggested as a suitable alternative for the winged chisel plow in shallow soil loosening of fallowed lands under a conservation tillage system. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Salar, M. R.; Esehaghbeygi, A.; Hemmat, A.] Isfahan Univ Technol, Dept Agr Machinery Engn, Coll Agr, Esfahan 8415683111, Iran.
+C3 Isfahan University of Technology
+RP Esehaghbeygi, A (通讯作者)，Isfahan Univ Technol, Dept Agr Machinery Engn, Coll Agr, Esfahan 8415683111, Iran.
+EM esehaghbeygi@cc.iut.ac.ir
+CR Aluko OB, 2000, SOIL TILL RES, V57, P143, DOI 10.1016/S0167-1987(00)00156-2
+   [Anonymous], 2005, IRAN AGR SCI, V0, P0
+   Arvidsson J, 2006, SOIL TILL RES, V90, P222, DOI 10.1016/j.still.2005.09.005
+   CARTER MR, 1987, CAN J SOIL SCI, V67, P473, DOI 10.4141/cjss87-045
+   Chen HQ, 2009, SOIL TILL RES, V106, P85, DOI 10.1016/j.still.2009.09.009
+   CHI L, 1990, J TERRAMECHANICS, V27, P343, DOI 10.1016/0022-4898(90)90033-I
+   Dam RF, 2005, SOIL TILL RES, V84, P41, DOI 10.1016/j.still.2004.08.006
+   DAO TH, 1993, SOIL SCI SOC AM J, V57, P1586, DOI 10.2136/sssaj1993.03615995005700060032x
+   Dexter AR, 2001, SOIL TILL RES, V57, P203, DOI 10.1016/S0167-1987(00)00154-9
+   Durairaj CD, 1997, SOIL TILL RES, V44, P137, DOI 10.1016/S0167-1987(97)00048-2
+   Esehaghbeygi A, 2002, AGR SCI, V12, P0
+   Esehaghbeygi A, 2009, AGR SCI, V19, P333
+   Firouzi S, 1996, THESIS SHIRAZ U, V0, P0
+   Harrison HP, 1992, P INT C AGR ENG UPPS, V0, P0
+   HARRISON HP, 1988, T ASAE, V31, P47
+   Hemmat A, 2007, BIOSYST ENG, V97, P257, DOI 10.1016/j.biosystemseng.2007.02.010
+   Hemmat A, 2009, J AGR SCI TECH-IRAN, V11, P275
+   Hemmat A, 1996, P INT C AGR ENG 9 12, V1, P181
+   Javadi A, 2009, SOIL TILL RES, V104, P143, DOI 10.1016/j.still.2008.10.016
+   Kemper WD, 1995, METHODS SOIL ANAL 1, V0, P498
+   Lal R, 1989, ADV AGRON, V42, P8
+   Majidi Iraj H, 1997, IRANIAN J AGR RES, V16, P0
+   McKyes E, 1997, SOIL TILL RES, V43, P195, DOI 10.1016/S0167-1987(97)00014-7
+   Mosaddeghi MR, 2009, SOIL TILL RES, V105, P242, DOI 10.1016/j.still.2009.08.005
+   Payne PCJ, 1959, J AGR RES, V4, P312
+   Pidgeon JD, 1983, 832136 ASAE ASABE, V0, P0
+   Sánchez-Girón V, 2005, SOIL TILL RES, V81, P25, DOI 10.1016/j.still.2004.04.003
+   Sharifat K, 1999, 991003 ASAE, V0, P0
+   Subbulakshmi S, 2009, RESEARCH JOURNAL OF AGRICULTURE AND BIOLOGICAL SCIENCES, V5, P1098
+   UTOMO WH, 1981, J SOIL SCI, V32, P203, DOI 10.1111/j.1365-2389.1981.tb01700.x
+   WAGNER LE, 1992, T ASAE, V35, P499, DOI 10.13031/2013.28627
+   Yang XM, 1998, SOIL TILL RES, V49, P173, DOI 10.1016/S0167-1987(98)00170-6
+NR 32
+TC 15
+Z9 20
+U1 0
+U2 27
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-1987
+EI 1879-3444
+J9 SOIL TILL RES
+JI Soil Tillage Res.
+PD NOV 15
+PY 2013
+VL 134
+IS 
+BP 17
+EP 24
+DI 10.1016/j.still.2013.07.005
+PG 8
+WC Soil Science
+SC Agriculture
+GA 246QH
+UT WOS:000326553700003
+DA 2024-08-17
+ER
+
+PT J
+AU Amato, G
+   Ruisi, P
+   Frenda, AS
+   Di Miceli, G
+   Saia, S
+   Plaia, A
+   Giambalvo, D
+AF Amato, Gaetano
+   Ruisi, Paolo
+   Frenda, Alfonso S.
+   Di Miceli, Giuseppe
+   Saia, Sergio
+   Plaia, Antonella
+   Giambalvo, Dario
+TI Long-Term Tillage and Crop Sequence Effects on Wheat Grain Yield and Quality
+SO AGRONOMY JOURNAL
+LA English
+DT Article
+ID soybean-alfalfa rotations; nitrogen use efficiency; water-use efficiency; soil-water; conservation tillage; no-tillage; mediterranean conditions; carbon sequestration; residue management; oxide emission
+AB Much research around the world has compared the performance of cereals grown under conventional and conservation tillage systems; however, relatively few long-term experiments have been conducted in Mediterranean areas, and little attention has been given to interactions among tillage techniques and other system components across space and time. In this study, we investigated the effects of the long-term (18-yr) use of three tillage techniques (conventional tillage, CT; reduced tillage, RT; and no-till, NT) on wheat (Triticum durum Desf.) grain yield and quality within three crop sequences: continuous wheat, faba bean (Vicia faba L.)-wheat, and berseem clover (Trifolium alexandrinum L.)-wheat. In addition, we investigated the effects of climatic variability on the treatments and evaluated whether cumulative effects occurred from continuous treatment. On average, NT resulted in a grain yield advantage over CT when water stress was high and, conversely, a disadvantage when water stress was low. The effect of the tillage system on grain yield varied by crop sequence. Grain yield differences between NT and CT when wheat was grown after faba bean or berseem clover were explained primarily by climatic variability without a cumulative effect over time. In contrast, in continuous wheat, NT resulted in a progressive decrease in grain yield compared with CT. On average, wheat grain protein content varied significantly by tillage system (CT > RT > NT). This suggests that fertilizer N requirements increase with NT compared with CT because of changes in N cycling that lead to a reduction in plant-available soil N.
+C1 [Amato, Gaetano; Ruisi, Paolo; Frenda, Alfonso S.; Di Miceli, Giuseppe; Saia, Sergio; Giambalvo, Dario] Univ Palermo, Dipartimento Sci Agr & Forestali, I-90128 Palermo, Italy.
+   [Plaia, Antonella] Univ Palermo, Dipartimento Sci Econ Aziendali & Stat, I-90128 Palermo, Italy.
+C3 University of Palermo; University of Palermo
+RP Giambalvo, D (通讯作者)，Univ Palermo, Dipartimento Sci Agr & Forestali, Viale Sci,Edif 4, I-90128 Palermo, Italy.
+EM dario.giambalvo@unipa.it
+FU MiRAAF (project 'Sperimentazione per il miglioramento del grano duro in Sicilia'); MiPA-UE (project POM A16 Misura 2); Regione Sicilia (Patti territoriali Magazzolo-Platani and project SICOBIO); MiPAF (project SICOBIOS)
+CR Angás P, 2006, SOIL TILL RES, V87, P59, DOI 10.1016/j.still.2005.02.036
+   [Anonymous], 2011, PACKAGE LME4. LINEAR MIXED-EFFECTS MODELS USING S4 CLASSES. R PACKAGE VERSION, V0, P0
+   Baggs EM, 2003, PLANT SOIL, V254, P361, DOI 10.1023/A:1025593121839
+   Bescansa P, 2006, SOIL TILL RES, V87, P19, DOI 10.1016/j.still.2005.02.028
+   BLEVINS RL, 1993, ADV AGRON, V51, P33, DOI 10.1016/S0065-2113(08)60590-8
+   Bockus WW, 1998, ANNU REV PHYTOPATHOL, V36, P485, DOI 10.1146/annurev.phyto.36.1.485
+   Bonfil DJ, 1999, AGRON J, V91, P368, DOI 10.2134/agronj1999.00021962009100030003x
+   BORDOVSKY JP, 1994, AGRON J, V86, P1, DOI 10.2134/agronj1994.00021962008600010001x
+   Carr PM, 2003, CROP SCI, V43, P202, DOI 10.2135/cropsci2003.0202
+   Cullum RF, 2012, SOIL TILL RES, V119, P1, DOI 10.1016/j.still.2011.11.011
+   De Vita P, 2007, SOIL TILL RES, V92, P69, DOI 10.1016/j.still.2006.01.012
+   DICK WA, 1985, AGRON J, V77, P459, DOI 10.2134/agronj1985.00021962007700030023x
+   FAO, 2012, WHAT IS CONS AGR, V0, P0
+   Federer WT, 2007, VARIATIONS ON SPLIT PLOT AND SPLIT BLOCK EXPERIMENT DESIGNS, V0, P0, DOI DOI 10.1002/0470108584
+   FOX RH, 1993, J PROD AGRIC, V6, P195, DOI 10.2134/jpa1993.0195
+   Galantini JA, 2000, SOIL TILL RES, V53, P137, DOI 10.1016/S0167-1987(99)00097-5
+   Gan YT, 2003, AGRON J, V95, P245, DOI 10.2134/agronj2003.0245
+   Giambalvo D, 2004, OPTIONS MEDITERRANEENNES. SERIE A, V0, P169
+   Giambalvo D, 2009, CONNECTING DIFFERENT, V0, P251
+   Giambalvo D, 2012, PLANT SOIL, V360, P215, DOI 10.1007/s11104-012-1224-5
+   Giambalvo D, 2011, CROP SCI, V51, P1808, DOI 10.2135/cropsci2010.05.0271
+   Giambalvo D, 2010, AGRON J, V102, P707, DOI 10.2134/agronj2009.0380
+   Gürsoy S, 2010, FIELD CROP RES, V119, P260, DOI 10.1016/j.fcr.2010.07.016
+   Guzha AC, 2004, SOIL TILL RES, V76, P105, DOI 10.1016/j.still.2003.09.002
+   Hargreaves GH, 1985, APPLIED ENGINEERING IN AGRICULTURE, V1, P96
+   Hauggaard-Nielsen H, 2009, NUTR CYCL AGROECOSYS, V84, P281, DOI 10.1007/s10705-008-9242-7
+   He J, 2011, SOIL TILL RES, V113, P48, DOI 10.1016/j.still.2011.01.005
+   Hernanz JL, 2002, SOIL TILL RES, V66, P129, DOI 10.1016/S0167-1987(02)00021-1
+   Jensen ES, 2010, FIELD CROP RES, V115, P203, DOI 10.1016/j.fcr.2009.10.008
+   Jordan VWL, 2000, ASPECTS OF APPLIED BIOLOGY, V0, P61
+   Kay BD, 2002, SOIL TILL RES, V66, P107, DOI 10.1016/S0167-1987(02)00019-3
+   Kirkegaard JA, 1995, AUST J EXP AGR, V35, P835, DOI 10.1071/EA9950835
+   Lampurlanés J, 2006, SOIL TILL RES, V85, P13, DOI 10.1016/j.still.2004.11.006
+   Lopez-Bellido L, 1998, FIELD CROP RES, V57, P265, DOI 10.1016/S0378-4290(97)00137-8
+   Lopez-Bellido L, 1996, AGRON J, V88, P783, DOI 10.2134/agronj1996.00021962008800050016x
+   López-Bellido L, 2006, FIELD CROP RES, V98, P253, DOI 10.1016/j.fcr.2006.03.001
+   López-Bellido RJ, 2001, FIELD CROP RES, V71, P31, DOI 10.1016/S0378-4290(01)00146-0
+   Loughin TM, 2006, CROP SCI, V46, P2492, DOI 10.2135/cropsci2006.04.0271
+   Loughin TM, 2007, J ROY STAT SOC A STA, V170, P29, DOI 10.1111/j.1467-985X.2006.00435.x
+   MacKenzie AF, 1998, J ENVIRON QUAL, V27, P698, DOI 10.2134/jeq1998.00472425002700030029x
+   MacKenzie AF, 1997, CAN J SOIL SCI, V77, P145, DOI 10.4141/S96-104
+   Mazzoncini M, 2008, AGRON J, V100, P1418, DOI 10.2134/agronj2007.0173
+   McConkey BG, 2002, CAN J SOIL SCI, V82, P489, DOI 10.4141/S01-036
+   MCEWEN J, 1990, J AGR SCI-CAMBRIDGE, V115, P209, DOI 10.1017/S0021859600075146
+   Motzo R, 2004, EUPHYTICA, V140, P147, DOI 10.1007/s10681-004-2034-5
+   Pala M, 2007, AGR WATER MANAGE, V93, P136, DOI 10.1016/j.agwat.2007.07.001
+   Paulitz TC, 2002, CAN J PLANT PATHOL, V24, P416
+   R Development Core Team, 2013, R: A LANGUAGE AND ENVIRONMENT FOR STATISTICAL COMPUTING, V0, P0, DOI DOI 10.1007/978-3-540-74686-7
+   REICOSKY DC, 1993, AGRON J, V85, P1237, DOI 10.2134/agronj1993.00021962008500060027x
+   RICE CW, 1986, SOIL SCI SOC AM J, V50, P1206, DOI 10.2136/sssaj1986.03615995005000050023x
+   Richards LA, 1941, SOIL SCI, V51, P377, DOI 10.1097/00010694-194105000-00005
+   Rieger S, 2008, EUR J AGRON, V28, P405, DOI 10.1016/j.eja.2007.11.006
+   Rizza F, 2004, CROP SCI, V44, P2127, DOI 10.2135/cropsci2004.2127
+   ROBINSON JM, 1990, AGRON J, V82, P1141, DOI 10.2134/agronj1990.00021962008200060024x
+   Ruisi P, 2012, AGRON J, V104, P1459, DOI 10.2134/agronj2012.0070
+   SAS Institute, 2008, SAS/STAT 9.2. USERS GUIDE, V0, P0
+   SENARATNE R, 1988, PLANT SOIL, V110, P81, DOI 10.1007/BF02143543
+   Shen YJ, 2002, HYDROL PROCESS, V16, P2173, DOI 10.1002/hyp.1149
+   Silgram M, 1999, ADV AGRON, V65, P267, DOI 10.1016/S0065-2113(08)60915-3
+   Su ZY, 2007, AGR WATER MANAGE, V87, P307, DOI 10.1016/j.agwat.2006.08.005
+   Turpin JE, 2002, AUST J AGR RES, V53, P599, DOI 10.1071/AR01136
+   Uri ND, 1999, ENVIRON GEOL, V38, P111, DOI 10.1007/s002540050407
+   West TO, 2002, AGR ECOSYST ENVIRON, V91, P217, DOI 10.1016/S0167-8809(01)00233-X
+   West TO, 2002, SOIL SCI SOC AM J, V66, P1930, DOI 10.2136/sssaj2002.1930
+NR 64
+TC 56
+Z9 58
+U1 2
+U2 103
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0002-1962
+EI 1435-0645
+J9 AGRON J
+JI Agron. J.
+PD SEP-OCT 15
+PY 2013
+VL 105
+IS 5
+BP 1317
+EP 1327
+DI 10.2134/agronj2013.0019
+PG 11
+WC Agronomy
+SC Agriculture
+GA 194HA
+UT WOS:000322620600009
+DA 2024-08-17
+ER
+
+PT J
+AU Kornecki, TS
+   Arriaga, FJ
+   Price, AJ
+   Balkcom, KS
+AF Kornecki, T. S.
+   Arriaga, F. J.
+   Price, A. J.
+   Balkcom, K. S.
+TI EFFECTS OF RECURRENT ROLLING/CRIMPING OPERATIONS ON COVER CROP TERMINATION, SOIL MOISTURE, AND SOIL STRENGTH FOR CONSERVATION ORGANIC SYSTEMS
+SO APPLIED ENGINEERING IN AGRICULTURE
+LA English
+DT Article
+DE Cover crops; Roller/crimper; Soil strength; Conservation systems
+ID reducing vibration; yield
+AB Rolling/crimping technology has been utilized to mechanically terminate cover crops in conservation agriculture. In the southeastern United States, to eliminate competition for valuable soil moisture, three weeks are typically required after rolling to plant a cash crop into the desiccated cover crop residue. A common method to enhance the cover crop termination is a supplemental application of herbicides such as glyphosate. However, synthetic herbicides cannot be used in organic production, thus additional rolling operations might speed the desiccation process. On the other hand, recurrent rolling/crimping operations could cause additional soil compaction, which could be detrimental for water infiltration and crop root development. The objectives of this experiment were to determine the effectiveness of a single-stage roller with straight bars and a new two-stage roller in terminating either rye (Secale cereale L) or a mixture of rye, crimson clover (Trifolium incarnatum L), and hairy vetch (Vicia villosa L) with repeated rolling operations, and the effect of repeated rolling on volumetric soil water content and soil strength. Cover crop termination dates were selected three weeks before planting date recommendations for vegetables in the northern Alabama region. In three growing seasons (2007, 2008, 2009), three weeks after rolling, both roller designs effectively terminated rye > 90%, which is above the recommended rye termination rate to plant a cash crop. No difference in termination rates were observed between two rollers. Rolling two or three times did not cause additional soil compaction, and rolled residue reduced soil strength compared to standing cover crops due to an improved termination rate and associated moisture conservation. Soil volumetric moisture content (VMC) after repeated rolling operations was significantly higher compared with standing rye and mixture covers. In the mixture, hairy vetch was actively growing two weeks after rolling even after three rolling operations, most likely due to too early growth stage for hairy vetch. Repeated rolling can be beneficial for faster mechanical termination of cover crops such as rye and crimson clover, but may not be adequate for mixtures that include hairy vetch.
+C1 [Kornecki, T. S.; Price, A. J.; Balkcom, K. S.] USDA ARS, Natl Soil Dynam Lab, Auburn, AL 36832 USA.
+   [Arriaga, F. J.] Univ Wisconsin, Dept Soil Sci, Madison, WI 53706 USA.
+C3 United States Department of Agriculture (USDA); University of Wisconsin System; University of Wisconsin Madison
+RP Kornecki, TS (通讯作者)，USDA ARS, Natl Soil Dynam Lab, 411 South Donahue Dr, Auburn, AL 36832 USA.
+EM ted.kornecki@ars.usda.gov
+CR *ASAE, 2004, EP542 ASAE, V0, P0
+   ASAE Standards, 2004, S3133 ASAE, V0, P0
+   Ashford DL, 2003, AMERICAN JOURNAL OF ALTERNATIVE AGRICULTURE, V18, P37, DOI 10.1079/AJAA2003037
+   Brady NC, 1999, NATURE PROPERTIES SO, V0, P0, DOI DOI 10.1023/A:1016012810895.3
+   Derpsch R, 1991, DEUTSCHE GESELLSCHAFT FUR TECHNISCHE ZUSAMMENARBEIT (GTZ), V0, P0
+   Frans R, 1986, RESEARCH METHODS IN WEED SCIENCE, V3rd, P37
+   Hargrove WL, 1987, THE ROLE OF LEGUMES IN CONSERVATION TILLAGE SYSTEMS, V0, P1
+   KERN JS, 1993, SOIL SCI SOC AM J, V57, P200, DOI 10.2136/sssaj1993.03615995005700010036x
+   Kornecki TS, 2006, APPL ENG AGRIC, V22, P633
+   Kornecki TS, 2011, U.S. PATENT, V0, Patent No. [7987917B1, 7987917, 7,987,917 B1]
+   Kornecki TS, 2012, HORTSCIENCE, V47, P217, DOI 10.21273/HORTSCI.47.2.217
+   Nelson JE, 1995, GROWTH STAGE OF WHEAT, V0, P0
+   Raper RL, 2000, JOURNAL OF COTTON SCIENCE, V4, P84
+   Raper RL, 2004, APPL ENG AGRIC, V20, P581
+   Raper RL, 1999, APPL ENG AGRIC, V15, P287
+   Raper RL, 2000, APPL ENG AGRIC, V16, P379
+   Reeves DW, 1994, CROPS RESIDUE MANAGEMENT. ADVANCES IN SOIL SCIENCE, V0, P125
+   SAS, 2009, PROPR SOFTW REL 9 2, V0, P0
+   STEEL RGD, 1980, PRINCIPLES PROCEDURE, V0, P0
+   TAYLOR HOWARD M, 1963, SOIL SCI, V96, P153, DOI 10.1097/00010694-196309000-00001
+   ZADOKS JC, 1974, WEED RES, V14, P415, DOI 10.1111/j.1365-3180.1974.tb01084.x
+NR 21
+TC 6
+Z9 6
+U1 1
+U2 30
+PU AMER SOC AGRICULTURAL & BIOLOGICAL ENGINEERS
+PI ST JOSEPH
+PA 2950 NILES RD, ST JOSEPH, MI 49085-9659 USA
+SN 0883-8542
+EI 1943-7838
+J9 APPL ENG AGRIC
+JI Appl. Eng. Agric.
+PD NOV 15
+PY 2013
+VL 29
+IS 6
+BP 841
+EP 850
+DI 
+PG 10
+WC Agricultural Engineering
+SC Agriculture
+GA 295VA
+UT WOS:000330143200003
+DA 2024-08-17
+ER
+
+PT J
+AU Guo, Z
+   Shao, M
+AF Guo, Z.
+   Shao, M.
+TI Impact of afforestation density on soil and water conservation of the semiarid Loess Plateau, China
+SO JOURNAL OF SOIL AND WATER CONSERVATION
+LA English
+DT Article
+DE planting density; rain-fed condition; runoff; sediment load; soil water carrying capacity for vegetation; vegetation restoration
+ID carrying-capacity; erosion; region
+AB On the Loess Plateau of China, deep rooted, fast-growing species, such as caragana (Caragana korshinskii Kom.), are widely used in afforestation projects. High planting densities and soil water consumption has led to soil desiccation and degradation. We conducted a two-year (2002 to 2003) field experiment assessing the effect of caragana planting density on plant growth and hydrological processes at the Shanghuang Eco-Experimental station. Caragana canopy interception, surface runoff, soil loss, and changes in plant growth and soil water content were determined for five planting densities ranging from 16 to 87 shrubs 100 m(-2) (1,076 ft(-2)). Increases in the caragana canopy within the growing season and greater planting densities resulted in higher canopy interception and in lower runoff and soil loss. The soil water carrying capacity for the caragana amounted to 72 shrubs100 m(-2) when rainfall approaches the long-term average. A sustainable, managed planting density is required that will balance soil water losses due to runoff, the plant's water requirements, and the water supply. In cases where soil desiccation has already occurred, conservation management plans should attempt to recharge the soil water in order to reverse soil degradation.
+C1 [Guo, Z.; Shao, M.] Northwestern A&F Univ, Chinese Acad Sci, Inst Soil & Water Conservat, State Key Lab Soil Eros & Dry Land Farming Loess, Yangling, Shaanxi Provinc, Peoples R China.
+C3 Chinese Academy of Sciences; Institute of Soil & Water Conservation (ISWC), CAS; Northwest A&F University - China
+RP Guo, Z (通讯作者)，Northwestern A&F Univ, Chinese Acad Sci, Inst Soil & Water Conservat, State Key Lab Soil Eros & Dry Land Farming Loess, Yangling, Shaanxi Provinc, Peoples R China.
+FU National Science Fund of China [41071193, 41271539]; Major State Basic Research Development Projects of China, front line of the domain of the Institute of Soil and Water Conservation, Chinese Academy of Sciences [G2000018605]
+CR AGASSI M, 1981, SOIL SCI SOC AM J, V45, P848, DOI 10.2136/sssaj1981.03615995004500050004x
+   BOSCH JM, 1982, J HYDROL, V55, P3, DOI 10.1016/0022-1694(82)90117-2
+   [陈洪松 CHEN Hongsong], 2005, 生态学报 ACTA ECOLOGICA SINICA, V25, P2491
+   Cheng JM, 2000, ACTA AGRESTIA AINICA, V8, P210
+   Cheng XR, 2009, PLANT SOIL, V315, P149, DOI 10.1007/s11104-008-9739-5
+   Evett SR, 2012, AGR WATER MANAGE, V104, P1, DOI 10.1016/j.agwat.2011.12.002
+   FAO-UNESCO, 1988, SOIL MAP WORLD REVIS, V0, P0
+   Flumignan DL, 2011, AGR WATER MANAGE, V98, P791, DOI 10.1016/j.agwat.2010.12.002
+   Gardiol JM, 2003, J HYDROL, V271, P188, DOI 10.1016/S0022-1694(02)00347-5
+   GIFFORD GF, 1976, J HYDROL, V28, P1, DOI 10.1016/0022-1694(76)90048-2
+   Guo Zhong-sheng, 2010, YINGYONG SHENGTAI XUEBAO, V21, P3029
+   [郭忠升 Guo Zhongsheng], 2003, 生态学报 ACTA ECOLOGICA SINICA, V23, P1640
+   [郭忠升 Guo Zhongsheng], 2004, 水利学报 JOURNAL OF HYDRAULIC ENGINEERING, V0, P95
+   Guo ZhongSheng Guo ZhongSheng, 2009, ACTA PEDOLOGICA SINICA, V46, P953
+   Guo ZS, 2004, WATER-SAVING AGRICULTURE AND SUSTAINABLE USE OF WATER AND LAND RESOURCES, VOLS 1 AND 2, PROCEEDINGS
+   HAUSER VL, 1984, T ASAE, V27, P722
+   Khanna P, 1999, PROG PLANN, V52, P101, DOI 10.1016/S0305-9006(99)00004-5
+   Li DQ, 1990, B SOIL WATER CONSERV, V10, P91
+   Li Y S, 2001, J NATURAL RESOURCES, V16, P427, DOI 10.3321/J.ISSN:1000-3037.2001.05.006
+   Liu XD, 1987, CHINESE J SOIL WATER, V1, P90
+   Metcalfe DB, 2006, PLANT ECOL, V185, P41, DOI 10.1007/s11258-005-9082-3
+   Oh K, 2005, LANDSCAPE URBAN PLAN, V73, P1, DOI 10.1016/j.landurbplan.2004.06.002
+   van Dijk AIJM, 2003, ENVIRON MODELL SOFTW, V18, P839, DOI 10.1016/S1364-8152(03)00084-7
+   Wallace J, 2008, J HYDROL, V348, P480, DOI 10.1016/j.jhydrol.2007.10.019
+   Wang L, 2000, B SOIL WATER CONSERV, V20, P35
+   Wang XL, 1999, ARID ZONE RES, V16, P37
+   Wang YQ, 2010, J HYDROL, V381, P9, DOI 10.1016/j.jhydrol.2009.09.042
+   Wang Z, 2007, CROP SCI, V47, P1737, DOI 10.2135/cropsci2006.09.0562
+   [韦红波 Wei Hongbo], 2002, 植物生态学报 ACTA PHYTOECOLOGICA SINICA, V26, P489
+   Yang WeiXi Yang WeiXi, 1996, SCIENTIA SILVAE SINICAE, V32, P78
+   Zeide B, 2005, TREES-STRUCT FUNCT, V19, P1, DOI 10.1007/s00468-004-0343-x
+   Zhou ZC, 2006, ECOL MODEL, V198, P263, DOI 10.1016/j.ecolmodel.2006.04.019
+NR 32
+TC 12
+Z9 16
+U1 7
+U2 141
+PU SOIL WATER CONSERVATION SOC
+PI ANKENY
+PA 945 SW ANKENY RD, ANKENY, IA 50023-9723 USA
+SN 0022-4561
+EI 1941-3300
+J9 J SOIL WATER CONSERV
+JI J. Soil Water Conserv.
+PD SEP-OCT 15
+PY 2013
+VL 68
+IS 5
+BP 401
+EP 410
+DI 10.2489/jswc.68.5.401
+PG 10
+WC Ecology; Soil Science; Water Resources
+SC Environmental Sciences & Ecology; Agriculture; Water Resources
+GA 218OJ
+UT WOS:000324441700011
+DA 2024-08-17
+ER
+
+PT J
+AU Liu, S
+   Yang, JY
+   Zhang, XY
+   Drury, CF
+   Reynolds, WD
+   Hoogenboom, G
+AF Liu, S.
+   Yang, J. Y.
+   Zhang, X. Y.
+   Drury, C. F.
+   Reynolds, W. D.
+   Hoogenboom, G.
+TI Modelling crop yield, soil water content and soil temperature for a soybean-maize rotation under conventional and conservation tillage systems in Northeast China
+SO AGRICULTURAL WATER MANAGEMENT
+LA English
+DT Article
+DE CSM-CERES-Maize; CSM-CROPGRO-Soybean; Conservation tillage; Crop yield; Soil water content; Soil temperature
+ID long-term; ceres-maize; use efficiency; physical-property; loess plateau; tile drainage; zero-tillage; corn yields; no-tillage; red-clover
+AB Soil-crop simulation models can be a valuable tool in evaluating conservation tillage practices which are viable both economically and environmentally. The objective of this study was to evaluate the ability of the DSSAT (Decision Support Systems for Agro-technology Transfer) Cropping System Model (CSM) with the CSM-CROPGRO-Soybean and CSM-CERES-Maize modules to predict crop yields and root zone soil water and temperature dynamics for a soybean (Glycine max)-maize (Zea mays) rotation under conventional tillage (CT), reduced conventional tillage (RT) and no-tillage (NT) on a cool, semi-arid "Black soil" (Mollisol) in Northeastern China. Crop yield, soil water content and soil temperature data collected from a field experiment at Hailun Experimental Station (47 degrees 26'N, 126 38'E) during 2004-2011 were used for model calibration and evaluation. The soybean and maize cultivar coefficients were calibrated using the CT yield data, and evaluated using the RI and NT yield data. "Good" agreement between simulated and measured yields was achieved for model calibration (normalized Residual Mean Square Error, nRMSE = 9-15%), and "good" to "moderate" agreement was achieved for model evaluation (nRMSE = 12-17%). Simulated volumetric soil water content in the top 20 cm of CT, RT and NT were in "moderate" to "good" agreement with measurements (index of agreement, d = 0.81-0.91; nRMSE=15.3-20.0%), provided that non-destructive in situ measurements of water content were used. Overall agreement between measured and simulated soil temperature varied from "poor" to "excellent" depending on year and tillage; and the measured soil temperatures were consistently overestimated (mean error, E=3.2-6.2), possibly due to lack of accounting in DSSAT for the insulating effects of accumulated surface residues, and the shading effects of standing crops. Refinement of the soil temperature algorithm in DSSAT is recommended. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Liu, S.; Zhang, X. Y.] Chinese Acad Sci, Northeast Inst Geog & Agroecol, Natl Observat Stn Hailun Agroecol Syst, Key Lab Mollisols Agroecol, Harbin 150081, Peoples R China.
+   [Liu, S.; Yang, J. Y.; Drury, C. F.; Reynolds, W. D.] Agr & Agri Food Canada, Greenhouse & Proc Crops Res Ctr, Harrow, ON N0R 1G0, Canada.
+   [Liu, S.] Univ Chinese Acad Sci, Beijing 100049, Peoples R China.
+   [Hoogenboom, G.] Washington State Univ, AgWeatherNet, Prosser, WA 99350 USA.
+C3 Chinese Academy of Sciences; Northeast Institute of Geography & Agroecology, CAS; Agriculture & Agri Food Canada; Chinese Academy of Sciences; University of Chinese Academy of Sciences, CAS; Washington State University
+RP Yang, JY (通讯作者)，Agr & Agri Food Canada, Greenhouse & Proc Crops Res Ctr, 2585 Cty Rd 20, Harrow, ON N0R 1G0, Canada.
+EM Jingyi.yang@agr.gc.ca; xyzhang1966@yahoo.com.cn
+FU National Key Technology RD Program [2012BAD14B06]; National Natural Science Foundation of China [41171230]; Ministry of Education, China; AAFC-Harrow Research Centre
+CR Akinremi OO, 2005, CAN J SOIL SCI, V85, P223, DOI 10.4141/S03-076
+   Alletto L, 2011, AGR WATER MANAGE, V102, P74, DOI 10.1016/j.agwat.2011.10.008
+   Alvarez R, 2009, SOIL TILL RES, V104, P1, DOI 10.1016/j.still.2009.02.005
+   Anken T, 2004, SOIL TILL RES, V78, P171, DOI 10.1016/j.still.2004.02.005
+   [Anonymous], 1986, CERES MAIZE SIMULATI, V0, P0
+   [Anonymous], 2008, FIELD ESTIMATION SOI, V0, P0
+   Boote KJ, 1998, AGRICULTURAL SYSTEMS MODELING AND SIMULATION., V0, P651
+   Bouman BAM, 1996, AGR SYST, V52, P171, DOI 10.1016/0308-521X(96)00011-X
+   BRAUD I, 1995, J HYDROL, V166, P213, DOI 10.1016/0022-1694(94)05085-C
+   Brisson N, 2003, EUR J AGRON, V18, P309, DOI 10.1016/S1161-0301(02)00110-7
+   Cabrera VE, 2007, AGR ECOSYST ENVIRON, V122, P479, DOI 10.1016/j.agee.2007.03.005
+   CAMPBELL CA, 1989, SOIL TILL RES, V14, P39, DOI 10.1016/0167-1987(89)90019-6
+   CANNELL RQ, 1994, SOIL TILL RES, V30, P245, DOI 10.1016/0167-1987(94)90007-8
+   Chakraboyty D, 2008, AGR WATER MANAGE, V95, P1323, DOI 10.1016/j.agwat.2008.06.001
+   Chassot A, 2001, PLANT SOIL, V231, P123, DOI 10.1023/A:1010335229111
+   Chen Y, 2011, SOIL TILL RES, V115, P56, DOI 10.1016/j.still.2011.06.007
+   Cullum RF, 2012, SOIL TILL RES, V119, P1, DOI 10.1016/j.still.2011.11.011
+   De Vita P, 2007, SOIL TILL RES, V92, P69, DOI 10.1016/j.still.2006.01.012
+   DeLaune PB, 2012, SOIL TILL RES, V124, P32, DOI 10.1016/j.still.2012.04.009
+   Dogan E, 2007, AGR WATER MANAGE, V90, P56, DOI 10.1016/j.agwat.2007.02.003
+   Drury CF, 1999, AGRON J, V91, P101, DOI 10.2134/agronj1999.00021962009100010016x
+   Drury CF, 2003, SOIL SCI SOC AM J, V67, P867, DOI 10.2136/sssaj2003.0867
+   Duan XW, 2011, CATENA, V87, P268, DOI 10.1016/j.catena.2011.06.012
+   Enfors E, 2011, AGR WATER MANAGE, V98, P1687, DOI 10.1016/j.agwat.2010.02.013
+   Fang Q, 2010, AGR WATER MANAGE, V97, P1165, DOI 10.1016/j.agwat.2009.02.012
+   FLERCHINGER GN, 1991, AGR FOREST METEOROL, V56, P227, DOI 10.1016/0168-1923(91)90093-6
+   Flerchinger GN, 2004, J ARID ENVIRON, V59, P369, DOI 10.1016/j.jaridenv.2004.01.016
+   Flerchinger GN, 2003, GEODERMA, V116, P217, DOI 10.1016/S0016-7061(03)00102-2
+   Franzluebbers AJ, 2007, SOIL TILL RES, V96, P303, DOI 10.1016/j.still.2007.07.001
+   Gaiser T, 2010, AGR ECOSYST ENVIRON, V135, P318, DOI 10.1016/j.agee.2009.10.014
+   Gijsman AJ, 2002, AGRON J, V94, P462, DOI 10.2134/agronj2002.4620
+   Gregorich EG, 2001, SOIL ENV SCI DICT, V0, P0
+   Hanson JD, 1998, AGR SYST, V57, P161, DOI 10.1016/S0308-521X(98)00002-X
+   Hasegawa H, 2000, FIELD CROP RES, V67, P239, DOI 10.1016/S0378-4290(00)00099-X
+   Hassanli AM, 2009, AGR WATER MANAGE, V96, P93, DOI 10.1016/j.agwat.2008.07.004
+   He JQ, 2012, AGR WATER MANAGE, V109, P61, DOI 10.1016/j.agwat.2012.02.007
+   Hoogenboom G, 2010, DECIS SUPPORT SYST, V0, P0
+   Hussain I, 1999, SOIL TILL RES, V52, P37, DOI 10.1016/S0167-1987(99)00054-9
+   IRAGAVARAPU TK, 1995, SOIL TILL RES, V34, P145, DOI 10.1016/0167-1987(95)00470-D
+   Jansson PE, 2001, ENVIRON MODELL SOFTW, V16, P37, DOI 10.1016/S1364-8152(00)00062-1
+   Ji XB, 2009, AGR WATER MANAGE, V96, P1010, DOI 10.1016/j.agwat.2009.02.008
+   Jin YH, 2010, AGR WATER MANAGE, V97, P326, DOI 10.1016/j.agwat.2009.10.002
+   Jones JW, 2003, EUR J AGRON, V18, P235, DOI 10.1016/S1161-0301(02)00107-7
+   Kassam A, 2012, FIELD CROP RES, V132, P7, DOI 10.1016/j.fcr.2012.02.023
+   Kholedian MR, 2009, AGR WATER MANAGE, V96, P757, DOI 10.1016/j.agwat.2008.10.011
+   Knörzer H, 2011, FIELD CROP RES, V121, P274, DOI 10.1016/j.fcr.2010.12.016
+   Kool JB, 1989, HYDRUS ONE DIMENSION, V0, P116
+   Legates DR, 1999, WATER RESOUR RES, V35, P233, DOI 10.1029/1998WR900018
+   Liu HL, 2011, AGR WATER MANAGE, V98, P1105, DOI 10.1016/j.agwat.2011.01.017
+   Liu HL, 2011, NUTR CYCL AGROECOSYS, V89, P313, DOI 10.1007/s10705-010-9396-y
+   Liu XB, 2011, SOIL TILL RES, V117, P44, DOI 10.1016/j.still.2011.08.005
+   LOAGUE K, 1991, JOURNAL OF CONTAMINANT HYDROLOGY, V7, P51, DOI 10.1016/0169-7722(91)90038-3
+   López-Cedrón FX, 2005, EUR J AGRON, V23, P89, DOI 10.1016/j.eja.2005.01.001
+   Ma LW, 2012, AGR WATER MANAGE, V103, P140, DOI 10.1016/j.agwat.2011.11.005
+   Mailhol JC, 1997, AGR WATER MANAGE, V35, P167, DOI 10.1016/S0378-3774(97)00029-2
+   McConkey BG, 2003, SOIL TILL RES, V74, P81, DOI 10.1016/S0167-1987(03)00121-1
+   Mercau JL, 2007, FIELD CROP RES, V100, P200, DOI 10.1016/j.fcr.2006.07.006
+   Moussa-Machraoui SB, 2010, SOIL TILL RES, V106, P247, DOI 10.1016/j.still.2009.10.009
+   Mupangwa W, 2012, FIELD CROP RES, V132, P139, DOI 10.1016/j.fcr.2012.02.020
+   OJENIYI SO, 1986, SOIL TILL RES, V7, P173, DOI 10.1016/0167-1987(86)90016-4
+   Ozpinar S, 2006, SOIL TILL RES, V87, P1, DOI 10.1016/j.still.2005.02.024
+   Porter CH, 2010, OPER RES INT J, V10, P247, DOI 10.1007/S12351-009-0059-1
+   Prasuhn V, 2012, SOIL TILL RES, V120, P137, DOI 10.1016/j.still.2012.01.002
+   Puustinen M, 2005, AGR ECOSYST ENVIRON, V105, P565, DOI 10.1016/j.agee.2004.08.005
+   Quiring SM, 2008, AGR FOREST METEOROL, V148, P964, DOI 10.1016/j.agrformet.2008.01.009
+   ROBESON SM, 1990, ATMOS ENVIRON B-URB, V24, P303, DOI 10.1016/0957-1272(90)90036-T
+   Ruíz-Nogueira B, 2001, AGR SYST, V68, P151, DOI 10.1016/S0308-521X(01)00008-7
+   Saito H, 2009, J HYDROL, V373, P545, DOI 10.1016/j.jhydrol.2009.05.019
+   Sarkar S, 2007, SOIL TILL RES, V92, P79, DOI 10.1016/j.still.2006.01.014
+   SAS Institute Inc, 2008, SAS/STAT9.2 USERS GUIDE, V0, P0
+   Saseendran SA, 2007, GEODERMA, V140, P297, DOI 10.1016/j.geoderma.2007.04.013
+   Saseendran SA, 2010, AGRON J, V102, P1521, DOI 10.2134/agronj2010.0141
+   Schwartz RC, 2010, SOIL TILL RES, V110, P221, DOI 10.1016/j.still.2010.07.015
+   Sharma P, 2011, EUR J AGRON, V34, P46, DOI 10.1016/j.eja.2010.10.003
+   Shi XH, 2012, SOIL TILL RES, V120, P1, DOI 10.1016/j.sti1l.2012.01.003
+   Sinclair TR, 1996, AGRON J, V88, P698, DOI 10.2134/agronj1996.00021962008800050004x
+   Singh Y, 2005, ADV AGRON, V85, P269, DOI 10.1016/S0065-2113(04)85006-5
+   Sommer R, 2007, SOIL TILL RES, V94, P83, DOI 10.1016/j.still.2006.07.007
+   Su ZY, 2007, AGR WATER MANAGE, V87, P307, DOI 10.1016/j.agwat.2006.08.005
+   THIAGALINGAM K, 1991, SOIL TILL RES, V19, P47, DOI 10.1016/0167-1987(91)90108-A
+   Wang YJ, 2011, AGR WATER MANAGE, V101, P88, DOI 10.1016/j.agwat.2011.09.006
+   WHISLER FD, 1986, ADV AGRON, V40, P141
+   Wilkens PW, 2004, DECISION SUPPORT SYSTEM FOR AGROTECHNOLOGY TRANSFER VERSION 4.0. VOLUME 2. DSSAT V4: DATA MANAGEMENT AND ANALYSIS TOOLS, V2, P0
+   Williams JR, 1995, COMPUTER MODELS OF WATERSHED HYDROLOGY., V0, P909
+   WILLIAMS JR, 1990, PHILOS T R SOC B, V329, P421, DOI 10.1098/rstb.1990.0184
+   Willmott CJ, 1981, PHYS. GEOGR., V2, P184, DOI 10.1080/02723646.1981.10642213
+   WILLMOTT CJ, 1982, B AM METEOROL SOC, V63, P1309, DOI 10.1175/1520-0477(1982)063<1309:SCOTEO>2.0.CO;2
+   Yang J, 2000, AGR SYST, V64, P37, DOI 10.1016/S0308-521X(00)00010-X
+   Yang JY, 2010, AGR ECOSYST ENVIRON, V137, P192, DOI 10.1016/j.agee.2010.02.004
+   Yang XM, 2008, SOIL TILL RES, V100, P120, DOI 10.1016/j.still.2008.05.003
+   Zhang KF, 2010, AGR ECOSYST ENVIRON, V137, P202, DOI 10.1016/j.agee.2010.02.005
+   Zhang SL, 2011, NUTR CYCL AGROECOSYS, V89, P427, DOI 10.1007/s10705-010-9406-0
+   Zhang SL, 2007, SOIL TILL RES, V93, P283, DOI 10.1016/j.still.2006.05.002
+NR 93
+TC 128
+Z9 146
+U1 15
+U2 212
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-3774
+EI 1873-2283
+J9 AGR WATER MANAGE
+JI Agric. Water Manage.
+PD MAY 31
+PY 2013
+VL 123
+IS 
+BP 32
+EP 44
+DI 10.1016/j.agwat.2013.03.001
+PG 13
+WC Agronomy; Water Resources
+SC Agriculture; Water Resources
+GA 148LF
+UT WOS:000319245400004
+DA 2024-08-17
+ER
+
+PT J
+AU Liu, Y
+   Sui, YW
+   Gu, DD
+   Wen, XX
+   Chen, Y
+   Li, CJ
+   Liao, YC
+AF Liu, Yang
+   Sui, Yanwei
+   Gu, Dandan
+   Wen, Xiaoxia
+   Chen, Yu
+   Li, Changjiang
+   Liao, Yuncheng
+TI Effects of conservation tillage on grain filling and hormonal changes in wheat under simulated rainfall conditions
+SO FIELD CROPS RESEARCH
+LA English
+DT Article
+DE Conservation tillage; Grain filling; Hormone; Wheat; Rainfall
+ID water-use efficiency; abscisic-acid; crop yield; postanthesis development; superior spikelets; cytokinin content; inferior; ethylene; roots; plant
+AB The objective of this study was to investigate the effect of conservation tillage (CT) on wheat grain filling under different precipitation levels and the relationship with endogenous hormonal changes. In the present study, CT was compared to traditional bare soil tillage (BT) under different precipitation conditions simulated during the wheat growth stage, and the resulting hormonal changes in the grains were measured. The results indicated that the effect of CT on wheat grain filling is significantly related to precipitation. At the 220-mm rainfall level, CT significantly promoted grain filling of the superior and inferior grains. CT also significantly promoted the grain filling of inferior grains at 260-mm rainfall yet had no significant effect on filling of the superior grains. In contrast, CT had no significant effect on the grain-filling rates and grain weight of superior and inferior grains at the 300-mm rainfall level. At 220- and 260-mm rainfall, CT significantly increased the indole-3-acetic acid (IAA) and zeatin (Z) + zeatin riboside (ZR) contents and decreased the abscisic acid (ABA), ethylene (ETH), and gibberellic acid (GA) contents in the inferior grains, whereas CT only had these effects in the superior grains at the 220-mm rainfall level. The IM, ABA, and Z + ZR contents in the grains were positively and significantly correlated with the maximum grain weight and the maximum and mean grain-filling rates; the ETH concentration was negatively and significantly correlated with the maximum, grain weight and the maximum and mean grain-filling rates. In addition, both precipitation and CT significantly increased the soil moisture during the grain-filling stage. Based on these results, we conclude that the CT treatment significantly increased the soil moisture, thus regulating the grain filling of wheat, and that this process was significantly related to the balance of hormones in the grains. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Liu, Yang; Sui, Yanwei; Wen, Xiaoxia; Chen, Yu; Li, Changjiang; Liao, Yuncheng] Northwest A&F Univ, Coll Agron, Yangling 712100, Peoples R China.
+   [Gu, Dandan] Northwest A&F Univ, Coll Plant Protect, Yangling 712100, Peoples R China.
+C3 Northwest A&F University - China; Northwest A&F University - China
+RP Liao, YC (通讯作者)，Northwest A&F Univ, Coll Agron, Yangling 712100, Peoples R China.
+EM yunchengliao@163.com
+FU National Natural Science Foundation of China [30971721, 31070375, 31171506]
+CR Bao SD, 2007, SOIL AGR CHEM ANAL, V0, P0
+   BELTRANO J, 1994, PLANT GROWTH REGUL, V15, P107, DOI 10.1007/BF00024098
+   Blanco-Moure N, 2012, CATENA, V99, P34, DOI 10.1016/j.catena.2012.07.010
+   Chen Y, 2011, SOIL TILL RES, V115, P56, DOI 10.1016/j.still.2011.06.007
+   Davies PJ, 2004, PLANT HORMONES: BIOSYNTHESIS, V0, P0
+   DIETRICH JT, 1995, PLANT PHYSIOL BIOCH, V33, P327
+   Dong ML, 2011, EFFECT IRRIGATION NI, V0, P0
+   EEUWENS CJ, 1975, J EXP BOT, V26, P1, DOI 10.1093/jxb/26.1.1
+   Gao YaJun Gao YaJun, 2005, TRANSACTIONS OF THE CHINESE SOCIETY OF AGRICULTURAL ENGINEERING, V21, P15
+   Jiang D, 2003, PLANT GROWTH REGUL, V41, P247, DOI 10.1023/B:GROW.0000007500.90240.7d
+   Kirkegaard JA, 1995, AUST J EXP AGR, V35, P835, DOI 10.1071/EA9950835
+   KUROGOCHI S, 1979, PLANTA, V146, P185, DOI 10.1007/BF00388230
+   Li FR, 2000, AGR ECOSYST ENVIRON, V79, P129, DOI 10.1016/S0167-8809(99)00149-8
+   Li XY, 2001, AGR WATER MANAGE, V50, P173, DOI 10.1016/S0378-3774(01)00105-6
+   Liu LiJing Liu LiJing, 2004, TRANSACTIONS OF THE CHINESE SOCIETY OF AGRICULTURAL ENGINEERING, V20, P70
+   Martinez I, 2011, CHIL J AGR RES, V71, P615, DOI 10.4067/S0718-58392011000400018
+   MICHAEL G, 1972, CROP SCI, V12, P162, DOI 10.2135/cropsci1972.0011183X001200020002x
+   Moraru PI, 2010, J FOOD AGRIC ENVIRON, V8, P309
+   MORRIS RO, 1993, AUST J PLANT PHYSIOL, V20, P621, DOI 10.1071/PP9930621
+   Norton LD, 2008, J SOIL WATER CONSERV, V63, P46A, DOI 10.2489/63.2.46A
+   Peng XH, 2008, J PLANT NUTR SOIL SC, V171, P936, DOI 10.1002/jpln.200700084
+   Ren XL, 2008, AGR WATER MANAGE, V95, P1293, DOI 10.1016/j.agwat.2008.05.007
+   RICHARDS FJ, 1959, J EXP BOT, V10, P290, DOI 10.1093/jxb/10.2.290
+   Rusu T, 2009, J FOOD AGRIC ENVIRON, V7, P335
+   SAHA S, 1986, CANADIAN JOURNAL OF BOTANY, V64, P2068, DOI 10.1139/b86-271
+   Saini HS, 2000, ADV AGRON, V68, P59
+   SETH AK, 1967, J EXP BOT, V18, P65, DOI 10.1093/jxb/18.1.65
+   SINGH G, 1982, PLANT PHYSIOLOGY AND BIOCHEMISTRY, V9, P22
+   Song G, 2000, J HENAN AGR U, V34, P213
+   Su ZY, 2007, AGR WATER MANAGE, V87, P307, DOI 10.1016/j.agwat.2006.08.005
+   SUZUKI Y, 1981, PLANT CELL PHYSIOL, V22, P1085
+   Tang QX, 2011, AGR SCI CHINA, V10, P860, DOI 10.1016/S1671-2927(11)60072-2
+   Wang XB, 2007, SOIL TILL RES, V93, P239, DOI 10.1016/j.still.2006.05.005
+   Wang XiaoYan Wang XiaoYan, 2001, JOURNAL OF CHINA AGRICULTURAL UNIVERSITY, V6, P42
+   Wang ZW, 2003, ACTA GEOGRAPH. SIN., V0, PP61, DOI 10.11821/xb20037s007
+   Wu CY, 2008, PLANT CELL, V20, P2130, DOI 10.1105/tpc.107.055087
+   Xie RuiZhi Xie RuiZhi, 2008, SCIENTIA AGRICULTURA SINICA, V41, P397
+   Xin N, 1998, AGRICULTURE IN ARID REGIONS OF NORTHERN CHINA, V0, P0
+   Xu GW, 2007, FIELD CROP RES, V101, P53, DOI 10.1016/j.fcr.2006.09.008
+   Yang JC, 2006, NEW PHYTOL, V169, P223, DOI 10.1111/j.1469-8137.2005.01597.x
+   Yang JC, 2000, PLANT GROWTH REGUL, V30, P261, DOI 10.1023/A:1006356125418
+   Yang JC, 2002, ANN BOT-LONDON, V90, P369, DOI 10.1093/aob/mcf198
+   Yang JC, 2001, PLANT PHYSIOL, V127, P315, DOI 10.1104/pp.127.1.315
+   Yang JC, 2008, PLANTA, V228, P137, DOI 10.1007/s00425-008-0725-1
+   Yang JC, 2006, NEW PHYTOL, V171, P293, DOI 10.1111/j.1469-8137.2006.01753.x
+   Yang JC, 2010, J EXP BOT, V61, P1, DOI 10.1093/jxb/erp348
+   Zahedi M, 2003, J AGR SCI-CAMBRIDGE, V141, P203, DOI 10.1017/S0021859603003411
+   Zhang FY, 2011, AFR J AGR RES, V6, P5959, DOI 10.5897/AJAR11.936
+   Zhang H, 2009, PLANT PHYSIOL BIOCH, V47, P195, DOI 10.1016/j.plaphy.2008.11.012
+   Zhang XR, 2009, T CSAE, V0, P256
+   Zhang ZC, 2009, J AGR SCI-CAMBRIDGE, V147, P423, DOI 10.1017/S0021859609008557
+   Zhu Q, 1988, ACTA AGRON SIN, V3, P182
+NR 52
+TC 43
+Z9 51
+U1 3
+U2 106
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-4290
+EI 1872-6852
+J9 FIELD CROP RES
+JI Field Crop. Res.
+PD MAR 20
+PY 2013
+VL 144
+IS 
+BP 43
+EP 51
+DI 10.1016/j.fcr.2013.01.009
+PG 9
+WC Agronomy
+SC Agriculture
+GA 129XF
+UT WOS:000317876600006
+DA 2024-08-17
+ER
+
+PT J
+AU Roper, MM
+   Ward, PR
+   Keulen, AF
+   Hill, JR
+AF Roper, M. M.
+   Ward, P. R.
+   Keulen, A. F.
+   Hill, J. R.
+TI Under no-tillage and stubble retention, soil water content and crop growth are poorly related to soil water repellency
+SO SOIL & TILLAGE RESEARCH
+LA English
+DT Article
+DE Repellence; Conservation agriculture; Soil water distribution; Preferential flow; Soil organic carbon; Non-wetting
+ID organic-matter; residue management; carbon; accumulation; evaporation; australia; dynamics; moisture; impact; flow
+AB In southern and western Australia up to 10 million hectares of farmed land is water repellent or at risk of developing repellency. The majority of these soils are sandy. Their high susceptibility to erosion has led to the adoption of practices such as no-tillage and stubble retention. However, retention of stubbles can lead to increases in soil organic matter and consequently aggravate soil water repellency. In a 4-year study on sandy soils on the south coast of Western Australia, soil organic C (LECO), soil water repellency (measured by the Molarity of Ethanol Drop (MED) method), soil water contents (using a hand held time domain reflectometer (TDR)) and crop performance (emergence and grain yields) were monitored in four treatment combinations; no-tillage, stubble retained or burnt; cultivated, stubble retained or burnt. Over time, higher levels of soil organic C were measured under no-tillage than cultivation, and under stubble retention than stubble burning. Soil water repellency followed a similar pattern to soil organic C with the most severe repellency under no-tillage and stubble retention and least under stubble burning and cultivation (R-2 = 0.67). However, soil water contents measured in the field contradicted the findings on water repellency and indicated that water infiltration was best under no-tillage and stubble retention and poorest under stubble burning and cultivation, and this impacted on crop performance. The results suggest that mechanisms other than just soil water repellency are involved in determining soil water content and crop performance. Visualisation of water infiltration using blue dye indicated that under no-tillage, old and current crop rows provide pathways for water movement in the soil, thereby by-passing the repellent surface layer. These findings challenge traditional thinking on soil water repellency and have implications for crop management. (C) 2012 Elsevier B.V. All rights reserved.
+C1 [Roper, M. M.; Ward, P. R.; Keulen, A. F.] CSIRO Plant Ind, Perth, WA 6913, Australia.
+   [Roper, M. M.; Ward, P. R.; Keulen, A. F.] CSIRO Sustainable Agr Flagship, Perth, WA 6913, Australia.
+   [Hill, J. R.] Dept Agr & Food WA, Ravensthorpe, WA 6346, Australia.
+C3 Commonwealth Scientific & Industrial Research Organisation (CSIRO); Commonwealth Scientific & Industrial Research Organisation (CSIRO)
+RP Roper, MM (通讯作者)，CSIRO Plant Ind, Private Bag 5, Wembley, WA 6913, Australia.
+EM Margaret.Roper@csiro.au
+FU GRDC; CSIRO; DAFWA; RAIN group
+CR Azooz RH, 1997, AGR FOREST METEOROL, V84, P207, DOI 10.1016/S0168-1923(96)02364-7
+   Bachmann J, 2008, J PLANT NUTR SOIL SC, V171, P14, DOI 10.1002/jpln.200700054
+   Bescansa P, 2006, SOIL TILL RES, V87, P19, DOI 10.1016/j.still.2005.02.028
+   Blackwell PS, 1993, WESTERN AUSTRALIA JOURNAL OF AGRICULTURE, V34, P160
+   Blackwell PS, 2000, J HYDROL, V231, P384, DOI 10.1016/S0022-1694(00)00210-9
+   Blanco-Canqui H, 2011, SOIL USE MANAGE, V27, P2, DOI 10.1111/j.1475-2743.2010.00318.x
+   Blanco-Canqui H, 2009, GEODERMA, V149, P171, DOI 10.1016/j.geoderma.2008.11.036
+   BOND RD, 1964, AUSTRALIAN J SOIL RES, V2, P123, DOI 10.1071/SR9640123
+   CAMBARDELLA CA, 1993, SOIL SCI SOC AM J, V57, P1071, DOI 10.2136/sssaj1993.03615995005700040032x
+   Campbell CA, 1996, CAN J SOIL SCI, V76, P395, DOI 10.4141/cjss96-047
+   Chivenge P, 2011, AGR ECOSYST ENVIRON, V140, P361, DOI 10.1016/j.agee.2010.12.004
+   DEmden FH, 2006, AUST J EXP AGR, V46, P563, DOI 10.1071/EA05025
+   Dalal RC, 2001, AUST J SOIL RES, V39, P435, DOI 10.1071/SR99042
+   Dekker LW, 2000, J HYDROL, V231, P148, DOI 10.1016/S0022-1694(00)00191-8
+   Doerr SH, 2000, EARTH-SCI REV, V51, P33, DOI 10.1016/S0012-8252(00)00011-8
+   Evans TA, 2011, NAT COMMUN, V2, P0, DOI 10.1038/ncomms1257
+   Flower K, 2007, WORLD ASS SOIL WATER, V3, P0
+   FRANCO CMM, 1995, AUST J SOIL RES, V33, P253, DOI 10.1071/SR9950253
+   Goddard B, 1981, 3 DEP AGR FOOD, V0, P0
+   HARPER RJ, 1994, AUST J SOIL RES, V32, P1109, DOI 10.1071/SR9941109
+   Isbell RF, 2002, AUSTR SOIL CLASSIFIC, V0, P0
+   Ji SN, 2001, SOIL SCI SOC AM J, V65, P442, DOI 10.2136/sssaj2001.652442x
+   KING PM, 1981, AUST J SOIL RES, V19, P275, DOI 10.1071/SR9810275
+   Lal R, 1997, NUTR CYCL AGROECOSYS, V49, P243, DOI 10.1023/A:1009794514742
+   MALHI SS, 1990, SOIL TILL RES, V17, P167, DOI 10.1016/0167-1987(90)90014-5
+   Malinda DK, 1995, AUST J EXP AGR, V35, P969, DOI 10.1071/EA9950969
+   Mashum M, 1989, THEORY PRACTICE SOIL, V0, P70
+   Melloy P, 2010, GLOBAL CHANGE BIOL, V16, P3363, DOI 10.1111/j.1365-2486.2010.02178.x
+   Monzon JP, 2006, FIELD CROP RES, V98, P83, DOI 10.1016/j.fcr.2005.12.010
+   OLeary GJ, 1997, FIELD CROP RES, V52, P209, DOI 10.1016/S0378-4290(97)00034-8
+   Pikul JL, 2009, SOIL SCI SOC AM J, V73, P197, DOI 10.2136/sssaj2007.0184
+   RASMUSSEN PE, 1991, ADV AGRON, V45, P93
+   RITSEMA CJ, 1994, WATER RESOUR RES, V30, P2519, DOI 10.1029/94WR00750
+   Ritsema CJ, 1996, AUST J SOIL RES, V34, P475, DOI 10.1071/SR9960475
+   Roper MM, 2010, AUST J SOIL RES, V48, P274, DOI 10.1071/SR09143
+   Roper MM, 2005, AUST J SOIL RES, V43, P803, DOI 10.1071/SR05061
+   Roper MM, 2004, AUST J SOIL RES, V42, P427, DOI 10.1071/SR03153
+   Simon T, 2009, SOIL TILL RES, V105, P44, DOI 10.1016/j.still.2009.05.004
+   Six J, 1999, SOIL SCI SOC AM J, V63, P1350, DOI 10.2136/sssaj1999.6351350x
+   Six J, 1998, SOIL SCI SOC AM J, V62, P1367, DOI 10.2136/sssaj1998.03615995006200050032x
+   van Gool D, 2008, 330 DEP AGR FOOD, V0, P0
+   Ward PR, 2012, FIELD CROP RES, V132, P33, DOI 10.1016/j.fcr.2011.10.017
+   Ward PR, 2009, CROP PASTURE SCI, V60, P730, DOI 10.1071/CP08448
+   Wu H, 2001, ANN APPL BIOL, V139, P1, DOI 10.1111/j.1744-7348.2001.tb00124.x
+NR 44
+TC 55
+Z9 65
+U1 2
+U2 109
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-1987
+EI 1879-3444
+J9 SOIL TILL RES
+JI Soil Tillage Res.
+PD JAN 15
+PY 2013
+VL 126
+IS 
+BP 143
+EP 150
+DI 10.1016/j.still.2012.09.006
+PG 8
+WC Soil Science
+SC Agriculture
+GA 068SG
+UT WOS:000313385900017
+DA 2024-08-17
+ER
+
+PT J
+AU Robertson, F
+   Nash, D
+AF Robertson, Fiona
+   Nash, David
+TI Limited potential for soil carbon accumulation using current cropping practices in Victoria, Australia
+SO AGRICULTURE ECOSYSTEMS & ENVIRONMENT
+LA English
+DT Article
+DE Soil organic carbon sequestration; Cropping system; Pasture; Crop residue; RothC; Greenhouse offsets
+ID south-eastern australia; mediterranean-type environment; water-use efficiency; organic-matter; perennial ryegrass; climate-change; semiarid environment; conservation tillage; microbial biomass; stubble retention
+AB The extent to which soil C storage can be increased in Australian agricultural soils by adoption of improved management practices is poorly understood. There is a pressing need for such information in order to evaluate the potential for soil C sequestration to offset greenhouse gas emissions. In this study we used the RothC model to assess whether soil C accumulation under cropping using stubble retention and pasture rotations could be a significant offset for greenhouse gas emissions. We chose eight regions to represent the climatic range of the Victorian cropping industry: Walpeup, Birchip, Horsham, Bendigo, Rutherglen, Lismore, Bairnsdale and Hamilton (annual rainfall 330-700 mm). For each region, we chose two representative soil types, varying in clay and total organic C contents. For each region x soil combination, we compared the effects of five rotations: Canola-wheat-pulse-barley (C-W-P-B); Canola-wheat-triticale (C-W-T); Canola-wheat-barley-5 year perennial pasture (C-W-B-Pt5); Canola-wheat-fallow (C-W-F) and Continuous pasture (Pt). We compared the cropping rotations with cereal stubble burnt and with cereal stubble retained and, for two regions, with cereal stubble grazed by sheep. The results of the simulations showed that, across all scenarios, the equilibrium C density varied between 19 and 135 t C/ha to 300 mm depth, with potential soil C change being strongly influenced by crop yield, crop rotation, climate, initial soil C content, stubble management and continuity of management The simulations suggested that soil C stocks could be increased under a crop-pasture rotation (C-W-B-Pt5) with stubble retention, with rates of increase of 0.3-0.9 t C/ha yr over 25 years. If all of Victoria's cropland were converted to C-W-B-Pt5 rotation with stubble retention, and if 50% of the modelled potential C change were achieved, this would represent 3.0-4.5 MtCO(2)-e/year, equivalent to 2.5-3.7% of Victoria's greenhouse emissions. Less C accumulation would be possible under continuous cropping with stubble retention; even using the most conservative rotation (C-W-T) rates of C change varied from loss of 0.3 t C/ha yr to accumulation of 0.5 t C/ha yr over 25 years. If all of Victoria's cropland were converted to C-W-T rotation with stubble retention, and if 50% of the modelled potential C change were achieved, this would be equivalent to 0.8-2.3 MtCO(2)-e/year, or 0.7-1.9% of Victoria's greenhouse emissions. It would generally take 10-25 years for the soil C changes to become measurable using conventional soil sampling and analytical methods. Thus we conclude that, with current technology, the potential for significant and verifiable soil C accumulation in Victoria's croplands is limited. (C) 2012 Elsevier B.V. All rights reserved.
+C1 [Robertson, Fiona] DPI Hamilton Ctr, Future Farming Syst Res Div, Dept Primary Ind, Hamilton, Vic 3300, Australia.
+   [Nash, David] DPI Ellinbank Ctr, Future Farming Syst Res Div, Dept Primary Ind, Ellinbank, Vic 3821, Australia.
+C3 NSW Department of Primary Industries; NSW Department of Primary Industries
+RP Robertson, F (通讯作者)，DPI Hamilton Ctr, Future Farming Syst Res Div, Dept Primary Ind, Mt Napier Rd, Hamilton, Vic 3300, Australia.
+EM fiona.robertson@dpi.vic.gov.au; david.nash@dpi.vic.gov.au
+FU Department of Primary Industries
+CR ABARE, 2007, 144 ABARE, V0, P0
+   ABS, 2003, AGR COMM 7121 0 2001, V0, P0
+   ABS, 2009, 71210DO001200809 ABS, V0, P0
+   ABS, 1998, AGR VICT 7113 1 1996, V0, P0
+   ALEXANDER EB, 1980, SOIL SCI SOC AM J, V44, P689, DOI 10.2136/sssaj1980.03615995004400040005x
+   [Anonymous], 2010, AUSTR NAT GREENH ACC, V0, P0
+   Anwar MR, 2007, FIELD CROP RES, V104, P139, DOI 10.1016/j.fcr.2007.03.020
+   Armstrong RD, 1999, AUST J EXP AGR, V39, P445, DOI 10.1071/EA99014
+   Baldock JA, 1999, HDB SOIL SCI, V0, PPB25, DOI 10.1038/194324B0
+   Baldock JA, 1999, SOIL ANAL INTERPRETA, V0, P159
+   Batjes NH, 1996, EUR J SOIL SCI, V47, P151, DOI 10.1111/ejss.12114_2
+   Bernoux M, 1998, SOIL SCI SOC AM J, V62, P743, DOI 10.2136/sssaj1998.03615995006200030029x
+   BUYANOVSKY GA, 1986, PLANT SOIL, V93, P57, DOI 10.1007/BF02377145
+   Cayley JWD, 1998, AUST J AGR RES, V49, P233, DOI 10.1071/A97113
+   Chan KY, 1995, TROP GRASSLANDS, V29, P210
+   Chan KY, 2005, SOIL USE MANAGE, V21, P427, DOI 10.1079/SUM2005357
+   Chen W, 2002, AUST J AGR RES, V53, P529, DOI 10.1071/AR01091
+   Clark SG, 2003, AUST J EXP AGR, V43, P1211, DOI 10.1071/EA02101
+   Coleman KW, 1996, NATO ASI SER, V0, P237
+   Commonwealth of Australia, 2006, NAT AGR MON SYST WHE, V0, P0
+   Conant RT, 2007, SOIL TILL RES, V95, P1, DOI 10.1016/j.still.2006.12.006
+   Connell P, 2000, AUSTR GRAINS IND 200, V0, P0
+   Dalal RC, 1997, SUSTAINABLE CROP PRODUCTION IN THE SUB-TROPICS: AN AUSTRALIAN PERSPECTIVE., V0, P42
+   DALAL RC, 1991, SOIL BIOL BIOCHEM, V23, P435, DOI 10.1016/0038-0717(91)90006-6
+   DALAL RC, 1986, AUST J SOIL RES, V24, P281, DOI 10.1071/SR9860281
+   Dalal RC, 1995, AUST J EXP AGR, V35, P903, DOI 10.1071/EA9950903
+   DAVENPORT JR, 1988, CAN J SOIL SCI, V68, P693, DOI 10.4141/cjss88-067
+   de Neergaard A, 2004, BIOL FERT SOILS, V39, P228, DOI 10.1007/s00374-003-0699-x
+   Department of Climate Change and Energy Efficiency, 2011, AUSTR NAT GREENH GAS, V0, P0
+   DPI (Department of Primary Industries), 2008, FUT FARM PROD COMP S, V0, P0
+   Duiker SW, 1999, SOIL TILL RES, V52, P73, DOI 10.1016/S0167-1987(99)00059-8
+   Eady S, 2009, AN ANALYSIS OF GREENHOUSE GAS MITIGATION AND CARBON SEQUESTRATION OPPORTUNITIES FROM RURAL LAND USE, V0, P0
+   Fettell NA, 1995, AUST J EXP AGR, V35, P923, DOI 10.1071/EA9950923
+   FRENCH RJ, 1984, AUST J AGR RES, V35, P743, DOI 10.1071/AR9840743
+   FRENCH RJ, 1984, AUST J AGR RES, V35, P765, DOI 10.1071/AR9840765
+   Garten CT, 1999, J ENVIRON QUAL, V28, P1359, DOI 10.2134/jeq1999.00472425002800040041x
+   Grace PR, 2010, AUST J SOIL RES, V48, P720, DOI 10.1071/SR10063
+   Graham J, 2005, GREENHOUSE EMISSIONS, V0, P0
+   HAINES PJ, 1990, AUST J EXP AGR, V30, P365, DOI 10.1071/EA9900365
+   Hamblin A, 1993, TRENDS WHEAT YIELDS, V0, P0
+   Hannah MC, 1995, AUST J EXP AGR, V35, P951, DOI 10.1071/EA9950951
+   IPCC, 2007, CLIM CAHNG 2007 SYNT, V0, P0
+   Isbell RF, 2002, AUSTR SOIL CLASSIFIC, V0, P0
+   JENKINSON DS, 1994, LONG-TERM EXPERIMENTS IN AGRICULTURAL AND ECOLOGICAL SCIENCES, V0, P117
+   Jones RB, 1997, P239, V0, P0
+   Karunaratne K, 2001, 29 AGR VICT, V0, P0
+   Karunaratne K, 2001, 28 AGR VICT, V0, P0
+   Karunaratne K, 2001, 32 AGR VICT, V0, P0
+   Karunaratne K, 2001, 30 AGR VICT, V0, P0
+   Kettler TA, 2000, SOIL SCI SOC AM J, V64, P339, DOI 10.2136/sssaj2000.641339x
+   Lal R, 2004, SCIENCE, V304, P1623, DOI 10.1126/science.1097396
+   Lal R, 2001, ADV AGRON, V71, P145, DOI 10.1016/S0065-2113(01)71014-0
+   Leuning R, 1999, ATMOS ENVIRON, V33, P1357, DOI 10.1016/S1352-2310(98)00365-3
+   Llewellyn RS, 2009, ADOPTION NO TILL CRO, V0, P0
+   MANRIQUE LA, 1991, SOIL SCI SOC AM J, V55, P476, DOI 10.2136/sssaj1991.03615995005500020030x
+   Mitchell RDJ, 2000, PROCEEDINGS OF THE 2000 CONFERENCE OF THE AUSTRALIAN SOCIETY OF SUGAR CANE TECHNOLOGISTS HELD AT BUNDABERG, V0, P0
+   OLeary GJ, 1997, FIELD CROP RES, V52, P221, DOI 10.1016/S0378-4290(97)00035-X
+   OLeary GJ, 1997, FIELD CROP RES, V52, P209, DOI 10.1016/S0378-4290(97)00034-8
+   POST WM, 1982, NATURE, V298, P156, DOI 10.1038/298156a0
+   Powlson DS, 2011, EUR J SOIL SCI, V62, P42, DOI 10.1111/j.1365-2389.2010.01342.x
+   Richards G, 2005, FULLCAM CARBON ACCOU, V0, P0
+   Riffkin P, 2004, NEW DIRECTIONS DIVER, V0, P0
+   Riffkin P, 2001, SCI TECHNOLOGY DELIV, V0, P0
+   Robertson MJ, 2004, AUST J EXP AGR, V44, P43, DOI 10.1071/EA02214
+   Russel JS, 1960, AUSTRALIAN JOURNAL OF AGRICULTURAL RESEARCH, V11, P902, DOI 10.1071/AR9600902
+   Russell JS, 1982, CYCLING OF CARBON, V0, P0
+   Sainju UM, 2008, AGR ECOSYST ENVIRON, V127, P234, DOI 10.1016/j.agee.2008.04.006
+   SAUL G, 2006, GREENER PASTURES S W, V0, P53
+   Saul GR, 1999, AUST J AGR RES, V50, P537, DOI 10.1071/A98138
+   Searchinger T, 2008, SCIENCE, V319, P1238, DOI 10.1126/science.1151861
+   Skjemstad J, 2003, 36 AUSTR GREENH OFF, V0, P0
+   Skjemstad JO, 2004, AUST J SOIL RES, V42, P79, DOI 10.1071/SR03013
+   Smith P, 2005, EUR J SOIL SCI, V56, P673, DOI 10.1111/j.1365-2389.2005.00708.x
+   Smith P, 2004, EUR J AGRON, V20, P229, DOI 10.1016/j.eja.2003.08.002
+   Smith P, 2004, GLOBAL CHANGE BIOL, V10, P1878, DOI 10.1111/j.1365-2486.2004.00854.x
+   Spain AV, 1983, SOILS: AN AUSTRALIAN VIEWPOINT., V0, P551
+   Stockfisch N, 1999, SOIL TILL RES, V52, P91, DOI 10.1016/S0167-1987(99)00063-X
+   Swift RS, 2001, SOIL SCI, V166, P858, DOI 10.1097/00010694-200111000-00010
+   Thomas GA, 2007, SOIL TILL RES, V94, P295, DOI 10.1016/j.still.2006.08.005
+   Valzano F, 2005, 43 NAT CARB ACC SYST, V0, P0
+   VandenBygaart AJ, 2004, SOIL SCI SOC AM J, V68, P1394, DOI 10.2136/sssaj2004.1394
+   WILLIAMS CH, 1957, AUSTRALIAN JOUR AGRIC RES, V8, P179, DOI 10.1071/AR9570179
+NR 83
+TC 35
+Z9 36
+U1 3
+U2 92
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-8809
+EI 
+J9 AGR ECOSYST ENVIRON
+JI Agric. Ecosyst. Environ.
+PD JAN 15
+PY 2013
+VL 165
+IS 
+BP 130
+EP 140
+DI 10.1016/j.agee.2012.11.004
+PG 11
+WC Agriculture, Multidisciplinary; Ecology; Environmental Sciences
+SC Agriculture; Environmental Sciences & Ecology
+GA 098LF
+UT WOS:000315550100014
+DA 2024-08-17
+ER
+
+PT J
+AU Zhao, WF
+   Gao, ZQ
+   Sun, M
+   Deng, LF
+AF Zhao, Weifeng
+   Gao, Zhiqiang
+   Sun, Min
+   Deng, Lianfeng
+TI Effects of tillage during fallow period on soil water and wheat yield of dryland
+SO JOURNAL OF FOOD AGRICULTURE & ENVIRONMENT
+LA English
+DT Article
+DE Agricultural production; dryland; wheat; fallow period; tillage; soil water content; water use efficiency; yeild; NT; wheat production
+ID barley root-growth; penetration resistance; conservation tillage; physical-property; grain-yield; long-term; clay loam; storage; management; systems
+AB As one of the major food for human survival and the important source for calories and protein, wheat has high priority in Chinese agricultural production. However, wheat production on dryland in Shanxi province of North China, a major wheat production region, was low and unstable, which was mainly due to the extreme variability in precipitation during the growing period, as well as the low capacity of soil water content ( SWC) and water retention. Two-factors split-plot design was used in this study to evaluate the effects of tillage during wheat fallow period on soil water content (SWC), water use efficiency (WUE) and wheat yield in 2010 similar to 2011 in North China. The SWC of 0 similar to 300 cm depth soil, the SWC of every soil layer at 0 similar to 300 cm depth before sowing, wheat yield and WUE can all be enhanced under DT and SS systems, furthermore, the effect of tillage on the 45th day after the harvest was better than on the 15th day. Results also demonstrated that under tillage during the fallow period, the SWC of middle layer and deep layer before sowing had significant or extremely significant correlation with the spike number and wheat yield. All above suggest that tillage during the wheat fallow period can increase SWC at the depth of 80 similar to 160 cm, and thereby increase WUE, spike number and the yield of dryland wheat. The effects of three tillage systems (DT, SS and NT) during wheat fallow period in North China were investigated, and tillage performed better than NT on dryland which conducted NT for several years, however, whether continuous tillage is good for wheat production needs continued research.
+C1 [Zhao, Weifeng; Gao, Zhiqiang; Sun, Min; Deng, Lianfeng] Shanxi Agr Univ, Coll Agr, Taigu 030801, Peoples R China.
+   [Zhao, Weifeng] Yunan Vocat Coll Tropital Crops, Pu Er 665000, Yunnan Province, Peoples R China.
+C3 Shanxi Agricultural University
+RP Gao, ZQ (通讯作者)，Shanxi Agr Univ, Coll Agr, Taigu 030801, Peoples R China.
+EM zwf9721zwf9721@163.com; gaozhiqiang1964@126.com; sm_sunmin@126.com; lianfengdenglfd@yeah.net
+FU special fund for construction of the modern agricultural industry technology system [CARS-03-01-24]; special fund for scientific research in the public interest [200903007-10]; National Natural Science Foundation of China (NSFC) [31101112]; Shanxi scientific research foundation for the returned overseas Chinese scholars [2009037]; Shanxi youth fund [2010021028-3]
+CR Baumhardt RL, 2002, SOIL TILL RES, V68, P71, DOI 10.1016/S0167-1987(02)00097-1
+   Karunatilake U, 2000, SOIL TILL RES, V55, P31, DOI 10.1016/S0167-1987(00)00096-9
+   LAL R, 1989, SOIL TILL RES, V14, P341, DOI 10.1016/0167-1987(89)90054-8
+   Lampurlanés J, 2003, AGRON J, V95, P526, DOI 10.2134/agronj2003.0526
+   Lampurlanés J, 2002, SOIL TILL RES, V65, P207, DOI 10.1016/S0167-1987(01)00285-9
+   Lipiec J, 2006, SOIL TILL RES, V89, P210, DOI 10.1016/j.still.2005.07.012
+   Lopez MV, 1996, SOIL TILL RES, V37, P251, DOI 10.1016/0167-1987(96)01011-2
+   LUO Y, 1999, CARBON DIOXIDE ENV S, V0, P0
+   Madejón E, 2009, SOIL TILL RES, V105, P55, DOI 10.1016/j.still.2009.05.007
+   Schiettecatte W, 2005, CATENA, V64, P209, DOI 10.1016/j.catena.2005.08.017
+   Sijtsma CH, 1998, SOIL TILL RES, V49, P223, DOI 10.1016/S0167-1987(98)00175-5
+   Smith KA, 2000, SOIL AND ENVIRONMENTAL ANALYSIS: PHYSICAL METHODS, V0, P0
+   Wang XB, 2006, PEDOSPHERE, V16, P587, DOI 10.1016/S1002-0160(06)60092-1
+NR 13
+TC 9
+Z9 14
+U1 0
+U2 30
+PU WFL PUBL
+PI HELSINKI
+PA MERI-RASTILANTIE 3 C, HELSINKI, FI-00980, FINLAND
+SN 1459-0255
+EI 
+J9 J FOOD AGRIC ENVIRON
+JI J. Food Agric. Environ.
+PD JUN 15
+PY 2013
+VL 11
+IS 1
+BP 609
+EP 613
+DI 
+PG 5
+WC Food Science & Technology
+SC Food Science & Technology
+GA 103CR
+UT WOS:000315892500001
+DA 2024-08-17
+ER
+

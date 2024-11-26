@@ -1,0 +1,68 @@
+PT J
+AU Franzluebbers, AJ
+AF Franzluebbers, AJ
+TI Microbial activity in response to water-filled pore space of variably eroded southern Piedmont soils
+SO APPLIED SOIL ECOLOGY
+LA English
+DT Article
+DE carbon mineralization; microbial biomass; nitrogen mineralization; soil texture; soil water
+ID organic-matter; nitrogen mineralization; conservation tillage; bulk-density; temperature; respiration; moisture; carbon
+AB Potential C and N mineralization and soil microbial biomass C (SMBC) are soil biological properties important in understanding nutrient and organic matter dynamics. Knowledge of soil water content at a matric potential near field capacity is needed to determine these biological properties. The objective of this study was to examine whether adjustment of soil water content to a common level of water-filled pore space (WFPS) may be an acceptable alternative that would require little prior analysis in comparison with adjustment based on matric potential. Potential C and N mineralization and SMBC were determined from 15 variably eroded soils of the Madison-Cecil-Pacolet association (clayey, kaolinitic, thermic Typic Kanhapludults) in response to WFPS. The levels of WFPS to achieve maximum activity and biomass under naturally settled conditions were unaffected by clay content and occurred at 0.42+/-0.03 m(3) m(-3) for net N mineralization during 24 days of incubation, 0.51+/-0.22 m(3) m(-3) for specific respiratory activity of SMBC, 0.60+/-0.07 m(3) m(-3) for cumulative C mineralization during 24 d of incubation, and 0.76+/-0.27 m(3) m(-3) for SMBC. Selecting a common WFPS level of 0.5 m(3) m(-3) resulted in 96+/-2%, 97+/-5%, 97+/-4%, and 88+/-10% of the maximum for these four properties, respectively, and was a reasonable compromise when attempting to estimate these properties during simultaneous incubations. Adjusting soil water content based on WFPS was simpler and nearly as reliable as based on matric potential, in which soil water content at -33 kPa varied from 0.16 to 0.30 g g(-1). (C) 1999 Elsevier Science B.V.
+C1 USDA ARS, J Phil Campbell Sr Nat Resources Conservat Ctr, Watkinsville, GA 30677 USA.
+C3 United States Department of Agriculture (USDA)
+RP Franzluebbers, AJ (通讯作者)，USDA ARS, J Phil Campbell Sr Nat Resources Conservat Ctr, 1420 Expt Stn Rd, Watkinsville, GA 30677 USA.
+CR ANDERSON JPE, 1982, AGRON MONOGR, V9, P837
+   Box JE, 1962, SOIL SCIENCE SOCIETY OF AMERICA. PROCEEDINGS, V26, P119
+   Bundy LG, 1994, METHODS SOIL ANAL 2, V5, P951
+   CASSMAN KG, 1980, SOIL SCI SOC AM J, V44, P1233, DOI 10.2136/sssaj1980.03615995004400060020x
+   DEKA RN, 1995, EUR J SOIL SCI, V46, P233, DOI 10.1111/j.1365-2389.1995.tb01831.x
+   Doran JW, 1996, METHODS FOR ASSESSING SOIL QUALITY., V0, P25
+   Doran JW, 1990, TRANSACTIONS 14TH INTERNATIONAL CONGRESS OF SOIL SCIENCE, V0, P94
+   DORAN JW, 1988, P 11 INT SOIL TILL R, V1, P49
+   Franzluebbers AJ, 1996, SOIL BIOL BIOCHEM, V28, P1367, DOI 10.1016/S0038-0717(96)00143-5
+   Franzluebbers AJ, 1996, SOIL SCI SOC AM J, V60, P1422, DOI 10.2136/sssaj1996.03615995006000050019x
+   Gee GW, 1986, METHODS SOIL ANAL 1, V0, PP383, DOI 10.2136/sssabookser5.1.2-d.frontmatter
+   GUPTA SC, 1979, WATER RESOUR RES, V15, P1633, DOI 10.1029/WR015i006p01633
+   HOWARD DM, 1993, SOIL BIOL BIOCHEM, V25, P1537, DOI 10.1016/0038-0717(93)90008-Y
+   KLADIVKO EJ, 1987, BIOL FERT SOILS, V5, P248, DOI 10.1007/BF00256909
+   LANGDALE GW, 1992, SOIL TECHNOL, V5, P81, DOI 10.1016/0933-3630(92)90009-P
+   LIEBIG MA, 1995, SOIL SCI SOC AM J, V59, P1430, DOI 10.2136/sssaj1995.03615995005900050032x
+   LINN DM, 1984, SOIL SCI SOC AM J, V48, P1267, DOI 10.2136/sssaj1984.03615995004800060013x
+   MILLER RICHARD D, 1964, SOIL SCI SOC AMER PROC, V28, P644
+   PARR JF, 1981, SOIL SCI SOC AM SPEC, V9, P0
+   RAWLS WJ, 1983, SOIL SCI, V135, P123, DOI 10.1097/00010694-198302000-00007
+   SKOPP J, 1990, SOIL SCI SOC AM J, V54, P1619, DOI 10.2136/sssaj1990.03615995005400060018x
+   Smith JL, 1997, METHODS ASSESSING SO, V0, PP169, DOI 10.2136/sssaspecpub49.c10
+   Sommers LE, 1981, SSSA SPECIAL PUBLICATION, V0, P97
+   STANFORD G, 1974, SOIL SCI SOC AM J, V38, P103, DOI 10.2136/sssaj1974.03615995003800010032x
+   TORBERT HA, 1992, COMMUN SOIL SCI PLAN, V23, P1321, DOI 10.1080/00103629209368668
+   VORONEY RP, 1984, SOIL BIOL BIOCHEM, V16, P9, DOI 10.1016/0038-0717(84)90117-2
+   WARDLE DA, 1992, BIOL REV, V67, P321, DOI 10.1111/j.1469-185X.1992.tb00728.x
+   WILSON JM, 1975, SOIL BIOL BIOCHEM, V7, P199, DOI 10.1016/0038-0717(75)90038-3
+NR 30
+TC 204
+Z9 244
+U1 2
+U2 95
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0929-1393
+EI 
+J9 APPL SOIL ECOL
+JI Appl. Soil Ecol.
+PD JAN 15
+PY 1999
+VL 11
+IS 1
+BP 91
+EP 101
+DI 10.1016/S0929-1393(98)00128-0
+PG 11
+WC Soil Science
+SC Agriculture
+GA 160RU
+UT WOS:000078245400010
+DA 2024-08-17
+ER
+

@@ -1,0 +1,211 @@
+PT J
+AU Lampurlanés, J
+   Angás, P
+   Cantero-Martínez, C
+AF Lampurlanés, J
+   Angás, P
+   Cantero-Martínez, C
+TI Tillage effects on water storage during fallow, and on barley root growth and yield in two contrasting soils of the semi-arid Segarra region in Spain
+SO SOIL & TILLAGE RESEARCH
+LA English
+DT Article
+DE root length density; soil water; conservation tillage; fallow; barley; semi-arid; Spain
+ID use efficiency; wheat; systems
+AB In semi-arid areas under rainfed agriculture water is the most limiting factor of crop production. To investigate the best way to perform fallow and its effect on soil water content (SWC) and root growth in a barley (Hordeum vulgare L.) crop after fallow, an experiment was conducted on two soils in La Segarra, a semi-arid area in the Ebro Valley (Spain). Fallow was a traditional system used in these areas to capture out-of-season rainfall to supplement that of the growing period, usually lasting 16 months, from July to October of the next year. Soil A was a loamy fine Fluventic Xerochrept (Haplic Calcisol, FAO) of 120 cm depth and Soil B was a loamy Lithic Xeric Torriorthent (Calcaric Regosol, FAO) of only 30 cm depth. The experiment was continued for four fallow-crop cycles in Soil A and for two in Soil B. In Soil A, three tillage systems were compared: subsoil tillage (ST), minimum tillage (MT) and no-tillage (NT). In Soil B, only NIT and NT were compared. In the fields cropped to barley, SWC and root length density (LV) were measured at important developmental stages during the season, lasting from October to June. In the fallow fields SWC was also monitored. Here, evaporation (EV), water storage (WS) and water storage efficiency (WSE) were calculated using a simplified balance approach. The fallow period was split in two 8-month sub-periods: July-February (infiltration) and March-October evaporation (EV). In Soil A, values of WSE were in the range 10-18% in 1992-1993, 1993-1994 and 1994-1995 fallow, but fell to 3% in 1995-1996. Among tillage systems, NT showed significantly greater WSE in the July-February sub-period of 1992-1993 and 1993-1994 fallow, but significantly lower WSE in the March-October sub-period, due to greater EV under NT. Consequently, no differences in total WSE were found between tillage systems. In Soil B, WSE was low, about 3-7%, and there were no difference between tillage systems. During the crop period, the differences in SWC and LV between tillage systems were small. Regarding yields, the best tillage system depended on the year. NT is potentially the best system for executing fallow, but residues of the preceding crop must be left spread over the soil. (C) 2002 Elsevier Science B.V. All rights reserved.
+C1 Univ Lleida, IRTA, Dept Prod Vegetal & Ciencia Forestal, Lleida 25198, Spain.
+C3 IRTA; Universitat de Lleida
+EM carlos.cantero@pvcf.udl.es
+CR AMIR J, 1991, FIELD CROP RES, V27, P351, DOI 10.1016/0378-4290(91)90041-S
+   Austin RB, 1998, EUR J AGRON, V8, P239, DOI 10.1016/S1161-0301(97)00063-4
+   Cantero-Martinez C, 1999, AUST J EXP AGR, V39, P29, DOI 10.1071/EA97097
+   CANTEROMARTINEZ C, 1993, SOIL MANAGEMENT SUST, V0, P484
+   COOKE JW, 1985, AUST J EXP AGR, V25, P614, DOI 10.1071/EA9850614
+   FAO, 1988, 60 FAO, V0, P0
+   FRENCH RJ, 1978, AUST J AGR RES, V29, P653, DOI 10.1071/AR9780653
+   FRENCH RJ, 1978, AUST J AGR RES, V29, P669, DOI 10.1071/AR9780669
+   Godwin RJ, 1990, AGR ENG DEV TILLAGE, V0, P0
+   Gomez KA, 1984, STATISTICAL PROCEDURES FOR AGRICULTURAL RESEARCH, V2nd ed.,, P680, DOI 10.1017/S0014479700014496
+   GREGORY PJ, 1987, ROOT DEV FUNCTION, V0, P0
+   Klepper B, 1990, AGRONOMY, V0, P281
+   KOHN GD, 1966, AUSTRALIAN J EXP AGR ANIM HUSB, V6, P233, DOI 10.1071/EA9660233
+   Lampurlanés J, 2001, FIELD CROP RES, V69, P27, DOI 10.1016/S0378-4290(00)00130-1
+   LAWRENCE PA, 1994, SOIL TILL RES, V28, P347, DOI 10.1016/0167-1987(94)90140-6
+   Littell RC, 1991, SAS SYSTEM FOR LINEAR MODELS, VThird, P0
+   Loomis RS, 1991, IMPROVEMENT MANAGEME, V0, P441
+   LOPEZ JJ, 1996, INVEST AGR PROD PROT, V7, P327
+   Lopez MV, 1997, SOIL TILL RES, V44, P35, DOI 10.1016/S0167-1987(97)00030-5
+   MCDONALD GK, 1987, IMPROVEMENT MANAGEME, V0, P421
+   McGee EA, 1997, J SOIL WATER CONSERV, V52, P131
+   Montgomery DC, 2005, DESIGN AND ANALYSIS OF EXPERIMENTS, V6th, P0
+   MORRISON JE, 1993, J SOIL WATER CONSERV, V48, P478
+   NEWMAN EI, 1966, J APPL ECOL, V3, P139, DOI 10.2307/2401670
+   PAPASTYLIANOU I, 1988, P INT C DRY LAND FAR, V0, P822
+   Pearcy RW, 1989, PLANT PHYSL ECOLOGY, V0, P0
+   SAMIOS T, 1985, TECHNICAL B AGR RES, V73, P0
+   SCHULTZ J E, 1972, AUSTRALIAN JOURNAL OF EXPERIMENTAL AGRICULTURE AND ANIMAL HUSBANDRY, V12, P299, DOI 10.1071/EA9720299
+   Steel RGD, 1997, PRINCIPLES AND PROCEDURES OF STATISTICS: A BIOMETRICAL APPROACH, V3rd, P0, DOI 10.1002/BIN:1119620010313
+   Taylor HM, 1983, LIMITATIONS TO EFFICIENT WATER USE IN CROP PRODUCTION, V0, P87
+   Tennant D, 1980, JOURNAL OF AGRICULTURE, V0, P0
+   VILLAR JM, 1989, EVAPOTRANSPIRACION P, V0, P0
+   WARD KJ, 1978, AGRON J, V70, P675, DOI 10.2134/agronj1978.00021962007000040035x
+NR 34
+TC 100
+Z9 110
+U1 0
+U2 34
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-1987
+EI 1879-3444
+J9 SOIL TILL RES
+JI Soil Tillage Res.
+PD MAY 15
+PY 2002
+VL 65
+IS 2
+BP 207
+EP 220
+DI 10.1016/S0167-1987(01)00285-9
+PG 14
+WC Soil Science
+SC Agriculture
+GA 546ZL
+UT WOS:000175307100007
+DA 2024-08-17
+ER
+
+PT J
+AU Schwab, EB
+   Reeves, DW
+   Burmester, CH
+   Raper, RL
+AF Schwab, EB
+   Reeves, DW
+   Burmester, CH
+   Raper, RL
+TI Conservation tillage systems for cotton in the Tennessee Valley
+SO SOIL SCIENCE SOCIETY OF AMERICA JOURNAL
+LA English
+DT Article
+ID water-content; placement; yield; soils
+AB Yield reductions from Do-tillage cotton (Gossypium hirsutum L.) jeopardized adoption of conservation systems in the Tennessee Valley region of north Alabama in the early 1990s. We conducted a study from 1995 to 1999 on a Decatur silt loam (fine, kaolinitic, thermic Rhodic Paleudults) to develop a practical conservation tillage system with competitive yields for the region. Treatments included a factorial combination of fall ridging (ridged and nonridged) and fall non-inversion deep tillage (none, in-row subsoiling, paratilling), along with spring strip tillage and conventional tillage (fall chisel-spring disk). All treatments, except conventional tillage, were established with a rye (Secale cereale L.) cover crop. Tillage systems were evaluated for soil temperature, penetration resistance, a soil compaction index, soil water, plant population, and seed cotton yield. Paratilling reduced soil compaction index 29 and 31% compared with conventional tillage and no-tillage, respectively. Subsoiling reduced the compaction index 12 and 15% compared with conventional tillage and no-tillage, respectively. Soil water content was decreased with the fall paratilled and subsoiled conservation tillage systems, compared with conventional tillage and no-tillage, suggesting increased rooting. Fall non-inversion deep tillage, either paratilling or in-row subsoiling with a narrow-shanked subsoiler, resulted in the highest seed cotton yields; 16% greater than conventional tillage (2660 kg ha(-1)), and 10% greater than strict no-tillage (2810 kg ha(-1)) across a 4-yr duration. In this region, non-inversion deep tillage under the row in fall, coupled with a rye cover crop to produce adequate residue for moisture conservation and erosion control, is a highly competitive and practical conservation tillage system.
+C1 USDA ARS, Soil Dynam Res Unit, Auburn, AL 36832 USA.
+   Auburn Univ, Dept Agron & Soils, Auburn, AL 36849 USA.
+C3 United States Department of Agriculture (USDA); Auburn University System; Auburn University
+RP Reeves, DW (通讯作者)，USDA ARS, Soil Dynam Res Unit, 411 S Donahue Dr, Auburn, AL 36832 USA.
+CR *AM SOC AGR ENG, 1998, S3132 ASAE, V0, P0
+   [Anonymous], 1900, DOI 10.2136/SSSAB00KSER5.1.2ED.C14, V0, P0
+   Boquet DJ, 1993, PROC. SOUTH. CONSERV. TILLAGE CONF. FOR SUSTAINABLE AGRIC., V0, P100
+   BRADLEY JF, 1993, CONSERVATION TILLAGE, V0, P46
+   BROWN SM, 1985, SOIL SCI SOC AM J, V49, P1256, DOI 10.2136/sssaj1985.03615995004900050037x
+   Burmester CH, 1993, PROCEEDINGS OF THE 1993 SOUTHERN CONSERVATION TILLAGE CONFERENCE FOR SUSTAINABLE AGRICULTURE, V93, P30
+   LAL R, 1976, SOIL SCI SOC AM J, V40, P762, DOI 10.2136/sssaj1976.03615995004000050039x
+   Mullins GL, 1997, SOIL TILL RES, V40, P145, DOI 10.1016/S0167-1987(96)01070-7
+   NESMITH DS, 1987, AGRON J, V79, P570, DOI 10.2134/agronj1987.00021962007900030034x
+   Norfleet L, 1997, HIGHLIGHTS OF AGRICULTURAL RESEARCH - ALABAMA AGRICULTURAL EXPERIMENT STATION, V44, P14
+   Raper RL, 1999, APPL ENG AGRIC, V15, P287
+   RAPER RL, 1994, T ASAE, V37, P763, DOI 10.13031/2013.28138
+   Raper RL, 2000, APPL ENG AGRIC, V16, P379
+   REEVES DW, 1995, AGRON J, V87, P847, DOI 10.2134/agronj1995.00021962008700050011x
+   *SAS I, 1988, SAS STAT US GUID VER, V0, P0
+   SHINNERS KJ, 1994, T ASAE, V37, P39, DOI 10.13031/2013.28051
+   STEVENS WE, 1992, J PROD AGRIC, V5, P570, DOI 10.2134/jpa1996.0570
+   TOPP GC, 1980, WATER RESOUR RES, V16, P574, DOI 10.1029/WR016i003p00574
+   TOUCHTON JT, 1986, J FERT ISSUES, V3, P91
+   TOUCHTON JT, 1984, SOIL TILL RES, V4, P391, DOI 10.1016/0167-1987(84)90038-2
+   Triplett GB, 1996, AGRON J, V88, P507, DOI 10.2134/agronj1996.00021962008800040002x
+   VEPRASKAS MJ, 1992, J PROD AGRIC, V5, P482, DOI 10.2134/jpa1992.0482
+   WANJURA DF, 1967, AGRON J, V59, P217, DOI 10.2134/agronj1967.00021962005900030003x
+   WARD HS, 1959, B ALABAMA AGR EXP ST, V316, P0
+NR 24
+TC 83
+Z9 104
+U1 1
+U2 22
+PU SOIL SCI SOC AMER
+PI MADISON
+PA 677 SOUTH SEGOE ROAD, MADISON, WI 53711 USA
+SN 0361-5995
+EI 
+J9 SOIL SCI SOC AM J
+JI Soil Sci. Soc. Am. J.
+PD MAR-APR 15
+PY 2002
+VL 66
+IS 2
+BP 569
+EP 577
+DI 
+PG 9
+WC Soil Science
+SC Agriculture
+GA 528ZF
+UT WOS:000174275000029
+DA 2024-08-17
+ER
+
+PT J
+AU Wilkins, DE
+   Siemens, MC
+   Albrecht, SL
+AF Wilkins, DE
+   Siemens, MC
+   Albrecht, SL
+TI Changes in soil physical characteristics during transition from intensive tillage to direct seeding
+SO TRANSACTIONS OF THE ASAE
+LA English
+DT Article
+DE soil strength; penetrometer; no-till; conservation tillage; wheat; cone index; long-term experiment
+ID long-term; density; erosion; runoff
+AB Converting from intensive tillage to no-till systems often increases soil strength, but the long-term impact of no-till on soil strength is not fully understood. Soil strength (evaluated with a hand-held cone penetrometer) and soil water content were evaluated in the top 30 cm of a replicated wheat/fallow rotation in a Pacific Northwest silt loam (coarse-silty, mixed, mesic, typic Haploxeroll). Soil water content was significantly lower in the no-till plots than in intensive tillage plots, which required a correction to remove the impact of soil water on penetrometer resistance. A regression equation was developed to adjust cone index values for soil water content. Comparisons of cone penetration resistance, adjusted for soil water, were made among intensive tillage, first year no-till, and 17-year no-till. First year no-till soil was resistant to penetration, but after 17 years of no-till the soil strength was lower and approached tilled conditions. Cone index values just below the plow layer (18 cm) increased from 2 to 3 fold the first year of no-till, but after 17 years of no-till the cone index values were not statistically different between no-till and intensive tillage below the tillage layer. This research demonstrated that silt loam soil structure improved with time during transition from intensive tillage to no-till.
+C1 USDA ARS, Columbia Plateau Conservat Res Ctr, Pendleton, OR 97801 USA.
+C3 United States Department of Agriculture (USDA)
+RP USDA ARS, Columbia Plateau Conservat Res Ctr, POB 370, Pendleton, OR 97801 USA.
+EM dale.wilkins@orst.edu
+CR ALBRECHT SL, 1996, COLUMBIA BASIN AGR R, V0, P97
+   *ASAE, 1989, S3132 ASAE, V0, P0
+   AYERS PD, 1982, T ASAE, V25, P1169
+   BAHAM J, 1996, 1996 COLUMBIA BASIN, V0, P68
+   Bezdicek D, 1998, PROCEEDINGS OF THE NORTHWEST DIRECT SEED INTENSIVE CROPPING CONFERENCE, V0, P126
+   HAMMEL JE, 1981, SOIL SCI SOC AM J, V45, P1016, DOI 10.2136/sssaj1981.03615995004500060003x
+   HAMMEL JE, 1989, SOIL SCI SOC AM J, V53, P1515, DOI 10.2136/sssaj1989.03615995005300050036x
+   HILL RL, 1990, SOIL SCI SOC AM J, V54, P161, DOI 10.2136/sssaj1990.03615995005400010025x
+   KLEPPER B, 1983, J SOIL WATER CONSERV, V38, P250
+   LARNEY FJ, 1989, SOIL SCI SOC AM J, V53, P1539, DOI 10.2136/sssaj1989.03615995005300050041x
+   PERUMPRAL JV, 1987, T ASAE, V30, P939
+   Rasmussen PE, 1997, SOIL ORGANIC MATTER IN TEMPERATE AGROECOSYSTEMS, V0, P353
+   Rasmussen PE, 1998, ADV SOIL S, V0, P209
+   VOORHEES WB, 1983, J SOIL WATER CONSERV, V38, P307
+   WILKINS DE, 1983, T ASAE, V26, P651
+   WILKINS DE, 1998, P WORKSH SUST TILL S, V0, P75
+   Wuest SB, 1999, AGRON J, V91, P783, DOI 10.2134/agronj1999.915783x
+   ZUZEL JF, 1982, J SOIL WATER CONSERV, V37, P351
+   ZUZEL JF, 1993, J SOIL WATER CONSERV, V48, P373
+NR 19
+TC 24
+Z9 28
+U1 2
+U2 11
+PU AMER SOC AGRICULTURAL & BIOLOGICAL ENGINEERS
+PI ST JOSEPH
+PA 2950 NILES RD, ST JOSEPH, MI 49085-9659 USA
+SN 0001-2351
+EI 
+J9 T ASAE
+JI Trans. ASAE
+PD JUL-AUG 15
+PY 2002
+VL 45
+IS 4
+BP 877
+EP 880
+DI 
+PG 4
+WC Agricultural Engineering
+SC Agriculture
+GA 612WK
+UT WOS:000179098300001
+DA 2024-08-17
+ER
+

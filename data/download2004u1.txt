@@ -1,0 +1,108 @@
+PT J
+AU Díaz-Zorita, M
+   Grove, JH
+   Murdock, L
+   Herbeck, J
+   Perfect, E
+AF Díaz-Zorita, M
+   Grove, JH
+   Murdock, L
+   Herbeck, J
+   Perfect, E
+TI Soil structural disturbance effects on crop yields and soil properties in a no-till production system
+SO AGRONOMY JOURNAL
+LA English
+DT Article
+ID deep-tillage; root-growth; penetration resistance; conservation tillage; water potentials; aggregate size; maize
+AB The development of well-structured soils is a goal for achieving sustainable and productive agricultural systems. Nevertheless, the maintenance of soil structure in continuous no-till (NT) soils has sometimes been thought to induce soil conditions that are detrimental to crop yields. The objectives of this research were to characterize the effects of periodic tillage disruption in otherwise NT systems on soil properties and the yields of winter wheat (Triticum aestivum L.), double-cropped soybean [Glycine mar (L.) Merr.], and maize (Zea mays L.) in rotation and to determine if soil structural changes occurring in tilled soils are independent of changes in other soil properties. A field experiment was established in 1992 on a Huntington silt loam soil (Fluventic Hapludoll) at the University of Kentucky Research and Education Center in Princeton (KY) under a NT crop sequence with two seedbed preparation methods for winter wheat, (a) NT or (b) chisel plus disk tillage (Till). In fall 2000, similar soil chemical properties were observed between disrupted and continuous NT systems over the 0- to 20-cm layer. The geometric mean diameter of dry fragments and the soil water content retained between 0.0003 and 0.03 MPa water potential was greater in NT soils than in soils tilled for winter wheat. Tillage for winter wheat enhanced winter wheat yields (4.2% increase), mostly under low-yielding conditions, but it resulted in a reduction of subsequent summer crop yields (i.e, 3.7% for soybean and 7.0% for maize). The yields obtained in our study translate to an economic benefit for the continuous NT system. Net returns per hectare were estimated to be $73 higher for the winter wheat/double-crop soybean-maize rotation under NT than under Till treatments. The differences in maize yields between NT and tilled treatments were attributed to a better water supply in NT soil due to the maintenance of a larger number of mesopores and a great hydraulic conductivity. In the absence of significant changes in other physicochemical properties, periodic tillage appears to disrupt soil structure, which negatively affects crop productivity.
+C1 Univ Buenos Aires, Fac Agron, Dep Plant Prod, RA-1417 Buenos Aires, DF, Argentina.
+   Nitragin Argentina SA, RA-1629 Pilar, Buenos Aires, Argentina.
+   Univ Kentucky, Dept Agron, Lexington, KY 40546 USA.
+   Univ Tennessee, Dept Earth & Planetary Sci, Knoxville, TN 37996 USA.
+C3 University of Buenos Aires; University of Kentucky; University of Tennessee System; University of Tennessee Knoxville
+RP Univ Buenos Aires, Fac Agron, Dep Plant Prod, Av San Martin 4457, RA-1417 Buenos Aires, DF, Argentina.
+EM mdzorita@speedy.com.ar
+CR *ANAL SOFTW, 2000, STATISTIX7 US MAN AN, V0, P0
+   [Anonymous], 1977, PLANT ROOT SYSTEMS T, V0, P0
+   BERGH RG, 2000, ACTAS C ARGENTINO CI, V0, P0
+   Blake GR, 1986, METHODS SOIL ANAL SS, V0, P0
+   BLEVINS RL, 1971, AGRON J, V63, P593, DOI 10.2134/agronj1971.00021962006300040024x
+   BOONE FR, 1986, NETH J AGR SCI, V34, P155
+   BRAUNACK MV, 1989, SOIL TILL RES, V14, P259, DOI 10.1016/0167-1987(89)90013-5
+   BRAUNACK MV, 1989, SOIL TILL RES, V14, P281, DOI 10.1016/0167-1987(89)90014-7
+   Buschiazzo DE, 1998, SOIL TILL RES, V49, P105, DOI 10.1016/S0167-1987(98)00160-3
+   CAMPBELL RB, 1984, SOIL TILL RES, V4, P511, DOI 10.1016/0167-1987(84)90002-3
+   CHEPIL WS, 1953, SOIL SCI SOC AM PRO, V17, P185, DOI 10.2136/sssaj1953.03615995001700030002x
+   DEIZMAN MM, 1987, T ASAE, V30, P1642
+   Diaz-Zorita M, 1999, CIENCIA DEL SUELO, V17, P31
+   Díaz-Zorita M, 2000, SOIL TILL RES, V54, P11, DOI 10.1016/S0167-1987(99)00100-2
+   DIAZZORITA M, 2000, P INT C INT SOIL TIL, V0, P0
+   EHLERS W, 1983, SOIL TILL RES, V3, P261, DOI 10.1016/0167-1987(83)90027-2
+   ELRICK DE, 1955, SOIL SCI SOC AMER PROC, V19, P279
+   GEE GW, 1992, SOIL SCI SOC AM J, V56, P1068, DOI 10.2136/sssaj1992.03615995005600040010x
+   GOLCHIN A, 1994, AUST J SOIL RES, V32, P285, DOI 10.1071/SR9940285
+   GREACEN EL, 1972, NATURE-NEW BIOL, V235, P24, DOI 10.1038/newbio235024a0
+   Gupta SC, 1987, ADVANCES IN SOIL SCIENCE, V6, P65
+   HEWITT JS, 1979, PLANT SOIL, V52, P325, DOI 10.1007/BF02185576
+   Karunatilake U, 2000, SOIL TILL RES, V55, P31, DOI 10.1016/S0167-1987(00)00096-9
+   Kay B, 1999, HANDBOOK OF SOIL SCIENCE, V0, PPA, DOI 10.1046/J.1365-2389.2001.00373.X
+   Kay BD, 1990, ADV SOIL SCI, V12, P1, DOI 10.1007/978-1-4612-3316-9_1
+   KIGER CE, 1999, AGRONOMY ABSTRACTS, V0, P290
+   Klute A, 1986, METHODS OF SOIL ANALYSIS. PART 1. PHYSICAL AND MINERALOGICAL METHODS., V0, Ppp
+   Kruger HR, 1996, CIENCIA DEL SUELO, V14, P104
+   Lal R, 1994, SOIL EROSION RES MET, V0, P0
+   Lal Rattan, 1994, P73, V0, P0
+   LUXMOORE RJ, 1981, SOIL SCI SOC AM J, V45, P671, DOI 10.2136/sssaj1981.03615995004500030051x
+   MAHBOUBI AA, 1993, SOIL SCI SOC AM J, V57, P506, DOI 10.2136/sssaj1993.03615995005700020034x
+   Mahboubi AA, 1998, SOIL TILL RES, V45, P107, DOI 10.1016/S0933-3630(96)00127-4
+   MCGARRY D, 2000, P INT C INT SOIL TIL, V0, P0
+   MEAD JA, 1988, AUST J EXP AGR, V28, P491, DOI 10.1071/EA9880491
+   MEHLICH A, 1984, COMMUN SOIL SCI PLAN, V15, P1409, DOI 10.1080/00103628409367568
+   MURDOCK L, 2000, P ANN NAT WHEAT IND, V0, P10
+   NASR HM, 1995, SOIL TILL RES, V34, P61, DOI 10.1016/0167-1987(94)00451-J
+   Paul EA, 1989, SOIL MICROBIOLOGY AND BIOCHEMISTRY., V0, P0
+   PIDGEON JD, 1977, J AGR SCI-CAMBRIDGE, V88, P431, DOI 10.1017/S0021859600034948
+   Pierce FJ, 1997, SOIL ORGANIC MATTER IN TEMPERATE ECOSYSTEMS: LONG-TERM EXPERIENTS IN NORTH AMERICA, V0, P141
+   PIERCE FJ, 1994, SOIL SCI SOC AM J, V58, P1782, DOI 10.2136/sssaj1994.03615995005800060029x
+   ROSS PJ, 1991, SOIL SCI SOC AM J, V55, P923, DOI 10.2136/sssaj1991.03615995005500040004x
+   *SAS I, 1997, SASSTAT SOFTW CHANG, V0, P0
+   Skidmore EL, 1994, SOIL EROSION RES MET, V0, P295
+   SKOPP J, 1990, SOIL SCI SOC AM J, V54, P1619, DOI 10.2136/sssaj1990.03615995005400060018x
+   TABATABAI MA, 1970, SOIL SCI SOC AM PRO, V34, P608, DOI 10.2136/sssaj1970.03615995003400040020x
+   Tanaka DL, 1997, J SOIL WATER CONSERV, V52, P363
+   Thomas GW, 1996, METHODS OF SOIL ANALYSIS. PART 3 - CHEMICAL METHODS., V0, P475
+   THOMAS GW, 1985, AGR CHEM FUTURE, V0, P411
+   UNGER PW, 1975, SOIL SCI SOC AM J, V39, P1197, DOI 10.2136/sssaj1975.03615995003900060043x
+   UNGER PW, 1994, J AGRON CROP SCI, V173, P100, DOI 10.1111/j.1439-037X.1994.tb00543.x
+   UNGER PW, 1994, CROPS RESIDUE MANAGE, V0, P37
+   VANOUWERKERK C, 1970, METH J AGR SCI, V18, P247
+   Varsa EC, 1997, SOIL TILL RES, V43, P219, DOI 10.1016/S0167-1987(97)00041-X
+   VOORHEES WB, 1984, SOIL SCI SOC AM J, V48, P152, DOI 10.2136/sssaj1984.03615995004800010028x
+   West TD, 1996, J PROD AGRIC, V9, P233, DOI 10.2134/jpa1996.0233
+NR 59
+TC 78
+Z9 90
+U1 3
+U2 41
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0002-1962
+EI 1435-0645
+J9 AGRON J
+JI Agron. J.
+PD NOV-DEC 15
+PY 2004
+VL 96
+IS 6
+BP 1651
+EP 1659
+DI 10.2134/agronj2004.1651
+PG 9
+WC Agronomy
+SC Agriculture
+GA 876YV
+UT WOS:000225535800018
+DA 2024-08-17
+ER
+

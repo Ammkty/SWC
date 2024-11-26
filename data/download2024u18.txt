@@ -1,0 +1,2189 @@
+PT J
+AU Yang, FK
+   He, BL
+   Dong, B
+   Zhang, GP
+AF Yang, Fengke
+   He, Baolin
+   Dong, Bo
+   Zhang, Guoping
+TI Film mulched ridge-furrow tillage improves the quality and fertility of dryland agricultural soil by enhancing soil organic carbon and nutrient stratification
+SO AGRICULTURAL WATER MANAGEMENT
+LA English
+DT Article
+DE Film-mulched ridge-furrow tillage; Stratification; Soil quality; Soil fertility; Soil water content; Dryland farming
+ID water-use efficiency; plastic-film; conservation tillage; physical-property; cropping system; maize yield; no-tillage; management; matter; straw
+AB Film mulched ridge-furrow tillage (FMRF) has been successfully used to replace conventional tillage (CT) and increase maize yields in drylands in northwestern China. To increase maize production sustainably, however, investigations are warranted of the underlying mechanism through which FMRF affects soil quality and fertility. Therefore, we conducted an 18 -year survey (2003-2020) and a 6 -year (2015-2020) field experiment to systematically compare CT and FMRF with regard to soil bulk density (BD) and the concentration, storage, and stratification of soil organic carbon (SOC); labile organic carbon (LOC); total nitrogen, phosphorus, and potassium (TN, TP, and TK, respectively); and available N, P, and K (AN, AP, and AK, respectively). Data were collected in a soil layer of 0-30 cm in the survey and in a soil profile of 0-100 cm with 20 -cm increments in the field experiment. The SOC, N, P, and K storage, C:N ratio, and their surface stratification ratios were calculated, and their contributions to soil quality and fertility were systematically evaluated. The results indicated that BD decreased with increasing years of FMRF application. Compared to CT, FMRF significantly increased the concentrations of AK, AP, AN, TK, TP, TN, LOC, and SOC, especially at the 0-40 cm soil horizon and the storage of SOC, TN, TP, and TK in the entire 0-100 cm soil profile, but significantly decreased the C:N ratio at 0-60 cm depth. The stratification ratios of AK, AP, AN, LOC, TK, TN, TP, and SOC were within 1-2.5 and were significantly higher under FMRF than CT for 0-60 cm depth. FMRF also significantly improved soil water status and contributed greatly to increasing the concentration and redistribution of SOC, N, P, and K. Therefore, FMRF improved the soil quality and fertility by increasing the concentration and stratification of SOC, N, P, and K. Further investigations should systematically consider the integrated effects of soil types, farming system, soil microbial processes, and climatic factors.
+C1 [Yang, Fengke; He, Baolin; Dong, Bo; Zhang, Guoping] Dryland Farming Inst, Gansu Acad Agr Sci, Lanzhou 730070, Gansu, Peoples R China.
+   [Yang, Fengke; He, Baolin; Dong, Bo; Zhang, Guoping] Key Lab Efficient Utilizat Water Dryland Farming G, Lanzhou 730070, Peoples R China.
+   [Yang, Fengke; He, Baolin; Dong, Bo] Minist Agr & Rural Affairs, Key Lab Low carbon Green Agr Northwestern China, Lanzhou 730070, Peoples R China.
+   [Yang, Fengke; Dong, Bo] Joint Key Lab Minist Agr & Rural Affairs Gansu Pro, Yield Increment & Rainwater Efficient Utilizat Rai, Lanzhou 730070, Peoples R China.
+C3 Gansu Academy of Agricultural Sciences; Ministry of Agriculture & Rural Affairs
+RP Yang, FK (通讯作者)，Dryland Farming Inst, Gansu Acad Agr Sci, Lanzhou 730070, Gansu, Peoples R China.
+EM yang_fk@163.com
+FU National Natural Science Foundation of China [31860131, 32360548, 31560137]; Gansu Science and Technology Project [18YF1NA095-2]
+CR Bauer PJ, 2002, SOIL TILL RES, V66, P175, DOI 10.1016/S0167-1987(02)00025-9
+   Blanco-Canqui H, 2008, SOIL SCI SOC AM J, V72, P693, DOI 10.2136/sssaj2007.0233
+   Corral-Fernández R, 2013, AGR ECOSYST ENVIRON, V164, P252, DOI 10.1016/j.agee.2012.11.002
+   Dalal RC, 2011, SOIL TILL RES, V112, P133, DOI 10.1016/j.still.2010.12.006
+   Deng J, 2016, PLOS ONE, V11, P0, DOI 10.1371/journal.pone.0151446
+   Díaz-Zorita M, 2002, SOIL TILL RES, V66, P165, DOI 10.1016/S0167-1987(02)00024-7
+   Diekow J, 2005, SOIL TILL RES, V81, P87, DOI 10.1016/j.still.2004.05.003
+   Dong QG, 2018, AGR WATER MANAGE, V201, P133, DOI 10.1016/j.agwat.2018.01.021
+   Fernández-Romero ML, 2016, CATENA, V137, P449, DOI 10.1016/j.catena.2015.10.019
+   Franzluebbers AJ, 2010, PROCEEDINGS OF THE 19TH WORLD CONGRESS OF SOIL SCIENCE: SOIL SOLUTIONS FOR A CHANGING WORLD, V0, P0
+   Franzluebbers AJ, 2002, SOIL TILL RES, V66, P95, DOI 10.1016/S0167-1987(02)00018-1
+   Franzluebbers AJ, 2002, SOIL TILL RES, V66, P197, DOI 10.1016/S0167-1987(02)00027-2
+   Gan YT, 2013, ADV AGRON, V118, P429, DOI 10.1016/B978-0-12-405942-9.00007-4
+   Jiang XJ, 2017, SOIL TILL RES, V166, P100, DOI 10.1016/j.still.2016.10.011
+   Kooch Y, 2020, SOIL TILL RES, V200, P0, DOI 10.1016/j.still.2020.104621
+   Kooch Y, 2019, ECOL INDIC, V107, P0, DOI 10.1016/j.ecolind.2019.105598
+   Laudicina VA, 2015, LAND DEGRAD DEV, V26, P45, DOI 10.1002/ldr.2293
+   Li SX, 2009, ADV AGRON, V102, P223, DOI 10.1016/S0065-2113(09)01007-4
+   Liu CA, 2009, EUR J AGRON, V31, P241, DOI 10.1016/j.eja.2009.08.004
+   Liu XE, 2014, SOIL SCI SOC AM J, V78, P1434, DOI 10.2136/sssaj2014.04.0121
+   López-Garrido R, 2011, SOIL USE MANAGE, V27, P177, DOI 10.1111/j.1475-2743.2011.00329.x
+   Lou YL, 2012, CATENA, V95, P124, DOI 10.1016/j.catena.2012.02.009
+   Ma DD, 2018, AGR WATER MANAGE, V202, P166, DOI 10.1016/j.agwat.2018.02.001
+   Marinho MA, 2017, GEODERMA, V287, P126, DOI 10.1016/j.geoderma.2016.09.021
+   Melero S, 2012, SOIL TILL RES, V119, P7, DOI 10.1016/j.still.2011.11.012
+   Neto MS, 2010, SOIL TILL RES, V110, P187, DOI 10.1016/j.still.2010.07.010
+   Ouédraogo E, 2006, SOIL TILL RES, V91, P57, DOI 10.1016/j.still.2005.11.004
+   Qin XL, 2018, AGR FOREST METEOROL, V262, P206, DOI 10.1016/j.agrformet.2018.07.018
+   Rivera-Zayas J, 2018, GR PLAINS SOIL FERTI, V0, P6
+   Sequeira CH, 2014, GEODERMA, V213, P64, DOI 10.1016/j.geoderma.2013.07.013
+   Shao YH, 2016, EUR J AGRON, V81, P37, DOI 10.1016/j.eja.2016.08.014
+   Tilman D, 2011, P NATL ACAD SCI USA, V108, P20260, DOI 10.1073/pnas.1116437108
+   Wang YP, 2016, AGR FOREST METEOROL, V228, P42, DOI 10.1016/j.agrformet.2016.06.016
+   Wright AL, 2007, SOIL TILL RES, V96, P19, DOI 10.1016/j.still.2007.02.005
+   Wright AL, 2010, COMMUN SOIL SCI PLAN, V41, P2633, DOI 10.1080/00103624.2010.517880
+   Yang FK, 2020, J SOIL SCI PLANT NUT, V20, P125, DOI 10.1007/s42729-019-00106-y
+   Yang FK, 2022, ARCH AGRON SOIL SCI, V68, P1796, DOI 10.1080/03650340.2021.1928647
+   Zhang F, 2017, AGR FOREST METEOROL, V244, P33, DOI 10.1016/j.agrformet.2017.05.010
+   Zhang GS, 2008, SOIL TILL RES, V98, P113, DOI 10.1016/j.still.2007.09.001
+   Zhang P, 2019, SOIL RES, V57, P408, DOI 10.1071/SR18256
+   Zhang P, 2015, SOIL TILL RES, V153, P28, DOI 10.1016/j.still.2015.04.008
+   Zhang ZQ, 2016, SOIL TILL RES, V156, P173, DOI 10.1016/j.still.2015.10.008
+   Zhao X, 2015, PLOS ONE, V10, P0, DOI 10.1371/journal.pone.0128873
+   Zheng LH, 2018, GEODERMA, V317, P15, DOI 10.1016/j.geoderma.2017.12.020
+   Zuber SM, 2017, SOIL TILL RES, V174, P147, DOI 10.1016/j.still.2017.07.007
+NR 45
+TC 1
+Z9 1
+U1 26
+U2 26
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-3774
+EI 1873-2283
+J9 AGR WATER MANAGE
+JI Agric. Water Manage.
+PD MAR 1
+PY 2024
+VL 292
+IS 
+BP 
+EP 
+DI 10.1016/j.agwat.2024.108686
+EA JAN 2024
+PG 9
+WC Agronomy; Water Resources
+SC Agriculture; Water Resources
+GA JB0X3
+UT WOS:001170586600001
+DA 2024-08-17
+ER
+
+PT J
+AU Li, MX
+   Ali, S
+   Hussain, SA
+   Khan, A
+   Chen, Y
+AF Li, Mingxi
+   Ali, Shahzad
+   Hussain, Shaik Althaf
+   Khan, Aqil
+   Chen, Yan
+TI Diverse tillage practices with straw mulched management strategies to improve water use efficiency and maize productivity under a dryland farming system
+SO HELIYON
+LA English
+DT Article
+DE Straw mulch; Soil water balance; Ridge -furrow system; Carbon storage; Maize production; Water use efficiency
+ID carbon-isotope discrimination; soil organic-carbon; grain-yield; conservation agriculture; winter-wheat; no-tillage; crop; nitrogen; growth; impact
+AB Straw mulching incorporation has a wide range of environmental benefits that make it an effective practice for sustainable agro-ecosystem in the semi-arid regions. There is an urgent need to improve the 13C-photosynthates distribution, water use efficiency (WUE) and maize canopy characteristics under the diverse tillage practices with straw mulched management strategies for sustainable intensification of maize production. The field study consists of three diverse tillage systems (RT: rotary tillage; CT, conventional tillage; MT, minimum tillage) with three straws mulching (NS: no straw mulch; SS: straw mulch on the soil surface; SI: straw incorporated into the soil) were assessed under the ridge-furrow rainfall harvesting system. Our results showed that the rotary tillage with straw incorporated into the soil significantly reduces the ET rate (11 %), and leaf rolling index; as a result considerably improves LAI, LEI, 13C-photosynthates distribution, N accumulation, and above ground biomass under various growth stages. The RTSI treatment significantly improved soil water storage, soil organic carbon (52 %, SOC), soil C storage (39 %, SCS), and NPK nutrients uptake (70 %, 62 %, and 69 %) of maize than observed for the rest of all other treatments, respectively. The RTSI treatment improves soil water balance, grain yield (53 %), biomass yield (37 %), WUEg (51 %), WUEb (35 %), nutrients uptake, and mitigating soil water depletion than the MTNS treatment. Although RTSS can achieve optimal soil water storage in the short term, RTSI has a great potential in improving soil carbon stability, canopy characteristics, soil water storage, and WUE, contributing to sustainable and intensive corn production in agricultural ecosystems in semi-arid regions.
+C1 [Li, Mingxi] Zhengzhou Univ, Sch Agr Sci, Zhengzhou 450001, Henan, Peoples R China.
+   [Ali, Shahzad] Zhejiang Normal Univ, Coll Chem & Mat Sci, Jinhua, Peoples R China.
+   [Hussain, Shaik Althaf] King Saud Univ, Coll Sci, Dept Zool, POB 2454, Riyadh 11451, Saudi Arabia.
+   [Chen, Yan] Heilongjiang Acad Agr Sci, Harbin 150086, Peoples R China.
+   [Khan, Aqil] Univ Peshawar, Dept Econ, Peshawar, Pakistan.
+C3 Zhengzhou University; Zhejiang Normal University; King Saud University; Heilongjiang Academy of Agricultural Sciences; University of Peshawar
+RP Ali, S (通讯作者)，Zhejiang Normal Univ, Coll Chem & Mat Sci, Jinhua, Peoples R China.
+EM ali_hu88@outlook.com
+FU King Saud University, Riyadh, Saudi Arabia [RSP2024R371]
+CR Ali S, 2017, FRONT PLANT SCI, V8, P0, DOI 10.3389/fpls.2017.01408
+   Amelung W, 2020, NAT COMMUN, V11, P0, DOI 10.1038/s41467-020-18887-7
+   Battaglia M, 2021, GCB BIOENERGY, V13, P45, DOI 10.1111/gcbb.12774
+   BAUER A, 1992, SOIL SCI SOC AM J, V56, P248, DOI 10.2136/sssaj1992.03615995005600010038x
+   Bhattacharyya P, 2012, SOIL TILL RES, V124, P119, DOI 10.1016/j.still.2012.05.015
+   Blanco-Canqui H, 2017, SOIL TILL RES, V170, P38, DOI 10.1016/j.still.2017.03.001
+   Borrás L, 2007, FIELD CROP RES, V102, P73, DOI 10.1016/j.fcr.2007.02.003
+   Buchmann N, 1996, PLANT CELL ENVIRON, V19, P392, DOI 10.1111/j.1365-3040.1996.tb00331.x
+   [蔡立群 Cai Liqun], 2012, 中国沙漠 JOURNAL OF DESERT RESEARCH, V32, P1362
+   Cao HB, 2017, FIELD CROP RES, V209, P88, DOI 10.1016/j.fcr.2017.04.014
+   Chai Q, 2014, ADV AGRON, V126, P149, DOI 10.1016/B978-0-12-800132-5.00002-X
+   Cheruiyot WK, 2023, AGR WATER MANAGE, V289, P0, DOI 10.1016/j.agwat.2023.108535
+   Congreves KA, 2015, SOIL TILL RES, V152, P17, DOI 10.1016/j.still.2015.03.012
+   Das TK, 2014, FIELD CROP RES, V158, P24, DOI 10.1016/j.fcr.2013.12.017
+   De Vita P, 2007, SOIL TILL RES, V92, P69, DOI 10.1016/j.still.2006.01.012
+   Deng XP, 2006, AGR WATER MANAGE, V80, P23, DOI 10.1016/j.agwat.2005.07.021
+   [董勤各 Dong Qinge], 2018, 农业机械学报 TRANSACTIONS OF THE CHINESE SOCIETY FOR AGRICULTURAL MACHINERY, V49, P220
+   dos Santos LT, 2016, BIOGEOSCIENCES, V13, P1299, DOI 10.5194/bg-13-1299-2016
+   Du KQ, 2024, IEEE T GEOSCI REMOTE, V62, P0, DOI 10.1109/TGRS.2024.3351141
+   [彭正凯 Peng Zhengkai], 2018, 水土保持学报 JOURNAL OF SOIL AND WATER CONSERVATION, V32, P214
+   FARQUHAR GD, 1989, ANNU REV PLANT PHYS, V40, P503, DOI 10.1146/annurev.pp.40.060189.002443
+   [宫秀杰 GONG Xiu-jie], 2009, 玉米科学 MAIZE SCIENCE, V17, P134
+   Guan XK, 2020, J CLEAN PROD, V250, P0, DOI 10.1016/j.jclepro.2019.119514
+   Haddaway NR, 2017, ENVIRON EVID, V6, P0, DOI 10.1186/s13750-017-0108-9
+   Hammer GL, 2009, CROP SCI, V49, P299, DOI 10.2135/cropsci2008.03.0152
+   He MY, 2021, GEOCHIM COSMOCHIM AC, V299, P151, DOI 10.1016/j.gca.2021.02.021
+   Hu QL, 2022, AGR WATER MANAGE, V261, P0, DOI 10.1016/j.agwat.2021.107345
+   Huang JX, 2019, EUR J AGRON, V102, P1, DOI 10.1016/j.eja.2018.10.008
+   Huang R, 2020, APPL SOIL ECOL, V152, P0, DOI 10.1016/j.apsoil.2020.103589
+   Jabro JD, 2016, SOIL TILL RES, V159, P67, DOI 10.1016/j.still.2016.02.002
+   Jia QM, 2018, SOIL TILL RES, V175, P101, DOI 10.1016/j.still.2017.08.017
+   Jiao YY, 2023, AGR WATER MANAGE, V289, P0, DOI 10.1016/j.agwat.2023.108515
+   Kankanen H, 2011, EUR J AGRON, V34, P35, DOI 10.1016/j.eja.2010.10.002
+   Kukal SS, 2014, ADV AGRON, V127, P157, DOI 10.1016/B978-0-12-800131-8.00004-2
+   Lee J, 2009, AGR ECOSYST ENVIRON, V134, P251, DOI 10.1016/j.agee.2009.07.006
+   Li JP, 2018, SCI TOTAL ENVIRON, V643, P367, DOI 10.1016/j.scitotenv.2018.06.157
+   Li Y, 2020, AGR WATER MANAGE, V233, P0, DOI 10.1016/j.agwat.2020.106106
+   Li ZQ, 2019, J SOIL SEDIMENT, V19, P618, DOI 10.1007/s11368-018-2102-4
+   Ma ZM, 2016, SOIL TILL RES, V163, P274, DOI 10.1016/j.still.2016.05.010
+   Mao HongLing Mao HongLing, 2010, TRANSACTIONS OF THE CHINESE SOCIETY OF AGRICULTURAL ENGINEERING, V26, P44
+   Mbava N, 2020, AGR WATER MANAGE, V228, P0, DOI 10.1016/j.agwat.2019.105878
+   Meena RS, 2020, CATENA, V194, P0, DOI 10.1016/j.catena.2020.104752
+   Meinzer FC, 1998, J EXP BOT, V49, P1227, DOI 10.1093/jexbot/49.324.1227
+   Parihar CM, 2017, AGR WATER MANAGE, V192, P306, DOI 10.1016/j.agwat.2017.07.021
+   [彭文英 Peng Wenying], 2011, 干旱地区农业研究 AGRICULTURAL RESEARCH IN THE ARID AREAS, V29, P95
+   Prasad JVNS, 2016, SOIL TILL RES, V156, P131, DOI 10.1016/j.still.2015.10.013
+   Qiu SJ, 2023, CATENA, V220, P0, DOI 10.1016/j.catena.2022.106708
+   Ren JH, 2021, J ENVIRON MANAGE, V299, P0, DOI 10.1016/j.jenvman.2021.113650
+   Ren XH, 2018, CHEMOSPHERE, V206, P51, DOI 10.1016/j.chemosphere.2018.04.125
+   Saliendra NZ, 1996, J EXP BOT, V47, P907, DOI 10.1093/jxb/47.7.907
+   Song YY, 2019, APPL SOIL ECOL, V140, P144, DOI 10.1016/j.apsoil.2019.04.019
+   Sun Q, 2021, CATENA, V205, P0, DOI 10.1016/j.catena.2021.105460
+   Teixeira AI, 2014, FIELD CROP RES, V168, P109, DOI 10.1016/j.fcr.2014.08.002
+   Tian HF, 2020, REMOTE SENS-BASEL, V12, P0, DOI 10.3390/rs12213539
+   Wang F, 2021, AGR WATER MANAGE, V254, P0, DOI 10.1016/j.agwat.2021.106938
+   Wang SB, 2019, PLANT SOIL ENVIRON, V65, P131, DOI 10.17221/703/2018-PSE
+   Wang W, 2023, EUR J AGRON, V150, P0, DOI 10.1016/j.eja.2023.126943
+   Wang YF, 2020, AGR WATER MANAGE, V236, P0, DOI 10.1016/j.agwat.2020.106164
+   Wang YQ, 2018, SCI TOTAL ENVIRON, V635, P1372, DOI 10.1016/j.scitotenv.2018.04.202
+   Wang ZC, 2012, J EXP BOT, V63, P1145, DOI 10.1093/jxb/err331
+   Xia LL, 2018, GLOBAL CHANGE BIOL, V24, P5919, DOI 10.1111/gcb.14466
+   Xiang JJ, 2012, PLANT PHYSIOL, V159, P1488, DOI 10.1104/pp.112.199968
+   Xie Jun-hong, 2019, YINGYONG SHENGTAI XUEBAO, V30, P1199, DOI 10.13287/j.1001-9332.201904.025
+   Yadav GS, 2019, ECOL INDIC, V105, P303, DOI 10.1016/j.ecolind.2017.08.071
+   Yan ZX, 2017, AGR WATER MANAGE, V186, P21, DOI 10.1016/j.agwat.2017.02.017
+   Yang WJ, 2021, AGR FOREST METEOROL, V296, P0, DOI 10.1016/j.agrformet.2020.108210
+   Yang XY, 2011, J PLANT NUTR SOIL SC, V174, P775, DOI 10.1002/jpln.201000134
+   Yi J, 2022, AGR WATER MANAGE, V265, P0, DOI 10.1016/j.agwat.2022.107543
+   Yu K, 2017, AGRON J, V109, P2253, DOI 10.2134/agronj2016.11.0645
+   Zhang XY, 2020, GLOBAL CHANGE BIOL, V26, P888, DOI 10.1111/gcb.14826
+   Zhang YQ, 2021, AGR WATER MANAGE, V249, P0, DOI 10.1016/j.agwat.2021.106809
+   Zhao J, 2016, APPL SOIL ECOL, V99, P1, DOI 10.1016/j.apsoil.2015.11.006
+   Zhao ZY, 2023, FIELD CROP RES, V297, P0, DOI 10.1016/j.fcr.2023.108931
+   Zhu GF, 2022, HYDROL EARTH SYST SC, V26, P3771, DOI 10.5194/hess-26-3771-2022
+NR 74
+TC 0
+Z9 0
+U1 10
+U2 10
+PU CELL PRESS
+PI CAMBRIDGE
+PA 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+SN 
+EI 2405-8440
+J9 HELIYON
+JI Heliyon
+PD APR 30
+PY 2024
+VL 10
+IS 8
+BP 
+EP 
+DI 10.1016/j.heliyon.2024.e29839
+PG 14
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA SL2K2
+UT WOS:001234540500001
+PM 38681585
+DA 2024-08-17
+ER
+
+PT J
+AU Diop, M
+   Beniaich, A
+   Cicek, H
+   Ouabbou, H
+   Bamouh, A
+   El Gharras, O
+   Dahan, R
+   El Abidine, AZ
+   El Gharous, M
+   El Mejahed, K
+AF Diop, Massamba
+   Beniaich, Adnane
+   Cicek, Harun
+   Ouabbou, Hassan
+   Bamouh, Ahmed
+   El Gharras, Oussama
+   Dahan, Rachid
+   El Abidine, Aziz Zine
+   El Gharous, Mohamed
+   El Mejahed, Khalil
+TI Short-term residual effects of occasional tillage on crop performance, soil water, and water-use efficiency in a 10-year no-till system under a dry Mediterranean climate
+SO FRONTIERS IN SUSTAINABLE FOOD SYSTEMS
+LA English
+DT Article
+DE conservation agriculture; crop rotation; crop yield; drylands; durum wheat; strategic tillage; water productivity; water storage at sowing
+ID strategic tillage; management-systems; farming systems; semiarid area; wheat yield; barley; growth; rotation; chickpea; quality
+AB Conservation Agriculture is a farming system based on no mechanical soil disturbance, permanent soil cover, and crop diversification. A study was carried out in an on-farm field trial set up in Meknes (Morocco) under a long-term no-till (NT) system to evaluate the residual effect of one-time occasional tillage (OT) on crop performance, soil water, and water-use efficiency (WUE) one and two years after OT implementation. Shallow and deep options of OT were compared with common NT practices (with crop residue retention and with crop residue removal) for two consecutive seasons of 2021-2022 (year 1) and 2022-2023 (year 2). The four tillage practices were implemented in November 2020. Three crops were studied each year: durum wheat (Triticum durum), faba bean (Vicia faba minor), and chickpea (Cicer arietinum) all grown under NT in both the years and arranged in four crop rotations. Our findings show that grain yield of wheat and chickpea was negatively affected by OT for all years considered. In wheat, there was a grain yield loss of 18 and 20% for shallow and deep OT, respectively compared to NT with crop residue retention. In chickpea, the grain yield loss was as high as 47 and 49% for shallow and deep OT, respectively. Average soil water storage measured at 0-60 cm at sowing was also lower in deep OT (133 mm) compared to NT with crop residue retention (151 mm) for all years and rotations considered. Yet, in wheat year 1, deep OT slightly improved soil water content at 30 cm depth compared to NT treatments. The comparison of WUE between treatments showed that, under NT with crop residue retention, the crops produced more grain and aboveground biomass per mm of water. Wheat/faba bean rotation had a greater grain yield and WUE (all years considered) and overall greater soil water content (year 1), compared to the wheat/chickpea rotation. The results suggest that the effects of OT on crop performance and water productivity in the short term can be adverse. On the other hand, grain yield of wheat can be improved by a judicious choice of legume to be used as a preceding crop.
+C1 [Diop, Massamba; Beniaich, Adnane; El Gharous, Mohamed; El Mejahed, Khalil] Univ Mohammed VI Polytech UM6P, Coll Agr & Environm Sci CAES, Agr Innovat & Technol Transfer Ctr AITTC, Ben Guerir, Morocco.
+   [Cicek, Harun] Res Inst Organ Agr FiBL, Frick, Switzerland.
+   [Ouabbou, Hassan; El Gharras, Oussama] Inst Natl Rech Agron, Ctr Reg Rech Agron Settat CRRA Settat, Settat, Morocco.
+   [Bamouh, Ahmed] Inst Agron Vet Hassan II IAV Hassan II, Dept Prod Protect & Biotechnol Vegetales, Rabat, Morocco.
+   [Dahan, Rachid] Inst Natl Rech Agron, Ctr Reg Rech Agron Rabat CRRA Rabat, Rabat, Morocco.
+   [El Abidine, Aziz Zine] Soc Ouest Marocain, Meknes, Morocco.
+C3 Mohammed VI Polytechnic University; Moulay Ismail University of Meknes
+RP Cicek, H (通讯作者)，Res Inst Organ Agr FiBL, Frick, Switzerland.
+EM harun.cicek@fibl.org
+FU Agricultural Innovation and Technology Transfer Center (AITTC), University Mohammed VI Polytechnic; PRIMA (prima-med) [1913]
+CR Aboudrare A, 2006, AGR WATER MANAGE, V83, P183, DOI 10.1016/j.agwat.2005.12.001
+   Alharbi NH, 2020, CROP PASTURE SCI, V71, P305, DOI 10.1071/CP19103
+   Azooz RH, 1998, CAN J SOIL SCI, V78, P649, DOI 10.4141/S97-098
+   Bahri H, 2019, SCI TOTAL ENVIRON, V692, P1223, DOI 10.1016/j.scitotenv.2019.07.307
+   Blanco-Canqui H, 2020, SOIL TILL RES, V198, P0, DOI 10.1016/j.still.2019.104534
+   Bouzza A, 1990, WATER CONSERVATION W, V0, P0
+   Cantero-Martínez C, 2007, ANN APPL BIOL, V150, P293, DOI 10.1111/j.1744-7348.2007.00142.x
+   Çelik I, 2019, SOIL TILL RES, V185, P17, DOI 10.1016/j.still.2018.08.015
+   Cicek H, 2023, AGRON SUSTAIN DEV, V43, P0, DOI 10.1007/s13593-023-00926-4
+   Cordeau S, 2020, AGRONOMY-BASEL, V10, P0, DOI 10.3390/agronomy10111746
+   Crawford M, 2014, SOIL CHANGE MATTERS, V0, P33
+   Crawford MH, 2018, JOURNAL OF CROP SCIENCE AND BIOTECHNOLOGY, V21, P13, DOI 10.1007/s12892-017-0044-0
+   Crawford MH, 2015, SOIL RES, V53, P263, DOI 10.1071/SR14216
+   Dang YP, 2015, SOIL TILL RES, V152, P104, DOI 10.1016/j.still.2015.03.009
+   Dang YP, 2015, SOIL TILL RES, V152, P115, DOI 10.1016/j.still.2014.12.013
+   Dang YP, 2020, NO-TILL FARMING SYSTEMS FOR SUSTAINABLE AGRICULTURE, V0, PP1, DOI 10.1007/978-3-030-46409-7
+   Devkota M, 2022, AGR SYST, V201, P0, DOI 10.1016/j.agsy.2022.103470
+   Díaz-Zorita M, 2004, AGRON J, V96, P1651, DOI 10.2134/agronj2004.1651
+   Dietz KJ, 2021, PLANT BIOLOGY, V23, P881, DOI 10.1111/plb.13304
+   Diop M, 2022, SUSTAINABILITY-BASEL, V14, P0, DOI 10.3390/su142013425
+   El Mejahed K, 1993, EFFECT OF N ON YIELD, V0, P0
+   Etemadi F, 2018, AGRON J, V110, P455, DOI 10.2134/agronj2017.08.0501
+   Fidalski J, 2015, REV BRAS CIENC SOLO, V39, P1483, DOI 10.1590/01000683rbcs20140428
+   Frenda AS, 2013, WEED SCI, V61, P452, DOI 10.1614/WS-D-12-00137.1
+   Garrido RJLB, 2001, AGRONOMIE, V21, P509, DOI 10.1051/agro:2001140
+   Gaur PM, 2014, CLIMATE CHANGE AND HEAT STRESS TOLERANCE IN CHICKPEA, V0, P837
+   Giambalvo D, 2012, PLANT SOIL, V360, P215, DOI 10.1007/s11104-012-1224-5
+   Hall DJM, 2020, AGRONOMY-BASEL, V10, P0, DOI 10.3390/agronomy10121881
+   Karrou M, 2014, AFRICAN JOURNAL OF AGRICULTURAL RESEARCH, V9, P3519
+   Kassam A, 2022, AGRONOMY-BASEL, V12, P0, DOI 10.3390/agronomy12040769
+   Khan HUR, 2007, PLANT SOIL, V292, P205, DOI 10.1007/s11104-007-9217-5
+   Klute A, 1986, BULK DENSITY METHODS, V0, PP363, DOI 10.2134/AGRONMONOGR9.1.C30
+   Lampurlanés J, 2001, FIELD CROP RES, V69, P27, DOI 10.1016/S0378-4290(00)00130-1
+   Liniger H, 2011, TERR AFRICA, V0, P0
+   Liu HW, 2016, GEODERMA, V267, P146, DOI 10.1016/j.geoderma.2016.01.002
+   Liu QY, 2020, AGRONOMY-BASEL, V10, P0, DOI 10.3390/agronomy10081167
+   Lopez MV, 1997, SOIL TILL RES, V44, P35, DOI 10.1016/S0167-1987(97)00030-5
+   López-Garrido R, 2011, AGR ECOSYST ENVIRON, V140, P182, DOI 10.1016/j.agee.2010.12.001
+   Mrabet R, 2000, FIELD CROP RES, V66, P165, DOI 10.1016/S0378-4290(00)00074-5
+   Mrabet R, 2002, EXP AGR, V38, P237, DOI 10.1017/S0014479702000285
+   Mrabet R, 2008, NO TILLAGE SYSTEMS S, V0, P0
+   Mrabet R, 2011, RAINFED FARMING SYSTEMS, V0, PP1015, DOI 10.1007/978-1-4020-9132-2_40
+   Mulumba LN, 2008, SOIL TILL RES, V98, P106, DOI 10.1016/j.still.2007.10.011
+   Pala M, 2000, EXP AGR, V36, P223, DOI 10.1017/S0014479700002052
+   Paye WS, 2024, INT SOIL WATER CONSE, V12, P96, DOI 10.1016/j.iswcr.2023.04.0052095-6339
+   Peixoto DS, 2020, SCI TOTAL ENVIRON, V745, P0, DOI 10.1016/j.scitotenv.2020.140887
+   Plaza-Bonilla D, 2017, FIELD CROP RES, V203, P74, DOI 10.1016/j.fcr.2016.12.008
+   Pournelle GH, 1953, JOURNAL OF MAMMALOGY, V34, P133, DOI 10.1890/0012-9658(2002)083[1421:SDEOLC]2.0.CO;2
+   Radford BJ, 2011, IJEEE, V19, P1
+   Rakkar MK, 2018, AGR ECOSYST ENVIRON, V258, P71, DOI 10.1016/j.agee.2017.11.018
+   Saxena MC, 1988, WORLD CROPS: COOL SEASON FOOD LEGUMES, V0, P0
+   Schad P, 2017, ENCYCLOPEDIA OF SOIL SCIENCE, VOLS I-III, P0
+   Schlegel A, 2020, AGRON J, V112, P3174, DOI 10.1002/agj2.20284
+   Sita K, 2017, FRONT PLANT SCI, V8, P0, DOI 10.3389/fpls.2017.01658
+   Skukla MK, 2003, SOIL SCI, V168, P802, DOI 10.1097/01.ss.0000100470.96182.4a
+   Stavi I, 2011, AGRON SUSTAIN DEV, V31, P475, DOI 10.1007/s13593-011-0006-4
+   Truong THH, 2020, SOIL ECOL LETT, V2, P317, DOI 10.1007/s42832-020-0036-4
+   Turpin JE, 2002, AUST J AGR RES, V53, P599, DOI 10.1071/AR01136
+   Wafae S, 2023, J. AGRIC. RES., V11, P22, DOI 10.13189/ujar.2023.110103
+   Ye TY, 2022, AGR WATER MANAGE, V271, P0, DOI 10.1016/j.agwat.2022.107787
+   Zhang YJ, 2017, FIELD CROP RES, V209, P151, DOI 10.1016/j.fcr.2017.05.002
+NR 61
+TC 0
+Z9 0
+U1 1
+U2 1
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 
+EI 2571-581X
+J9 FRONT SUSTAIN FOOD S
+JI Front. Sustain. Food Syst.
+PD MAY 13
+PY 2024
+VL 8
+IS 
+BP 
+EP 
+DI 10.3389/fsufs.2024.1375666
+PG 17
+WC Food Science & Technology
+SC Food Science & Technology
+GA RX4A6
+UT WOS:001230932300001
+DA 2024-08-17
+ER
+
+PT J
+AU Guidinelle, RB
+   Burak, DL
+   Rangel, OJP
+   Peçanha, AL
+   Passos, RR
+   da Rocha, LO
+   Olivares, FL
+   Mendonça, ED
+AF Guidinelle, Rebyson Bissaco
+   Burak, Diego Lang
+   Rangel, Otacilio Jose Passos
+   Pecanha, Anderson Lopes
+   Passos, Renato Ribeiro
+   da Rocha, Leticia Oliveira
+   Olivares, Fabio Lopes
+   Mendonca, Eduardo de Sa
+TI Impact of historical soil management on the interaction of plant-growth-promoting bacteria with maize (Zea mays L.)
+SO HELIYON
+LA English
+DT Article
+DE Herbaspirillum and Azospirillum inoculants; Soil management; Swine wastewater; No-tillage system; Creole corn nutrition; Forage yield
+ID azospirillum-brasilense; herbaspirillum-seropedicae; co-inoculation; organic-carbon; solubilization; phosphorus; phosphate
+AB Edaphic factors can modulate the effects of microbial inoculants on crop yield promotion. Given the potential complexity of microbial inoculant responses to diverse soil management practices, we hypothesize that sustainable management of soil and water irrigation may improve soil quality and enhance the effects of plant growth-promoting bacteria (PGPB). Consequently, the primary objective was to assess the effectiveness of microbial inoculants formulated with Herbaspirillum seropedicae (Hs) and Azospirillum brasilense (Ab) on maize growth in soils impacted by different historical conservation management systems. We evaluated two soil management systems, two irrigation conditions, and four treatments: T0 - without bioinoculant and 100% doses of NPK fertilization; T1 - Hs + humic substances and 40% of NPK fertilization; T2 - Ab and 40% of NPK fertilization; T3 - co-inoculation (Hs + Ab) and 40% of NPK fertilization. Using a reduced fertilization dose (40% NPK) associated with microbial inoculants proved efficient in increasing maize shoot dry mass : on average, there was a 16% reduction compared to the treatment with 100% fertilization. In co-inoculation (Hs + Ab), the microbial inoculants showed a mutualistic effect on plant response, higher than isolate ones, especially increasing the nitrogen content in notillage systems irrigated by swine wastewater. Under lower nutrient availability and higher biological soil quality, the microbial bioinputs positively influenced root development, instantaneous water use efficiency, stomatal conductance, and nitrogen contents.
+C1 [Guidinelle, Rebyson Bissaco; Burak, Diego Lang; Passos, Renato Ribeiro; Mendonca, Eduardo de Sa] Univ Fed Espirito Santo, Dept Agron, Alto Univ S-N, BR-29500000 Alegre, ES, Brazil.
+   [Burak, Diego Lang; Rangel, Otacilio Jose Passos] Fed Inst Espirito Santo, IFES, Campus Alegre,BR 482,Km 7, BR-2950000 Alegre, ES, Brazil.
+   [Pecanha, Anderson Lopes] Univ Fed Espirito Santo, Dept Biol, Alto Univ S-N, BR-29500000 Alegre, ES, Brazil.
+   [Olivares, Fabio Lopes] Univ Estadual Norte Fluminense, Lab Cell & Tissue Biol, BR-28013602 Rio De Janeiro, Brazil.
+   [da Rocha, Leticia Oliveira; Olivares, Fabio Lopes] Univ Estadual Norte Fluminense, Ctr Dev Biol Inputs Agr, BR-28013602 Rio De Janeiro, Brazil.
+   [Guidinelle, Rebyson Bissaco] Univ Fed Espirito Santo, Ctr Agr Sci & Engn, Post Grad Programme Agron, Alto Univ S-N,Guararema 12, BR-29500000 Alegre, ES, Brazil.
+C3 Universidade Federal do Espirito Santo; Instituto Federal do Espirito Santo (IFES); Universidade Federal do Espirito Santo; Universidade Estadual do Norte Fluminense; Universidade Estadual do Norte Fluminense; Universidade Federal do Espirito Santo
+RP Burak, DL (通讯作者)，Fed Inst Espirito Santo, IFES, Campus Alegre,BR 482,Km 7, BR-2950000 Alegre, ES, Brazil.
+EM dlburak.ufes@gmail.com
+FU Espirito Santo Research and Innovation Support Foundation (FAPES) [423460/2016-1, 76423581/16]
+CR Adebayo MKA, 2011, AGRICULTURAL SCIENCES, V2, P34, DOI 10.4236/as.2011.21006
+   Adeli A, 2008, SOIL SCI, V173, P223, DOI 10.1097/SS.0b013e31816408ae
+   Curá JA, 2017, MICROORGANISMS, V5, P0, DOI 10.3390/microorganisms5030041
+   Alves GC, 2021, PEDOSPHERE, V31, P583, DOI 10.1016/S1002-0160(21)60004-8
+   Ardakani Mohammad Reza, 2011, PHYSIOLOGY AND MOLECULAR BIOLOGY OF PLANTS, V17, P181, DOI 10.1007/s12298-011-0065-7
+   Avila JS, 2023, REV BRAS ENG AGR AMB, V27, P567, DOI 10.1590/1807-1929/agriambi.v27n7p567-574
+   Zambrosi Fernando César Bachiega, 2007, CIENC. RURAL, V37, P110, DOI 10.1590/S0103-84782007000100018
+   Barbosa JZ, 2021, APPL SOIL ECOL, V163, P0, DOI 10.1016/j.apsoil.2021.103913
+   BASHAN Y, 1995, APPL ENVIRON MICROB, V61, P1938, DOI 10.1128/AEM.61.5.1938-1945.1995
+   Bashan Y, 2014, PLANT SOIL, V378, P1, DOI 10.1007/s11104-013-1956-x
+   Bhat MA, 2023, PLANTS-BASEL, V12, P0, DOI 10.3390/plants12030629
+   Bittencourt PP, 2023, MICROORGANISMS, V11, P0, DOI 10.3390/microorganisms11020502
+   BROOKES PC, 1982, SOIL BIOL BIOCHEM, V14, P319, DOI 10.1016/0038-0717(82)90001-3
+   Brusamarello-Santos LC, 2017, PLOS ONE, V12, P0, DOI 10.1371/journal.pone.0174576
+   Canellas LP, 2015, JOURNAL OF FOOD, V0, P0
+   Canellas LP, 2013, PLANT SOIL, V366, P119, DOI 10.1007/s11104-012-1382-5
+   CASIDA LE, 1964, SOIL SCI, V98, P371, DOI 10.1097/00010694-196412000-00004
+   Cassán F, 2014, J PLANT GROWTH REGUL, V33, P440, DOI 10.1007/s00344-013-9362-4
+   Cortés-Patiño S, 2021, MICROORGANISMS, V9, P0, DOI 10.3390/microorganisms9010091
+   Costa Gracilene Fernandes da, 2007, ACTA AMAZ., V37, P229
+   Cunha Erivelton Gonçalves da, 2021, REV. CERES, V68, P586, DOI 10.1590/0034-737X202269010013
+   Breda FAD, 2019, ARCH MICROBIOL, V201, P547, DOI 10.1007/s00203-018-1594-z
+   Dartora J, 2016, REV BRAS ENG AGR AMB, V20, P545, DOI 10.1590/1807-1929/agriambi.v20n6p545-550
+   DAVISON J, 1988, BIO-TECHNOL, V6, P282, DOI 10.1038/nbt0388-282
+   de Azevedo IG, 2019, CHEM BIOL TECHNOL AG, V6, P0, DOI 10.1186/s40538-019-0149-0
+   de Souza R, 2015, GENET MOL BIOL, V38, P401, DOI 10.1590/S1415-475738420150053
+   Dobereiner J, 1976, PROCEEDINGS OF THE 1ST INTERNATIONAL SYMPOSIUM ON NITROGEN FIXATION NEWTON W.E.; NYMAN C.J. EDITORS., V0, P518
+   Dobereiner J, 1995, COMO ISOLAR E IDENTIFICAR BACTERIAS DIAZOTROFICAS DE PLANTAS NAO LEGUMINOSAS, V0, P0
+   EIVAZI F, 1988, SOIL BIOL BIOCHEM, V20, P601, DOI 10.1016/0038-0717(88)90141-1
+   Ferreira DF, 2019, BRAZILIAN JOURNAL OF BIOMETRICS, V37, P529, DOI 10.28951/RBB.V37I4.450
+   Freitas GDS, 2020, RESEARCH, V0, P0, DOI 10.33448/rsd-v9i7.3690
+   Konrad Maria Luiza Freitas, 2005, BRAGANTIA, V64, P339, DOI 10.1590/S0006-87052005000300004
+   Fukami J, 2018, FUNCT PLANT BIOL, V45, P328, DOI 10.1071/FP17167
+   Galvani F, 2006, ADEQUACAO DA METODOLOGIA KJELDAHL PARA DETERMINACAO DE NITROGENIO TOTAL E PROTEINA BRUTA, V0, P0
+   Giori FG, 2010, INOCULACAO EM SEMENTES E VIA FOLIAR DA ESTIRPE ZAE 94 DE HERBASPIRILLUM SEROPEDICAE EM HIBRIDO DE MILHO BRS1010, V0, P0
+   Glick BR, 2012, SCIENTIFICA, V2012, P0, DOI 10.6064/2012/963401
+   Guan NZ, 2020, APPL MICROBIOL BIOT, V104, P51, DOI 10.1007/s00253-019-10226-1
+   Guidinelle RB, 2023, AN ACAD BRAS CIENC, V95, P0, DOI 10.1590/0001-3765202320201940
+   Hair J F, 2009, ANALISE MULTIVARIADA DE DADOS, V0, P0
+   Hartman K, 2018, MICROBIOME, V6, P0, DOI 10.1186/s40168-017-0389-9
+   Hungria M, 2000, FIELD CROP RES, V65, P151, DOI 10.1016/S0378-4290(99)00084-2
+   Hungria M, 2010, PLANT SOIL, V331, P413, DOI 10.1007/s11104-009-0262-0
+   Irineu LESD, 2023, PLANTS-BASEL, V12, P0, DOI 10.3390/plants12010048
+   Islam KR, 2000, J SOIL WATER CONSERV, V55, P69
+   KLOEPPER JW, 1989, TRENDS BIOTECHNOL, V7, P39, DOI 10.1016/0167-7799(89)90057-7
+   Kour D, 2019, PLANT GROWTH PROMOTING RHIZOBACTERIA FOR AGRICULTURAL SUSTAINABILITY: FROM THEORY TO PRACTICES, V0, PP19, DOI 10.1007/978-981-13-7553-8_2
+   Kuwahara FA, 2009, ACTA SCIENTIARUM. AGRONOMY, V31, P2, DOI 10.1590/S1807-86212009000200012
+   Leite PB, 2006, REV BRAS CIENC SOLO, V30, P497, DOI 10.1590/S0100-06832006000300011
+   Lindemann SR, 2016, ISME J, V10, P2077, DOI 10.1038/ismej.2016.26
+   Mahmud AA, 2021, CURR RES ENVIRON SUS, V3, P0, DOI 10.1016/j.crsust.2021.100063
+   Malusá E, 2014, APPL MICROBIOL BIOT, V98, P6599, DOI 10.1007/s00253-014-5828-y
+   Matteoli FP, 2020, BENEFICIAL MICROBES IN AGRO-ECOLOGY: BACTERIA AND FUNGI, V0, PP493, DOI 10.1016/B978-0-12-823414-3.00023-X
+   Mbuthia LW, 2015, SOIL BIOL BIOCHEM, V89, P24, DOI 10.1016/j.soilbio.2015.06.016
+   Melo AD, 2017, CHEM BIOL TECHNOL AG, V4, P0, DOI 10.1186/s40538-017-0090-z
+   Mendonca ES, 1900, VSECOND, V0, P0
+   Morais Tâmara Prado de, 2015, REV. CERES, V62, P589, DOI 10.1590/0034-737X201562060012
+   Novais RF, 1991, METODOPESQUISA FER, V0, P189
+   Nunes RD, 2021, PROTEOMICS, V21, P0, DOI 10.1002/pmic.202000129
+   Olivares FL, 2017, CHEM BIOL TECHNOL AG, V4, P0, DOI 10.1186/s40538-017-0112-x
+   Prezotti LC, 2007, MANUAL DE RECOMENDACAO DE CALAGEM E ADUBACAO PARA O ESTADO DO ESPIRITO SANTO-5A APROXIMACAO, Vfirst, P0
+   Raffi MM, 2021, RECENT DEVELOPMENTS IN APPLIED MICROBIOLOGY AND BIOCHEMISTRY, V0, PP193, DOI 10.1016/B978-0-12-821406-0.00018-7
+   Revelle W, 2020, PSYCHTOOLS:TOOLS TO ACCOMPANY THE PSYCH PACKAGE FOR PSYCHOLOGICAL RESEARCH, V0, P0
+   Rodriguez H, 2004, NATURWISSENSCHAFTEN, V91, P552, DOI 10.1007/s00114-004-0566-0
+   Roesch LFW, 2006, WORLD J MICROB BIOT, V22, P967, DOI 10.1007/s11274-006-9142-4
+   Rouphael Y, 2020, FRONT PLANT SCI, V11, P0, DOI 10.3389/fpls.2020.00040
+   Santos MS, 2021, REV BRAS CIENC SOLO, V45, P0
+   Semenov MV, 2020, APPL SOIL ECOL, V154, P0, DOI 10.1016/j.apsoil.2020.103641
+   Signorell A, 2021, DESCTOOLS: TOOLS FOR DESCRIPTIVE STATISTICS, V0, P0
+   Silva Aldemir da, 2016, REV. AMBIENT. ÁGUA, V11, P745, DOI 10.4136/ambi-agua.1880
+   Silva FC, 2009, MANUAL DE ANALISES QUIMICAS DE SOLOS, V0, PPLANTAS E FERTILIZANTES
+   Silveira ML, 2008, GEODERMA, V144, P405, DOI 10.1016/j.geoderma.2008.01.002
+   Skonieski FR, 2019, AGRONOMY-BASEL, V9, P0, DOI 10.3390/agronomy9120812
+   Spaepen S, 2007, FEMS MICROBIOL REV, V31, P425, DOI 10.1111/j.1574-6976.2007.00072.x
+   SPARLING GP, 1988, SOIL BIOL BIOCHEM, V20, P337, DOI 10.1016/0038-0717(88)90014-4
+   Teixeira PC, 2017, MANUAL DE METODOS DE ANALISE DE SOLO, V3rd, P0
+   Thiengo CC, 2020, MAGISTRA, V31, P0
+   Vacheron J, 2013, FRONT PLANT SCI, V4, P0, DOI 10.3389/fpls.2013.00356
+   Wang ZT, 2020, SOIL TILL RES, V197, P0, DOI 10.1016/j.still.2019.104501
+   YEOMANS JC, 1988, COMMUN SOIL SCI PLAN, V19, P1467, DOI 10.1080/00103628809368027
+   Yu X, 2012, EUR J SOIL BIOL, V50, P112, DOI 10.1016/j.ejsobi.2012.01.004
+   Zeffa DM, 2020, PEERJ, V8, P0, DOI 10.7717/peerj.7905
+   Zhang N, 2021, BIOL FERT SOILS, V57, P897, DOI 10.1007/s00374-021-01586-w
+NR 83
+TC 0
+Z9 0
+U1 1
+U2 1
+PU CELL PRESS
+PI CAMBRIDGE
+PA 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+SN 
+EI 2405-8440
+J9 HELIYON
+JI Heliyon
+PD APR 15
+PY 2024
+VL 10
+IS 7
+BP 
+EP 
+DI 10.1016/j.heliyon.2024.e28754
+PG 15
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA RC4H8
+UT WOS:001225454800001
+PM 38596071
+DA 2024-08-17
+ER
+
+PT J
+AU Wang, Y
+   Zou, LD
+   Lou, CC
+   Geng, XD
+   Zhang, SX
+   Chen, XW
+   Zhang, Y
+   Huang, DD
+   Liang, AZ
+AF Wang, Yang
+   Zou, Laidi
+   Lou, Chenchen
+   Geng, Xuedong
+   Zhang, Shixiu
+   Chen, Xuewen
+   Zhang, Yan
+   Huang, Dandan
+   Liang, Aizhen
+TI No-tillage with straw retention influenced maize root growth morphology by changing soil physical properties and aggregate structure in Northeast China: A ten-year field experiment
+SO GEODERMA REGIONAL
+LA English
+DT Article
+DE Tillage; Straw retention; Soil physical properties; Soil aggregates; Maize root growth morphology
+ID loam soil; organic-matter; plow layer; water-use; carbon; ecosystem; systems; elongation; fertilizer; impact
+AB Conservation tillage, particularly the implementation of no-tillage and straw retention (NTS), has been proposed as an effective practice to enhance soil structure and improve soil quality in Northeast China. However, the impact of NTS on maize ( Zea mays L.) root growth morphology and the influence of tillage practices on maize root morphology through soil physical properties and structure in Northeast China remain understudied. To address this knowledge gap, a continuous ten-year experiment was conducted to assess the effects of NTS on soil physical properties, aggregate structure, maize root morphology, and their interconnections. Our findings demonstrate that the NTS treatment significantly increased soil water content and soil bulk density at depths of 0-5 cm (1.6%) and 5-10 cm (2.2%), while decreasing soil porosity at depths of 0-5 cm (1.4%) and 5-10 cm (2.0%) compared to conventional tillage (CT). Additionally, NTS resulted in a higher content of soil macro- aggregates (> 0.25 mm) and improved soil aggregate stability compared to CT. Notably, root length, root surface area, root volume, and root biomass in the NTS treatment were 6.04%, 22.15%, 10.04%, and 9.29% higher than those in CT, respectively. However, there was no significant difference in root diameter between the two tillage practices. These results reveal that NTS induces alterations in soil physical properties, aggregate size distribution and aggregate stability, thereby affecting maize root growth morphology.
+C1 [Wang, Yang; Zou, Laidi; Lou, Chenchen; Geng, Xuedong; Zhang, Shixiu; Chen, Xuewen; Zhang, Yan; Huang, Dandan; Liang, Aizhen] Chinese Acad Sci, Northeast Inst Geog & Agroecol, State Key Lab Black Soils Conservat & Utilizat, Changchun 130102, Peoples R China.
+   [Wang, Yang; Zou, Laidi; Geng, Xuedong] Jilin Agr Univ, Coll Resource & Environm Sci, Key Lab Sustainable Utilizat Soil Resources Commod, Changchun 130118, Peoples R China.
+   [Lou, Chenchen; Zhang, Shixiu; Chen, Xuewen; Zhang, Yan; Liang, Aizhen] Univ Chinese Acad Sci, Beijing 100049, Peoples R China.
+C3 Chinese Academy of Sciences; Northeast Institute of Geography & Agroecology, CAS; Jilin Agricultural University; Chinese Academy of Sciences; University of Chinese Academy of Sciences, CAS
+RP Liang, AZ (通讯作者)，Chinese Acad Sci, Northeast Inst Geog & Agroecol, State Key Lab Black Soils Conservat & Utilizat, Changchun 130102, Peoples R China.
+EM liangaizhen@iga.ac.cn
+FU National Natural Science Foundation of China [42207289, 42371063]; Natural Science Foundation of Jilin Province [YDZJ202401480ZYTS]; Science and Technology Project for Black Soil Granary [XDA28080200]; General Program of Postdoctoral Fund [2021M703200]; Jilin Province Science and Technology Development Plan [20240602008RC]; Xingtu Talent Plan of Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences [2023XTRC02]
+CR Abu-Hamdeh NH, 2003, SOIL TILL RES, V74, P25, DOI 10.1016/S0167-1987(03)00122-3
+   Aikins SHM, 2012, AGRICULTURE AND BIOLOGY JOURNAL OF NORTH AMERICA, V3, P17, DOI 10.5251/abjna.2012.3.1.17.24
+   Alrajhi A, 2017, AGR WATER MANAGE, V182, P117, DOI 10.1016/j.agwat.2016.12.011
+   Bergmann J, 2016, ECOL EVOL, V6, P7633, DOI 10.1002/ece3.2456
+   Blanco-Canqui H, 2018, GEODERMA, V326, P164, DOI 10.1016/j.geoderma.2018.03.011
+   Bondaruk V, 2020, SCI TOTAL ENVIRON, V743, P0, DOI 10.1016/j.scitotenv.2020.140771
+   Bünemann EK, 2013, PLANT SOIL, V370, P511, DOI 10.1007/s11104-013-1651-y
+   Chai Q, 2016, AGRON SUSTAIN DEV, V36, P0, DOI 10.1007/s13593-015-0338-6
+   CHAN KY, 1981, SOIL SCI SOC AM J, V45, P668, DOI 10.2136/sssaj1981.03615995004500030049x
+   Chassot A, 2001, PLANT SOIL, V231, P123, DOI 10.1023/A:1010335229111
+   Chen J, 2020, J INTEGR AGR, V19, P1215, DOI 10.1016/S2095-3119(19)62679-1
+   de Freitas PL, 1999, CROP SCI, V39, P725, DOI 10.2135/cropsci1999.0011183X003900030020x
+   EHLERS W, 1983, SOIL TILL RES, V3, P261, DOI 10.1016/0167-1987(83)90027-2
+   Fan W, 2020, SUSTAINABILITY-BASEL, V12, P0, DOI 10.3390/su12072631
+   Faucon MP, 2017, TRENDS PLANT SCI, V22, P385, DOI 10.1016/j.tplants.2017.01.005
+   Gale WJ, 2000, SOIL SCI SOC AM J, V64, P201, DOI 10.2136/sssaj2000.641201x
+   GOSS MJ, 1977, J EXP BOT, V28, P96, DOI 10.1093/jxb/28.1.96
+   Guan DH, 2015, SOIL TILL RES, V146, P286, DOI 10.1016/j.still.2014.09.016
+   Isitekhale H, 2013, IOSR JOURNAL OF AGRICULTURE AND VETERINARY SCIENCE, V3, P40, DOI 10.9790/2380-0324047
+   Jin KM, 2017, TRENDS PLANT SCI, V22, P823, DOI 10.1016/j.tplants.2017.07.008
+   Kabiri V, 2015, SOIL TILL RES, V154, P114, DOI 10.1016/j.still.2015.06.019
+   Karunatilake U, 2000, SOIL TILL RES, V55, P31, DOI 10.1016/S0167-1987(00)00096-9
+   Li S, 2015, SOIL TILL RES, V150, P132, DOI 10.1016/j.still.2015.02.005
+   Li Y, 2019, SOIL TILL RES, V194, P0, DOI 10.1016/j.still.2019.06.009
+   Li YZ, 2023, SOIL BIOL BIOCHEM, V178, P0, DOI 10.1016/j.soilbio.2023.108956
+   Lipiec J, 2012, SOIL TILL RES, V121, P74, DOI 10.1016/j.still.2012.01.013
+   Liu WX, 2021, PEDOSPHERE, V31, P180, DOI 10.1016/S1002-0160(19)60837-4
+   Lu Qiu-shuang, 2020, SHENGTAIXUE ZAZHI, V39, P3492, DOI 10.13292/j.1000-4890.202010.002
+   Mosaddeghi MR, 2009, SOIL TILL RES, V104, P173, DOI 10.1016/j.still.2008.10.011
+   Peng ZK, 2020, AGR WATER MANAGE, V231, P0, DOI 10.1016/j.agwat.2020.106024
+   Purushothaman R, 2017, FUNCT PLANT BIOL, V44, P235, DOI 10.1071/FP16154
+   Qin RJ, 2006, SOIL TILL RES, V85, P50, DOI 10.1016/j.still.2004.12.003
+   Raczkowski CW, 2012, SOIL TILL RES, V119, P50, DOI 10.1016/j.still.2011.12.006
+   Ren BZ, 2018, CROP J, V6, P669, DOI 10.1016/j.cj.2018.05.009
+   Scarpare FV, 2019, SOIL TILL RES, V187, P110, DOI 10.1016/j.still.2018.12.005
+   Schmidt MWI, 2011, NATURE, V478, P49, DOI 10.1038/nature10386
+   Sha Y, 2024, PLANT SOIL, V495, P253, DOI 10.1007/s11104-023-06322-x
+   Shinoto Y, 2021, PLANT PROD SCI, V24, P297, DOI 10.1080/1343943X.2020.1863823
+   Sithole NJ, 2019, SOIL TILL RES, V190, P147, DOI 10.1016/j.still.2019.03.004
+   Sodhi GPS, 2009, SOIL TILL RES, V103, P412, DOI 10.1016/j.still.2008.12.005
+   Song K, 2016, SCI REP-UK, V6, P0, DOI 10.1038/srep36602
+   TISDALL JM, 1982, J SOIL SCI, V33, P141, DOI 10.1111/j.1365-2389.1982.tb01755.x
+   Trachsel S, 2011, PLANT SOIL, V341, P75, DOI 10.1007/s11104-010-0623-8
+   Wang L, 2017, SOIL TILL RES, V167, P46, DOI 10.1016/j.still.2016.11.004
+   Wang XK, 2019, J PLANT GROWTH REGUL, V38, P400, DOI 10.1007/s00344-018-9850-7
+   Wang Y, 2023, SOIL TILL RES, V233, P0, DOI 10.1016/j.still.2023.105783
+   Wang YD, 2017, APPL SOIL ECOL, V111, P65, DOI 10.1016/j.apsoil.2016.11.015
+   Yang JL, 2023, PLANT SOIL, V0, P0, DOI DOI 10.1007/s11104-023-05953-4
+   Yang K, 2022, SOIL TILL RES, V217, P0, DOI 10.1016/j.still.2021.105290
+   Yu GR, 2006, ECOL RES, V21, P855, DOI 10.1007/s11284-006-0033-9
+   Zhang JB, 2007, SOIL TILL RES, V93, P102, DOI 10.1016/j.still.2006.03.014
+   Zhang SX, 2015, SOIL TILL RES, V154, P84, DOI 10.1016/j.still.2015.06.002
+   Zhang WJ, 2022, SCI TOTAL ENVIRON, V835, P0, DOI 10.1016/j.scitotenv.2022.155443
+   Zhang Y, 2023, SOIL BIOL BIOCHEM, V178, P0, DOI 10.1016/j.soilbio.2023.108939
+   Zhang Y, 2018, GEODERMA, V330, P204, DOI 10.1016/j.geoderma.2018.05.037
+   Zhang Y, 2024, AGR SYST, V215, P0, DOI 10.1016/j.agsy.2024.103872
+   Zhao ZH, 2021, SOIL TILL RES, V212, P0, DOI 10.1016/j.still.2021.105071
+NR 57
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2352-0094
+EI 
+J9 GEODERMA REG
+JI Geoderma Reg.
+PD SEP 15
+PY 2024
+VL 38
+IS 
+BP 
+EP 
+DI 10.1016/j.geodrs.2024.e00840
+PG 9
+WC Soil Science
+SC Agriculture
+GA A9H0J
+UT WOS:001285564000001
+DA 2024-08-17
+ER
+
+PT J
+AU Qin, WF
+   Niu, LL
+   You, YL
+   Cui, S
+   Chen, C
+   Li, Z
+AF Qin, Wangfei
+   Niu, Lili
+   You, Yongliang
+   Cui, Song
+   Chen, Chao
+   Li, Zhou
+TI Effects of conservation tillage and straw mulching on crop yield, water use efficiency, carbon sequestration and economic benefits in the Loess Plateau region of China: A meta-analysis
+SO SOIL & TILLAGE RESEARCH
+LA English
+DT Article
+DE No-tillage; Straw mulching; Crop yield; Organic carbon
+ID winter-wheat; no-tillage; soil conservation; maize yield; nitrogen; systems; energy; productivity; agriculture; management
+AB A meta -analysis was conducted on the main crops in the Loess Plateau regions to assess the changes in crop yield, water use efficiency, soil organic carbon, economic benefits, energy use and their response to no -till and straw mulching. The results indicated that no -till straw mulching (NTS) increased wheat and pea yield by 14.3% and 29.5% compared with tillage (T), respectively. Water use efficiency has been enhanced by 12% for maize under tillage straw mulching (TS) treatment, but decreased by 7.8% were for soybean under no tillage. The straw mulching treatment, regardless of tillage practices, significantly increased the surface soil (0-10 cm) organic carbon content, while similar effects were not found under no -till treatment alone. The analysis of carbon sequestration showed that the annual average benefits of carbon credit of farmland under NTS treatment was 2385.12 CNY ha -1. The four crop energy inputs were 21.01 GJ ha -1 under T treatment, which was higher than NT and NTS treatments. Carbon balance analysis showed that T, TS, NT and NTS treatments had higher carbon emissions in wheat fields than other crops, with the highest value of 1196.2 kg ha -1 under T treatment. For economic benefits, the average maize revenue under the NT treatment of the four crops reached 18,672.5 CNY ha -1, which is -860 CNY ha -1 less than the average of the T treatment. The implementation of conservation tillage in the Loess Plateau region can significantly increase crop yield, improve water use efficiency, enhance soil carbon sequestration capacity, and increase economic and agroecological benefits on a system level.
+C1 [Qin, Wangfei; Niu, Lili; Chen, Chao; Li, Zhou] Guizhou Univ, Coll Anim Sci, Key Lab Anim Genet Breeding & Reprod Plateau Mount, Minist Educ, Guiyang 550025, Peoples R China.
+   [You, Yongliang] Hebei Acad Agr & Forestry Sci, Dryland Farming Inst, Hengshui 053000, Peoples R China.
+   [Cui, Song] Middle Tennessee State Univ, Sch Agr, Murfreesboro, TN 37132 USA.
+C3 Guizhou University; Hebei Academy of Agricultural & Forestry Sciences; Middle Tennessee State University
+RP Li, Z (通讯作者)，Guizhou Univ, Coll Anim Sci, Key Lab Anim Genet Breeding & Reprod Plateau Mount, Minist Educ, Guiyang 550025, Peoples R China.
+EM zli8@gzu.edu.cn
+FU National Natural Science Foundation of China [32160337]; Guizhou Provincial Science and Technology Projects [Qian Ke He Zhi Cheng [2022] Yi Ban 106, RCJD2018-13]; Guizhou Talent Base of Grassland Ecological Animal Husbandry [Qian Ke He Zhi Cheng [2023] Yi Ban 473];  [QKHPTRC-CXTD [2022] 011]
+CR Afshar RK, 2022, J CLEAN PROD, V351, P0, DOI 10.1016/j.jclepro.2022.131508
+   Anapalli SS, 2018, AGRON J, V110, P2673, DOI 10.2134/agronj2018.03.0195
+   Calcante A, 2019, AGRONOMY-BASEL, V9, P0, DOI 10.3390/agronomy9120886
+   Chimsah FA, 2020, SUSTAINABILITY-BASEL, V12, P0, DOI 10.3390/su12031062
+   CLEMENTS DR, 1995, AGR ECOSYST ENVIRON, V52, P119, DOI 10.1016/0167-8809(94)00546-Q
+   Dal Ferro N, 2017, EUR J AGRON, V86, P37, DOI 10.1016/j.eja.2017.03.002
+   Du CL, 2022, WATER-SUI, V14, P0, DOI 10.3390/w14162471
+   Du ZL, 2017, AGR ECOSYST ENVIRON, V236, P1, DOI 10.1016/j.agee.2016.11.007
+   Faligowska A, 2022, AGRONOMY-BASEL, V12, P0, DOI 10.3390/agronomy12020352
+   Galinato SP, 2011, ENERG POLICY, V39, P6344, DOI 10.1016/j.enpol.2011.07.035
+   Gao LL, 2019, CATENA, V173, P38, DOI 10.1016/j.catena.2018.09.043
+   He LY, 2019, J CLEAN PROD, V234, P297, DOI 10.1016/j.jclepro.2019.06.161
+   Hu YJ, 2021, NUTR CYCL AGROECOSYS, V119, P181, DOI 10.1007/s10705-020-10114-5
+   Huang MX, 2015, CATENA, V128, P195, DOI 10.1016/j.catena.2015.02.010
+   HUSSAIN G, 1995, AGR WATER MANAGE, V27, P143, DOI 10.1016/0378-3774(95)91233-W
+   Kan ZR, 2020, FIELD CROP RES, V249, P0, DOI 10.1016/j.fcr.2020.107760
+   Khan S, 2021, INT J PLANT PROD, V15, P655, DOI 10.1007/s42106-021-00161-5
+   Kuhn NJ, 2016, AGR ECOSYST ENVIRON, V216, P155, DOI 10.1016/j.agee.2015.10.001
+   Lal B, 2019, J CLEAN PROD, V226, P815, DOI 10.1016/j.jclepro.2019.04.041
+   Li FM, 2004, SOIL TILL RES, V78, P9, DOI 10.1016/j.still.2003.12.009
+   Li HY, 2021, AGR WATER MANAGE, V256, P0, DOI 10.1016/j.agwat.2021.107062
+   Li HW, 2007, AUST J SOIL RES, V45, P344, DOI 10.1071/SR07003
+   Li HW, 2016, INT J AGR SUSTAIN, V14, P377, DOI 10.1080/14735903.2016.1170330
+   Li SX, 2015, AGR WATER MANAGE, V162, P15, DOI 10.1016/j.agwat.2015.08.004
+   Li Y, 2020, SCI TOTAL ENVIRON, V740, P0, DOI 10.1016/j.scitotenv.2020.140147
+   Li Z, 2018, FIELD CROP RES, V222, P164, DOI 10.1016/j.fcr.2018.03.027
+   Liu C, 2014, GLOBAL CHANGE BIOL, V20, P1366, DOI 10.1111/gcb.12517
+   Lu XJ, 2015, AGRON J, V107, P406, DOI 10.2134/agronj14.0454
+   Lu XL, 2017, J CLEAN PROD, V162, P1617, DOI 10.1016/j.jclepro.2016.09.044
+   Lu XL, 2017, NUTR CYCL AGROECOSYS, V108, P323, DOI 10.1007/s10705-017-9859-5
+   Luo YQ, 2006, ECOLOGY, V87, P53, DOI 10.1890/04-1724
+   Ma YZ, 2021, PLANT SOIL ENVIRON, V67, P236, DOI 10.17221/27/2021-PSE
+   Machado S, 2008, AGRON J, V100, P154, DOI 10.2134/agronj2006.0218
+   Mvumi C, 2017, AFRICAN JOURNAL OF AGRICULTURAL RESEARCH, V12, P1629, DOI 10.5897/AJAR2017.12153
+   Niu YN, 2016, J SCI FOOD AGR, V96, P2650, DOI 10.1002/jsfa.7382
+   Pittelkow CM, 2015, FIELD CROP RES, V183, P156, DOI 10.1016/j.fcr.2015.07.020
+   Pournelle GH, 1953, JOURNAL OF MAMMALOGY, V34, P133, DOI 10.1890/0012-9658(2002)083[1421:SDEOLC]2.0.CO;2
+   Qin XL, 2021, AGR WATER MANAGE, V256, P0, DOI 10.1016/j.agwat.2021.107128
+   Ramcharan A, 2018, SOIL SCI SOC AM J, V82, P186, DOI 10.2136/sssaj2017.04.0122
+   Ren YJ, 2018, SCI TOTAL ENVIRON, V635, P1102, DOI 10.1016/j.scitotenv.2018.04.204
+   Samantaray S, 2022, J ANAL-INDIA, V30, P483, DOI 10.1007/s41478-021-00353-2
+   Sarkar S, 2007, SOIL TILL RES, V93, P94, DOI 10.1016/j.still.2006.03.015
+   Shao YH, 2016, EUR J AGRON, V81, P37, DOI 10.1016/j.eja.2016.08.014
+   Su ZY, 2007, AGR WATER MANAGE, V87, P307, DOI 10.1016/j.agwat.2006.08.005
+   Tang Z, 2013, MITIG ADAPT STRAT GL, V18, P889, DOI 10.1007/s11027-012-9397-z
+   Wang LF, 2015, PLOS ONE, V10, P0, DOI 10.1371/journal.pone.0127402
+   Wang LL, 2021, SCI TOTAL ENVIRON, V768, P0, DOI 10.1016/j.scitotenv.2021.145280
+   Wang XK, 2019, ADV AGRON, V153, P121, DOI 10.1016/bs.agron.2018.08.003
+   Wang XD, 2020, AGRONOMY-BASEL, V10, P0, DOI 10.3390/agronomy10050691
+   Wang YQ, 2018, SCI TOTAL ENVIRON, V635, P1372, DOI 10.1016/j.scitotenv.2018.04.202
+   Xiao LG, 2021, GLOBAL CHANGE BIOL, V27, P6321, DOI 10.1111/gcb.15906
+   Xiao LG, 2019, SOIL TILL RES, V194, P0, DOI 10.1016/j.still.2019.104314
+   Zhang GX, 2023, FIELD CROP RES, V291, P0, DOI 10.1016/j.fcr.2022.108787
+   Zhang Q, 2022, SOIL TILL RES, V215, P0, DOI 10.1016/j.still.2021.105237
+   Zhang SL, 2013, FIELD CROP RES, V151, P9, DOI 10.1016/j.fcr.2013.07.005
+   Zhang SL, 2011, SOIL TILL RES, V112, P92, DOI 10.1016/j.still.2010.11.006
+   Zhao X, 2017, EUR J AGRON, V84, P67, DOI 10.1016/j.eja.2016.11.009
+   Zheng CY, 2014, CROP J, V2, P289, DOI 10.1016/j.cj.2014.06.006
+   Zhou P, 2013, ENVIRON EARTH SCI, V68, P633, DOI 10.1007/s12665-012-1766-0
+NR 59
+TC 4
+Z9 4
+U1 67
+U2 67
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-1987
+EI 1879-3444
+J9 SOIL TILL RES
+JI Soil Tillage Res.
+PD MAY 15
+PY 2024
+VL 238
+IS 
+BP 
+EP 
+DI 10.1016/j.still.2024.106025
+EA FEB 2024
+PG 12
+WC Soil Science
+SC Agriculture
+GA KF3A6
+UT WOS:001178491200001
+DA 2024-08-17
+ER
+
+PT J
+AU Dugan, I
+   Pereira, P
+   Kisic, I
+   Matisic, M
+   Bogunovic, I
+AF Dugan, Ivan
+   Pereira, Paulo
+   Kisic, Ivica
+   Matisic, Manuel
+   Bogunovic, Igor
+TI Analyzing the Influence of Conservation Tillage and Manure on Soil Parameter Modulations in Croplands
+SO PLANTS-BASEL
+LA English
+DT Article
+DE tillage systems; crop yield; hydrological response; organic amendment; soil properties
+ID organic-matter; crop yield; conventional tillage; contrasting tillage; physical-property; water conservation; reduced tillage; term changes; systems; management
+AB Nowadays, when the human impact on the environment becomes prominent daily, specific steps are needed to mitigate or halt those changes. By far, agricultural land is most affected by the degradation process, leading to soil erosion and decreased soil quality. Sustainable measures are needed to find a solution to that problem. This study, located in an agricultural area in northwestern Croatia, gives an insight into how different tillage systems (conventional and conservation) with the addition of manure will affect soil physicochemical properties, hydrology response, and overall yield. To assess hydrological response, a rainfall simulator was used; meanwhile, soil samples were taken to determine bulk density, soil water content, water-stable aggregates, and soil organic matter. Soil water content did not show significant differences, whereas bulk density and penetration resistance yielded significantly higher values at 15-30 cm depth compared to 0-15 cm depth. Also, the conservation manure recorded lower bulk density and penetration resistance values than conventional tilled treatments. Water-stable aggregates and soil organic matter were severely affected by manure addition and yielded an increase after harvest. Hydrological response was delayed for the treatments with manure addition. Crop yield was also significantly higher for the conventional treatment with manure addition, whereas the control plots had lower yields. The results of this study show the positive aspects of conservation tillage, especially with manure addition, where soil quality is preserved or even increased.
+C1 [Dugan, Ivan; Kisic, Ivica; Matisic, Manuel; Bogunovic, Igor] Univ Zagreb, Fac Agr, Svetosimunska 25, Zagreb 10000, Croatia.
+   [Pereira, Paulo] Mykolas Romeris Univ, Environm Management Lab, LT-08303 Vilnius, Lithuania.
+C3 University of Zagreb; Mykolas Romeris University
+RP Bogunovic, I (通讯作者)，Univ Zagreb, Fac Agr, Svetosimunska 25, Zagreb 10000, Croatia.
+EM idugan@agr.hr; paulo@mruni.eu; ikisic@agr.hr; mmatisic@agr.hr; ibogunovic@agr.hr
+FU Partnership for Research and Innovation in the Mediterranean Area ("the PRIMA Foundation")
+CR Afzalinia S, 2014, SOIL TILL RES, V137, P1, DOI 10.1016/j.still.2013.11.003
+   Alcántara V, 2016, GLOBAL CHANGE BIOL, V22, P2939, DOI 10.1111/gcb.13289
+   Allen DE, 2011, SOIL BIOL, V29, P25, DOI 10.1007/978-3-642-20256-8_2
+   Amini S, 2015, N. Y. SCI. J, V8, P15
+   [Anonymous], 2014, WORLD SOIL RESOURCES, V0, PP192, DOI 10.1017/S0014479706394902
+   Arriaga FJ, 2003, SOIL SCI, V168, P888, DOI 10.1097/01.ss.0000106403.84926.7e
+   Aziz T, 2010, INT J AGRIC BIOL, V12, P621
+   Badalíková B, 2010, SOIL BIOL, V20, P19, DOI 10.1007/978-3-642-03681-1_2
+   Bessam F, 2003, SOIL USE MANAGE, V19, P139, DOI 10.1079/SUM2003181
+   Birkas M, 2008, ENVIRONMENTALLY-SOUND ADAPTABLE TILLAGE, V0, P0
+   Blanco-Canqui H, 2009, CRIT REV PLANT SCI, V28, P139, DOI 10.1080/07352680902776507
+   Bogunovic I, 2023, LAND-BASEL, V12, P0, DOI 10.3390/land12040765
+   Bogunovic I, 2020, AIR SOIL WATER RES, V13, P0, DOI 10.1177/1178622120928323
+   Bogunovic I, 2018, CATENA, V160, P376, DOI 10.1016/j.catena.2017.10.009
+   Bronick CJ, 2005, GEODERMA, V124, P3, DOI 10.1016/j.geoderma.2004.03.005
+   Büchi L, 2017, SOIL TILL RES, V174, P120, DOI 10.1016/j.still.2017.07.002
+   Busari MA, 2015, INT SOIL WATER CONSE, V3, P119, DOI 10.1016/j.iswcr.2015.05.002
+   Cai AD, 2019, SOIL TILL RES, V189, P168, DOI 10.1016/j.still.2018.12.022
+   Chadwick D, 2015, AGR ECOSYST ENVIRON, V209, P34, DOI 10.1016/j.agee.2015.03.025
+   Congreves KA, 2015, SOIL TILL RES, V152, P17, DOI 10.1016/j.still.2015.03.012
+   Crittenden SJ, 2015, SOIL TILL RES, V154, P136, DOI 10.1016/j.still.2015.06.018
+   de Melo TR, 2019, INT J RECYCLING ORG, V8, P333, DOI 10.1007/s40093-019-0250-1
+   De Neve S, 2000, BIOL FERT SOILS, V30, P544, DOI 10.1007/s003740050034
+   Díaz-Zorita M, 2002, SOIL TILL RES, V64, P3, DOI 10.1016/S0167-1987(01)00254-9
+   Fleming RL, 2006, CAN J FOREST RES, V36, P529, DOI 10.1139/X05-271
+   Franzluebbers AJ, 2002, SOIL TILL RES, V66, P197, DOI 10.1016/S0167-1987(02)00027-2
+   Gathala MK, 2015, FIELD CROP RES, V172, P85, DOI 10.1016/j.fcr.2014.12.003
+   Gholami L, 2016, CATENA, V139, P99, DOI 10.1016/j.catena.2015.12.011
+   Gicheru P, 2004, SOIL TILL RES, V75, P173, DOI 10.1016/S0167-1987(03)00161-2
+   Gilley JE, 2000, T ASAE, V43, P1583, DOI 10.13031/2013.3058
+   Goldberg N, 2020, GEOSCIENCES, V10, P0, DOI 10.3390/geosciences10060213
+   Govaerts B, 2009, SOIL TILL RES, V103, P222, DOI 10.1016/j.still.2008.05.018
+   Guo QK, 2015, CATENA, V124, P68, DOI 10.1016/j.catena.2014.08.013
+   Hamza MA, 2005, SOIL TILL RES, V82, P121, DOI 10.1016/j.still.2004.08.009
+   Haynes RJ, 2005, ADV AGRON, V85, P221, DOI 10.1016/S0065-2113(04)85005-3
+   Heuser Irene, 2022, SOIL SECURITY, V6, P0, DOI 10.1016/J.SOISEC.2022.100053
+   Husnjak S, 2002, ROST VYROBA, V48, P249
+   Jakab G, 2017, SUSTAINABILITY-BASEL, V9, P0, DOI 10.3390/su9101726
+   Jerábek J, 2017, SOIL TILL RES, V174, P231, DOI 10.1016/j.still.2017.07.008
+   KARLEN DL, 1994, SOIL TILL RES, V32, P313, DOI 10.1016/0167-1987(94)00427-G
+   Karlen DL, 2013, SOIL TILL RES, V130, P24, DOI 10.1016/j.still.2013.02.003
+   Kemper WD, 1986, METHODS OF SOIL ANALYSIS. PART 1. PHYSICAL AND MINERALOGICAL METHODS, V0, P425
+   Kihara J, 2011, NUTR CYCL AGROECOSYS, V90, P213, DOI 10.1007/s10705-011-9423-7
+   Kisic I, 2017, ARCH AGRON SOIL SCI, V63, P403, DOI 10.1080/03650340.2016.1213815
+   Kottek M, 2006, METEOROL Z, V15, P259, DOI 10.1127/0941-2948/2006/0130
+   Lal R, 2020, J SOIL WATER CONSERV, V75, P27A, DOI 10.2489/jswc.75.2.27A
+   Lal R, 2016, FOOD ENERGY SECUR, V5, P212, DOI 10.1002/fes3.96
+   Lampurlanés J, 2003, AGRON J, V95, P526, DOI 10.2134/agronj2003.0526
+   Lampurlanés J, 2016, FIELD CROP RES, V189, P59, DOI 10.1016/j.fcr.2016.02.010
+   Larney FJ, 2011, ACSESS PUBL, V0, PP247, DOI 10.2136/2011.soilmanagement.c16
+   Leys A, 2010, J HYDROL, V390, P143, DOI 10.1016/j.jhydrol.2010.06.034
+   Li HW, 2007, AUST J SOIL RES, V45, P344, DOI 10.1071/SR07003
+   Lin YX, 2019, SOIL BIOL BIOCHEM, V134, P187, DOI 10.1016/j.soilbio.2019.03.030
+   Gabriel JL, 2021, GEODERMA, V386, P0, DOI 10.1016/j.geoderma.2020.114911
+   Maguire RO, 2011, J ENVIRON QUAL, V40, P292, DOI 10.2134/jeq2009.0228
+   Martín-Lammerding D, 2021, AGRICULTURE-BASEL, V11, P0, DOI 10.3390/agriculture11080700
+   Materechera SA, 2009, SOIL TILL RES, V103, P11, DOI 10.1016/j.still.2008.09.001
+   Mikha MM, 2004, SOIL SCI SOC AM J, V68, P809, DOI 10.2136/sssaj2004.0809
+   Mohammadi K, 2011, AFR J BIOTECHNOL, V10, P19840, DOI 10.5897/AJBX11.006
+   Mohammed S, 2021, SOIL USE MANAGE, V37, P196, DOI 10.1111/sum.12683
+   Neave M, 2007, GEOMORPHOLOGY, V87, P378, DOI 10.1016/j.geomorph.2006.10.007
+   Pagliai M, 2004, SOIL TILL RES, V79, P131, DOI 10.1016/j.still.2004.07.002
+   Panagos P, 2022, GEODERMA REG, V29, P0, DOI 10.1016/j.geodrs.2022.e00510
+   Paustian K, 2000, BIOGEOCHEMISTRY, V48, P147, DOI 10.1023/A:1006271331703
+   Pimentel D, 2013, AGRICULTURE-BASEL, V3, P443, DOI 10.3390/agriculture3030443
+   Pingping H, 2013, NAT ENVIRON POLLUT T, V12, P193
+   Pittelkow CM, 2015, FIELD CROP RES, V183, P156, DOI 10.1016/j.fcr.2015.07.020
+   Puerta VL, 2018, SOIL TILL RES, V180, P1, DOI 10.1016/j.still.2018.02.007
+   Raczkowski CW, 2009, J SOIL WATER CONSERV, V64, P53, DOI 10.2489/jswc.64.1.53
+   Rice CW, 2002, ENCYCL. SOIL SCI, V2, P1180
+   Riley H, 2008, AGR ECOSYST ENVIRON, V124, P275, DOI 10.1016/j.agee.2007.11.002
+   Roose E, 2001, NUTR CYCL AGROECOSYS, V61, P159, DOI 10.1023/A:1013349731671
+   Rusinamhodzi L, 2011, AGRON SUSTAIN DEV, V31, P657, DOI 10.1007/s13593-011-0040-2
+   SalinasGarcia JR, 1997, SOIL SCI SOC AM J, V61, P152, DOI 10.2136/sssaj1997.03615995006100010023x
+   Schindewolf M, 2012, CATENA, V91, P47, DOI 10.1016/j.catena.2011.01.007
+   Schlüter S, 2018, GEODERMA, V332, P10, DOI 10.1016/j.geoderma.2018.07.001
+   Seitz S, 2019, AGRON SUSTAIN DEV, V39, P0, DOI 10.1007/s13593-018-0545-z
+   Shokati B, 2014, INTERNATIONAL JOURNAL OF BIOSCIENCES (IJB), V4, P144
+   Sidhu D, 2006, AGRON J, V98, P1257, DOI 10.2134/agronj2006.0070
+   Six J, 2000, SOIL SCI SOC AM J, V64, P1042, DOI 10.2136/sssaj2000.6431042x
+   Statsoft, 2015, STATISTICA 12.0 SOFTWARE, V0, P0
+   Subbulakshmi S, 2009, AGRICULTURAL REVIEWS, V30, P56
+   Tromp-van Meerveld HJ, 2008, WATER RESOUR RES, V44, P0, DOI 10.1029/2007WR006361
+   Turmel MS, 2015, AGR SYST, V134, P6, DOI 10.1016/j.agsy.2014.05.009
+   van Apeldoorn DF, 2011, AGR ECOSYST ENVIRON, V140, P401, DOI 10.1016/j.agee.2011.01.002
+   van Donk SJ, 2010, T ASABE, V53, P1787
+   Vian JF, 2009, SOIL USE MANAGE, V25, P1, DOI 10.1111/j.1475-2743.2008.00176.x
+   Vogeler I, 2009, SOIL TILL RES, V103, P137, DOI 10.1016/j.still.2008.10.004
+   Wagner S, 2007, J PLANT NUTR SOIL SC, V170, P173, DOI 10.1002/jpln.200521732
+   Walkley A, 1934, SOIL SCI, V37, P29, DOI 10.1097/00010694-193401000-00003
+   Wang XB, 2006, PEDOSPHERE, V16, P587, DOI 10.1016/S1002-0160(06)60092-1
+   Xu J, 2019, FIELD CROP RES, V233, P33, DOI 10.1016/j.fcr.2018.12.016
+   Zingore S, 2008, NUTR CYCL AGROECOSYS, V80, P267, DOI 10.1007/s10705-007-9142-2
+NR 94
+TC 0
+Z9 0
+U1 8
+U2 8
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 2223-7747
+EI 
+J9 PLANTS-BASEL
+JI Plants-Basel
+PD MAR 15
+PY 2024
+VL 13
+IS 5
+BP 
+EP 
+DI 10.3390/plants13050607
+PG 17
+WC Plant Sciences
+SC Plant Sciences
+GA KW3K5
+UT WOS:001182958100001
+PM 38475454
+DA 2024-08-17
+ER
+
+PT J
+AU Huo, YW
+   Mi, GH
+   Zhu, MY
+   Chen, S
+   Li, J
+   Hao, ZH
+   Cai, DY
+   Zhang, FS
+AF Huo, Yuewen
+   Mi, Guohua
+   Zhu, Mengyang
+   Chen, Shuang
+   Li, Jing
+   Hao, Zhanhong
+   Cai, Dongyu
+   Zhang, Fusuo
+TI Carbon footprint of farming practices in farmland ecosystems on the North and Northeast China plains
+SO JOURNAL OF ENVIRONMENTAL MANAGEMENT
+LA English
+DT Article
+DE Carbon footprint; Greenhouse gas mitigation; Farmland ecosystems; Farming practices; Mechanized grain production
+ID greenhouse-gas emissions; water-use efficiency; crop production; winter-wheat; conservation agriculture; production systems; drip irrigation; energy use; no-till; maize
+AB Fast development of farming practices in China is projected to result in additional carbon emissions and thus affect farmland ecosystems' environmental performance. Based on 454 farm surveys on the North and Northeast China Plain, the carbon footprint (CF) of two farmland ecosystems (irrigated system for wheat and maize on the North China Plain and rainfed system for maize on the Northeast Plain) were assessed and emission reduction pathways explored by quantifying greenhouse gas emissions of agricultural inputs and farm practices during the entire crop growing seasons with an agricultural footprint model. The results demonstrated that the GHG emissions from wheat and maize rotation in the irrigated system were 7.63 t CO2 eq ha- 1 and 3.17 t CO2 eq ha- 1 for single season maize in the rainfed system. While energy consumption accounted for 12.5%-21.3% of the carbon footprint in both systems, the group assessment found that the largest difference in GHG emissions between the high and low emission groups came from mechanical energy consumption. Approximately 50.6% and 39.2% of the mechanical carbon footprint of wheat and maize, respectively, were caused by irrigation practices in the irrigated system. Regarding the rainfed system, where 46.6% of mechanical carbon emissions were generated by maize tillage operations. In addition, scenario analysis indicated that the mechanical carbon footprint could be reduced to 56 kg CO2 eq t-1 for NCP-wheat and 26 kg CO2 eq t-1 for NCP-maize, respectively, by optimizing yields and irrigation practices in irrigated systems and that the mechanical carbon footprint of NEP-maize could be reduced to 25 kg CO2 eq t-1 by optimizing yields and tillage practices in rainfed systems. Therefore, improvement in mechanization in irrigation and tillage practices can contribute to reduce GHG emissions in China. Water -saving irrigation technology is recommended in irrigated area and conservation tillage is recommended in rainfed agricultural area to reduce carbon footprints.
+C1 [Huo, Yuewen; Mi, Guohua; Zhu, Mengyang; Chen, Shuang; Li, Jing; Hao, Zhanhong; Cai, Dongyu; Zhang, Fusuo] China Agr Univ, Natl Acad Agr Green Dev, Coll Resources & Environm Sci, Beijing 100193, Peoples R China.
+   [Cai, Dongyu; Zhang, Fusuo] China Agr Univ CAU, Natl Acad Agr Green Dev, Coll Resources & Environm Sci, Beijing 100193, Peoples R China.
+C3 China Agricultural University
+RP Cai, DY; Zhang, FS (通讯作者)，China Agr Univ CAU, Natl Acad Agr Green Dev, Coll Resources & Environm Sci, Beijing 100193, Peoples R China.
+EM cdongyu@126.com; zhangfs@cau.edu.cn
+FU National Key Research and Development Program of China [2021YFD1901003]
+CR Al-Mansour F, 2017, ENERGY, V136, P7, DOI 10.1016/j.energy.2016.10.099
+   AMIY, 2021, NATIONAL DATA, V0, P0
+   Andersson JA, 2014, AGR ECOSYST ENVIRON, V187, P116, DOI 10.1016/j.agee.2013.08.008
+   Blanco-Canqui H, 2018, GEODERMA, V326, P164, DOI 10.1016/j.geoderma.2018.03.011
+   Bos JFFP, 2014, NJAS-WAGEN J LIFE SC, V68, P61, DOI 10.1016/j.njas.2013.12.003
+   Bu LD, 2015, AGR WATER MANAGE, V148, P1, DOI 10.1016/j.agwat.2014.09.010
+   Calvo BE, 2019, REFINEMENT TO THE 2006 IPCC GUIDELINES FOR NATIONAL GREENHOUSE GAS INVENTORIES, V2019, P0
+   Chai Q, 2014, ADV AGRON, V126, P149, DOI 10.1016/B978-0-12-800132-5.00002-X
+   Chen XH, 2022, FRONT SUSTAIN FOOD S, V6, P0, DOI 10.3389/fsufs.2022.948810
+   Chen XH, 2020, J CLEAN PROD, V277, P0, DOI 10.1016/j.jclepro.2020.124041
+   Cheng K, 2011, AGR ECOSYST ENVIRON, V142, P231, DOI 10.1016/j.agee.2011.05.012
+   CRSY, 2021, NATIONAL DATA, V0, P0
+   Cui HR, 2018, POL J ENVIRON STUD, V27, P1449, DOI 10.15244/pjoes/77610
+   Dubey A, 2009, J CROP IMPROV, V23, P332, DOI 10.1080/15427520902969906
+   Torres CMME, 2015, AGR SYST, V137, P64, DOI 10.1016/j.agsy.2015.03.002
+   Fallahpour A, 2020, INT J FUZZY SYST, V22, P712, DOI 10.1007/s40815-019-00759-y
+   Fan MS, 2012, J EXP BOT, V63, P13, DOI 10.1093/jxb/err248
+   Fang K, 2014, ECOL INDIC, V36, P508, DOI 10.1016/j.ecolind.2013.08.017
+   FAO, 2014, WORKING PAPER SERIES, V0, P0
+   FAOSTAT, 2020, FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS STATISTICAL DATABASE, V0, P0
+   Fei RL, 2021, ENERGY, V216, P0, DOI 10.1016/j.energy.2020.119307
+   Field CB, 2014, CLIMATE CHANGE 2014: IMPACTS, V0, P0
+   Fu S, 2015, AN ANALYSIS OF CHINAS INDC, V0, P0
+   Gan YT, 2011, AGRON SUSTAIN DEV, V31, P643, DOI 10.1007/s13593-011-0011-7
+   Giller KE, 2011, AGR SYST, V104, P191, DOI 10.1016/j.agsy.2010.07.002
+   Grassini P, 2012, P NATL ACAD SCI USA, V109, P1074, DOI 10.1073/pnas.1116364109
+   Grassini P, 2009, AGR FOREST METEOROL, V149, P1254, DOI 10.1016/j.agrformet.2009.02.012
+   Hao XY, 2021, ECOL. ENVIR. SCI., V31, P318
+   Huang SH, 2021, J ENVIRON MANAGE, V282, P0, DOI 10.1016/j.jenvman.2021.111956
+   Huang YQ, 2022, J ENVIRON MANAGE, V319, P0, DOI 10.1016/j.jenvman.2022.115512
+   Huo YW, 2022, AGRICULTURE-BASEL, V12, P0, DOI 10.3390/agriculture12020287
+   Ito J, 2012, FOOD POLICY, V37, P700, DOI 10.1016/j.foodpol.2012.07.009
+   Jha SK, 2017, AGR WATER MANAGE, V182, P139, DOI 10.1016/j.agwat.2016.12.015
+   Li BL, 2022, ENVIRON SCI POLLUT R, V29, P73461, DOI 10.1007/s11356-022-20878-8
+   Li GY, 2020, SCI TOTAL ENVIRON, V709, P0, DOI 10.1016/j.scitotenv.2019.135932
+   Li HR, 2021, AGR WATER MANAGE, V243, P0, DOI 10.1016/j.agwat.2020.106474
+   Li MQ, 2021, J CLEAN PROD, V278, P0, DOI 10.1016/j.jclepro.2020.123963
+   Li N, 2012, ENERGIES, V5, P5126, DOI 10.3390/en5125126
+   Liu WW, 2018, SCI TOTAL ENVIRON, V645, P1296, DOI 10.1016/j.scitotenv.2018.07.104
+   Liu XJ, 2020, FRONT AGRIC SCI ENG, V7, P67, DOI 10.15302/J-FASE-2019297
+   Ma WL, 2018, AM J AGR ECON, V100, P502, DOI 10.1093/ajae/aax079
+   Mantoam EJ, 2020, BIOSYST ENG, V198, P304, DOI 10.1016/j.biosystemseng.2020.08.019
+   NBSC National Bureau of Statistics of China, 2021, NATIONAL DATA, V0, P2021
+   NDRC National Development and Reform Commission, 2020, 2019 ANNUAL EMISSION REDUCTION PROJECT CHINA REGIONAL GRID BASELINE EMISSION FACTOR, V0, P0
+   Ning DF, 2023, SCI TOTAL ENVIRON, V864, P0, DOI 10.1016/j.scitotenv.2022.161165
+   Palm C, 2014, AGR ECOSYST ENVIRON, V187, P87, DOI 10.1016/j.agee.2013.10.010
+   Pieragostini C, 2014, SCI TOTAL ENVIRON, V472, P212, DOI 10.1016/j.scitotenv.2013.11.012
+   Pittelkow CM, 2015, NATURE, V517, P365, DOI 10.1038/nature13809
+   Ren LD, 2019, SOIL TILL RES, V192, P76, DOI 10.1016/j.still.2019.04.026
+   Rotz CA, 2018, J DAIRY SCI, V101, P6675, DOI 10.3168/jds.2017-13272
+   Sefeedpari P, 2013, J RENEW SUSTAIN ENER, V5, P0, DOI 10.1063/1.4800207
+   Shiferaw Bekele A, 2009, ENVIRONMENT DEVELOPMENT AND SUSTAINABILITY, V11, P601, DOI 10.1007/s10668-007-9132-1
+   Soane BD, 2012, SOIL TILL RES, V118, P66, DOI 10.1016/j.still.2011.10.015
+   Solomon S, 2007, AR4 CLIMATE CHANGE 2007: THE PHYSICAL SCIENCE BASIS, V0, P1
+   Song QL, 2021, ENVIRON SCI POLLUT R, V28, P54792, DOI 10.1007/s11356-021-14316-4
+   Tian D, 2017, SCI TOTAL ENVIRON, V575, P1034, DOI 10.1016/j.scitotenv.2016.09.166
+   Wang GS, 2016, AGR WATER MANAGE, V163, P403, DOI 10.1016/j.agwat.2015.10.012
+   Wang SG, 2016, APPL ENERG, V178, P773, DOI 10.1016/j.apenergy.2016.06.112
+   Wang XL, 2014, AGR SYST, V128, P66, DOI 10.1016/j.agsy.2014.03.005
+   Wang XZ, 2018, J CLEAN PROD, V171, P934, DOI 10.1016/j.jclepro.2017.09.258
+   West TO, 2002, AGR ECOSYST ENVIRON, V91, P217, DOI 10.1016/S0167-8809(01)00233-X
+   Wu PT, 2010, CLIMATIC CHANGE, V100, P797, DOI 10.1007/s10584-010-9860-3
+   Xu XX, 2018, FIELD CROP RES, V221, P219, DOI 10.1016/j.fcr.2018.02.011
+   Yadav GS, 2018, J CLEAN PROD, V191, P144, DOI 10.1016/j.jclepro.2018.04.173
+   Yan M, 2015, J CLEAN PROD, V104, P130, DOI 10.1016/j.jclepro.2015.05.058
+   Yilmaz I, 2005, RENEW ENERG, V30, P145, DOI 10.1016/j.renene.2004.06.001
+   Zhai YJ, 2021, RESOUR CONSERV RECY, V164, P0, DOI 10.1016/j.resconrec.2020.105150
+   Zhang D, 2017, SCI REP-UK, V7, P0, DOI 10.1038/s41598-017-04182-x
+   [张丹 Zhang Dan], 2016, 资源科学 RESOURCES SCIENCE, V38, P1395
+   Zhang L, 2021, J ENVIRON MANAGE, V300, P0, DOI 10.1016/j.jenvman.2021.113698
+   Zhang WF, 2013, P NATL ACAD SCI USA, V110, P8375, DOI 10.1073/pnas.1210447110
+   Zhang WS, 2018, BIOSYST ENG, V167, P75, DOI 10.1016/j.biosystemseng.2017.12.008
+   Zhang ZX, 2022, RENEW ENERG, V192, P420, DOI 10.1016/j.renene.2022.04.136
+   Zhu B, 2020, J CLEAN PROD, V245, P0, DOI 10.1016/j.jclepro.2019.118916
+   Zhu Y, 2013, STOCH ENV RES RISK A, V27, P693, DOI 10.1007/s00477-012-0632-7
+NR 75
+TC 1
+Z9 1
+U1 61
+U2 61
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0301-4797
+EI 1095-8630
+J9 J ENVIRON MANAGE
+JI J. Environ. Manage.
+PD MAR 15
+PY 2024
+VL 354
+IS 
+BP 
+EP 
+DI 10.1016/j.jenvman.2024.120378
+EA FEB 2024
+PG 12
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA LE8K8
+UT WOS:001185194600001
+PM 38350277
+DA 2024-08-17
+ER
+
+PT J
+AU Wang, H
+   Fan, J
+   Shao, MA
+   Wang, X
+   Wang, J
+   Hao, MD
+AF Wang, Huan
+   Fan, Jun
+   Shao, Ming'an
+   Wang, Xi
+   Wang, Jia
+   Hao, Mingde
+TI Effects of biochar versus film mulching on soil hydrothermal properties and wheat crop performance in semi-arid loess
+SO EUROPEAN JOURNAL OF SOIL SCIENCE
+LA English
+DT Article
+DE biochar; film mulching; Loess Plateau; soil moisture; soil temperature
+ID water-use efficiency; winter-wheat; thermal-conductivity; grain-yield; temperature; moisture; plateau; productivity; dryland; ridge
+AB Film mulching and biochar have been applied as effective measures for increasing crop yields in arid and semi-arid areas for many years. However, the effects of the temporal and spatial distributions of soil hydrothermal properties on crop yields are still unclear under film mulching and biochar addition. Thus, we conducted a field experiment with winter wheat on the Loess Plateau of China for two years (2020-2022) with three treatments: control, film mulching, and biochar. The results demonstrated that film mulching and biochar addition increased the average soil temperature in the 0-50 cm soil depth throughout the whole growth period and the influence depth exceeded 50 cm. Biochar addition only significantly increased soil temperature in the overwintering stage (p < 0.05). Film mulching increased the maximum and minimum temperatures in the 0-50 cm soil depth at seedling stage. Film mulching and biochar increased average >= 10 degrees C accumulated soil temperature by increasing the >= 10 degrees C accumulated soil temperature in the daytime and nighttime, and the number of days with a daily soil temperature >= 10 degrees C during the whole growth period. Film mulching improved soil water storage in the 0-300 cm soil depth in each growth stage during both years, and also increased the wheat grain yield, aboveground biomass, and water use efficiency. Biochar addition increased the wheat grain yield and aboveground biomass of two years compared with control, but the increases were not significant (p > 0.05). In addition, correlation analysis showed that adequate temperatures in the 0-50 cm soil depth during the seedling and overwintering stages, and suitable soil moisture conditions in the 0-300 cm soil depth before sowing, jointing, and filling stages were important factors for increasing wheat grain yields under film mulching. In summary, film mulching mainly regulated the soil temperature in the 0-50 cm soil depth and moisture conditions in the 0-300 cm soil depth during different growth stages to increase grain yields. Film mulching has more obvious effects on moisture regulation, temperature regulation, and yield increases than biochar addition. Some environmentally friendly measures (such as conservation agriculture) with the same yield improving effect as mulching are also recommended to explore and promote in theLoess Plateau region.
+C1 [Wang, Huan; Fan, Jun; Shao, Ming'an; Wang, Jia; Hao, Mingde] Northwest A&F Univ, Coll Nat Resources & Environm, Yangling 712100, Shaanxi, Peoples R China.
+   [Wang, Huan; Fan, Jun; Shao, Ming'an; Wang, Xi; Wang, Jia; Hao, Mingde] Northwest A&F Univ, State Key Lab Soil Eros & Dryland Farming Loess Pl, Yangling, Peoples R China.
+   [Fan, Jun; Shao, Ming'an; Wang, Xi; Hao, Mingde] Chinese Acad Sci & Minist Water Resource, Inst Soil & Water Conservat, Yangling, Peoples R China.
+C3 Northwest A&F University - China; Northwest A&F University - China; Chinese Academy of Sciences; Institute of Soil & Water Conservation (ISWC), CAS; Ministry of Water Resources
+RP Fan, J; Shao, MA (通讯作者)，Northwest A&F Univ, Coll Nat Resources & Environm, Yangling 712100, Shaanxi, Peoples R China.
+EM fanjun@ms.iswc.ac.cn; shaoma@igsnrr.ac.cn
+FU National Natural Science Foundation of China;  [41830754]
+CR Abu-Hamdeh NH, 2000, SOIL SCI SOC AM J, V64, P1285, DOI 10.2136/sssaj2000.6441285x
+   Abu-Hamdeh NH, 2003, BIOSYST ENG, V86, P97, DOI 10.1016/S1537-5110(03)00112-0
+   Baiamonte G, 2019, CATENA, V175, P294, DOI 10.1016/j.catena.2018.12.019
+   Bailey VL, 2011, SOIL BIOL BIOCHEM, V43, P296, DOI 10.1016/j.soilbio.2010.10.014
+   Chakraboyty D, 2008, AGR WATER MANAGE, V95, P1323, DOI 10.1016/j.agwat.2008.06.001
+   Chen N, 2021, SOIL TILL RES, V213, P0, DOI 10.1016/j.still.2021.105116
+   Chen SY, 2007, ANN APPL BIOL, V150, P261, DOI 10.1111/j.1744-7348.2007.00144.x
+   Dai ZJ, 2021, AGR ECOSYST ENVIRON, V309, P0, DOI 10.1016/j.agee.2020.107288
+   Fan JW, 2012, CROP SCI, V52, P2341, DOI 10.2135/cropsci2011.11.0603
+   Fan MS, 2005, PLANT SOIL, V277, P265, DOI 10.1007/s11104-005-7459-7
+   Feng WY, 2021, J ENVIRON MANAGE, V277, P0, DOI 10.1016/j.jenvman.2020.111331
+   Fischer BMC, 2019, SCI TOTAL ENVIRON, V657, P853, DOI 10.1016/j.scitotenv.2018.11.312
+   Fu W, 2021, AGR WATER MANAGE, V244, P0, DOI 10.1016/j.agwat.2020.106550
+   Gan YT, 2013, ADV AGRON, V118, P429, DOI 10.1016/B978-0-12-405942-9.00007-4
+   Gao Y, 2020, FIELD CROP RES, V249, P0, DOI 10.1016/j.fcr.2020.107763
+   Genesio L, 2012, ENVIRON RES LETT, V7, P0, DOI 10.1088/1748-9326/7/1/014025
+   Guo LL, 2021, AGRONOMY-BASEL, V11, P0, DOI 10.3390/agronomy11020381
+   Guo SL, 2012, GEODERMA, V189, P442, DOI 10.1016/j.geoderma.2012.06.012
+   He G, 2016, AGR WATER MANAGE, V171, P1, DOI 10.1016/j.agwat.2016.03.005
+   Hossain MK, 2010, CHEMOSPHERE, V78, P1167, DOI 10.1016/j.chemosphere.2010.01.009
+   Hou P, 2014, FIELD CROP RES, V158, P55, DOI 10.1016/j.fcr.2013.12.021
+   Huang GB, 2011, RAINFED FARMING SYSTEMS IN THE LOESS PLATEAU OF CHINA, V0, PP643, DOI 10.1007/978-1-4020-9132-2-23
+   Jeffery S, 2011, AGR ECOSYST ENVIRON, V144, P175, DOI 10.1016/j.agee.2011.08.015
+   Kader MA, 2017, SOIL TILL RES, V168, P155, DOI 10.1016/j.still.2017.01.001
+   Kannan P, 2021, AGR ECOSYST ENVIRON, V308, P0, DOI 10.1016/j.agee.2020.107258
+   Khaledi S, 2023, SOIL TILL RES, V226, P0, DOI 10.1016/j.still.2022.105579
+   Kodzwa JJ, 2020, SOIL TILL RES, V197, P0, DOI 10.1016/j.still.2019.104515
+   Lei T, 2021, J SCI FOOD AGR, V101, P5956, DOI 10.1002/jsfa.11248
+   Li C, 2023, AGR WATER MANAGE, V280, P0, DOI 10.1016/j.agwat.2023.108230
+   Li C, 2021, SCI TOTAL ENVIRON, V795, P0, DOI 10.1016/j.scitotenv.2021.148886
+   Li R, 2013, AGR WATER MANAGE, V116, P101, DOI 10.1016/j.agwat.2012.10.001
+   Li SX, 1992, ADVANCES IN SOIL SCIENCE, Volume 18., P147
+   Li XY, 2001, AGR WATER MANAGE, V50, P173, DOI 10.1016/S0378-3774(01)00105-6
+   Li YW, 2021, FIELD CROP RES, V271, P0, DOI 10.1016/j.fcr.2021.108244
+   Li ZY, 2023, FIELD CROP RES, V303, P0, DOI 10.1016/j.fcr.2023.109139
+   Liao ZQ, 2023, AGR WATER MANAGE, V289, P0, DOI 10.1016/j.agwat.2023.108558
+   Liu CA, 2009, EUR J AGRON, V31, P241, DOI 10.1016/j.eja.2009.08.004
+   Liu P, 2020, AGR WATER MANAGE, V232, P0, DOI 10.1016/j.agwat.2020.106041
+   Liu XY, 2013, PLANT SOIL, V373, P583, DOI 10.1007/s11104-013-1806-x
+   Liu Y, 2010, AGR FOREST METEOROL, V150, P606, DOI 10.1016/j.agrformet.2010.02.003
+   Liu YX, 2018, SOIL TILL RES, V181, P102, DOI 10.1016/j.still.2018.04.008
+   Liu ZH, 2021, FIELD CROP RES, V273, P0, DOI 10.1016/j.fcr.2021.108303
+   Luo LC, 2018, FIELD CROP RES, V218, P69, DOI 10.1016/j.fcr.2018.01.005
+   Ma DD, 2018, AGR WATER MANAGE, V202, P166, DOI 10.1016/j.agwat.2018.02.001
+   Mahdavi SM, 2016, EURASIAN SOIL SCI+, V49, P915, DOI 10.1134/S1064229316080068
+   Mo F, 2016, EUR J AGRON, V80, P124, DOI 10.1016/j.eja.2016.07.005
+   Oguntunde PG, 2008, J PLANT NUTR SOIL SC, V171, P591, DOI 10.1002/jpln.200625185
+   Omondi MO, 2016, GEODERMA, V274, P28, DOI 10.1016/j.geoderma.2016.03.029
+   Petruccelli R, 2015, CROP PASTURE SCI, V66, P747, DOI 10.1071/CP14247
+   Qi FJ, 2017, CHEMOSPHERE, V180, P564, DOI 10.1016/j.chemosphere.2017.04.014
+   Qian ZZ, 2020, BIOCHAR, V2, P479, DOI 10.1007/s42773-020-00068-w
+   Rehman S, 2009, SOIL TILL RES, V104, P82, DOI 10.1016/j.still.2008.12.013
+   Tilman D, 2011, P NATL ACAD SCI USA, V108, P20260, DOI 10.1073/pnas.1116437108
+   Vaccari FP, 2015, AGR ECOSYST ENVIRON, V207, P163, DOI 10.1016/j.agee.2015.04.015
+   Ventura F, 2012, EARTH ENV SCI T R SO, V103, P5, DOI 10.1017/S1755691012000059
+   Voca H, 2020, J ENVIRON SCI HEAL B, V55, P844, DOI 10.1080/03601234.2020.1788336
+   Wang DY, 2019, GEODERMA, V340, P185, DOI 10.1016/j.geoderma.2019.01.012
+   Wang H, 2022, AGR WATER MANAGE, V274, P0, DOI 10.1016/j.agwat.2022.107910
+   Wang YP, 2016, AGR FOREST METEOROL, V220, P160, DOI 10.1016/j.agrformet.2016.01.142
+   Willis OW, 1956, SOIL TEMPERATURE, V0, P0
+   Xie ZK, 2005, AGR WATER MANAGE, V75, P71, DOI 10.1016/j.agwat.2004.12.014
+   Xiu LQ, 2021, SOIL TILL RES, V205, P0, DOI 10.1016/j.still.2020.104762
+   Yan QY, 2019, EUR J SOIL SCI, V70, P1280, DOI 10.1111/ejss.12863
+   Yang WJ, 2022, EUR J AGRON, V139, P0, DOI 10.1016/j.eja.2022.126558
+   Yang YH, 2018, AGR WATER MANAGE, V201, P299, DOI 10.1016/j.agwat.2017.11.003
+   Zeeshan M, 2020, J CLEAN PROD, V255, P0, DOI 10.1016/j.jclepro.2020.120318
+   Zhang MM, 2018, CROP PASTURE SCI, V69, P1197, DOI 10.1071/CP17402
+   Zhang P, 2017, FRONT PLANT SCI, V8, P0, DOI 10.3389/fpls.2017.00512
+   Zhang QZ, 2013, SOIL SCI SOC AM J, V77, P1478, DOI 10.2136/sssaj2012.0180
+   Zhang SL, 2013, FIELD CROP RES, V151, P9, DOI 10.1016/j.fcr.2013.07.005
+   Zhang SL, 2009, SOIL TILL RES, V102, P78, DOI 10.1016/j.still.2008.07.019
+   Zhang WQ, 2022, SOIL TILL RES, V221, P0, DOI 10.1016/j.still.2022.105392
+   Zhang XF, 2020, EUR J AGRON, V119, P0, DOI 10.1016/j.eja.2020.126124
+   Zhang YF, 2021, CATENA, V202, P0, DOI 10.1016/j.catena.2021.105284
+   Zhao XD, 2023, J INTEGR AGR, V22, P1560, DOI 10.1016/j.jia.2023.02.026
+NR 75
+TC 0
+Z9 0
+U1 5
+U2 5
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1351-0754
+EI 1365-2389
+J9 EUR J SOIL SCI
+JI Eur. J. Soil Sci.
+PD MAY 15
+PY 2024
+VL 75
+IS 3
+BP 
+EP 
+DI 10.1111/ejss.13497
+PG 23
+WC Soil Science
+SC Agriculture
+GA SM4C6
+UT WOS:001234846700001
+DA 2024-08-17
+ER
+
+PT J
+AU Zhang, A
+   Chen, SS
+   Lin, XJ
+   Yan, L
+   Huang, YL
+   Sun, Y
+   Zhao, QY
+   Zhao, SG
+   Li, LH
+   Long, YZ
+   Dong, YP
+AF Zhang, Ang
+   Chen, Su-Sen
+   Lin, Xing-Jun
+   Yan, Lin
+   Huang, Yan-Li
+   Sun, Yan
+   Zhao, Qing-Yun
+   Zhao, Shao-Guan
+   Li, Li-Hua
+   Long, Yu-Zhou
+   Dong, Yun-Ping
+TI Effects of Cascara Cherry and Other Coffee Litter Mulching on Soil Properties, Photosynthesis, and Water Use Efficiency of <i>Coffea Canephora</i> Pierre ex A. Froehner cv. Reyan No.1 Seedling
+SO AGRONOMY-BASEL
+LA English
+DT Article
+DE conservation tillage; coffee cascara; leaf litter; photosynthetic index; carbon use efficiency
+ID carbon-use efficiency; plant respiration; grain-yield; leaf-area; growth; acclimation; transect; climate
+AB Mulching cultivation with agricultural wastes is the main production pattern of coffee at present, but the effect of mulching cultivation on photosynthetic physiological processes of coffee plants is still not clear. Therefore, a randomized block design was adopted to establish a field experiment by one-year-old Coffee Canephora seedlings in this study. There were four types of mulch treatments, including non-mulch coffee waste (C), mulching coffee litter (L), mulching coffee cascara (cherry pericarp, P), and mulching coffee litter and cascara (LP) in this field experiment. Soil properties and microenvironment (e.g., moisture, temperature, pH, bulk density, organic matter content, alkali-hydrolyzed nitrogen content, available potassium content, and available potassium content), agronomic traits (e.g., specific leaf area, leaf area index, plant height, and relative chlorophyll content), and photosynthetic indices (e.g., photosynthesis, transpiration, respiration, stomatal conductance, intercellular CO2 concentration, water use efficiency, and carbon use efficiency) were investigated to determine the effects of different coffee waste mulches on the photosynthetic physiology of coffee seedlings. The results show that coffee litter and cascara mulch significantly reduced soil temperature by 0.42 or 0.33 degrees C, respectively, and coffee litter rather than cascara mulch significantly increased the soil's available potassium content by 46.28%, although coffee waste mulch did not affect other soil properties or microenvironment indices; coffee cascara mulching significantly increased the specific leaf area and net and gross photosynthesis of coffee by 45.46%, 78.33%, and 91.72%, respectively, but the mulching treatments did not affect stomatal conductance, transpiration, or carbon use efficiency in this study. Additionally, coffee cascara mulching increased leaf respiration and net and gross water use efficiency by 109.34%, 80.54%, and 104.95%, respectively. The coffee cascara mulching alone had the most significant positive impact on the photosynthetic index, followed by a combination of litter and cascara, litter alone, and the control treatment. The observed variations in the coffee photosynthetic index may be attributed to the reduction of soil temperature caused by mulching treatments rather than the increase in soil nutrients content. These results indicate that coffee cascara mulching could effectively promote photosynthesis and the growth of coffee seedlings by improving the soil microenvironment.
+C1 [Zhang, Ang; Chen, Su-Sen; Lin, Xing-Jun; Yan, Lin; Sun, Yan; Zhao, Qing-Yun; Zhao, Shao-Guan; Long, Yu-Zhou] Spice & Beverage Res Inst, Chinese Acad Trop Agr Sci, Hainan Engn Res Ctr Coffee, Hainan Prov Key Lab Genet Improvement & Qual Regul, Wanning 571533, Peoples R China.
+   [Chen, Su-Sen; Huang, Yan-Li; Dong, Yun-Ping] Yunnan Agr Univ, Coll Trop Crops, Puer 665099, Peoples R China.
+   [Zhao, Shao-Guan] Nanjing Agr Univ, Coll Resources & Environm Sci, Nanjing 210095, Peoples R China.
+   [Li, Li-Hua] Yunnan Agr Univ, Coll Agron & Biotechnol, Kunming 650201, Peoples R China.
+C3 Chinese Academy of Tropical Agricultural Sciences; Yunnan Agricultural University; Nanjing Agricultural University; Yunnan Agricultural University
+RP Lin, XJ; Yan, L (通讯作者)，Spice & Beverage Res Inst, Chinese Acad Trop Agr Sci, Hainan Engn Res Ctr Coffee, Hainan Prov Key Lab Genet Improvement & Qual Regul, Wanning 571533, Peoples R China.
+EM angzhang_henu@163.com; ss20011025@outlook.com; linxingjun1@163.com; yanlin2575@163.com; 2008074@ynau.edu.cn; sy_126_sy@126.com; qingyun_022@163.com; shaoguan0529@163.com; 18287953155@163.com; lyzh28007@163.com; dyp6005@163.com
+FU Key research and development program of Hainan Province [ZDYF2021XDNY295, ZDYF2023XDNY181]; Earmarked fund for CARS [CARS-11]; Natural Science Foundation of Hainan [322QN406]
+CR Alengebawy A, 2021, TOXICS, V9, P0, DOI 10.3390/toxics9030042
+   Babla MH, 2020, PLANTA, V252, P0, DOI 10.1007/s00425-020-03493-0
+   Barbosa SM, 2020, GEODERMA, V357, P0, DOI 10.1016/j.geoderma.2019.113934
+   Bradford MA, 2013, NEW PHYTOL, V199, P7, DOI 10.1111/nph.12334
+   Butt MS, 2011, CRIT REV FOOD SCI, V51, P363, DOI 10.1080/10408390903586412
+   Castro-Díez P, 2019, PLANT SOIL, V442, P79, DOI 10.1007/s11104-019-04160-4
+   Chen JQ, 2021, ARCH AGRON SOIL SCI, V67, P275, DOI 10.1080/03650340.2020.1723005
+   Condon AG, 2004, J EXP BOT, V55, P2447, DOI 10.1093/jxb/erh277
+   DeLucia EH, 2007, GLOBAL CHANGE BIOL, V13, P1157, DOI 10.1111/j.1365-2486.2007.01365.x
+   Dillaway DN, 2014, GLOBAL CHANGE BIOL, V20, P908, DOI 10.1111/gcb.12427
+   Eckhardt S, 2022, MOLECULES, V27, P0, DOI 10.3390/molecules27238435
+   Esquivel P, 2012, FOOD RES INT, V46, P488, DOI 10.1016/j.foodres.2011.05.028
+   Frantz JM, 2005, J AM SOC HORTIC SCI, V130, P918, DOI 10.21273/JASHS.130.6.918
+   Gomes LC, 2020, AGR ECOSYST ENVIRON, V294, P0, DOI 10.1016/j.agee.2020.106858
+   Huntingford C, 2017, NAT COMMUN, V8, P0, DOI 10.1038/s41467-017-01774-z
+   Janissen B, 2018, RESOUR CONSERV RECY, V128, P110, DOI 10.1016/j.resconrec.2017.10.001
+   Koul B, 2022, ENVIRON RES, V206, P0, DOI 10.1016/j.envres.2021.112285
+   Lahive F, 2019, AGRON SUSTAIN DEV, V39, P0, DOI 10.1007/s13593-018-0552-0
+   Liu GY, 2017, SCI HORTIC-AMSTERDAM, V214, P41, DOI 10.1016/j.scienta.2016.09.006
+   Lu ZF, 2019, PLANT CELL ENVIRON, V42, P2231, DOI 10.1111/pce.13553
+   LUO YH, 1992, PLANT PHYSIOL, V98, P966, DOI 10.1104/pp.98.3.966
+   Maire V, 2015, GLOBAL ECOL BIOGEOGR, V24, P706, DOI 10.1111/geb.12296
+   Manzoni S, 2012, NEW PHYTOL, V196, P79, DOI 10.1111/j.1469-8137.2012.04225.x
+   Marthews TR, 2012, GLOBAL CHANGE BIOL, V18, P2882, DOI 10.1111/j.1365-2486.2012.02728.x
+   Mu XH, 2021, PLANT PHYSIOL BIOCH, V158, P76, DOI 10.1016/j.plaphy.2020.11.019
+   Ning XL, 2021, BIOENGINEERED, V12, P3684, DOI 10.1080/21655979.2021.1931639
+   Reich PB, 2018, NATURE, V562, P263, DOI 10.1038/s41586-018-0582-4
+   Rusinek R, 2024, INT AGROPHYS, V38, P31, DOI 10.31545/intagr/176300
+   Rusinek R, 2022, MOLECULES, V27, P0, DOI 10.3390/molecules27238530
+   Song YP, 2014, BMC PLANT BIOL, V14, P0, DOI 10.1186/1471-2229-14-111
+   Stoy PC, 2019, BIOGEOSCIENCES, V16, P3747, DOI 10.5194/bg-16-3747-2019
+   Ta TH, 2011, HORTIC ENVIRON BIOTE, V52, P265, DOI 10.1007/s13580-011-0216-3
+   Tjoelker MG, 2018, PLANT CELL ENVIRON, V41, P501, DOI 10.1111/pce.13126
+   Vicca S, 2012, ECOL LETT, V15, P520, DOI 10.1111/j.1461-0248.2012.01775.x
+   Wagner Y, 2021, AGR FOREST METEOROL, V307, P0, DOI 10.1016/j.agrformet.2021.108487
+   Wang J, 2021, FUNCT ECOL, V35, P2799, DOI 10.1111/1365-2435.13920
+   WILSON D, 1969, NEW PHYTOL, V68, P1125, DOI 10.1111/j.1469-8137.1969.tb06512.x
+   Zhang A, 2019, ECOL EVOL, V9, P9907, DOI 10.1002/ece3.5532
+   Zhang W, 2018, FIELD CROP RES, V219, P113, DOI 10.1016/j.fcr.2018.01.031
+   Zhang YQ, 2017, AGR WATER MANAGE, V179, P277, DOI 10.1016/j.agwat.2016.08.007
+   Zhao QY, 2018, SCI REP-UK, V8, P0, DOI 10.1038/s41598-018-24537-2
+   Zhao SG, 2024, FRONT MICROBIOL, V14, P0, DOI 10.3389/fmicb.2023.1323902
+NR 42
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+SN 
+EI 2073-4395
+J9 AGRONOMY-BASEL
+JI Agronomy-Basel
+PD JUL 15
+PY 2024
+VL 14
+IS 7
+BP 
+EP 
+DI 10.3390/agronomy14071418
+PG 14
+WC Agronomy; Plant Sciences
+SC Agriculture; Plant Sciences
+GA ZW0L7
+UT WOS:001278205000001
+DA 2024-08-17
+ER
+
+PT J
+AU Malik, MWI
+   Usman, K
+   Hamza, A
+   Saad, M
+AF Malik, Muhammad Waqas Imam
+   Usman, Khalid
+   Hamza, Amir
+   Saad, Muhammad
+TI Optimizing Cotton-Wheat System Productivity Through Resource Conserving Techniques
+SO COMMUNICATIONS IN SOIL SCIENCE AND PLANT ANALYSIS
+LA English
+DT Article
+DE Economics; irrigation; potassium; tillage; yield
+ID water-use efficiency; conservation agriculture; conventional tillage; yield components; irrigated cotton; cropping system; soil; fertilization; quality; impact
+AB Cotton-wheat cropping system contributes significantly to Pakistan's food security and economy. However, the system productivity is low because of soil degrading tillage, irrational use of irrigation, and potassium which delay cotton maturity and affect succeeding wheat crop. Conservation tillage (MT) with appropriate irrigation and potassium may improve the system's productivity and stability. Experiments were conducted at Gomal University, Pakistan. Treatments included tillage (conventional (CT) and conservation tillage (MT)) and three irrigation intervals viz. 5, 4, and 3 weeks for cotton in first year, while in second year tillage was same and best irrigation interval observed in first year was kept constant. In second year besides tillage, potassium (0, 50, 100, 150, 200, and 250 kg K ha-1) was included in cotton. For succeeding wheat, treatments were tillage (MT & CT) and six irrigations applied at crown root initiation, tillering, jointing, booting, 50% spike emergence, milk and dough stage. Results revealed that MT was better than CT regarding yield and net economic return. Five-week irrigation interval increased yield, improved fiber quality, and caused earlier cotton maturity. 150 kg K ha-1 produced higher net return and benefit-cost ratio (BCR) for cotton under MT than CT. Wheat grown with MT produced higher yield, net return, and BCR when irrigated 4 times at jointing, booting, 50% spike emergence, milk and dough stage. MT accumulated more soil organic matter and total soil N than CT. The results suggest that MT with appropriate irrigation and potassium can improve cotton-wheat system productivity and economics besides conservation of resources.
+C1 [Malik, Muhammad Waqas Imam; Usman, Khalid; Hamza, Amir; Saad, Muhammad] Gomal Univ, Fac Agr, Dept Agron, Dera Ismail Khan, Pakistan.
+C3 Gomal University
+RP Usman, K (通讯作者)，Gomal Univ, Fac Agr, Dept Agron, Dera Ismail Khan, Pakistan.
+EM dr.khalidusman@gu.edu.pk
+FU We acknowledge higher education commission of Pakistan for support of this research vide project NRPU # 9169. [9169]; higher education commission of Pakistan
+CR Arshad M, 2010, INT J AGRIC BIOL, V12, P764
+   Bessam F, 2003, SOIL USE MANAGE, V19, P139, DOI 10.1079/SUM2003181
+   Bhan S, 2014, INT SOIL WATER CONSE, V2, P1
+   Bhattacharyya R, 2008, AGR WATER MANAGE, V95, P993, DOI 10.1016/j.agwat.2008.03.007
+   BOUYOUCOS GJ, 1951, AGRON J, V43, P434, DOI 10.2134/agronj1951.00021962004300090005x
+   Bremner JM, 1982, METHODS OF SOIL ANALYSIS. PART 2. CHEMICAL AND MICROBIOLOGICAL PROPERTIES, V0, P595
+   Byrd SA, 2019, AGRON J, V111, P1620, DOI 10.2134/agronj2017.11.0643
+   Daniel JB, 1999, JOURNAL OF COTTON SCIENCE, V3, P84
+   Das TK, 2014, FIELD CROP RES, V158, P24, DOI 10.1016/j.fcr.2013.12.017
+   Deng XP, 2006, AGR WATER MANAGE, V80, P23, DOI 10.1016/j.agwat.2005.07.021
+   Djanaguiraman M, 2020, BMC PLANT BIOL, V20, P0, DOI 10.1186/s12870-020-02479-0
+   Dutt Y, 2004, PLANT BREEDING, V123, P145, DOI 10.1046/j.1439-0523.2003.00938.x
+   Hajabbasi MA, 2000, SOIL TILL RES, V56, P205, DOI 10.1016/S0167-1987(00)00140-9
+   Hulugalle NR, 2015, SOIL TILL RES, V146, P313, DOI 10.1016/j.still.2014.10.004
+   Khan NU, 2019, INT J AGR BIOL, V0, P3:1
+   Khan N, 2015, ARCH AGRON SOIL SCI, V61, P581, DOI 10.1080/03650340.2014.947284
+   Khan N, 2014, PHILIPP AGRIC SCI, V97, P257
+   Koevoets IT, 2016, FRONT PLANT SCI, V7, P0, DOI 10.3389/fpls.2016.01335
+   Koondhar MA, 2018, JOURNAL OF THE SAUDI SOCIETY OF AGRICULTURAL SCIENCES, V17, P398, DOI 10.1016/j.jssas.2016.09.006
+   Majeed A, 2015, CROP J, V3, P118, DOI 10.1016/j.cj.2015.01.003
+   Muhammad Iqbal Muhammad Iqbal, 2002, PAKISTAN DEVELOPMENT REVIEW, V41, P665
+   Najeeb U, 2015, AOB PLANTS, V7, P0, DOI 10.1093/aobpla/plv080
+   Oosterhuis D, 2001, P 4 INT CROP SCI C B, V0, P0
+   Sarwar N, 2010, PAK J AGR SCI, V47, P371
+   Sawan ZM, 2006, J COTTON SCI, V10, P224
+   Shabbir A, 2012, PAK J AGR SCI, V49, P357
+   Shah MA, 2016, EUR J AGRON, V75, P33, DOI 10.1016/j.eja.2015.12.014
+   Singh M, 2017, EXP AGR, V53, P539, DOI 10.1017/S0014479716000569
+   Soil Survey Staff, 2009, COMMUN SOIL SCI PLAN, V16, P322
+   SOLTANPOUR PN, 1985, COMMUN SOIL SCI PLAN, V16, P323, DOI 10.1080/00103628509367607
+   Steel RGD, 1997, PRINCIPLE AND PROCEDURES OF STATISTICS, V0, P0
+   Sumner ME, 1996, METHODS OF SOIL ANALYSIS. PART 3 - CHEMICAL METHODS., V0, P1201
+   Usman K, 2010, SOIL TILL RES, V110, P101, DOI 10.1016/j.still.2010.07.009
+   Waraich EA, 2011, J PLANT NUTR, V34, P1867, DOI 10.1080/01904167.2011.600413
+   Wright AL, 2008, APPL SOIL ECOL, V38, P168, DOI 10.1016/j.apsoil.2007.10.006
+NR 35
+TC 0
+Z9 0
+U1 5
+U2 5
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0010-3624
+EI 1532-2416
+J9 COMMUN SOIL SCI PLAN
+JI Commun. Soil Sci. Plant Anal.
+PD FEB 21
+PY 2024
+VL 55
+IS 4
+BP 536
+EP 549
+DI 10.1080/00103624.2023.2274037
+EA OCT 2023
+PG 14
+WC Agronomy; Plant Sciences; Chemistry, Analytical; Soil Science
+SC Agriculture; Plant Sciences; Chemistry
+GA ID0D6
+UT WOS:001086711800001
+DA 2024-08-17
+ER
+
+PT J
+AU Francioni, M
+   Palmieri, M
+   Fiorentini, M
+   Deligios, PA
+   Monaci, E
+   Vischetti, C
+   Rossa, ÜB
+   Trozzo, L
+   Bianchini, M
+   Rivosecchi, C
+   Ledda, L
+   Orsini, R
+   Santilocchi, R
+   D'Ottavio, P
+AF Francioni, Matteo
+   Palmieri, Matteo
+   Fiorentini, Marco
+   Deligios, Paola Antonia
+   Monaci, Elga
+   Vischetti, Costantino
+   Rossa, Uberson Boaretto
+   Trozzo, Laura
+   Bianchini, Marco
+   Rivosecchi, Chiara
+   Ledda, Luigi
+   Orsini, Roberto
+   Santilocchi, Rodolfo
+   D'Ottavio, Paride
+TI Scarcity of P-fertilisers: Humic-complexed phosphate as an adaptive solution for wheat and maize under rainfed conditions
+SO EUROPEAN JOURNAL OF AGRONOMY
+LA English
+DT Article
+DE Available phosphorous; Conservation agriculture; Corn; Durum wheat; Crop sequence
+ID dry-matter production; water-use efficiency; grain-yield; nitrogen-fertilization; phosphorus uptake; soil property; availability; irrigation; deficiency; plants
+AB The current context of food security and global geopolitical crises calls for proactive efforts to seek adaptive strategies for limited resources in agriculture. The production of phosphatic-based fertilisers has caused a substantial depletion of natural phosphorus (P) reserves, raising concerns about price increases due to the growing demand for P. The aim of the study is to assess whether the use of liquid organo-mineral P-complexes can be an adaptive strategy to address the issue of the limited P-fertiliser resource. A complete randomised block design was implemented with three replicates, spanning two contrasting cropping seasons under a Mediterranean climate with reduced tillage and rainfed conditions. The study aimed to assess the response of a durum wheat-maize rotation to various rates of liquid organo-mineral P-complexes (humic-complexed phosphate; HCP) in comparison to granular triple superphosphate (TSP). The evaluation focused on several parameters, including P availability, plant architecture, dry matter accumulation, grain yield and yield components and P use efficiency (PUE) for both durum wheat and maize. The results revealed that applying HCP at a rate of 4 or 8 kg ha- 1 increased soil P availability on average by 66% and 144%, respectively, compared to the control (no P-fertilisation), although a significant interaction with the monitoring year emerged. For wheat, applying HCP at a rate of 8 kg ha-1 of P resulted in higher grain yield (+15%), protein content (+0.9%) and P uptake (+48%) than the control on average considering both monitoring years. In the season characterised by favourable rainfall patterns, the application of HCP at 5 or 10 kg ha-1 of P for maize showed similar effects in terms of soil P availability, dry matter accumulation, grain yields and PUE. Conversely, in the season marked by a deficiency in summer precipitation, low PUE for maize was observed for HCP fertilisers, although they remained positive, unlike the case of TSP. Using HCP in conservation agriculture appears promising as an adaptive solution to address P-fertiliser scarcity, especially amid food security challenges and global crises. However, further studies are required to validate these findings in diverse pedo-climatic contexts and cropping systems.
+C1 [Francioni, Matteo; Palmieri, Matteo; Fiorentini, Marco; Deligios, Paola Antonia; Monaci, Elga; Vischetti, Costantino; Trozzo, Laura; Bianchini, Marco; Rivosecchi, Chiara; Ledda, Luigi; Orsini, Roberto; Santilocchi, Rodolfo; D'Ottavio, Paride] Univ Politecn Marche, Dipartimento Sci Agr Alimentari & Ambientali, Via Brecce Bianche 10, I-60131 Ancona, Italy.
+   [Rossa, Uberson Boaretto] Inst Fed Educ Ciencia & Tecnol Catarinense, Dept Agr Sci, BR 270,Km 21, BR-89245000 Araquari, SC, Brazil.
+   [Rivosecchi, Chiara] Sapienza Univ Rome, Dept Civil Construct & Environm Engn, Via Eudossiana 18, I-00184 Rome, Italy.
+C3 Marche Polytechnic University; Sapienza University Rome
+RP Fiorentini, M (通讯作者)，Univ Politecn Marche, Dipartimento Sci Agr Alimentari & Ambientali, Via Brecce Bianche 10, I-60131 Ancona, Italy.
+EM m.fiorentini@staff.univpm.it
+FU Universit ` a Politecnica delle Marche
+CR Abd-Elmabod SK, 2020, GEODERMA, V374, P0, DOI 10.1016/j.geoderma.2020.114453
+   Mastachi-Loza CA, 2016, AGR ECOSYST ENVIRON, V225, P1, DOI 10.1016/j.agee.2016.03.041
+   Alewell C, 2020, NAT COMMUN, V11, P0, DOI 10.1038/s41467-020-18326-7
+   Almagro M, 2009, SOIL BIOL BIOCHEM, V41, P594, DOI 10.1016/j.soilbio.2008.12.021
+   Andrade FV, 2007, COMMUN SOIL SCI PLAN, V38, P2733, DOI 10.1080/00103620701662976
+   Baigorri R, 2013, CHEMSUSCHEM, V6, P1245, DOI 10.1002/cssc.201300024
+   Herrera WFB, 2016, AGRON J, V108, P1692, DOI 10.2134/agronj2015.0561
+   Bindraban PS, 2020, BIOL FERT SOILS, V56, P299, DOI 10.1007/s00374-019-01430-2
+   Börling K, 2001, NUTR CYCL AGROECOSYS, V59, P39, DOI 10.1023/A:1009888707349
+   Corrêa RM, 2005, SCI AGR, V62, P159, DOI 10.1590/S0103-90162005000200011
+   Di Paolo E, 2008, FIELD CROP RES, V105, P202, DOI 10.1016/j.fcr.2007.10.004
+   Dordas CA, 2008, IND CROP PROD, V27, P75, DOI 10.1016/j.indcrop.2007.07.020
+   Erro J, 2012, J AGR FOOD CHEM, V60, P2008, DOI 10.1021/jf204821j
+   Fink JR, 2016, SOIL TILL RES, V155, P62, DOI 10.1016/j.still.2015.07.017
+   Food and Agriculture Organization of the United Nations, 2014, WORLD REFERENCE BASE FOR SOIL RESOURCES 2014: INTERNATIONAL SOIL CLASSIFICATION SYSTEM FOR NAMING SOILS AND CREATING LEGENDS FOR SOIL MAPS, V0, P0
+   Francaviglia R, 2018, SUSTAIN AGR REV, V28, P183, DOI 10.1007/978-3-319-90309-5_6
+   Francioni M, 2020, SCI AGR, V77, P0, DOI 10.1590/1678-992X-2018-0096
+   Gao SC, 2023, CROP SCI, V63, P956, DOI 10.1002/csc2.20909
+   García-Lara S, 2019, CORN: CHEMISTRY AND TECHNOLOGY, V0, P1, DOI 10.1016/B978-0-12-811971-6.00001-2
+   González-Ubierna S, 2019, J ARID ENVIRON, V165, P46, DOI 10.1016/j.jaridenv.2019.02.008
+   Gross M, 2022, CURR BIOL, V32, P0
+   Hopkins B, 2005, W NUTR MAN C SALT LA, V0, P0
+   Huang YW, 2020, AGR FOREST METEOROL, V291, P0, DOI 10.1016/j.agrformet.2020.108090
+   Shafi MI, 2020, AGRONOMY-BASEL, V10, P0, DOI 10.3390/agronomy10091224
+   Kaya C, 2020, SCI REP-UK, V10, P0, DOI 10.1038/s41598-020-62669-6
+   Klamer F, 2019, ANN BOT-LONDON, V124, P961, DOI 10.1093/aob/mcz011
+   Marschner P, 2012, MARSCHNERS MINERAL NUTRITION OF HIGHER PLANTS, V0, P315, DOI 10.1016/B978-0-12-384905-2.00012-1
+   Mazlouzi MEl, 2020, CONTRIBUTION OF EXTERNAL AND INTERNAL PHOSPHORUS SOURCES TO GRAIN P LOADING IN DURUM WHEAT (TRITICUM DURUM L.) GROWN UNDER CONTRASTING P LEVELS, V0, PP1, DOI 10.3389/FPLS.2020.00870
+   Mereu V, 2021, CLIM RISK MANAG, V33, P0, DOI 10.1016/j.crm.2021.100339
+   OLSEN STERLING R, 1954, U S DEPT AGRIC CIRC, V939, P1
+   Pauletti V, 2014, REV BRAS CIENC SOLO, V38, P495, DOI 10.1590/S0100-06832014000200014
+   Payero JO, 2008, AGR WATER MANAGE, V95, P895, DOI 10.1016/j.agwat.2008.02.015
+   Piccoli I, 2021, EUR J AGRON, V122, P0, DOI 10.1016/j.eja.2020.126171
+   Piegholdt C, 2013, J PLANT NUTR SOIL SC, V176, P217, DOI 10.1002/jpln.201200393
+   Plénet D, 2000, PLANT SOIL, V223, P119, DOI 10.1023/A:1004877111238
+   Prasanna BM, 2020, FRONT GENET, V10, P0, DOI 10.3389/fgene.2019.01392
+   Ravier C, 2017, EUR J AGRON, V89, P16, DOI 10.1016/j.eja.2017.06.002
+   Reijnders L, 2014, RESOUR CONSERV RECY, V93, P32, DOI 10.1016/j.resconrec.2014.09.006
+   Rutkowska B, 2018, SOIL TILL RES, V180, P21, DOI 10.1016/j.still.2018.02.012
+   Rychter AM, 2016, HANDBOOK OF PHOTOSYNTHESIS, Vthird, P0, DOI 10.1201/9781315372136
+   Samadi A, 1999, SOIL SCI SOC AM J, V63, P809, DOI 10.2136/sssaj1999.634809x
+   Schachtman DP, 1998, PLANT PHYSIOL, V116, P447, DOI 10.1104/pp.116.2.447
+   Sharpley A, 2018, J ENVIRON QUAL, V47, P774, DOI 10.2134/jeq2018.05.0170
+   Takahashi S, 2007, FIELD CROP RES, V101, P160, DOI 10.1016/j.fcr.2006.11.003
+   Toderi M, 2022, SOIL SCI PLANT NUTR, V68, P124, DOI 10.1080/00380768.2021.1983869
+   Torrent J, 2007, SOIL USE MANAGE, V23, P25, DOI 10.1111/j.1475-2743.2007.00122.x
+   Urrutia O, 2013, J SCI FOOD AGR, V93, P293, DOI 10.1002/jsfa.5756
+   Wang WL, 2013, ENVIRON EARTH SCI, V68, P1313, DOI 10.1007/s12665-012-1829-2
+   Wu LQ, 2015, FIELD CROP RES, V180, P216, DOI 10.1016/j.fcr.2015.06.001
+   Yang F, 2021, SCI TOTAL ENVIRON, V768, P0, DOI 10.1016/j.scitotenv.2021.145106
+   Zavaschi E, 2020, REV CIENC AGRON, V51, P0, DOI 10.5935/1806-6690.20200010
+   Zhang W, 2018, FIELD CROP RES, V219, P113, DOI 10.1016/j.fcr.2018.01.031
+   Zhao M, 2021, APPL SOIL ECOL, V163, P0, DOI 10.1016/j.apsoil.2021.103928
+   Zhen-Yu DU, 2013, PEDOSPHERE, V0, P0
+   Zhu XK, 2012, J INTEGR AGR, V11, P1103, DOI 10.1016/S2095-3119(12)60103-8
+   Zittis G, 2019, REG ENVIRON CHANGE, V19, P2621, DOI 10.1007/s10113-019-01565-w
+NR 56
+TC 0
+Z9 0
+U1 5
+U2 5
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1161-0301
+EI 1873-7331
+J9 EUR J AGRON
+JI Eur. J. Agron.
+PD MAY 15
+PY 2024
+VL 156
+IS 
+BP 
+EP 
+DI 10.1016/j.eja.2024.127143
+EA MAR 2024
+PG 11
+WC Agronomy
+SC Agriculture
+GA NX2D2
+UT WOS:001203678200001
+DA 2024-08-17
+ER
+
+PT J
+AU Zizinga, A
+   Mwanjalolo, JGM
+   Tietjen, B
+   Martins, MA
+   Bedadi, B
+AF Zizinga, Alex
+   Mwanjalolo, Jackson-Gilbert Majaliwa
+   Tietjen, Britta
+   Martins, Minella Alves
+   Bedadi, Bobe
+TI Maize yield under a changing climate in Uganda: long-term impacts for climate smart agriculture
+SO REGIONAL ENVIRONMENTAL CHANGE
+LA English
+DT Article
+DE AquaCrop model; Projected future changes; Maize productivity
+ID fao aquacrop model; rain-fed maize; sub-saharan africa; conservation agriculture; water-use; soil; productivity; management; scenarios; drought
+AB Climate Smart Agriculture (CSA) practices play a crucial role in enhancing agricultural resilience. However, there is a need for a more comprehensive exploration of their specific impact on maize productivity under future climate change scenarios. While previous studies focused mainly on CSA effects on crop yield, a broader investigation is needed encompassing factors like water use efficiency, soil water content, and crop evapotranspiration. This study addresses this gap, aiming to assess the effects of diverse CSA practices on maize productivity in mid-western Uganda under Representative Concentration Pathways (RCPs) 4.5 and 8.5 for mid-century (2040-2069) and end-century (2070-2099) climate change scenarios. Seven CSA treatments, including conventional practice, half-moon pits, permanent planting basins of 20 cm and 30 cm depth, mulches of 2 cm, 4 cm, and 6 cm thicknesses, were assessed using the AquaCrop model and field experiments. The results reveal substantial increases in maize grain yield (25-228%) and water use efficiency (1-53%) due to future CSA practices under projected climate change conditions, highlighting the potential for long-term sustainability. Also, specific CSA treatments exhibited notable effects on maize productivity under varying climate change scenarios, addressing critical knowledge gaps and guiding the optimal utilization of CSA practices for improved maize productivity. This research offers valuable insights for policymakers and practitioners, emphasizing the importance of prioritizing and tailoring CSA interventions for sustainable maize production in the face of progressive climate change.
+C1 [Zizinga, Alex; Tietjen, Britta] Univ Berlin, Inst Biol, Theoret Ecol, Konigin Luise Str 2-4, D-14195 Berlin, Germany.
+   [Zizinga, Alex; Bedadi, Bobe] Haramaya Univ, Afr Ctr Excellence Climate Smart Agr & Biodivers C, Dire Dawa, Ethiopia.
+   [Mwanjalolo, Jackson-Gilbert Majaliwa] Makerere Univ, Reg Univ Forum Capac Bldg Agr, Kampala 7602, Uganda.
+   [Martins, Minella Alves] Natl Inst Space Res, Sao Jose Dos Campos, SP, Brazil.
+C3 Haramaya University; Makerere University; Instituto Nacional de Pesquisas Espaciais (INPE)
+RP Zizinga, A (通讯作者)，Univ Berlin, Inst Biol, Theoret Ecol, Konigin Luise Str 2-4, D-14195 Berlin, Germany.; Zizinga, A (通讯作者)，Haramaya Univ, Afr Ctr Excellence Climate Smart Agr & Biodivers C, Dire Dawa, Ethiopia.
+EM azizinga@gmail.com
+FU Cente Climate Smart Agriculture and Biodiversity Conservation
+CR Adeboye OB, 2019, AGR WATER MANAGE, V213, P1130, DOI 10.1016/j.agwat.2018.11.006
+   Adhikari U, 2015, FOOD ENERGY SECUR, V4, P110, DOI 10.1002/fes3.61
+   Akumaga U, 2017, AGR FOREST METEOROL, V232, P225, DOI 10.1016/j.agrformet.2016.08.011
+   [Anonymous], 2015, AUST J EMERG MANAG, V30, P9
+   [Anonymous], 2015, ADDIS ABABA ACTION A, V0, P0
+   Asante FA, 2015, CLIMATE, V3, P78, DOI 10.3390/cli3010078
+   Bagula EM, 2022, LAND-BASEL, V11, P0, DOI 10.3390/land11091409
+   Biazin B, 2012, PHYS CHEM EARTH, V47-48, P139, DOI 10.1016/j.pce.2011.08.015
+   Bu LD, 2013, AGR WATER MANAGE, V123, P71, DOI 10.1016/j.agwat.2013.03.015
+   Challinor AJ, 2014, NAT CLIM CHANGE, V4, P287, DOI 10.1038/nclimate2153
+   Cudjoe GP, 2021, CLIMATE, V9, P0, DOI 10.3390/cli9100145
+   Dodman D, 2022, CLIMATE CHANGE 2022: IMPACTS, V0, P0, DOI 10.1017/9781009325844
+   Doorenbos J, 1979, YIELD RESPONSE WATER, V0, P0, DOI DOI 10.1016/B978-0-08-025675-7.50021-2
+   Eijkelkamp Soil & Water, 2017, USER MANUAL, V0, P1
+   Epule TE, 2021, SN APPL SCI, V3, P0, DOI 10.1007/s42452-021-04532-5
+   FAO, 2013, CLIMATE-SMART AGRICULTURE: SOURCEBOOK, V0, P0, DOI DOI 10.3224/ERIS.V3I2.14
+   FAO J, 2016, COPING WITH WATER SCARCITY IN AGRICULTURE: A GLOBAL FRAMEWORK FOR ACTION IN A CHANGING CLIMATE, V0, P0
+   Fereres E, 2012, FAO IRRIGATION AND DRAINAGE PAPER, V0, P246
+   Field CB, 2014, CLIMATE CHANGE 2014: IMPACTS, V0, P0
+   Guido Z, 2020, CLIM RISK MANAG, V30, P0, DOI 10.1016/j.crm.2020.100247
+   Hamlet AF, 2013, ATMOS OCEAN, V51, P392, DOI 10.1080/07055900.2013.819555
+   Hsiao TC, 2009, AGRON J, V101, P448, DOI 10.2134/agronj2008.0218s
+   Hudson N, 2013, GUIDE FOR RUNNING AGMIP CLIMATE SCENARIO GENERATION TOOLS WITH R. AGMIP, V7th, P0
+   Jones JW, 2003, EUR J AGRON, V18, P235, DOI 10.1016/S1161-0301(02)00107-7
+   Kaizzi KC, 2012, MAIZE RESPONSE TO FERTILIZER AND NITROGEN USE EF FI CIENCY IN UGANDA, V0, P0, DOI DOI 10.2134/agronj2011.0181
+   Kikoyo DA, 2016, PHYS CHEM EARTH, V93, P37, DOI 10.1016/j.pce.2015.09.005
+   Kresovic B, 2016, AGR WATER MANAGE, V169, P34, DOI 10.1016/j.agwat.2016.01.023
+   Li SY, 2018, AGR WATER MANAGE, V201, P309, DOI 10.1016/j.agwat.2017.10.025
+   Lipper L, 2014, NAT CLIM CHANGE, V4, P1068, DOI 10.1038/nclimate2437
+   Lobell DB, 2011, SCIENCE, V333, P616, DOI 10.1126/science.1204531
+   MAAIF, 2017, PERFORMANCE REVIEW REPORT 150, V0, P0
+   MacLaren C, 2022, NAT SUSTAIN, V5, P770, DOI 10.1038/s41893-022-00911-x
+   Maitah M, 2021, SCI REP-UK, V11, P0, DOI 10.1038/s41598-021-89962-2
+   Martins MA, 2018, AGR SYST, V160, P21, DOI 10.1016/j.agsy.2017.11.002
+   Martins MA, 2019, AGR WATER MANAGE, V216, P339, DOI 10.1016/j.agwat.2019.02.011
+   Mebane VJ, 2013, AGRON J, V105, P419, DOI 10.2134/agronj2012.0337
+   Mhizha T, 2014, WATER SA, V40, P233, DOI 10.4314/wsa.v40i2.5
+   Mibulo T, 2018, AGRONOMY-BASEL, V8, P0, DOI 10.3390/agronomy8110238
+   Mupangwa W, 2013, J ARID ENVIRON, V91, P45, DOI 10.1016/j.jaridenv.2012.11.007
+   Ngetich KF, 2012, RES APPL SUMMARY 3 R, V0, P0
+   Nyamangara J, 2014, EXP AGR, V50, P159, DOI 10.1017/S0014479713000562
+   Raes D, 2018, REFERENCE MANUAL AQUACROP VERSION 6.0-6.1, V0, P0
+   Ruane A, 2015, HDB CLIM CHANG AGROE, V0, P45
+   Ruane AC, 2017, EARTH PERSPECTIVES, V4, P1, DOI 10.1186/S40322-017-0036-4
+   Sawadogo H, 2011, INT J AGR SUSTAIN, V9, P120, DOI 10.3763/ijas.2010.0552
+   Schaap MG, 2001, J HYDROL, V251, P163, DOI 10.1016/S0022-1694(01)00466-8
+   Shiferaw B, 2014, WEATHER CLIM EXTREME, V3, P67, DOI 10.1016/j.wace.2014.04.004
+   Smith W, 2020, SCI TOTAL ENVIRON, V728, P0, DOI 10.1016/j.scitotenv.2020.138845
+   Srivastava AK, 2018, AGR SYST, V159, P157, DOI 10.1016/j.agsy.2017.03.011
+   Steduto P, 2012, CROP YIELD RESPONSE TO WATER, V1028, P99
+   Steduto P, 2009, AGRON J, V101, P426, DOI 10.2134/agronj2008.0139s
+   Steenwerth KL, 2014, AGR FOOD SECURITY, V3, P1, DOI 10.1186/2048-7010-3-11
+   Taylor KE, 2012, B AM METEOROL SOC, V93, P485, DOI 10.1175/BAMS-D-11-00094.1
+   Thierfelder C, 2012, SOIL USE MANAGE, V28, P209, DOI 10.1111/j.1475-2743.2012.00406.x
+   Tilman D, 2002, NATURE, V418, P671, DOI 10.1038/nature01014
+   Torres M, 2019, ECONOMIA, V20, P1, DOI 10.1016/J.ECON.2019.03.006
+   Uganda Bureau of Statistics (UBOS), 2019, 2017 STATISTICAL ABSTRACT, V0, P0
+   United Nations Framework Convention on Climate Change (UNFCCC), 2015, C PARTIES, V0, P0
+   van Vuuren DP, 2011, CLIMATIC CHANGE, V109, P5, DOI 10.1007/s10584-011-0148-z
+   VANDIEPEN CA, 1989, SOIL USE MANAGE, V5, P16, DOI 10.1111/j.1475-2743.1989.tb00755.x
+   Vanlauwe B, 2014, CURR OPIN ENV SUST, V8, P15, DOI 10.1016/j.cosust.2014.06.001
+   Wheeler TR, 2000, AGR ECOSYST ENVIRON, V82, P159, DOI 10.1016/S0167-8809(00)00224-3
+   Woo S, 2018, INT J CLIMATOL, V38, P4610, DOI 10.1002/joc.5727
+   Zhang XD, 2020, AGR WATER MANAGE, V227, P0, DOI 10.1016/j.agwat.2019.105852
+   Zizinga A, 2022, AGR SYST, V199, P0, DOI 10.1016/j.agsy.2022.103407
+   Zizinga A, 2022, WATER-SUI, V14, P0, DOI 10.3390/w14010079
+NR 66
+TC 0
+Z9 0
+U1 2
+U2 2
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1436-3798
+EI 1436-378X
+J9 REG ENVIRON CHANGE
+JI Reg. Envir. Chang.
+PD MAR 15
+PY 2024
+VL 24
+IS 1
+BP 
+EP 
+DI 10.1007/s10113-024-02186-8
+PG 14
+WC Environmental Sciences; Environmental Studies
+SC Environmental Sciences & Ecology
+GA IX8N0
+UT WOS:001169731200001
+DA 2024-08-17
+ER
+
+PT J
+AU Yan, QY
+   Wu, LJ
+   Dong, F
+   Yan, SD
+   Li, F
+   Jia, YQ
+   Zhang, JC
+   Zhang, RF
+   Huang, X
+AF Yan, Qiuyan
+   Wu, Linjia
+   Dong, Fei
+   Yan, Shuangdui
+   Li, Feng
+   Jia, Yaqin
+   Zhang, Jiancheng
+   Zhang, Ruifu
+   Huang, Xiao
+TI Subsoil tillage enhances wheat productivity, soil organic carbon and available nutrient status in dryland fields
+SO JOURNAL OF INTEGRATIVE AGRICULTURE
+LA English
+DT Article
+DE tillage; dryland wheat fields; soil aggregate size; soil nutrients; soil carbon and nitrogen fractions
+ID water-use efficiency; winter-wheat; crop yield; loess plateau; conservation tillage; physical-property; maize rotation; summer fallow; nitrogen; systems
+AB Tillage practices during the fallow period benefit water storage and yield in dryland wheat crops. However, there is currently no clarity on the responses of soil organic carbon (SOC), total nitrogen (TN), and available nutrients to tillage practices within the growing season. This study evaluated the effects of three tillage practices (NT, no tillage; SS, subsoil tillage; DT, deep tillage) over five years on soil physicochemical properties. Soil samples at harvest stage from the fifth year were analyzed to determine the soil aggregate and aggregate -associated C and N fractions. The results indicated that SS and DT improved grain yield, straw biomass and straw carbon return of wheat compared with NT. In contrast to DT and NT, SS favored SOC and TN concentrations and stocks by increasing the soil organic carbon sequestration rate (SOCSR) and soil nitrogen sequestration rate (TNSR) in the 0-40 cm layer. Higher SOC levels under SS and NT were associated with greater aggregate -associated C fractions, while TN was positively associated with soluble organic nitrogen (SON). Compared with DT, the NT and SS treatments improved soil available nutrients in the 0-20 cm layer. These findings suggest that SS is an excellent practice for increasing soil carbon, nitrogen and nutrient availability in dryland wheat fields in North China.
+C1 [Yan, Qiuyan; Dong, Fei; Li, Feng; Jia, Yaqin] Shanxi Agr Univ, Inst Wheat Res, Linfen 041000, Peoples R China.
+   [Yan, Qiuyan; Zhang, Jiancheng] Shanxi Agr Univ, State Key Lab Sustainable Dryland Agr, Taiyuan 030031, Peoples R China.
+   [Wu, Linjia; Yan, Shuangdui; Huang, Xiao] Shanxi Agr Univ, Coll Resources & Environm, Taigu 030801, Peoples R China.
+   [Zhang, Ruifu] Nanjing Agr Univ, Jiangsu Key Lab, Natl Engn Res Ctr Organ based Fertilizers, Nanjing 210095, Peoples R China.
+   [Zhang, Ruifu] Nanjing Agr Univ, Natl Engn Res Ctr Organ based Fertilizers, Engn Ctr Solid Organ Waste Utilizat, Nanjing 210095, Peoples R China.
+C3 Shanxi Agricultural University; Shanxi Agricultural University; Shanxi Agricultural University; Nanjing Agricultural University; Nanjing Agricultural University
+RP Zhang, JC (通讯作者)，Shanxi Agr Univ, State Key Lab Sustainable Dryland Agr, Taiyuan 030031, Peoples R China.
+EM sxnkyyqy@163.com; zhangjc@126.com
+FU Development Program of China [2021YFD1901102-4]; State Key Laboratory of Integrative Sustainable Dryland Agriculture; Shanxi Agricultural University, China [202003-3]; Open Fund from the State Key Laboratory of Soil Environment and Nutrient Resources of Shanxi Province, China [2020002]
+CR Begum R, 2022, PEDOSPHERE, V32, P916, DOI 10.1016/j.pedsph.2022.06.016
+   Chen X, 2023, J INTEGR AGR, V22, P1546, DOI 10.1016/j.jia.2022.12.011
+   Deng Y, 2015, PAK J AGR SCI, V52, P1
+   DICK WA, 1983, SOIL SCI SOC AM J, V47, P102, DOI 10.2136/sssaj1983.03615995004700010021x
+   Dikgwatlhe SB, 2014, SOIL TILL RES, V144, P110, DOI 10.1016/j.still.2014.07.014
+   ELLIOTT ET, 1986, SOIL SCI SOC AM J, V50, P627, DOI 10.2136/sssaj1986.03615995005000030017x
+   Guzman JG, 2006, SOIL TILL RES, V91, P199, DOI 10.1016/j.still.2005.12.004
+   He LY, 2021, SOIL TILL RES, V209, P0, DOI 10.1016/j.still.2021.104940
+   Hou XQ, 2012, FIELD CROP RES, V129, P7, DOI 10.1016/j.fcr.2011.12.021
+   Hu RW, 2021, J CLEAN PROD, V298, P0, DOI 10.1016/j.jclepro.2021.126767
+   Jha P, 2020, GEODERMA, V358, P0, DOI 10.1016/j.geoderma.2019.113996
+   Kan ZR, 2020, FIELD CROP RES, V249, P0, DOI 10.1016/j.fcr.2020.107760
+   Kasper M, 2009, SOIL TILL RES, V105, P192, DOI 10.1016/j.still.2009.08.002
+   Li H, 2018, J INTEGR AGR, V17, P817, DOI 10.1016/S2095-3119(17)61806-9
+   Li YJ, 2011, PROCEDIA ENVIRON SCI, V11, P843, DOI 10.1016/j.proenv.2011.12.129
+   Liu XT, 2022, SCI TOTAL ENVIRON, V837, P0, DOI 10.1016/j.scitotenv.2022.155566
+   Liu X, 2023, APPL SOIL ECOL, V188, P0, DOI 10.1016/j.apsoil.2023.104850
+   Liu Z, 2020, SOIL TILL RES, V196, P0, DOI 10.1016/j.still.2019.104444
+   Lu R, 2000, SOIL AND AGRO-CHEMISTRY ANALYTICAL METHODS, V0, P0
+   Lv LG, 2023, SOIL TILL RES, V225, P0, DOI 10.1016/j.still.2022.105527
+   Mazzoncini M, 2016, EUR J AGRON, V77, P156, DOI 10.1016/j.eja.2016.02.011
+   Mikha MM, 2015, SOIL SCI SOC AM J, V79, P626, DOI 10.2136/sssaj2014.09.0348
+   Nelson DW, 1996, METHODS OF SOIL ANALYSIS. PART 3 - CHEMICAL METHODS., V0, P961
+   Obour AK, 2017, GEODERMA, V308, P46, DOI 10.1016/j.geoderma.2017.08.020
+   Olsen SR, 1982, METHODS OF SOIL ANALYSIS. PART 2. CHEMICAL AND MICROBIOLOGICAL PROPERTIES, V0, P403
+   Oorts K, 2006, SOIL BIOL BIOCHEM, V38, P2576, DOI 10.1016/j.soilbio.2006.03.013
+   Peng ZK, 2020, AGR WATER MANAGE, V231, P0, DOI 10.1016/j.agwat.2020.106024
+   Qi JY, 2021, J ENVIRON MANAGE, V279, P0, DOI 10.1016/j.jenvman.2020.111595
+   Sarker JR, 2018, SOIL TILL RES, V175, P71, DOI 10.1016/j.still.2017.08.005
+   Shen JB, 2011, PLANT PHYSIOL, V156, P997, DOI 10.1104/pp.111.175232
+   Shiwakoti S, 2019, SOIL TILL RES, V190, P194, DOI 10.1016/j.still.2019.02.004
+   Six J, 2000, SOIL BIOL BIOCHEM, V32, P2099, DOI 10.1016/S0038-0717(00)00179-6
+   Sun M, 2018, FIELD CROP RES, V218, P24, DOI 10.1016/j.fcr.2017.12.021
+   Tan Z, 2007, SOIL TILL RES, V92, P53, DOI 10.1016/j.still.2006.01.003
+   Tian SZ, 2016, SOIL TILL RES, V163, P207, DOI 10.1016/j.still.2016.06.005
+   Topa D, 2021, CATENA, V199, P0, DOI 10.1016/j.catena.2020.105102
+   Tshuma F, 2021, SOIL TILL RES, V212, P0, DOI 10.1016/j.still.2021.105064
+   Vogeler I, 2009, SOIL TILL RES, V103, P137, DOI 10.1016/j.still.2008.10.004
+   Wang BS, 2019, J ARID LAND, V11, P241, DOI 10.1007/s40333-019-0094-6
+   Wang H, 2020, J ENVIRON MANAGE, V261, P0, DOI 10.1016/j.jenvman.2020.110261
+   Wang HG, 2015, SOIL TILL RES, V153, P20, DOI 10.1016/j.still.2015.03.006
+   Weidhuner A, 2021, SOIL TILL RES, V208, P0, DOI 10.1016/j.still.2020.104878
+   Xue JF, 2018, LAND DEGRAD DEV, V29, P1555, DOI 10.1002/ldr.2950
+   Xue JF, 2018, ENVIRON SCI POLLUT R, V25, P1070, DOI 10.1007/s11356-017-0684-9
+   Xue JF, 2015, SOIL TILL RES, V153, P161, DOI 10.1016/j.still.2015.06.008
+   Xue LZ, 2019, SOIL TILL RES, V191, P66, DOI 10.1016/j.still.2019.03.014
+   Zhang HH, 2016, GEODERMA, V269, P138, DOI 10.1016/j.geoderma.2016.02.001
+   Zhang SL, 2013, FIELD CROP RES, V151, P9, DOI 10.1016/j.fcr.2013.07.005
+   Zhang YJ, 2018, FIELD CROP RES, V225, P170, DOI 10.1016/j.fcr.2018.07.003
+   Zhang YJ, 2017, FIELD CROP RES, V209, P151, DOI 10.1016/j.fcr.2017.05.002
+   Zhao HL, 2019, SOIL SCI SOC AM J, V83, P638, DOI 10.2136/sssaj2018.03.0101
+   Zheng Feng-jun, 2021, SCIENTIA AGRICULTURA SINICA, V54, P596, DOI 10.3864/j.issn.0578-1752.2021.03.013
+NR 52
+TC 8
+Z9 8
+U1 43
+U2 43
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 2095-3119
+EI 2352-3425
+J9 J INTEGR AGR
+JI J. Integr. Agric.
+PD JAN 15
+PY 2024
+VL 23
+IS 1
+BP 251
+EP 266
+DI 10.1016/j.jia.2023.06.011
+EA JAN 2024
+PG 16
+WC Agriculture, Multidisciplinary
+SC Agriculture
+GA ID2A1
+UT WOS:001164310100001
+DA 2024-08-17
+ER
+
+PT J
+AU Govednik, A
+   Eler, K
+   Mihelic, R
+   Suhadolc, M
+AF Govednik, Anton
+   Eler, Klemen
+   Mihelic, Rok
+   Suhadolc, Marjetka
+TI Mineral and organic fertilisation influence ammonia oxidisers and denitrifiers and nitrous oxide emissions in a long-term tillage experiment
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+LA English
+DT Article
+DE Conservation agriculture; Compost; N2O; N-cycle; Nitrification; Denitrification
+ID greenhouse-gas emissions; n2o emissions; nitrifier denitrification; cropping systems; microbial community; methane emissions; reduced tillage; nosz genes; soil; bacteria
+AB Nitrous oxide (N2O) emissions from different agricultural systems have been studied extensively to understand the mechanisms underlying their formation. While a number of long-term field experiments have focused on individual agricultural practices in relation to N2O emissions, studies on the combined effects of multiple practices are lacking. This study evaluated the effect of different tillage [no-till (NT) vs. conventional plough tillage (CT)] in combination with fertilisation [mineral (MIN), compost (ORG), and unfertilised control (CON)] on seasonal N2O emissions and the underlying N-cycling microbial community in one maize growing season. Rainfall events after fertilisation, which resulted in increased soil water content, were the main triggers of the observed N2O emission peaks. The highest cumulative emissions were measured in MIN fertilisation, followed by ORG and CON fertilisation. In the period after the first fertilisation CT resulted in higher cumulative emissions than NT, while no significant effect of tillage was observed cumulatively across the entire season. A higher genetic potential for N2O emissions was observed under NT than CT, as indicated by an increased (nirK + nirS)/(nosZI + nosZII) ratio. The mentioned ratio under NT decreased in the order CON > MIN > ORG, indicating a higher N2O consumption potential in the NT-ORG treatment, which was confirmed in terms of cumulative emissions. The AOB/16S ratio was strongly affected by fertilisation and was higher in the MIN than in the ORG and CON treatments, regardless of the tillage system. Multiple regression has revealed that this ratio is one of the most important variables explaining cumulative N2O emissions, possibly reflecting the role of bacterial ammonia oxidisers in minerally fertilised soil. Although the AOB/16S ratio aligned well with the measured N2O emissions in our experimental field, the higher genetic potential for denitrification expressed by the (nirK + nirS)/(nosZI + nosZII) ratio in NT than CT was not realized in the form of increased emissions. Our results suggest that organic fertilisation in combination with NT shows a promising combination for mitigating N2O emissions; however, addressing the yield gap is necessary before incorporating it in recommendations for farmers.
+C1 [Govednik, Anton; Eler, Klemen; Mihelic, Rok; Suhadolc, Marjetka] Univ Ljubljana, Biotech Fac, Agron Dept, Jamnikarjeva 101, Ljubljana 1000, Slovenia.
+C3 University of Ljubljana
+RP Suhadolc, M (通讯作者)，Univ Ljubljana, Biotech Fac, Agron Dept, Jamnikarjeva 101, Ljubljana 1000, Slovenia.
+EM marjetka.suhadolc@bf.uni-lj.si
+FU Ministry of Agriculture, Forestry and Food [CRP]; European Commission; Slovenian Research Agency [CRP] [V4-2022, P4-0085]
+CR Ai C, 2020, SOIL BIOL BIOCHEM, V143, P0, DOI 10.1016/j.soilbio.2020.107738
+   [Anonymous], 2006, ISO 11464, V0, P0
+   [Anonymous], 1994, SOIL QUALITY-DETERMINATION OF PH, V0, P0
+   [Anonymous], 1984, ISO 7150-1, V0, P0
+   [Anonymous], 1993, ISO 11465:1993, V0, P0
+   [Anonymous], 1998, ISO 14255, V0, P0
+   Assémien FL, 2019, SOIL BIOL BIOCHEM, V129, P39, DOI 10.1016/j.soilbio.2018.11.003
+   Autret B, 2019, GEODERMA, V342, P20, DOI 10.1016/j.geoderma.2019.01.039
+   Bai ZG, 2018, AGR ECOSYST ENVIRON, V265, P1, DOI 10.1016/j.agee.2018.05.028
+   Bateman EJ, 2005, BIOL FERT SOILS, V41, P379, DOI 10.1007/s00374-005-0858-3
+   Bayer C, 2015, SOIL TILL RES, V146, P213, DOI 10.1016/j.still.2014.10.011
+   Bhattacharyya SS, 2022, SCI TOTAL ENVIRON, V826, P0, DOI 10.1016/j.scitotenv.2022.154161
+   Bongiorno G, 2020, APPL SOIL ECOL, V154, P0, DOI 10.1016/j.apsoil.2020.103596
+   Bongiorno G, 2019, MOL ECOL, V28, P4987, DOI 10.1111/mec.15270
+   Braker G, 2011, ADV APPL MICROBIOL, V75, P33, DOI 10.1016/B978-0-12-387046-9.00002-5
+   Brankatschk R, 2012, APPL ENVIRON MICROB, V78, P4481, DOI 10.1128/AEM.07878-11
+   Butterbach-Bahl K, 2013, PHILOS T R SOC B, V368, P0, DOI 10.1098/rstb.2013.0122
+   Change IC, 2013, CONTRIBUTION WORKING, V0, P0
+   de Vries W, 2018, GEODERMA, V292, P59
+   de Vries W, 2018, GEODERMA, V309, P111, DOI 10.1016/j.geoderma.2017.05.023
+   Ding G, 2002, SOIL SCI SOC AM J, V66, P421, DOI 10.2136/sssaj2002.0421
+   Domeignoz-Horta LA, 2016, SOIL BIOL BIOCHEM, V103, P376, DOI 10.1016/j.soilbio.2016.09.010
+   Domeignoz-Horta LA, 2015, FRONT MICROBIOL, V6, P0, DOI 10.3389/fmicb.2015.00971
+   Felgate H, 2012, ENVIRON MICROBIOL, V14, P1788, DOI 10.1111/j.1462-2920.2012.02789.x
+   Fuss R, 2020, R PACKAGE VERSION 04, V0, P0
+   Govednik A, 2023, APPL SOIL ECOL, V188, P0, DOI 10.1016/j.apsoil.2023.104876
+   Graf DRH, 2022, FEMS MICROBIOL ECOL, V98, P0, DOI 10.1093/femsec/fiac092
+   Guenet B, 2021, GLOBAL CHANGE BIOL, V27, P237, DOI 10.1111/gcb.15342
+   Hallin S, 2018, TRENDS MICROBIOL, V26, P43, DOI 10.1016/j.tim.2017.07.003
+   Han Z, 2017, NUTR CYCL AGROECOSYS, V107, P335, DOI 10.1007/s10705-017-9836-z
+   Henry S, 2004, J MICROBIOL METH, V59, P327, DOI 10.1016/j.mimet.2004.07.002
+   Henry S, 2006, APPL ENVIRON MICROB, V72, P5181, DOI 10.1128/AEM.00231-06
+   Hothorn T, 2008, BIOMETRICAL J, V50, P346, DOI 10.1002/bimj.200810425
+   Hu HW, 2015, FEMS MICROBIOL REV, V39, P729, DOI 10.1093/femsre/fuv021
+   Huang YW, 2018, AGR ECOSYST ENVIRON, V268, P144, DOI 10.1016/j.agee.2018.09.002
+   Hüppi R, 2018, PLOS ONE, V13, P0, DOI 10.1371/journal.pone.0200876
+   Jones CM, 2014, NAT CLIM CHANGE, V4, P801, DOI 10.1038/nclimate2301
+   Jones CM, 2013, ISME J, V7, P417, DOI 10.1038/ismej.2012.125
+   Kaurin A, 2015, PHD THESIS, V0, P0
+   Khalil K, 2004, SOIL BIOL BIOCHEM, V36, P687, DOI 10.1016/j.soilbio.2004.01.004
+   Kool DM, 2011, SOIL BIOL BIOCHEM, V43, P174, DOI 10.1016/j.soilbio.2010.09.030
+   Krauss M, 2017, AGR ECOSYST ENVIRON, V239, P324, DOI 10.1016/j.agee.2017.01.029
+   Krauss M, 2017, BIOL FERT SOILS, V53, P49, DOI 10.1007/s00374-016-1152-2
+   Kuzyakov Y, 2015, SOIL BIOL BIOCHEM, V83, P184, DOI 10.1016/j.soilbio.2015.01.025
+   Leininger S, 2006, NATURE, V442, P806, DOI 10.1038/nature04983
+   Lenth VR, 2022, EMMEANS: ESTIMATED MARGINAL MEANS, V0, P0
+   Lin W, 2020, ENVIRON RES, V188, P0, DOI 10.1016/j.envres.2020.109818
+   Liu XJ, 2005, PLANT SOIL, V276, P235, DOI 10.1007/s11104-005-4894-4
+   MacKenzie AF, 1998, J ENVIRON QUAL, V27, P698, DOI 10.2134/jeq1998.00472425002700030029x
+   Maheshwari A, 2023, SOIL BIOL BIOCHEM, V177, P0, DOI 10.1016/j.soilbio.2022.108909
+   Mangalassery S, 2014, SCI REP-UK, V4, P0, DOI 10.1038/srep04586
+   Pérez LM, 2013, FOLIA MICROBIOL, V58, P657, DOI 10.1007/s12223-013-0255-5
+   Mei K, 2018, SOIL TILL RES, V182, P86, DOI 10.1016/j.still.2018.05.006
+   Minasny B, 2017, GEODERMA, V292, P59, DOI 10.1016/j.geoderma.2017.01.002
+   MOSIER AR, 1981, J ENVIRON QUAL, V10, P169, DOI 10.2134/jeq1981.00472425001000020009x
+   Nicol GW, 2008, ENVIRON MICROBIOL, V10, P2966, DOI 10.1111/j.1462-2920.2008.01701.x
+   Page KL, 2020, FRONT SUSTAIN FOOD S, V4, P0, DOI 10.3389/fsufs.2020.00031
+   Pareja-Sánchez E, 2020, AGR ECOSYST ENVIRON, V287, P0, DOI 10.1016/j.agee.2019.106687
+   Pecan U, 2023, SOIL TILL RES, V233, P0, DOI 10.1016/j.still.2023.105779
+   Pelster DE, 2011, SOIL TILL RES, V115, P16, DOI 10.1016/j.still.2011.06.001
+   Philippot L, 2007, ADV AGRON, V96, P249, DOI 10.1016/S0065-2113(07)96003-4
+   Pinheiro J, 2016, NLME LINEAR NONLINEA, V0, P0, DOI DOI 10.4018/978-1-4666-7244-4.CH001
+   Plaza-Bonilla D, 2014, AGR ECOSYST ENVIRON, V189, P43, DOI 10.1016/j.agee.2014.03.023
+   Prosser JI, 2012, TRENDS MICROBIOL, V20, P523, DOI 10.1016/j.tim.2012.08.001
+   R Core Team, 2022, LANG ENV STAT COMP, V0, P0
+   Ravishankara AR, 2009, SCIENCE, V326, P123, DOI 10.1126/science.1176985
+   Rocca JD, 2015, ISME J, V9, P1693, DOI 10.1038/ismej.2014.252
+   Rütting T, 2021, SOIL BIOL BIOCHEM, V160, P0, DOI 10.1016/j.soilbio.2021.108353
+   Sáenz JS, 2019, J APPL MICROBIOL, V126, P1454, DOI 10.1111/jam.14231
+   Sanaullah M, 2020, SOIL TILL RES, V196, P0, DOI 10.1016/j.still.2019.104464
+   Sandén T, 2018, SOIL USE MANAGE, V34, P167, DOI 10.1111/sum.12421
+   Schad P, 2017, ENCYCLOPEDIA OF SOIL SCIENCE, VOLS I-III, P0
+   Schwen A, 2015, GEODERMA, V259, P323, DOI 10.1016/j.geoderma.2015.04.020
+   Shakoor A, 2021, SCI TOTAL ENVIRON, V750, P0, DOI 10.1016/j.scitotenv.2020.142299
+   Six J, 2004, GLOBAL CHANGE BIOL, V10, P155, DOI 10.1111/j.1529-8817.2003.00730.x
+   Skinner C, 2019, SCI REP-UK, V9, P0, DOI 10.1038/s41598-018-38207-w
+   Snider D, 2015, SOIL BIOL BIOCHEM, V88, P197, DOI 10.1016/j.soilbio.2015.05.021
+   Sterngren AE, 2015, FRONT MICROBIOL, V6, P0, DOI 10.3389/fmicb.2015.01350
+   Stevens RJ, 1997, SOIL BIOL BIOCHEM, V29, P139, DOI 10.1016/S0038-0717(96)00303-3
+   SURS, 2022, SLOVENIAN STATISTICAL OFFICE, V0, P0
+   Suter G, 2022, INTEGR ENVIRON ASSES, V18, P1117
+   Szoboszlay M, 2021, MICROBIOLOGYOPEN, V10, P0, DOI 10.1002/mbo3.1144
+   Tellez-Rio A, 2015, SCI TOTAL ENVIRON, V508, P85, DOI 10.1016/j.scitotenv.2014.11.041
+   Tellez-Rio A, 2015, BIOL FERT SOILS, V51, P77, DOI 10.1007/s00374-014-0952-5
+   Throbäck IN, 2004, FEMS MICROBIOL ECOL, V49, P401, DOI 10.1016/j.femsec.2004.04.011
+   Tian HQ, 2020, NATURE, V586, P248, DOI 10.1038/s41586-020-2780-0
+   Tourna M, 2008, ENVIRON MICROBIOL, V10, P1357, DOI 10.1111/j.1462-2920.2007.01563.x
+   van Kessel C, 2013, GLOBAL CHANGE BIOL, V19, P33, DOI 10.1111/j.1365-2486.2012.02779.x
+   Venterea RT, 2005, J ENVIRON QUAL, V34, P1467, DOI 10.2134/jeq2005.0018
+   Verhamme DT, 2011, ISME J, V5, P1067, DOI 10.1038/ismej.2010.191
+   Wallenstein MD, 2006, ECOL APPL, V16, P2143, DOI 10.1890/1051-0761(2006)016[2143:ECODCA]2.0.CO;2
+   Wang C, 2021, AGRONOMY-BASEL, V11, P0, DOI 10.3390/agronomy11040770
+   Wang H, 2017, SOIL BIOL BIOCHEM, V106, P109, DOI 10.1016/j.soilbio.2016.12.011
+   Wang JY, 2020, SOIL BIOL BIOCHEM, V142, P0, DOI 10.1016/j.soilbio.2020.107706
+   Wang WY, 2021, SOIL BIOL BIOCHEM, V157, P0, DOI 10.1016/j.soilbio.2021.108239
+   Wang WY, 2019, SOIL TILL RES, V194, P0, DOI 10.1016/j.still.2019.104347
+   Wei W, 2015, ISME J, V9, P1954, DOI 10.1038/ismej.2015.9
+   Wickham H, 2016, GGPLOT2: ELEGANT GRAPHICS FOR DATA ANALYSIS, VSecond, P0, DOI 10.1007/978-3-319-24277-4
+   Wrage-Mönnig N, 2018, SOIL BIOL BIOCHEM, V123, PA3, DOI 10.1016/j.soilbio.2018.03.020
+   Yanai Y, 2007, SOIL SCI PLANT NUTR, V53, P181, DOI 10.1111/j.1747-0765.2007.00123.x
+   Zhao X, 2016, GLOBAL CHANGE BIOL, V22, P1372, DOI 10.1111/gcb.13185
+   Zhu X, 2013, P NATL ACAD SCI USA, V110, P6328, DOI 10.1073/pnas.1219993110
+NR 102
+TC 0
+Z9 0
+U1 18
+U2 18
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0048-9697
+EI 1879-1026
+J9 SCI TOTAL ENVIRON
+JI Sci. Total Environ.
+PD JUN 10
+PY 2024
+VL 928
+IS 
+BP 
+EP 
+DI 10.1016/j.scitotenv.2024.172054
+EA APR 2024
+PG 12
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA RT7W1
+UT WOS:001229985700001
+PM 38569950
+DA 2024-08-17
+ER
+
+PT J
+AU Kakraliya, M
+   Jat, HS
+   Kumar, S
+   Kakraliya, SK
+   Gora, MK
+   Poonia, T
+   Kumar, S
+   Choudhary, M
+   Gathala, MK
+   Sharma, PC
+   Jat, ML
+AF Kakraliya, Manish
+   Jat, Hanuman S.
+   Kumar, Suresh
+   Kakraliya, Suresh Kumar
+   Gora, Manoj Kumar
+   Poonia, Tanuja
+   Kumar, Satyendra
+   Choudhary, Madhu
+   Gathala, Mahesh Kumar
+   Sharma, Parbodh Chander
+   Jat, M. L.
+TI Bundling subsurface drip irrigation with no-till provides a window to integrate mung bean with intensive cereal systems for improving resource use efficiency
+SO FRONTIERS IN SUSTAINABLE FOOD SYSTEMS
+LA English
+DT Article
+DE conservation agriculture; direct seeded rice; subsurface drip irrigation; system irrigation and water productivity; economic profitability; energy and nitrogen efficiency
+ID indo-gangetic plains; crop establishment options; water-use efficiency; rice-wheat rotation; conservation agriculture; south-asia; management-practices; residue management; winter-wheat; grain-yield
+AB The future of South Asia's major production system (rice-wheat rotation) is at stake due to continuously aggravating pressure on groundwater aquifers and other natural resources which will further intensify with climate change. Traditional practices, conventional tillage (CT) residue burning, and indiscriminate use of groundwater with flood irrigation are the major drivers of the non-sustainability of rice-wheat (RW) system in northwest (NW) India. For designing sustainable practices in intensive cereal systems, we conducted a study on bundled practices (zero tillage, residue mulch, precise irrigation, and mung bean integration) based on multi-indicator (system productivity, profitability, and efficiency of water, nitrogen, and energy) analysis in RW system. The study showed that bundling conservation agriculture (CA) practices with subsurface drip irrigation (SDI) saved similar to 70 and 45% (3-year mean) of irrigation water in rice and wheat, respectively, compared to farmers' practice/CT practice (pooled data of Sc1 and Sc2; 1,035 and 318 mm ha(-1)). On a 3-year system basis, CA with SDI scenarios (mean of Sc5-Sc8) saved 35.4% irrigation water under RW systems compared to their respective CA with flood irrigation (FI) scenarios (mean of Sc3 and Sc4) during the investigation irrespective of residue management. CA with FI system increased the water productivity (WPi) and its use efficiency (WUE) by similar to 52 and 12.3% (3-year mean), whereas SDI improved by 221.2 and 39.2% compared to farmers practice (Sc1; 0.69 kg grain m(-3) and 21.39 kg grain ha(-1) cm(-1)), respectively. Based on the 3-year mean, CA with SDI (mean of Sc5-Sc8) recorded -2.5% rice yield, whereas wheat yield was +25% compared to farmers practice (Sc1; 5.44 and 3.79 Mg ha(-1)) and rice and wheat yield under CA with flood irrigation were increased by +7 and + 11%, compared to their respective CT practices. Mung bean integration in Sc7 and Sc8 contributed to similar to 26% in crop productivity and profitability compared to farmers' practice (Sc1) as SDI facilitated advancing the sowing time by 1 week. On a system basis, CA with SDI improved energy use efficiency (EUE) by similar to 70% and partial factor productivity of N by 18.4% compared to CT practices. In the RW system of NW India, CA with SDI for precise water and N management proved to be a profitable solution to address the problems of groundwater, residue burning, sustainable intensification, and input (water and energy) use with the potential for replication in large areas in NW India.
+C1 [Kakraliya, Manish; Jat, Hanuman S.; Kakraliya, Suresh Kumar; Gora, Manoj Kumar; Poonia, Tanuja; Kumar, Satyendra; Choudhary, Madhu; Sharma, Parbodh Chander] ICAR Cent Soil Salin Res Inst CSSRI, Karnal, India.
+   [Kakraliya, Manish; Kumar, Suresh] CCS Haryana Agr Univ CCS HAU, Hisar, India.
+   [Kakraliya, Manish; Jat, Hanuman S.] ICAR Indian Inst Maize Res IIMR, Ludhiana, India.
+   [Kakraliya, Suresh Kumar] ICAR Cent Inst Res Buffaloes, Sub Campus, Nabha, Punjab, India.
+   [Gora, Manoj Kumar] ICAR Cent Arid Zone Res Inst, Reg Res Stn, Bikaner, Rajasthan, India.
+   [Gathala, Mahesh Kumar] Int Maize & Wheat Improvement Ctr CIMMYT, Dhaka, Bangladesh.
+   [Jat, M. L.] Int Maize & Wheat Improvement Ctr CIMMYT, Kathmandu, Nepal.
+   [Jat, M. L.] CO Int Crops Res Inst Semiarid Trop ICRISAT, Patancheru, Telengana, India.
+C3 Indian Council of Agricultural Research (ICAR); ICAR - Central Soil Salinity Research Institute; Indian Council of Agricultural Research (ICAR); ICAR - Indian Institute of Maize Research; Indian Council of Agricultural Research (ICAR); ICAR - Central Institute for Research on Buffaloes; Indian Council of Agricultural Research (ICAR); ICAR - Central Arid Zone Research Institute; CGIAR; International Maize & Wheat Improvement Center (CIMMYT); CGIAR; International Maize & Wheat Improvement Center (CIMMYT)
+RP Jat, HS (通讯作者)，ICAR Cent Soil Salin Res Inst CSSRI, Karnal, India.; Jat, HS (通讯作者)，ICAR Indian Inst Maize Res IIMR, Ludhiana, India.
+EM hsjat_agron@yahoo.com
+FU ICAR-CSSRI, Karnal, CIMMYT Academy; CCS Haryana Agricultural University, Hisar; CGIAR Research Program (CRPs) on Climate Change, the Agriculture and Food Security (CCAFS); Indian Council of Agricultural Research (ICAR)
+CR [Anonymous], 2002, SASSTAT USERS GUIDE, V0, P0
+   [Anonymous], 2021, UNICEF REPORT, V0, P0
+   Ayars JE, 1999, AGR WATER MANAGE, V42, P1, DOI 10.1016/S0378-3774(99)00025-6
+   Bhandari AL, 2002, SOIL SCI SOC AM J, V66, P162, DOI 10.2136/sssaj2002.0162
+   Bhatt R, 2020, AGROECOLOGICAL FOOTPRINTS MANAGE SUSTAINABLE FOOD SYST, V0, PP272, DOI 10.1007/978-981-15-9496-09
+   Bhatt R, 2021, PADDY WATER ENVIRON, V19, P345, DOI 10.1007/s10333-021-00846-7
+   Camp CR, 1998, T ASAE, V41, P1353, DOI 10.13031/2013.17309
+   Chaudhary VP, 2017, ENERGY, V130, P307, DOI 10.1016/j.energy.2017.04.131
+   Chen R, 2015, FIELD CROP RES, V179, P52, DOI 10.1016/j.fcr.2015.03.021
+   Chopra SL, 1991, ANALYTICAL AGRICULTURE CHEMISTRY, Vfourth, P301
+   Choudhary KM, 2018, FIELD CROP RES, V218, P1, DOI 10.1016/j.fcr.2017.12.023
+   Chouhan SS, 2015, INDIAN J SCI TECHNOL, V8, P650
+   Fischer G, 2007, TECHNOL FORECAST SOC, V74, P1083, DOI 10.1016/j.techfore.2006.05.021
+   Gao Y, 2014, AGR WATER MANAGE, V146, P1, DOI 10.1016/j.agwat.2014.07.010
+   Gathala MK, 2016, FIELD CROP RES, V186, P32, DOI 10.1016/j.fcr.2015.11.008
+   Gathala MK, 2015, FIELD CROP RES, V172, P85, DOI 10.1016/j.fcr.2014.12.003
+   Gathala MK, 2013, AGR ECOSYST ENVIRON, V177, P85, DOI 10.1016/j.agee.2013.06.002
+   Gathala MK, 2011, AGRON J, V103, P961, DOI 10.2134/agronj2010.0394
+   Gomez KA, 1984, STATISTICAL PROCEDURES FOR AGRICULTURAL RESEARCH, V2nd ed.,, P680, DOI 10.1017/S0014479700014496
+   Gururaj Gururaj K, 2014, 4 INT RIC C C 7 WORK, V0, P8
+   HAYNES RJ, 1993, J SOIL SCI, V44, P261, DOI 10.1111/j.1365-2389.1993.tb00450.x
+   He JY, 2022, EUR J AGRON, V132, P0, DOI 10.1016/j.eja.2021.126414
+   Humphreys E, 2010, ADV AGRON, V109, P155, DOI 10.1016/S0065-2113(10)09005-X
+   Jackson ML, 1973, SOIL CHEMICAL ANALYSIS, V0, P0
+   Jat HS, 2021, INT J AGR SUSTAIN, V19, P40, DOI 10.1080/14735903.2020.1817655
+   Jat HS, 2019, SCI REP-UK, V9, P0, DOI 10.1038/s41598-019-54086-1
+   Jat HS, 2019, CATENA, V181, P0, DOI 10.1016/j.catena.2019.05.005
+   Jat HS, 2018, ARCH AGRON SOIL SCI, V64, P531, DOI 10.1080/03650340.2017.1359415
+   Jat HS, 2016, INDIAN JOURNAL OF FERTILISERS, V12, P76
+   Jat HS, 2021, SCI REP-UK, V11, P0, DOI 10.1038/s41598-021-95445-1
+   Jat RD, 2018, FIELD CROP RES, V222, P111, DOI 10.1016/j.fcr.2018.03.025
+   Jat RK, 2019, CROP PROT, V123, P12, DOI 10.1016/j.cropro.2019.05.007
+   JUSTES E, 1994, ANN BOT-LONDON, V74, P397, DOI 10.1006/anbo.1994.1133
+   Kakraliya M, 2021, 5 INT AGR C, V0, P397
+   Kakraliya SK, 2022, SCI REP-UK, V12, P0, DOI 10.1038/s41598-022-12686-4
+   Kakraliya SK, 2018, AGR WATER MANAGE, V202, P122, DOI 10.1016/j.agwat.2018.02.020
+   Kukal SS, 2014, ADV AGRON, V127, P157, DOI 10.1016/B978-0-12-800131-8.00004-2
+   Kumar N, 2022, CEREAL RES COMMUN, V50, P573, DOI 10.1007/s42976-021-00214-5
+   Kumar V, 2018, AGR ECOSYST ENVIRON, V252, P132, DOI 10.1016/j.agee.2017.10.006
+   Kumar V, 2011, ADV AGRON, V111, P297, DOI 10.1016/B978-0-12-387689-8.00001-1
+   Ladha JK, 2009, INTEGRATED CROP AND RESOURCE MANAGEMENT IN THE RICE-WHEAT SYSTEMS OF SOUTH ASIA, V0, P1
+   Ladha JK, 2003, FIELD CROP RES, V81, P159, DOI 10.1016/S0378-4290(02)00219-8
+   Laik R, 2014, AGR ECOSYST ENVIRON, V195, P68, DOI 10.1016/j.agee.2014.06.001
+   Lemaire G, 2020, PLANTS-BASEL, V9, P0, DOI 10.3390/plants9101309
+   MacDonald AM, 2016, NAT GEOSCI, V9, P762, DOI 10.1038/NGEO2791
+   Mohammad AZ, 2015, IRRIG. DRAIN. SYST., V4, P152, DOI 10.4172/2168-9768.10-00152
+   Mukherjee A, 2015, J HYDROL-REG STUD, V4, P1, DOI 10.1016/j.ejrh.2015.03.005
+   Nawaz A, 2019, CROP PASTURE SCI, V70, P395, DOI 10.1071/CP18383
+   OLSEN STERLING R, 1954, U S DEPT AGRIC CIRC, V939, P1
+   Ozkan B, 2004, RENEW ENERG, V29, P39, DOI 10.1016/S0960-1481(03)00135-6
+   Parihar CM, 2017, ENERGY, V119, P245, DOI 10.1016/j.energy.2016.12.068
+   Parthasarathi T, 2018, AGRON J, V110, P2378, DOI 10.2134/agronj2018.01.0002
+   PIB, 2021, FOURTH ADVANCE ESTIMATES OF PRODUCTION OF FOODGRAINS FOR 2020-21, V0, P0
+   Piper CS, 1966, SOIL AND PLANT ANALYSIS, V0, P0
+   Ram H, 2013, AGR WATER MANAGE, V128, P92, DOI 10.1016/j.agwat.2013.06.011
+   Ramulu V, 2016, 2 WORLD IRR FOR WIF2, V0, P0
+   ,, 1954, DIAGNOSIS AND IMPROVEMENT OF SALINE AND ALKALI SOILS., V0, P0
+   Rodell M, 2009, NATURE, V460, P999, DOI 10.1038/nature08238
+   Saharawat YS, 2012, JOURNAL OF SOIL SCIENCE AND ENVIRONMENTAL MANAGEMENT, V3, P9
+   Sandhu OS, 2019, AGR WATER MANAGE, V219, P19, DOI 10.1016/j.agwat.2019.03.040
+   Sarkar RK, 2003, TROPICAL SCIENCE, V43, P192, DOI 10.1002/ts.117
+   Sekhri S, 2013, INDIA POLICY FORUM, V0, P0
+   Sharda R, 2017, PADDY WATER ENVIRON, V15, P93, DOI 10.1007/s10333-016-0531-5
+   Sidhu HS, 2019, AGR WATER MANAGE, V216, P273, DOI 10.1016/j.agwat.2019.02.019
+   Singh B, 2008, ADV AGRON, V98, P117, DOI 10.1016/S0065-2113(08)00203-4
+   Sivanappan RK, 1994, IRRIGATION AND DRAINAGE SYSTEMS, V8, P49, DOI 10.1007/BF00880798
+   Skaggs TH, 2004, J IRRIG DRAIN ENG, V130, P304, DOI 10.1061/(ASCE)0733-9437(2004)130:4(304)
+   Strapatsa AV, 2006, AGR ECOSYST ENVIRON, V116, P176, DOI 10.1016/j.agee.2006.02.003
+   SUBBIAH BV, 1956, CURRENT SCI, V25, P259
+   Sudhir-Yadav, 2011, FIELD CROP RES, V120, P112, DOI 10.1016/j.fcr.2010.09.002
+   Teri Report, 2022, WATER-KEY FACTS FOR ITS SUSTAINABLE MANAGEMENT IN INDIA. WORLD SUSTAINABLE DEVELOPMENT SUMMIT 2022: TOWARDS A RESILIENT PLANET, V0, P0
+   Tripathi SC, 2017, J. WHEAT RES., V9, P1, DOI 10.25174/2249-4065/2017/62285
+   Umair M, 2019, SUSTAINABILITY-BASEL, V11, P0, DOI 10.3390/su11102978
+   van Dijk WM, 2016, J GEOPHYS RES-EARTH, V121, P201, DOI 10.1002/2015JF003720
+   Walkley A, 1934, SOIL SCI, V37, P29, DOI 10.1097/00010694-193401000-00003
+   Yang MD, 2020, FRONT PLANT SCI, V11, P0, DOI 10.3389/fpls.2020.00508
+   Zhao B, 2022, PRECIS AGRIC, V23, P748, DOI 10.1007/s11119-021-09859-y
+NR 77
+TC 0
+Z9 0
+U1 3
+U2 3
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 
+EI 2571-581X
+J9 FRONT SUSTAIN FOOD S
+JI Front. Sustain. Food Syst.
+PD FEB 14
+PY 2024
+VL 8
+IS 
+BP 
+EP 
+DI 10.3389/fsufs.2024.1292284
+PG 18
+WC Food Science & Technology
+SC Food Science & Technology
+GA JS3U9
+UT WOS:001175122600001
+DA 2024-08-17
+ER
+
+PT J
+AU Kasirajan, S
+   Parthipan, T
+   Elamathy, S
+   Kumar, GS
+   Rajavel, M
+   Veeramani, P
+AF Kasirajan, Subrahmaniyan
+   Parthipan, T.
+   Elamathy, S.
+   Kumar, G. Senthil
+   Rajavel, M.
+   Veeramani, P.
+TI Dynamics of soil penetration resistance, moisture depletion pattern and crop productivity determined by mechanized cultivation and lifesaving irrigation in zero till blackgram
+SO HELIYON
+LA English
+DT Article
+DE Soil penetration resistance; Bulk density; Soil moisture; Root dry weight; Nodules; Mobile sprinkler
+ID chickpea cicer-arietinum; water-use efficiency; hydraulic-property; winter-wheat; bulk-density; compaction; growth; management; nodulation; impact
+AB Rice fallow black gram is grown under the residual moisture situation as a relay crop in heavy texture montmorillonite clay soil under zero till condition. Since the crop is raised during post monsoon season, the crop often experiences terminal stress due to limited water availability and no rainfall. Surface irrigation in montmorillonite clay soil is determent to pulse crop as inundation causes wilting. Therefore, zero tilled rice fallow black gram has to be supplemented with micro irrigation at flowering stage (35 days after sowing) to alleviate moisture stress and to increase the productivity as well. Hence micro farm pond in a corner of one ha field was created to harvest the rain water during monsoon season and the same was utilized to supplement the crop with lifesaving irrigation through mobile sprinkler at flowering stage for the crop grown under conservation agriculture. Soil cracking is also the common phenomena of montmorillonite clay soil where evaporations losses would be more through crack surfaces. The present study was therefore conducted to study the changes in the soil physical properties, crop establishment and productivity in conjunction with mechanized sowing and harvest and supplemental mobile sprinkler irrigation. Sowing of black gram by broadcasting 10 days prior to the manual harvest of rice, manual drawn single row seed drill after the machine harvest of rice and sowing by broadcasting at 4 days prior to machine harvest of rice was experimented separately and in combination with lifesaving irrigation. Results indicated that the number of wheel passes and lifesaving irrigation had a very strong impact on soil penetration resistance and soil moisture. Combined harvester followed by no till seed drill increased the soil penetration resistance in all the layers (0-5 cm, 5-10 cm and 10-15 cm). Two passes of wheel increased the mean soil penetration resistance from 407 KPa to 502 KPa. The soil penetration resistance (0-5 cm) at harvest shown that black gram sown by manual broadcasting 10 days prior to manual harvest of paddy supplemented with life irrigation on 30 DAS reduced the soil penetration resistance from 690 Kpa to 500 Kpa, 740 Kpa to 600 Kpa and 760 Kpa to 620 Kpa respectively at 0-5 cm, 5-10 cm and 10-15 cm layer. In general, moisture depletion rate was rapid in the surface layer of 0-5 cm as compared to other layers of 5-10 cm and 10-15 cm up to 30 DAS (Flowering stage). The moisture content and the soil penetration resistance had an inverse relationship. The soil penetration resistance also had an inverse relationship with the root length in which the root length lowers as the soil penetration resistance increases. The soil crack measured at 60 DAS was deeper with no till seed drill (width of 3.94 cm and depth of 13.67 cm) which was mainly due to surface layer compaction. The relative water content, specific leaf weight and chlorophyll content were significantly improved through the supplemental irrigation given on 30 DAS irrespective of crop establishment methods. The results further indicated that compaction of ploughed layer in the moist soil due to combined harvester and no till seed drill had a negative impact on yield (457 kg ha -1 ), which was improved by 19.03 per cent due to increased soil moisture with supplemental irrigation. The mean yield increase across different treatments due to supplemental lifesaving irrigation through mobile sprinkler was 20.4 per cent.
+C1 [Kasirajan, Subrahmaniyan; Parthipan, T.; Elamathy, S.; Kumar, G. Senthil; Rajavel, M.; Veeramani, P.] Tamil Nadu Agr Univ, Tamil Nadu Rice Res Inst, Aduthurai 612101, India.
+C3 Tamil Nadu Agricultural University
+RP Veeramani, P (通讯作者)，Tamil Nadu Agr Univ, Tamil Nadu Rice Res Inst, Aduthurai 612101, India.
+EM subrah_arul@yahoo.com
+CR Adamchuk VI, 2004, T ASAE, V47, P1913, DOI 10.13031/2013.17798
+   Alesso CA, 2019, ARCH AGRON SOIL SCI, V65, P822, DOI 10.1080/03650340.2018.1532076
+   Ahmadi I, 2015, JOURNAL OF CENTRAL EUROPEAN AGRICULTURE, V16, P489
+   Alakukku L, 2003, SOIL TILL RES, V73, P145, DOI 10.1016/S0167-1987(03)00107-7
+   Amanullah, 2015, J PLANT NUTR, V38, P1694, DOI 10.1080/01904167.2015.1017051
+   [Anonymous], 1983, STATISTICAL METHODS, V0, P0
+   Attia A, 2016, CROP SCI, V56, P2688, DOI 10.2135/cropsci2015.05.0296
+   Bamgbopa Oluwaseun Sunday, 2016, INT. J. ENG. RES. TECHNOL., V5, P283
+   Batey T, 2009, SOIL USE MANAGE, V25, P335, DOI 10.1111/j.1475-2743.2009.00236.x
+   Behera UK, 2014, J. SOIL WATER CONSERV., V13, P318
+   Bhuiyan MAH, 2009, BULLETIN OF THE INSTITUTE OF TROPICAL AGRICULTURE KYUSHU UNIVERSITY, V32, P25
+   BIHARI B, 1992, INDIAN J AGRON, V37, P110
+   Biswas JK, 2019, ADVANCES IN RICE RESEARCH FOR ABIOTIC STRESS TOLERANCE, V0, PP23, DOI 10.1016/B978-0-12-814332-2.00002-2
+   Blanco-Canqui H, 2010, SOIL SCI SOC AM J, V74, P2142, DOI 10.2136/sssaj2010.0061
+   BUSSCHER WJ, 1987, T ASAE, V30, P888
+   Buttery BR, 1998, CAN J PLANT SCI, V78, P571, DOI 10.4141/P97-132
+   BUTTERY BR, 1994, CAN J PLANT SCI, V74, P287, DOI 10.4141/cjps94-056
+   Carter MR, 2002, AGRON J, V94, P38, DOI 10.2134/agronj2002.0038
+   Colombi T, 2018, SCI TOTAL ENVIRON, V626, P1026, DOI 10.1016/j.scitotenv.2018.01.129
+   Correa J, 2019, J EXP BOT, V70, P6019, DOI 10.1093/jxb/erz383
+   Crittenden SJ, 2015, SOIL TILL RES, V154, P136, DOI 10.1016/j.still.2015.06.018
+   DANIEL DE, 1993, J GEOTECH ENG-ASCE, V119, P223, DOI 10.1061/(ASCE)0733-9410(1993)119:2(223)
+   de Moraes MT, 2013, ENG AGR-JABOTICABAL, V33, P748, DOI 10.1590/S0100-69162013000400014
+   Dec D, 2008, REV CIENC SUELO NUTR, V8, P1
+   Dobermann A, 2004, INCREASING PRODUCTIVITY OF INTENSIVE RICE SYSTEMS THROUGH SITE-SPECIFIC NUTRIENT MANAGEMENT ENFIELD, V0, P410
+   Goldberg-Yehuda N, 2022, HYDROL EARTH SYST SC, V26, P2499, DOI 10.5194/hess-26-2499-2022
+   González L, 2001, HANDBOOK OF PLANT ECOPHYSIOLOGY TECHNIQUES, V0, P207
+   Gupta Sanjeev, 2016, KANPUR 208 024 EXTENSION BULLETIN, V0, P44
+   Gürsoy S, 2019, SOIL TILL RES, V195, P0, DOI 10.1016/j.still.2019.104425
+   Jiang QJ, 2020, AGRONOMY-BASEL, V10, P0, DOI 10.3390/agronomy10121914
+   Khan MS, 2007, AGRON SUSTAIN DEV, V27, P29, DOI 10.1051/agro:2006011
+   Koolen AJ, 1983, ADVANCED SERIES IN AGRICULTURAL SCIENCES, V13, P0
+   Korenková L, 2012, INDIAN J AGR SCI, V82, P172
+   Kouwenhoven JK, 2002, SOIL TILL RES, V65, P125, DOI 10.1016/S0167-1987(01)00271-9
+   Kurdali F, 2002, J PLANT NUTR, V25, P355, DOI 10.1081/PLN-100108841
+   Lebert M, 2007, J ENVIRON MANAGE, V82, P388, DOI 10.1016/j.jenvman.2005.11.022
+   Marchiori PER, 2014, FIELD CROP RES, V155, P30, DOI 10.1016/j.fcr.2013.09.025
+   MORIN J, 1981, J HYDROL, V52, P321, DOI 10.1016/0022-1694(81)90178-5
+   Nawaz MF, 2013, AGRON SUSTAIN DEV, V33, P291, DOI 10.1007/s13593-011-0071-8
+   Nurul-Nasyitah Shukor Nurul-Nasyitah Shukor, 2015, AMERICAN JOURNAL OF PLANT PHYSIOLOGY, V10, P25, DOI 10.3923/ajpp.2015.25.42
+   Odey Ogbeche S, 2018, NIGERIA INT. J. ENG. INVENT., V7, P1
+   Oweis T, 1999, EUR J AGRON, V11, P255, DOI 10.1016/S1161-0301(99)00036-2
+   Pagter M, 2005, AQUAT BOT, V81, P285, DOI 10.1016/j.aquabot.2005.01.002
+   Paredes Diego, 2008, CIGR INT C AGR ENG 3, V0, P0
+   Rafiq M, 1990, J. SOIL SCI., V5, P9
+   Reintam E, 2009, ACTA AGR SCAND B-S P, V59, P265, DOI 10.1080/09064710802030070
+   Rupela OP, 1987, ADAPTATION OF CHICKPEA AND PIGEONPEA TO ABIOTIC STRESS. PROCEEDINGS OF THE CONSULTANTS WORKSHOP HELD AT ICRISAT CENTER, V0, P0
+   Sangeeta L, 2014, J. INDIAN SOC. SOIL SCI., V62, P189
+   Serem PK, 2016, J. AGRIC. CROP RES., V4, P35
+   Shaheb Md Rayhan, 2021, JOURNAL OF BIOSYSTEMS ENGINEERING, V46, P417
+   Silva LL, 2006, AGR WATER MANAGE, V85, P243, DOI 10.1016/j.agwat.2006.05.006
+   Singh G, 2011, ARCH AGRON SOIL SCI, V57, P715, DOI 10.1080/03650340.2010.493880
+   Sivarajan S, 2018, SOIL TILL RES, V175, P234, DOI 10.1016/j.still.2017.09.001
+   Somasundaram J, 2018, ADV AGRON, V149, P93, DOI 10.1016/bs.agron.2018.01.001
+   Souza R, 2021, SOIL TILL RES, V205, P0, DOI 10.1016/j.still.2020.104768
+   Steel R G D, 1980, PRINCIPLES AND PROCEDURES OF STATISTICS, V0, P65
+   Subrahmaniyan K, 2023, LEGUME RES, V46, P502, DOI 10.18805/LR-4364
+   TU JC, 1988, HORTSCIENCE, V23, P722
+   Umaru MA, 2021, MALAY J SOIL SCI, V25, P15
+   Ungureanu N, 2015, ANNALS OF THE UNIVERSITY OF CRAIOVA - AGRICULTURE, V0, P0
+   Vermeulen GD, 2013, WAGENINGEN, V0, P0
+   Wang ZQ, 2009, SCI HORTIC-AMSTERDAM, V123, P253, DOI 10.1016/j.scienta.2009.08.006
+   Xue QW, 2006, J PLANT PHYSIOL, V163, P154, DOI 10.1016/j.jplph.2005.04.026
+   Zhang JH, 1998, FIELD CROP RES, V59, P91, DOI 10.1016/S0378-4290(98)00104-X
+NR 64
+TC 0
+Z9 0
+U1 1
+U2 1
+PU CELL PRESS
+PI CAMBRIDGE
+PA 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+SN 
+EI 2405-8440
+J9 HELIYON
+JI Heliyon
+PD APR 15
+PY 2024
+VL 10
+IS 7
+BP 
+EP 
+DI 10.1016/j.heliyon.2024.e28625
+PG 16
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA RB3Y5
+UT WOS:001225185500001
+PM 38571608
+DA 2024-08-17
+ER
+
+PT J
+AU Chen, HT
+   Sun, J
+   Zhang, YM
+   Qiao, JY
+AF Chen, Haitao
+   Sun, Jian
+   Zhang, Yiming
+   Qiao, Jinyou
+TI Influences of mechanized tillage and sowing modes on soil physical properties, soybean yield and economic benefits in mollisols region of Northeast China
+SO INTERNATIONAL JOURNAL OF AGRICULTURAL AND BIOLOGICAL ENGINEERING
+LA English
+DT Article
+DE mechanized tillage and sowing modes; full-scale straw returning; soil physical properties; soybean yield; economic benefits; mollisols conservation
+ID water-use efficiency; organic-carbon; loess plateau; winter-wheat; cover crops; l.; temperature; management; storage; growth
+AB Appropriate mechanized straw returning and tillage sowing techniques were effective means to optimize soil physical properties and enhance agricultural productivity, as well as important measures for the conservation and restoration of mollisols region in Northeast China. Under the condition of full-scale maize straw returning, four mechanized tillage and sowing modes were set, including plough tillage and sowing (PTS), combined tillage and sowing (CTS), no-tillage and sowing (NTS), and no-tillage and sowing with straw mulching (NTSM). In 2020 and 2021, the study investigated the effects of different mechanized tillage and sowing modes on soil physical properties, soybean yield and economic benefits. The results showed that during the pod-setting and pod-filling period of soybean, the NTS and NTSM treatments exhibited better effects on deep soil insulation and shallow soil moisture retention, the soil physical structure of PTS and CTS treatments were relatively ideal. Compared with PTS and CTS treatments, NTS and NTSM treatments significantly increased soil gravimetric water content (SWC) by 2.35% to 7.98% in the 5-15 cm soil layer and increased soil temperature (ST) by 3.94% to 10.42% in the 25-35 cm soil layer (p<0.05), p <0.05), significantly increased soil bulk density (SBD) by 2.98% to 6.72% and significantly reduced soil total porosity (STP) by 3.88% to 6.53% in the 5-25 cm soil layer, and significantly reduced soil gas phase ratio by 8.26% to 6.27% at the 15-25 cm soil layers, which caused soil three-phase ratio (STPR) of PTS and CTS treatment in 15-25 cm soil layer were relatively ideal. The soybean yield of NTSM treatment in 2020 was not significantly different from PTS and CTS treatment (p>0.05), p >0.05), the soybean yield of NTSM treatment in 2021 significantly increased by 7.30% and 5.84% over PTS and CTS treatments, respectively. And the average annual profit per unit area of NTSM treatment increased by 12.84%, 12.41% and 8.57% compared with PTS, CTS and NTS treatments, respectively. Therefore, it was recommended to combine NTSM technique with PTS or CTS technique in a maize-soybean rotation system in mollisols region. The research results provided reference for the selection of appropriate mechanized tillage and sowing techniques in Northeast China's mollisols region and had important guiding significance and practical value for the construction of rational plow layers and the implementation of conservation tillage.
+C1 [Chen, Haitao; Sun, Jian; Zhang, Yiming; Qiao, Jinyou] Northeast Agr Univ, Coll Engn, Harbin 150030, Peoples R China.
+   [Chen, Haitao; Sun, Jian; Zhang, Yiming; Qiao, Jinyou] Heilongjiang Prov Technol Innovat Ctr Mechanizat &, Harbin 150030, Peoples R China.
+   [Chen, Haitao] East Univ Heilongjiang, Coll Mech & Elect Engn, Harbin 150066, Peoples R China.
+C3 Northeast Agricultural University - China
+RP Qiao, JY (通讯作者)，Northeast Agr Univ, Coll Engn, Prod & Management Agr Mechanizat, Harbin 150030, Peoples R China.
+EM htchen@neau.edu.cn; dnsunjian@163.com; 18231538638@163.com; qiaojinyou@163.com
+FU National Key Research and Development Program of China [2021YFD20004]
+CR [Anonymous], 2023, GB 1352-2023, V0, P0
+   [Anonymous], 1987, NY/T 52-1987, V0, P0
+   [Anonymous], 2006, NY/T 1121.4-2006, V0, P0
+   Bai W, 2016, TOXICOL ENVIRON CHEM, V98, P561, DOI 10.1080/02772248.2015.1133379
+   Capowiez Y, 2009, SOIL TILL RES, V105, P209, DOI 10.1016/j.still.2009.09.002
+   Chalise KS, 2019, AGRON J, V111, P99, DOI 10.2134/agronj2018.03.0213
+   Chen SY, 2007, ANN APPL BIOL, V150, P261, DOI 10.1111/j.1744-7348.2007.00144.x
+   Dou SX, 2024, SOIL TILL RES, V240, P0, DOI 10.1016/j.still.2024.106085
+   Du CL, 2023, PLANT SOIL, V0, P0, DOI DOI 10.1007/s11104-023-06076-6
+   Fu Qiang Fu Qiang, 2014, NONGYE JIXIE XUEBAO = TRANSACTIONS OF THE CHINESE SOCIETY FOR AGRICULTURAL MACHINERY, V45, P152
+   Galdos MV, 2019, GEODERMA, V337, P1126, DOI 10.1016/j.geoderma.2018.11.031
+   Garcia SM, 2008, REV BRAS CIENC SOLO, V32, P833, DOI 10.1590/S0100-06832008000200037
+   Gitari HI, 2019, PLANT SOIL, V438, P447, DOI 10.1007/s11104-019-04036-7
+   Hou SY, 2022, AGRICULTURE-BASEL, V12, P0, DOI 10.3390/agriculture12091425
+   Hou SY, 2022, BIOSYST ENG, V221, P69, DOI 10.1016/j.biosystemseng.2022.06.010
+   Huang GB, 2012, J INTEGR AGR, V11, P1286, DOI 10.1016/S2095-3119(12)60125-7
+   Kashyapi A, 2012, MAUSAM, V63, P239
+   Li FJ, 2022, AGRONOMY-BASEL, V12, P0, DOI 10.3390/agronomy12040865
+   [李娜 Li Na], 2021, 农业工程学报 TRANSACTIONS OF THE CHINESE SOCIETY OF AGRICULTURAL ENGINEERING, V37, P99
+   Li XZ, 2015, J HYDROL, V529, P685, DOI 10.1016/j.jhydrol.2015.08.039
+   Li Y, 2020, AGR WATER MANAGE, V233, P0, DOI 10.1016/j.agwat.2020.106106
+   Ling Q, 2020, PLANT SOIL, V453, P209, DOI 10.1007/s11104-019-04318-0
+   [马永财 Ma Yongcai], 2021, 农业机械学报 TRANSACTIONS OF THE CHINESE SOCIETY FOR AGRICULTURAL MACHINERY, V52, P90
+   Ren LD, 2019, SOIL TILL RES, V192, P76, DOI 10.1016/j.still.2019.04.026
+   Romaneckas K, 2015, J INTEGR AGR, V14, P1309, DOI 10.1016/S2095-3119(14)60962-X
+   Shaver TM, 2013, GEODERMA, V192, P254, DOI 10.1016/j.geoderma.2012.08.014
+   Shen Y, 2018, SCI REP-UK, V8, P0, DOI 10.1038/s41598-018-22822-8
+   Song F, 2024, AGR WATER MANAGE, V292, P0, DOI 10.1016/j.agwat.2024.108687
+   [孙丹丹 Sun Dandan], 2012, 东北农业大学学报 JOURNAL OF NORTHEAST AGRICULTURAL UNIVERSITY, V43, P100
+   Wang SL, 2018, AGR WATER MANAGE, V203, P376, DOI 10.1016/j.agwat.2018.03.007
+   Wang XQ, 2023, SOIL TILL RES, V230, P0, DOI 10.1016/j.still.2023.105699
+   Wang YJ, 2022, INT J AGR BIOL ENG, V15, P164, DOI 10.25165/j.ijabe.20221501.6526
+   Wang Y, 2023, AGRICULTURE-BASEL, V13, P0, DOI 10.3390/agriculture13030600
+   Wang YX, 2020, J INTEGR AGR, V19, P1596, DOI 10.1016/S2095-3119(19)62681-X
+   Xu J, 2015, PLOS ONE, V10, P0
+   Xu J, 2019, FIELD CROP RES, V233, P33, DOI 10.1016/j.fcr.2018.12.016
+   Yan QY, 2018, J INTEGR AGR, V17, P2558, DOI 10.1016/s2095-3119(18)61986-0
+   [邹文秀 Zou Wenxiu], 2020, 农业工程学报 TRANSACTIONS OF THE CHINESE SOCIETY OF AGRICULTURAL ENGINEERING, V36, P9
+NR 38
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CHINESE ACAD AGRICULTURAL ENGINEERING
+PI BEIJING
+PA RM 506, NO 41, MAIZIDIAN ST, CHAOYANG DISTRICT, BEIJING, 100125, PEOPLES R CHINA
+SN 1934-6344
+EI 1934-6352
+J9 INT J AGR BIOL ENG
+JI Int. J. Agric. Biol. Eng.
+PD JUN 15
+PY 2024
+VL 17
+IS 3
+BP 130
+EP 139
+DI 10.25165/j.ijabe.20241703.8724
+PG 10
+WC Agricultural Engineering
+SC Agriculture
+GA A5K2T
+UT WOS:001282911400001
+DA 2024-08-17
+ER
+
